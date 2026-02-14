@@ -1,0 +1,14 @@
+{
+  "last_updated": "2026-02-14T21:07:53.861583+00:00",
+  "count": 1,
+  "hazards": [
+    {
+      "type": "Drought",
+      "title": "Drought is on going in Afghanistan, China, Islamic Republic of Iran, Kazakhstan, Tajikistan, Turkmenistan, Türkiye, Uzbekistan",
+      "description": "The  Drought notification level is Orange.",
+      "published": "Tue, 28 Jan 2025 13:59:42 GMT",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1017535",
+      "severity": "Orange"
+    }
+  ]
+}
