@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Disaster Risk Management Türkiye — Weekly Briefing Dashboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; color: #1e293b; position: relative; }
+
+  /* Fault line map background */
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url('diri-fay.jpg') center center / cover no-repeat;
+    opacity: 0.45;
+    z-index: -2;
+    pointer-events: none;
+  }
+  body::after {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(248, 250, 252, 0.55);
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  /* Header Banner */
+  .source-ribbon { background: #1e293b; padding: 16px 32px; display: flex; align-items: center; justify-content: space-between; }
+  .logo { font-size: 26px; font-weight: 700; color: white; }
+  .logo span { color: #ef4444; }
+  .logo small { font-size: 13px; font-weight: 400; color: #94a3b8; display: block; }
+  .update-info { font-size: 12px; color: #94a3b8; text-align: right; }
+  .update-info strong { color: white; }
+
+  /* Alert Strip */
+  .alert-strip { background: #fef2f2; border-bottom: 1px solid #fecaca; padding: 10px 32px; display: flex; align-items: center; gap: 10px; }
+  .alert-icon { width: 20px; height: 20px; background: #ef4444; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 12px; font-weight: 700; }
+  .alert-text { font-size: 13px; color: #991b1b; }
+  .alert-text strong { color: #7f1d1d; }
+
+  /* Container - two column layout */
+  .container { max-width: 1400px; margin: 0 auto; padding: 24px 32px 80px; display: flex; gap: 24px; }
+  .main-content { flex: 1; min-width: 0; }
+  .news-sidebar { width: 280px; flex-shrink: 0; }
+  .news-sidebar .sidebar-header { font-size: 22px; font-weight: 700; color: #1e293b; margin-bottom: 4px; }
+  .news-sidebar .sidebar-count { font-size: 13px; color: #64748b; margin-bottom: 12px; }
+  .news-sidebar .sidebar-link { font-size: 14px; color: #3b82f6; text-decoration: none; font-weight: 600; }
+
+  /* Section */
+  .section { margin-bottom: 32px; }
+  .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid #e2e8f0; }
+  .section-title { font-size: 22px; font-weight: 700; color: #1e293b; display: flex; align-items: center; gap: 10px; }
+  .section-title .icon { font-size: 18px; }
+  .section-count { font-size: 14px; color: #64748b; background: #f1f5f9; padding: 4px 10px; border-radius: 12px; }
+  .view-all { font-size: 14px; color: #3b82f6; text-decoration: none; font-weight: 600; }
+
+  /* Stat Cards */
+  .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 24px; }
+  .stat-card { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 12px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); }
+  .stat-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; font-weight: 600; margin-bottom: 8px; }
+  .stat-value { font-size: 28px; font-weight: 700; }
+  .stat-value.red { color: #ef4444; }
+  .stat-value.amber { color: #f59e0b; }
+  .stat-value.blue { color: #3b82f6; }
+  .stat-value.green { color: #22c55e; }
+  .stat-sub { font-size: 11px; color: #94a3b8; margin-top: 4px; }
+
+  /* Publication Cards */
+  .pub-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .pub-card { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 10px; padding: 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); transition: box-shadow 0.15s, transform 0.15s; cursor: pointer; }
+  .pub-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); transform: translateY(-1px); }
+  .pub-card .source-badge { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 4px; display: inline-block; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .pub-card .source-badge.gfdrr { background: #dbeafe; color: #1d4ed8; }
+  .pub-card .source-badge.undrr { background: #d1fae5; color: #059669; }
+  .pub-card .source-badge.wba { background: #fef3c7; color: #d97706; }
+  .pub-card .source-badge.other { background: #f1f5f9; color: #64748b; }
+  .pub-card .pub-title { font-size: 14px; font-weight: 600; color: #1e293b; line-height: 1.4; margin-bottom: 8px; }
+  .pub-card .pub-desc { font-size: 12px; color: #64748b; line-height: 1.5; margin-bottom: 10px; }
+  .pub-card .pub-meta { font-size: 11px; color: #94a3b8; display: flex; align-items: center; justify-content: space-between; }
+  .pub-type { font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600; }
+  .pub-type.report { background: #dbeafe; color: #1d4ed8; }
+  .pub-type.toolkit { background: #fef3c7; color: #d97706; }
+  .pub-type.brief { background: #d1fae5; color: #059669; }
+
+  /* Video Cards */
+  .video-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .video-card { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); cursor: pointer; transition: box-shadow 0.15s, transform 0.15s; }
+  .video-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); transform: translateY(-1px); }
+  .video-thumb { position: relative; height: 140px; display: flex; align-items: center; justify-content: center; }
+  .video-thumb .play-btn { width: 44px; height: 44px; background: rgba(255,255,255,0.9); border-radius: 50%; display: flex; align-items: center; justify-content: center; z-index: 2; }
+  .play-arrow { width: 0; height: 0; border-left: 16px solid #1e293b; border-top: 10px solid transparent; border-bottom: 10px solid transparent; margin-left: 3px; }
+  .video-duration { position: absolute; bottom: 8px; right: 8px; font-size: 11px; background: rgba(0,0,0,0.75); color: white; padding: 2px 6px; border-radius: 4px; }
+  .video-card .card-body { padding: 14px; }
+  .video-card .source-badge { font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 4px; display: inline-block; margin-bottom: 6px; text-transform: uppercase; }
+  .video-card .video-title { font-size: 13px; font-weight: 600; color: #1e293b; line-height: 1.3; margin-bottom: 6px; }
+  .video-card .video-meta { font-size: 11px; color: #94a3b8; }
+
+  /* Event List */
+  .event-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .event-item { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 10px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); display: flex; gap: 14px; cursor: pointer; transition: box-shadow 0.15s; }
+  .event-item:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
+  .event-date { min-width: 54px; text-align: center; }
+  .event-date .month { font-size: 10px; text-transform: uppercase; font-weight: 700; color: #ef4444; }
+  .event-date .day { font-size: 24px; font-weight: 700; color: #1e293b; line-height: 1.1; }
+  .event-date .year { font-size: 10px; color: #94a3b8; }
+  .event-details { flex: 1; }
+  .event-details .source-badge { font-size: 9px; font-weight: 700; padding: 2px 7px; border-radius: 4px; display: inline-block; margin-bottom: 4px; text-transform: uppercase; }
+  .event-details .event-name { font-size: 13px; font-weight: 600; color: #1e293b; line-height: 1.3; margin-bottom: 4px; }
+  .event-details .event-loc { font-size: 11px; color: #64748b; }
+  .event-type-tag { font-size: 9px; padding: 2px 7px; border-radius: 10px; font-weight: 600; }
+  .event-type-tag.webinar { background: #ede9fe; color: #7c3aed; }
+  .event-type-tag.conference { background: #fef3c7; color: #d97706; }
+  .event-type-tag.workshop { background: #dbeafe; color: #1d4ed8; }
+  .event-type-tag.training { background: #d1fae5; color: #059669; }
+
+  /* Learning Cards */
+  .learn-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .learn-card { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 10px; padding: 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); border-top: 3px solid #3b82f6; cursor: pointer; transition: box-shadow 0.15s, transform 0.15s; }
+  .learn-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); transform: translateY(-1px); }
+  .learn-card.gfdrr-border { border-top-color: #1d4ed8; }
+  .learn-card.undrr-border { border-top-color: #059669; }
+  .learn-card.wba-border { border-top-color: #d97706; }
+  .learn-type { font-size: 10px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px; margin-bottom: 8px; }
+  .learn-type.elearn { color: #7c3aed; }
+  .learn-type.toolkit { color: #d97706; }
+  .learn-type.course { color: #1d4ed8; }
+  .learn-type.workshop { color: #059669; }
+  .learn-card .learn-title { font-size: 13px; font-weight: 600; color: #1e293b; line-height: 1.3; margin-bottom: 8px; }
+  .learn-card .learn-desc { font-size: 11px; color: #64748b; line-height: 1.4; margin-bottom: 10px; }
+  .learn-card .learn-meta { font-size: 10px; color: #94a3b8; }
+
+  /* News Sidebar Items */
+  .news-strip { display: flex; flex-direction: column; gap: 10px; }
+  .news-item { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 8px; padding: 12px; border: 1px solid rgba(226,232,240,0.8); cursor: pointer; }
+  .news-item:hover { background: #f8fafc; }
+  .news-item-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+  .news-source { font-size: 9px; font-weight: 700; color: #64748b; text-transform: uppercase; }
+  .news-title { font-size: 12px; font-weight: 500; color: #1e293b; line-height: 1.4; }
+  .news-time { font-size: 10px; color: #94a3b8; white-space: nowrap; }
+
+  /* Watermark */
+  .mockup-label { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-30deg); font-size: 48px; font-weight: 900; color: rgba(30,41,59,0.04); pointer-events: none; z-index: 1000; white-space: nowrap; letter-spacing: 4px; text-transform: uppercase; }
+</style>
+</head>
+<body>
+
+<!-- Header Banner -->
+<div class="source-ribbon">
+  <div class="logo">
+    Disaster Risk Management <span>Türkiye</span>
+    <small>Weekly Briefing Dashboard</small>
+  </div>
+  <div class="update-info" id="update-info">
+    <strong>Loading...</strong>
+  </div>
+</div>
+
+<!-- Alert Strip -->
+<div class="alert-strip" id="alert-strip" style="display:none;">
+  <div class="alert-icon">!</div>
+  <div class="alert-text" id="alert-text"></div>
+</div>
+
+<div class="container">
+
+  <div class="main-content">
+
+  <!-- Recent Hazards -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-title">Recent Hazards</div>
+    </div>
+    <div class="stat-grid" style="grid-template-columns: repeat(3, 1fr);">
+      <div class="stat-card">
+        <div class="stat-label">Earthquakes (7 days)</div>
+        <div class="stat-value red" id="eq-count">--</div>
+        <div class="stat-sub" id="eq-sub">Loading...</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Active Flood Warnings</div>
+        <div class="stat-value amber" id="flood-count">--</div>
+        <div class="stat-sub" id="flood-sub">Loading...</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Other Hazards</div>
+        <div class="stat-value" style="color: #8b5cf6;" id="other-count">--</div>
+        <div class="stat-sub" id="other-sub">Loading...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 1: Recent Publications -->
+  <div class="section" id="publications-section" style="display:none;">
+    <div class="section-header">
+      <div class="section-title">Recent Publications & Reports</div>
+      <div style="display:flex; align-items:center; gap:12px;">
+        <span class="section-count" id="pub-count"></span>
+        <a href="#" class="view-all">View all &rarr;</a>
+      </div>
+    </div>
+    <div class="pub-grid" id="pub-grid"></div>
+  </div>
+
+  <!-- SECTION 2: Videos -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-title">Videos & Webinars</div>
+      <div style="display:flex; align-items:center; gap:12px;">
+        <span class="section-count" id="video-count"></span>
+        <a href="#" class="view-all">View all &rarr;</a>
+      </div>
+    </div>
+    <div class="video-grid" id="video-grid"></div>
+  </div>
+
+  <!-- SECTION 3: Events -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-title">Upcoming Events</div>
+      <div style="display:flex; align-items:center; gap:12px;">
+        <span class="section-count" id="event-count"></span>
+        <a href="#" class="view-all">Full calendar &rarr;</a>
+      </div>
+    </div>
+    <div class="event-list" id="event-list"></div>
+  </div>
+
+  <!-- SECTION 4: Learning Materials -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-title">Learning Materials & Courses</div>
+      <div style="display:flex; align-items:center; gap:12px;">
+        <span class="section-count" id="learn-count"></span>
+        <a href="#" class="view-all">Browse catalog &rarr;</a>
+      </div>
+    </div>
+    <div class="learn-grid" id="learn-grid"></div>
+  </div>
+
+  </div><!-- end main-content -->
+
+  <!-- News Sidebar -->
+  <div class="news-sidebar">
+    <div class="sidebar-header">News Digest</div>
+    <div class="sidebar-count" id="news-count">Loading... <a href="#" class="sidebar-link">All news &rarr;</a></div>
+    <div class="news-strip" id="news-strip"></div>
+  </div>
+
+</div>
+
+<script>
+const DATA_PATH = 'data/';
+
+// Helper: format relative time
+function timeAgo(dateStr) {
+  const now = new Date();
+  const d = new Date(dateStr);
+  const diffMs = now - d;
+  const hours = Math.floor(diffMs / 3600000);
+  if (hours < 1) return 'just now';
+  if (hours < 24) return hours + 'h';
+  const days = Math.floor(hours / 24);
+  if (days === 1) return '1d';
+  return days + 'd';
+}
+
+// Helper: format date nicely
+function formatDate(dateStr) {
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+// Helper: get source badge class
+function sourceBadgeClass(source) {
+  const s = (source || '').toLowerCase();
+  if (s.includes('gfdrr')) return 'gfdrr';
+  if (s.includes('undrr') || s.includes('preventionweb')) return 'undrr';
+  if (s.includes('world bank') || s.includes('wb academy') || s.includes('academy')) return 'wba';
+  return 'other';
+}
+
+// Helper: get source badge style for inline badges
+function sourceBadgeStyle(cls) {
+  const styles = {
+    gfdrr: 'background:#dbeafe; color:#1d4ed8;',
+    undrr: 'background:#d1fae5; color:#059669;',
+    wba: 'background:#fef3c7; color:#d97706;',
+    other: 'background:#f1f5f9; color:#64748b;'
+  };
+  return styles[cls] || styles.other;
+}
+
+// Helper: video thumb gradient
+function videoGradient(source) {
+  const cls = sourceBadgeClass(source);
+  const gradients = {
+    gfdrr: 'linear-gradient(135deg, #1e3a5f, #1d4ed8)',
+    undrr: 'linear-gradient(135deg, #064e3b, #059669)',
+    wba: 'linear-gradient(135deg, #78350f, #d97706)',
+    other: 'linear-gradient(135deg, #334155, #64748b)'
+  };
+  return gradients[cls] || gradients.other;
+}
+
+// Fetch JSON helper
+async function loadJSON(file) {
+  try {
+    const res = await fetch(DATA_PATH + file);
+    if (!res.ok) return null;
+    return await res.json();
+  } catch { return null; }
+}
+
+// Render Alerts
+async function renderAlerts() {
+  const data = await loadJSON('alerts.json');
+  const strip = document.getElementById('alert-strip');
+  const text = document.getElementById('alert-text');
+  if (!data || !data.alerts || data.alerts.length === 0) {
+    strip.style.display = 'none';
+    return;
+  }
+  const parts = data.alerts.map(a => {
+    const ago = timeAgo(a.time || a.date);
+    return `${a.title || a.description} (${ago})`;
+  });
+  text.innerHTML = '<strong>Active Alerts:</strong> ' + parts.join(' | ');
+  strip.style.display = 'flex';
+}
+
+// Render Earthquakes
+async function renderEarthquakes() {
+  const data = await loadJSON('earthquakes.json');
+  if (!data) return;
+  document.getElementById('eq-count').textContent = data.count || 0;
+  const largest = data.largest;
+  document.getElementById('eq-sub').textContent = largest
+    ? `Largest: M${largest.magnitude} ${largest.place || largest.location || ''}`
+    : 'No significant events';
+}
+
+// Render Floods
+async function renderFloods() {
+  const data = await loadJSON('floods.json');
+  if (!data) return;
+  document.getElementById('flood-count').textContent = data.count || 0;
+  const regions = data.regions || data.items?.map(i => i.region).filter(Boolean);
+  document.getElementById('flood-sub').textContent = regions && regions.length
+    ? regions.join(', ')
+    : 'No active warnings';
+}
+
+// Render Other Hazards
+async function renderOtherHazards() {
+  const data = await loadJSON('other_hazards.json');
+  if (!data) return;
+  document.getElementById('other-count').textContent = data.count || 0;
+  const types = data.types || data.items?.map(i => i.type).filter(Boolean);
+  document.getElementById('other-sub').textContent = types && types.length
+    ? [...new Set(types)].join(', ')
+    : 'No active hazards';
+}
+
+// Render Videos (max 3 on homepage)
+async function renderVideos() {
+  const data = await loadJSON('videos.json');
+  const grid = document.getElementById('video-grid');
+  const count = document.getElementById('video-count');
+  if (!data || !data.videos || data.videos.length === 0) {
+    count.textContent = '0 videos';
+    grid.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No videos available</p>';
+    return;
+  }
+  count.textContent = data.videos.length + ' videos';
+  const show = data.videos.slice(0, 3);
+  grid.innerHTML = show.map(v => {
+    const cls = sourceBadgeClass(v.channel || v.source);
+    const style = sourceBadgeStyle(cls);
+    const url = v.url || `https://www.youtube.com/watch?v=${v.id}`;
+    return `<a href="${url}" target="_blank" class="video-card" style="text-decoration:none;">
+      <div class="video-thumb" style="background: ${videoGradient(v.channel || v.source)}; background-image: url('${v.thumbnail || ''}'); background-size: cover; background-position: center;">
+        <div class="play-btn"><div class="play-arrow"></div></div>
+        ${v.duration ? `<span class="video-duration">${v.duration}</span>` : ''}
+      </div>
+      <div class="card-body">
+        <span class="source-badge" style="${style}">${v.channel || v.source || 'Video'}</span>
+        <div class="video-title">${v.title}</div>
+        <div class="video-meta">${formatDate(v.published || v.date)}</div>
+      </div>
+    </a>`;
+  }).join('');
+}
+
+// Render Events (max 4 on homepage)
+async function renderEvents() {
+  const data = await loadJSON('events.json');
+  const list = document.getElementById('event-list');
+  const count = document.getElementById('event-count');
+  if (!data || !data.events || data.events.length === 0) {
+    count.textContent = '0 upcoming';
+    list.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No upcoming events</p>';
+    return;
+  }
+  count.textContent = data.events.length + ' upcoming';
+  const show = data.events.slice(0, 4);
+  list.innerHTML = show.map(e => {
+    const d = new Date(e.date);
+    const month = d.toLocaleDateString('en-US', { month: 'short' });
+    const day = d.getDate();
+    const year = d.getFullYear();
+    const cls = sourceBadgeClass(e.source);
+    const style = sourceBadgeStyle(cls);
+    const typeClass = (e.type || '').toLowerCase().replace(/\s+/g, '');
+    return `<div class="event-item">
+      <div class="event-date"><div class="month">${month}</div><div class="day">${day}</div><div class="year">${year}</div></div>
+      <div class="event-details">
+        <span class="source-badge" style="${style}">${e.source || ''}</span>
+        <div class="event-name">${e.title || e.name}</div>
+        <div class="event-loc">${e.location || ''}</div>
+      </div>
+      ${e.type ? `<span class="event-type-tag ${typeClass}">${e.type}</span>` : ''}
+    </div>`;
+  }).join('');
+}
+
+// Render Learning (max 4 on homepage)
+async function renderLearning() {
+  const data = await loadJSON('learning.json');
+  const grid = document.getElementById('learn-grid');
+  const count = document.getElementById('learn-count');
+  if (!data || !data.items || data.items.length === 0) {
+    count.textContent = '0 available';
+    grid.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No courses available</p>';
+    return;
+  }
+  count.textContent = data.items.length + ' available';
+  const show = data.items.slice(0, 4);
+  grid.innerHTML = show.map(item => {
+    const cls = sourceBadgeClass(item.source);
+    const borderClass = cls + '-border';
+    const typeClass = (item.type || 'course').toLowerCase().replace(/\s+/g, '');
+    return `<div class="learn-card ${borderClass}">
+      <div class="learn-type ${typeClass}">${item.type || 'Course'}</div>
+      <div class="learn-title">${item.title}</div>
+      <div class="learn-desc">${item.description || ''}</div>
+      <div class="learn-meta">${item.source || ''} | ${item.meta || ''}</div>
+    </div>`;
+  }).join('');
+}
+
+// Render News Sidebar
+async function renderNews() {
+  const data = await loadJSON('news.json');
+  const strip = document.getElementById('news-strip');
+  const count = document.getElementById('news-count');
+  if (!data || !data.articles || data.articles.length === 0) {
+    count.innerHTML = '0 articles &middot; <a href="#" class="sidebar-link">All news &rarr;</a>';
+    strip.innerHTML = '<p style="color:#94a3b8; font-size:12px;">No matching articles</p>';
+    return;
+  }
+  count.innerHTML = data.articles.length + ' articles &middot; <a href="#" class="sidebar-link">All news &rarr;</a>';
+  strip.innerHTML = data.articles.map(a => {
+    const url = a.url || a.link || '#';
+    return `<a href="${url}" target="_blank" class="news-item" style="text-decoration:none;">
+      <div class="news-item-header">
+        <div class="news-source">${a.source}</div>
+        <div class="news-time">${timeAgo(a.published || a.date)}</div>
+      </div>
+      <div class="news-title">${a.title}</div>
+    </a>`;
+  }).join('');
+}
+
+// Render last updated time
+async function renderUpdateInfo() {
+  const data = await loadJSON('earthquakes.json');
+  const el = document.getElementById('update-info');
+  if (data && data.last_updated) {
+    const d = new Date(data.last_updated);
+    const now = new Date();
+    const weekStart = new Date(now);
+    weekStart.setDate(now.getDate() - now.getDay() + 1);
+    const weekEnd = new Date(weekStart);
+    weekEnd.setDate(weekStart.getDate() + 6);
+    const weekStr = weekStart.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) + ' - ' +
+                    weekEnd.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    const updStr = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) + ', ' +
+                   d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: false }) + ' UTC';
+    el.innerHTML = `<strong>Week of ${weekStr}</strong><br>Last updated: ${updStr}`;
+  } else {
+    el.innerHTML = '<strong>Data not yet loaded</strong><br>Run the pipeline to populate';
+  }
+}
+
+// Load everything
+Promise.all([
+  renderAlerts(),
+  renderEarthquakes(),
+  renderFloods(),
+  renderOtherHazards(),
+  renderVideos(),
+  renderEvents(),
+  renderLearning(),
+  renderNews(),
+  renderUpdateInfo()
+]);
+</script>
+</body>
+</html>
