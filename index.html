@@ -193,7 +193,7 @@
   </div>
 
   <!-- SECTION 1: Recent Publications -->
-  <div class="section" id="publications-section" style="display:none;">
+  <div class="section" id="publications-section">
     <div class="section-header">
       <div class="section-title">Recent Publications & Reports</div>
       <div style="display:flex; align-items:center; gap:12px;">
@@ -364,6 +364,36 @@ async function renderOtherHazards() {
     : 'No active hazards';
 }
 
+// Render Publications (max 3 on homepage)
+async function renderPublications() {
+  const data = await loadJSON('publications.json');
+  const grid = document.getElementById('pub-grid');
+  const count = document.getElementById('pub-count');
+  const section = document.getElementById('publications-section');
+  if (!data || !data.publications || data.publications.length === 0) {
+    count.textContent = '0 this week';
+    grid.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No recent publications</p>';
+    return;
+  }
+  section.style.display = 'block';
+  count.textContent = data.publications.length + ' recent';
+  const show = data.publications.slice(0, 3);
+  grid.innerHTML = show.map(p => {
+    const cls = sourceBadgeClass(p.source);
+    const typeClass = (p.type || 'report').toLowerCase().replace(/\s+/g, '');
+    const url = p.link || p.url || '#';
+    return `<a href="${url}" target="_blank" class="pub-card" style="text-decoration:none;">
+      <span class="source-badge ${cls}">${p.source || ''}</span>
+      <div class="pub-title">${p.title}</div>
+      <div class="pub-desc">${p.description || ''}</div>
+      <div class="pub-meta">
+        <span class="pub-type ${typeClass}">${p.type || 'Report'}</span>
+        <span>${p.date ? formatDate(p.date) : ''}</span>
+      </div>
+    </a>`;
+  }).join('');
+}
+
 // Render Videos (max 3 on homepage)
 async function renderVideos() {
   const data = await loadJSON('videos.json');
@@ -404,8 +434,14 @@ async function renderEvents() {
     list.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No upcoming events</p>';
     return;
   }
-  count.textContent = data.events.length + ' upcoming';
-  const show = data.events.slice(0, 4);
+  // Filter out events with no valid date
+  const validEvents = data.events.filter(e => e.date && !isNaN(new Date(e.date).getTime()));
+  count.textContent = validEvents.length + ' upcoming';
+  if (validEvents.length === 0) {
+    list.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No upcoming events with confirmed dates</p>';
+    return;
+  }
+  const show = validEvents.slice(0, 4);
   list.innerHTML = show.map(e => {
     const d = new Date(e.date);
     const month = d.toLocaleDateString('en-US', { month: 'short' });
@@ -414,7 +450,8 @@ async function renderEvents() {
     const cls = sourceBadgeClass(e.source);
     const style = sourceBadgeStyle(cls);
     const typeClass = (e.type || '').toLowerCase().replace(/\s+/g, '');
-    return `<div class="event-item">
+    const url = e.link || '#';
+    return `<a href="${url}" target="_blank" class="event-item" style="text-decoration:none; color:inherit;">
       <div class="event-date"><div class="month">${month}</div><div class="day">${day}</div><div class="year">${year}</div></div>
       <div class="event-details">
         <span class="source-badge" style="${style}">${e.source || ''}</span>
@@ -422,7 +459,7 @@ async function renderEvents() {
         <div class="event-loc">${e.location || ''}</div>
       </div>
       ${e.type ? `<span class="event-type-tag ${typeClass}">${e.type}</span>` : ''}
-    </div>`;
+    </a>`;
   }).join('');
 }
 
@@ -501,6 +538,7 @@ Promise.all([
   renderEarthquakes(),
   renderFloods(),
   renderOtherHazards(),
+  renderPublications(),
   renderVideos(),
   renderEvents(),
   renderLearning(),
