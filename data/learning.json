@@ -1,5 +1,440 @@
 {
-  "last_updated": "2026-02-15T07:13:58.122381+00:00",
-  "count": 0,
-  "items": []
+  "last_updated": "2026-02-15T15:02:28.236511+00:00",
+  "count": 62,
+  "items": [
+    {
+      "source": "World Bank",
+      "title": "Serbian National Disaster Risk Management Program : Serbian - National Disaster Risk Management Program",
+      "link": "http://documents.worldbank.org/curated/en/266831614666100180",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Disaster Risk Finance Workshop : Proceedings",
+      "link": "http://documents.worldbank.org/curated/en/207451574240408444",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
+      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
+      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/984781632914115507",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
+      "link": "http://documents.worldbank.org/curated/en/639021468180880212",
+      "type": "brief",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "A workshop on disaster risk reduction and risk transfer : toward concrete action in South Asia and East Asia and the Pacific - summary report",
+      "link": "http://documents.worldbank.org/curated/en/410321468302505248",
+      "type": "brief",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "World Bank technical assistance boosts Djibouti’s disaster risk management : Djibouti renforce la gestion du risque de catastrophe",
+      "link": "http://documents.worldbank.org/curated/en/382721468189528510",
+      "type": "brief",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project (JDVRP) : environmental management framework",
+      "link": "http://documents.worldbank.org/curated/en/168991468260926702",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Nicaragua - Natural Disaster Vulnerability Reduction Project",
+      "link": "http://documents.worldbank.org/curated/en/159111468097454073",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "FONDEN : Mexico's natural disaster fund - a review",
+      "link": "http://documents.worldbank.org/curated/en/408711468286527149",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 2 of 3) : Abbreviated Resettlement Action Plan for Church Pen Two",
+      "link": "http://documents.worldbank.org/curated/en/700311572848866160",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Moldova - Disaster and Climate Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/905271491233095289",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Building regulation for resilience : managing risks for safer cities (Vol. 1 of 2)",
+      "link": "http://documents.worldbank.org/curated/en/326581468337788007",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Building regulation for resilience : managing risks for safer cities (Vol. 2 of 2) : Executive Summary",
+      "link": "http://documents.worldbank.org/curated/en/975111645583988768",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Earthquake Risk in Multifamily Residential Buildings : Europe and Central Asia Region",
+      "link": "http://documents.worldbank.org/curated/en/401931598952181261",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Building regulation for resilience : managing risks for safer cities (Vol. 2 of 2) : Executive summary",
+      "link": "http://documents.worldbank.org/curated/en/602931495512559302",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Turkey - Emergency Earthquake Recovery Loan (EERL) Project",
+      "link": "http://documents.worldbank.org/curated/en/632251468121763947",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Urban Fire Regulatory Assessment and Mitigation Evaluation Diagnostic : Building Regulation for Resilience Program",
+      "link": "http://documents.worldbank.org/curated/en/239481603103252728",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Integrated Safeguards Data Sheet (Concept Stage) - Lushan Earthquake Reconstruction and Risk Reduction Project - P153548",
+      "link": "http://documents.worldbank.org/curated/en/550191468018641444",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Nepal - Earthquake housing reconstruction project",
+      "link": "http://documents.worldbank.org/curated/en/664961468189535056",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Strengthening Risk Data for Urban Resilience in Bangladesh : Building a Resilient Future",
+      "link": "http://documents.worldbank.org/curated/en/579231606235126892",
+      "type": "brief",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Strengthening Disaster Preparedness in Armenia by Increasing Knowledge, Awareness, and Capacity : Building Resilience by Preparing the Next Generation",
+      "link": "http://documents.worldbank.org/curated/en/542621605905169405",
+      "type": "brief",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Disclosable Restructuring Paper - GY Flood Risk Management - P147250",
+      "link": "http://documents.worldbank.org/curated/en/569511545948248338",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Knowledge Note 4 : Operating and Maintaining Urban Flood Risk Management Investments",
+      "link": "http://documents.worldbank.org/curated/en/103001582086439161",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Knowledge Note 2 : Planning and Prioritizing Urban Flood Risk Management Investments",
+      "link": "http://documents.worldbank.org/curated/en/193911582085412399",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Disclosable Version of the ISR - GY Flood Risk Management - P147250 - Sequence No : 13",
+      "link": "http://documents.worldbank.org/curated/en/399881607384086256",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Disclosable Version of the ISR - GY Flood Risk Management - P147250 - Sequence No : 14",
+      "link": "http://documents.worldbank.org/curated/en/300621623195995461",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Knowledge Note 3 : Designing and Implementing Urban Flood Risk Management Investments",
+      "link": "http://documents.worldbank.org/curated/en/819021582085970173",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Seizing the Urban Opportunity in the Pacific",
+      "link": "https://www.worldbank.org/en/country/pacificislands/publication/seizing-the-urban-opportunity-in-the-pacific",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Moldova Country Climate and Development Report",
+      "link": "https://openknowledge.worldbank.org/entities/publication/b5886ecd-d46b-4d48-a747-19e9326e0e9d",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Integrated Wildfire Risk Management in Europe: Understanding the Approach and Examples",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122325103121105",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "TAFF Workshop Summary Oct 2-3, 2025",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/TAFF_WORKHSOP_BRIEF_Oct%202025.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "GFDRR Country Evaluation: Tajikistan",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099912501232636289",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Iceland - Towards an Integrated Wildfire Risk Management Diagnostic and Recommendations Report",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122325103039393/p178843-8ff527a6-554f-4ebb-a792-48b5cd483748",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Towards an Integrated Wildfire Risk Management in Iceland - Diagnostic and Recommendations",
+      "link": "https://documents1.worldbank.org/curated/en/099122325103025733/pdf/P178843-a12c31f6-8ab3-47e0-afc0-7bfcddbf5bcd.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Handbook for Livable and Resilient Cities: Integrating Hazard and Risk Information into Urban Planning",
+      "link": "https://openknowledge.worldbank.org/entities/publication/d7ee1212-42ed-4d8a-9ffa-225152ee65df",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Germany: The Economic Case for Investing in Disaster Preparedness and Resilience: Summary Report",
+      "link": "https://openknowledge.worldbank.org/entities/publication/2e35d6ac-6c52-4713-b2fe-7fd3bf1f5a85",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Global Rapid Post-Disaster Damage Estimation (GRADE) Report : Cyclone Ditwah 2025 - Sri Lanka",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122225074016363",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "The Role of Resilient Housing Reconstruction in Disaster Risk Management in Fragile, Conflict, and Violence-Affected Countries",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099621112172528162",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "The Role of the Resilient Built Environment in Fragile, Conflict, and Violence-Affected Countries",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630212172515798",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Resilience Maturity Assessment flyer",
+      "link": "https://www.undrr.org/publication/documents-and-publications/resilience-maturity-assessment-flyer",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Report from the gender observatory - Women's network of the Americas and the Caribbean for DRR",
+      "link": "https://www.undrr.org/publication/documents-and-publications/report-gender-observatory-womens-network-americas-and",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Strengthening the disaster resilience of SMEs in Barcelona: landscape assessment study",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Twenty-third session of the Africa Working Group for Disaster Risk Reduction",
+      "link": "https://www.undrr.org/publication/documents-and-publications/twenty-third-session-africa-working-group-disaster-risk",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Work Programme 2026-27",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Burkina Faso 2025 – Anticipatory finance snapshot",
+      "link": "https://www.undrr.org/publication/documents-and-publications/burkina-faso-2025-anticipatory-finance-snapshot",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "PATHWAYS TO RESILIENCE:  Stories from MCR2030 Cities",
+      "link": "https://www.undrr.org/publication/pathways-to-resilience-stories-from-mcr2030-cities",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "The Disaster Resilience Scorecard for Cities – Action Guide. Chapter 1: Overview of the survey results",
+      "link": "https://www.undrr.org/publication/scorecard-actionguide-ch1",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR ONEA and GETI Newsletter 48: Oct-Dec 2025",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-and-geti-newsletter-48-oct-dec-2025",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "International Disaster Resilience Leaders Forum Incheon 2025 - Final Report",
+      "link": "https://www.undrr.org/publication/documents-and-publications/international-disaster-resilience-leaders-forum-incheon-2025",
+      "type": "learning",
+      "description": ""
+    }
+  ]
 }

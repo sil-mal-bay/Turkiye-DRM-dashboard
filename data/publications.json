@@ -1,85 +1,165 @@
 {
-  "last_updated": "2026-02-15T07:14:09.161624+00:00",
-  "count": 10,
+  "last_updated": "2026-02-15T15:03:02.019462+00:00",
+  "count": 20,
   "publications": [
     {
-      "source": "World Bank",
-      "title": "Turkey - EUROPE AND CENTRAL ASIA-\n            P157683- Disaster Risk Management in Schools Project -\n            Procurement Plan",
-      "description": "",
-      "date": "2021-07-14T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/275651626263278871/Turkey-EUROPE-AND-CENTRAL-ASIA-P157683-Disaster-Risk-Management-in-Schools-Project-Procurement-Plan",
+      "source": "UNDRR",
+      "title": "Global Assessment Report (GAR) 2025: Resilience pays: financing and investing for our future",
+      "description": "We produce a range of publications by collecting and analysing risk data through a range of tools, knowledge products, and mobilising like-minded partners.",
+      "date": "2026-02-10T00:00:00+00:00",
+      "link": "https://www.undrr.org/gar/gar2025",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Turkey - EUROPE AND CENTRAL ASIA-\n            P157683- Disaster Risk Management in Schools Project -\n            Procurement Plan",
-      "description": "",
-      "date": "2021-03-10T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/588541615370113977/Turkey-EUROPE-AND-CENTRAL-ASIA-P157683-Disaster-Risk-Management-in-Schools-Project-Procurement-Plan",
+      "source": "UNDRR",
+      "title": "Other",
+      "description": "This flyer provides a concise overview of the Resilience Maturity Assessment (ReMA) tool, developed by UNDRR in collaboration with the Corporate Chief Resilience Officers (CCRO) Network.",
+      "date": "2026-02-10T00:00:00+00:00",
+      "link": "https://www.undrr.org/undrr-publication-type/other",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Implementation Completion and\n            Results Report (ICR) Document - Supporting Critical\n            Infrastructure Resilience and Disaster-Risk Awareness in\n            Turkey - P168167",
-      "description": "",
-      "date": "2021-02-22T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/260041614005636847/Implementation-Completion-and-Results-Report-ICR-Document-Supporting-Critical-Infrastructure-Resilience-and-Disaster-Risk-Awareness-in-Turkey-P168167",
+      "source": "UNDRR",
+      "title": "Report from the gender observatory - Women's network of the Americas and the Caribbean for DRR",
+      "description": "The 2025 Gender Observatory Report reviewed 74 sessions and found barriers to women’s leadership and participation in high-level political and financial dialogues. It proposes a roadmap to establish a permanent Sendai accountability mechanism.",
+      "date": "2026-02-06T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/report-gender-observatory-womens-network-americas-and",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Disclosable Version of the ISR -\n            Supporting Critical Infrastructure Resilience and\n            Disaster-Risk Awareness in Turkey - P168167 - Sequence No : 01",
-      "description": "",
-      "date": "2020-03-27T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/972121585324308278/Disclosable-Version-of-the-ISR-Supporting-Critical-Infrastructure-Resilience-and-Disaster-Risk-Awareness-in-Turkey-P168167-Sequence-No-01",
+      "source": "UNDRR",
+      "title": "Reports",
+      "description": "This landscape study aims to assess the current state of SME disaster preparedness, identify capability and resource gaps, and inform targeted interventions, particularly around business continuity plans (BCPs), access to finance and capacity-building.",
+      "date": "2026-02-06T00:00:00+00:00",
+      "link": "https://www.undrr.org/undrr-publication-type/reports",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Building Resilience in Turkey :\n            Quantifying Climate and Disaster Risks to Critical\n            Infrastructure, Lifelines and Agriculture - New Approaches",
-      "description": "",
-      "date": "2019-07-01T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/930551595824880807/Building-Resilience-in-Turkey-Quantifying-Climate-and-Disaster-Risks-to-Critical-Infrastructure-Lifelines-and-Agriculture-New-Approaches",
+      "source": "UNDRR",
+      "title": "Twenty-third session of the Africa Working Group for Disaster Risk Reduction",
+      "description": "This outcome document summarises the main achievements of the 23rd Africa Working Group on Disaster Risk Reduction, held from 11 to 13 November 2025 in Victoria Falls.",
+      "date": "2026-01-20T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/twenty-third-session-africa-working-group-disaster-risk",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Turkey - Disaster Risk Management\n            in Schools Project",
-      "description": "",
-      "date": "2019-05-30T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/485051561341634079/Turkey-Disaster-Risk-Management-in-Schools-Project",
+      "source": "UNDRR",
+      "title": "UNDRR Document",
+      "description": "This Work Programme for 2026-2027 translates the ambitions of the Strategic Framework into the concrete actions UNDRR will take to lead, empower and accelerate global efforts to reduce disaster risk and safeguard development gains.",
+      "date": "2026-01-16T00:00:00+00:00",
+      "link": "https://www.undrr.org/undrr-publication-type/undrr-documents",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Turkey - EUROPE AND CENTRAL ASIA-\n            P168167- Supporting Critical Infrastructure Resilience and\n            Disaster-Risk Awareness in Turkey - Procurement Plan",
-      "description": "",
-      "date": "2019-05-07T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/907721557221375913/Turkey-EUROPE-AND-CENTRAL-ASIA-P168167-Supporting-Critical-Infrastructure-Resilience-and-Disaster-Risk-Awareness-in-Turkey-Procurement-Plan",
+      "source": "UNDRR",
+      "title": "Burkina Faso 2025 – Anticipatory finance snapshot",
+      "description": "This snapshot provides an overview of Anticipatory finance in Burkina Faso, with a particular focus on its linkages to disaster risk reduction (DRR), climate change adaptation (CCA) and humanitarian action.",
+      "date": "2026-01-15T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/burkina-faso-2025-anticipatory-finance-snapshot",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Turkey - EUROPE AND CENTRAL ASIA-\n            P168167- Supporting Critical Infrastructure Resilience and\n            Disaster-Risk Awareness in Turkey - Procurement Plan",
-      "description": "",
-      "date": "2019-02-11T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/206051549898301493/Turkey-EUROPE-AND-CENTRAL-ASIA-P168167-Supporting-Critical-Infrastructure-Resilience-and-Disaster-Risk-Awareness-in-Turkey-Procurement-Plan",
+      "source": "UNDRR",
+      "title": "Tool kit",
+      "description": "This report captures the stories shared by MCR2030 cities through the online dashboard, providing a snapshot of city progress along the Resilience Roadmap and highlighting case examples that may serve as inspiration and guidance for other cities.",
+      "date": "2026-01-09T00:00:00+00:00",
+      "link": "https://www.undrr.org/undrr-publication-type/tool-kits",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Integrated Safeguards Data Sheet\n            (ISDS) - Supporting Critical Infrastructure Resilience and\n            Disaster-Risk Awareness in Turkey - P168167",
-      "description": "",
-      "date": "2018-08-06T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/270241533554629969/Integrated-Safeguards-Data-Sheet-ISDS-Supporting-Critical-Infrastructure-Resilience-and-Disaster-Risk-Awareness-in-Turkey-P168167",
+      "source": "UNDRR",
+      "title": "Newsletter",
+      "description": "This newsletter highlights UNDRR ONEA & GETI activities in the last quarter of 2025",
+      "date": "2025-12-18T00:00:00+00:00",
+      "link": "https://www.undrr.org/undrr-publication-type/newsletter",
       "type": "report"
     },
     {
-      "source": "World Bank",
-      "title": "Project Information Document\n            (PID) - Supporting Critical Infrastructure Resilience and\n            Disaster-Risk Awareness in Turkey - P168167",
+      "source": "UNDRR",
+      "title": "Global Status of Multi-Hazard Early Warning Systems 2025",
       "description": "",
-      "date": "2018-08-06T00:00:00Z",
-      "link": "http://documents.worldbank.org/curated/en/461891533554597941/Project-Information-Document-PID-Supporting-Critical-Infrastructure-Resilience-and-Disaster-Risk-Awareness-in-Turkey-P168167",
+      "date": "",
+      "link": "https://www.undrr.org/media/112480/download",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Sendai Framework for Disaster Risk Reduction 2015-2030",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Strategic Framework 2026-2030",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/strategic-framework-2026-2030",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Work Programme 2026-27",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Annual report 2024",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/annual-report/2024",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "News",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/our-impact/news",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Campaigns",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/campaigns",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Media centre",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/media-centre",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Terminology",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/terminology",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Words into Action",
+      "description": "",
+      "date": "",
+      "link": "https://www.undrr.org/words-action",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "PreventionWeb",
+      "description": "",
+      "date": "",
+      "link": "https://www.preventionweb.net",
       "type": "report"
     }
   ]

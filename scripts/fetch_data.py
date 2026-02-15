@@ -383,6 +383,7 @@ CREDIBILITY = {
     "afp": 95,
     "aljazeera": 90,
     "bbc": 90,
+    "undrr": 90,
     "anadolu": 85,
     "dailysabah": 80,
     "hurriyet": 80,
@@ -391,40 +392,77 @@ CREDIBILITY = {
 }
 
 NEWS_FEEDS = [
-    ("reuters", "https://www.reutersagency.com/feed/?taxonomy=best-regions&post_type=best"),
+    # --- DRM-specific (reliable DRM content) ---
+    ("undrr", "https://www.undrr.org/rss.xml"),
+    # --- General news (may carry Turkey/disaster stories) ---
     ("aljazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
     ("anadolu", "https://www.aa.com.tr/en/rss/default?cat=turkey"),
     ("dailysabah", "https://www.dailysabah.com/rssFeed/turkey"),
     ("hurriyet", "https://www.hurriyetdailynews.com/rss"),
     ("bbc", "https://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("trt", "https://www.trtworld.com/rss"),
     ("reliefweb", "https://reliefweb.int/updates/rss.xml"),
 ]
 
-# Hard filter keywords — expanded for broader DRM coverage
-DISASTER_KEYWORDS_EN = {
-    "earthquake", "flood", "forest fire", "wildfire", "drought",
-    "landslide", "mudslide", "tsunami", "disaster risk", "disaster management",
-    "resilience", "reconstruction", "seismic", "early warning",
-    "climate adaptation", "infrastructure resilience", "drr", "drm",
-    "catastrophe", "humanitarian", "gfdrr", "undrr",
-}
-DISASTER_KEYWORDS_TR = {
-    "deprem", "sel", "orman yangını", "kuraklık", "heyelan", "çamur akması",
-    "tsunami", "afet riski", "afet yönetimi", "dayanıklılık", "yeniden yapılanma",
-    "sismik", "erken uyarı", "iklim adaptasyonu", "insani yardım",
-}
-ALL_DISASTER_KEYWORDS = DISASTER_KEYWORDS_EN | DISASTER_KEYWORDS_TR
+# Hard filter keywords — SPECIFIC disaster/hazard types only.
+# Uses a compiled regex with word boundaries to prevent substring false
+# positives (e.g. Turkish "sel" matching inside "baseless").
+DISASTER_PATTERN = re.compile(
+    r"\b(?:"
+    # English
+    r"earthquake|flood|wildfire|forest\s+fire|drought"
+    r"|landslide|mudslide|tsunami|seismic"
+    # Turkish
+    r"|deprem|sel|orman\s+yang[ıi]n[ıi]|kurakl[ıi]k"
+    r"|heyelan|[çc]amur\s+akmas[ıi]|sismik"
+    r")\b",
+    re.IGNORECASE,
+)
 
-# Secondary "action" keywords — article must also contain at least one to
-# confirm it's about disaster MANAGEMENT / POLICY / RESPONSE, not just a
-# bare event report
-ACTION_KEYWORDS = {
-    "management", "mitigation", "policy", "response", "recovery",
-    "reconstruction", "preparedness", "assessment", "warning", "prevention",
-    "risk", "resilience", "fund", "finance", "invest", "project", "program",
-    "initiative", "strategy", "plan", "framework", "aid", "relief",
-    "humanitarian", "world bank",
+# General DRM phrases — articles whose title/lead explicitly discusses
+# disaster risk management as a field pass the filter without needing to
+# mention a specific hazard type.
+GENERAL_DRM_PATTERN = re.compile(
+    r"\b(?:"
+    r"disaster\s+risk\s+(?:management|reduction|finance)"
+    r"|disaster\s+(?:preparedness|resilience|management)"
+    r"|natural\s+hazards?"
+    r"|early\s+warning\s+systems?"
+    r"|climate\s+resilience"
+    r"|afet\s+(?:riski|y[öo]netimi)"
+    r")\b",
+    re.IGNORECASE,
+)
+
+# DRM keywords — focused on mitigation, preparation, infrastructure,
+# and best practices for disaster risk reduction.  An article must mention
+# at least one of these (in title or summary) to pass the general filter.
+# The Turkey fast-pass rule bypasses this check.
+DRM_KEYWORDS = {
+    # Mitigation & prevention
+    "mitigation", "mitigate", "prevention", "preventive", "protect",
+    "risk reduction", "risk management", "disaster risk",
+    # Preparedness
+    "preparedness", "preparation", "preparing", "contingency",
+    "early warning", "evacuation plan",
+    # Infrastructure & building
+    "infrastructure", "retrofit", "retrofitting", "building code",
+    "seismic design", "structural reinforcement", "construction standard",
+    "earthquake-resistant", "flood-resistant", "firebreak",
+    "urban planning", "land use planning", "zoning",
+    "building safety", "shelter design",
+    # Resilience & adaptation
+    "resilience", "resilient", "adaptation", "climate adaptation",
+    "capacity building", "vulnerability assessment",
+    # Reconstruction
+    "reconstruction", "rebuild", "recovery plan",
+    # Policy & best practices
+    "best practice", "guideline", "disaster management",
+    "emergency management", "hazard mapping", "risk assessment",
+    # Key acronyms
+    "drr", "drm", "gfdrr",
+    # Turkish equivalents
+    "afet yönetimi", "risk azaltma", "dayanıklılık", "depreme dayanıklı",
+    "yapı güvenliği", "erken uyarı", "altyapı", "imar planı",
 }
 
 TURKEY_PATTERN = re.compile(
@@ -505,7 +543,7 @@ def fetch_news() -> None:
     print("\n=== 4. News Digest ===")
 
     now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=5)
+    cutoff = now - timedelta(days=14)
     articles = []
 
     for source_key, feed_url in NEWS_FEEDS:
@@ -515,19 +553,43 @@ def fetch_news() -> None:
             for entry in feed.entries:
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")
-                combined = f"{title} {summary}".lower()
+                title_lower = title.lower()
 
-                # Hard filter: must mention at least one disaster/DRM keyword
-                has_disaster = any(kw in combined for kw in ALL_DISASTER_KEYWORDS)
-                if not has_disaster:
-                    continue
+                # Strip HTML tags from summary and truncate to first 500
+                # chars so we match on the article's lead content, not on
+                # keywords buried in 10K-word ReliefWeb HTML dumps.
+                clean_summary = re.sub(r"<[^>]+>", " ", summary)
+                clean_summary = re.sub(r"\s+", " ", clean_summary).strip()[:500]
+                combined = f"{title} {clean_summary}".lower()
 
-                # Hard filter: must also mention at least one "action" keyword
-                # to confirm it's about management/policy/response, not just
-                # "an earthquake happened somewhere"
-                has_action = any(kw in combined for kw in ACTION_KEYWORDS)
-                if not has_action:
-                    continue
+                # --- FILTERING ---
+                # Three paths to inclusion:
+                #
+                # PATH A (Turkey fast-pass): headline mentions Turkey +
+                #   a specific disaster → auto include.
+                #
+                # PATH B (hazard + DRM): article lead mentions a specific
+                #   hazard AND a DRM/mitigation keyword.
+                #
+                # PATH C (general DRM): article lead explicitly discusses
+                #   disaster risk management as a field (e.g. "disaster risk
+                #   reduction", "disaster preparedness") even without naming
+                #   a specific hazard.
+
+                title_has_turkey = TURKEY_PATTERN.search(title) is not None
+                title_has_disaster = DISASTER_PATTERN.search(title) is not None
+                fast_pass = title_has_turkey and title_has_disaster  # PATH A
+
+                if not fast_pass:
+                    has_disaster = DISASTER_PATTERN.search(combined) is not None
+                    has_drm = any(kw in combined for kw in DRM_KEYWORDS)
+                    has_general_drm = GENERAL_DRM_PATTERN.search(combined) is not None
+
+                    path_b = has_disaster and has_drm
+                    path_c = has_general_drm
+
+                    if not (path_b or path_c):
+                        continue
 
                 # Parse time and enforce 5-day cutoff
                 pub_dt = _parse_entry_time(entry)
@@ -554,10 +616,10 @@ def fetch_news() -> None:
                 if wb_boost:
                     score += 25
 
-                # Turkey bonus: multiply score by 1.5 if article mentions Turkey
+                # Turkey boost: 2x if article mentions Turkey anywhere
                 mentions_turkey = TURKEY_PATTERN.search(combined) is not None
                 if mentions_turkey:
-                    score *= 1.5
+                    score *= 2.0
 
                 articles.append({
                     "source": source_key,
@@ -644,8 +706,8 @@ def fetch_videos() -> None:
     videos = []
     seen_ids = set()
 
-    def _add_video(item):
-        """Add a video if it passes the relevance keyword filter."""
+    def _add_video(item, from_official_channel=False):
+        """Add a video.  Skip keyword filter for official channels."""
         vid_id = None
         if isinstance(item.get("id"), dict):
             vid_id = item["id"].get("videoId")
@@ -659,10 +721,11 @@ def fetch_videos() -> None:
         snippet = item.get("snippet", {})
         title = snippet.get("title") or ""
         description = (snippet.get("description") or "")[:300]
-        combined = f"{title} {description}"
-        # Relevance filter: must mention at least one keyword
-        if not VIDEO_RELEVANCE_KEYWORDS.search(combined):
-            return
+        # Trust official channel uploads entirely — only filter search results
+        if not from_official_channel:
+            combined = f"{title} {description}"
+            if not VIDEO_RELEVANCE_KEYWORDS.search(combined):
+                return
         seen_ids.add(vid_id)
         videos.append({
             "video_id": vid_id,
@@ -674,7 +737,9 @@ def fetch_videos() -> None:
             "url": f"https://www.youtube.com/watch?v={vid_id}",
         })
 
-    # Fetch uploads from each official channel playlist
+    # Fetch uploads from each official channel — take up to 15 most recent,
+    # NO keyword filter (these are trusted DRM channels).
+    MAX_PER_CHANNEL = 15
     for name, channel_id in YOUTUBE_CHANNELS.items():
         print(f"  Fetching videos from {name} channel …")
         try:
@@ -684,25 +749,34 @@ def fetch_videos() -> None:
                 f"part=contentDetails&id={channel_id}&key={YOUTUBE_API_KEY}"
             )
             ch_resp = fetch_url(ch_url).json()
+            # Check for API errors
+            if "error" in ch_resp:
+                err_msg = ch_resp["error"].get("message", "unknown error")
+                print(f"    {name}: API error — {err_msg}")
+                continue
             items = ch_resp.get("items", [])
             if not items:
-                print(f"    {name}: no channel data returned")
+                print(f"    {name}: no channel data returned (check channel ID)")
                 continue
             uploads_id = (
                 items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
             )
-            # Fetch recent uploads (up to 50 to increase chance of relevant hits)
+            # Fetch recent uploads
             pl_url = (
                 "https://www.googleapis.com/youtube/v3/playlistItems?"
                 f"part=snippet,contentDetails&playlistId={uploads_id}"
-                f"&maxResults=50&key={YOUTUBE_API_KEY}"
+                f"&maxResults={MAX_PER_CHANNEL}&key={YOUTUBE_API_KEY}"
             )
             pl_resp = fetch_url(pl_url).json()
+            if "error" in pl_resp:
+                err_msg = pl_resp["error"].get("message", "unknown error")
+                print(f"    {name}: playlist API error — {err_msg}")
+                continue
             before = len(videos)
             for item in pl_resp.get("items", []):
-                _add_video(item)
+                _add_video(item, from_official_channel=True)
             added = len(videos) - before
-            print(f"    {name}: {added} relevant videos added")
+            print(f"    {name}: {added} videos added")
         except Exception as exc:
             print(f"    {name} channel failed: {exc}")
 
@@ -757,6 +831,22 @@ def _parse_event_date(text: str):
     return None
 
 
+def _detect_event_type(title: str) -> str:
+    """Best-effort event type classification from title text."""
+    lower = title.lower()
+    if "webinar" in lower:
+        return "webinar"
+    elif "workshop" in lower:
+        return "workshop"
+    elif "conference" in lower or "summit" in lower or "forum" in lower:
+        return "conference"
+    elif "training" in lower or "course" in lower or "learning" in lower:
+        return "training"
+    elif "seminar" in lower:
+        return "seminar"
+    return "event"
+
+
 def fetch_events() -> None:
     print("\n=== 6. Upcoming Events ===")
 
@@ -765,12 +855,11 @@ def fetch_events() -> None:
     now = datetime.now(timezone.utc)
     horizon = now + timedelta(days=60)
 
-    def _add_event(source, title, link, date_dt=None):
+    def _add_event(source, title, link, date_dt=None, location=None, event_type=None):
         """De-duplicate and add event, skipping date-like titles."""
         if not title or not link:
             return
         title = title.strip()[:200]
-        # Skip if the title looks like a date string (GFDRR bug)
         if _DATE_TITLE_PATTERN.match(title):
             return
         if link in seen_links:
@@ -781,10 +870,102 @@ def fetch_events() -> None:
             "title": title,
             "date": date_dt.isoformat() if date_dt else None,
             "link": link,
+            "location": location,
+            "type": event_type or _detect_event_type(title),
         })
 
-    # --- PreventionWeb RSS feed (preferred over scraping) ---
-    print("  Fetching PreventionWeb events via RSS …")
+    # --- PRIMARY: GFDRR events page (Drupal, server-rendered HTML) ---
+    print("  Scraping GFDRR events …")
+    gfdrr_count = 0
+    try:
+        resp = fetch_url("https://www.gfdrr.org/en/events")
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for row in soup.select(".views-row"):
+            # Date field: .views-field-field-date-1 a
+            date_el = row.select_one(
+                ".views-field-field-date-1 a, .views-field-field-date a"
+            )
+            date_text = date_el.get_text(strip=True) if date_el else ""
+            event_date = _parse_event_date(date_text) if date_text else None
+
+            # Title field: .views-field-title a  or  .views-field-nothing a
+            title_el = row.select_one(
+                ".views-field-title a, .views-field-nothing a"
+            )
+            if not title_el:
+                # Fallback: first non-date link in the row
+                for a_tag in row.find_all("a", href=True):
+                    candidate = a_tag.get_text(strip=True)
+                    if candidate and not _DATE_TITLE_PATTERN.match(candidate):
+                        title_el = a_tag
+                        break
+            if not title_el:
+                continue
+
+            raw_title = title_el.get_text(strip=True)
+            href = title_el.get("href", "")
+            link = (
+                href
+                if href.startswith("http")
+                else f"https://www.gfdrr.org{href}"
+            )
+
+            # Title often includes "| Location" — split it
+            location = None
+            if "|" in raw_title:
+                parts = raw_title.split("|", 1)
+                raw_title = parts[0].strip()
+                location = parts[1].strip().rstrip(",")
+
+            if raw_title and link:
+                _add_event("GFDRR", raw_title, link, event_date, location)
+                gfdrr_count += 1
+        print(f"    GFDRR: {gfdrr_count} events")
+    except Exception as exc:
+        print(f"    GFDRR events scrape failed: {exc}")
+
+    # --- PRIMARY: UNDRR events page (Drupal, server-rendered HTML) ---
+    print("  Scraping UNDRR events …")
+    undrr_count = 0
+    try:
+        resp = fetch_url("https://www.undrr.org/events")
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for row in soup.select(".views-row"):
+            # Title: header.mg-card__title a (link contains /event/)
+            title_el = row.select_one(
+                "header.mg-card__title a, .mg-card__title a"
+            )
+            if not title_el:
+                # Fallback: any link with /event/ in href
+                title_el = row.find("a", href=lambda h: h and "/event/" in h)
+            if not title_el:
+                continue
+
+            title = title_el.get_text(strip=True)
+            href = title_el.get("href", "")
+            link = (
+                href
+                if href.startswith("http")
+                else f"https://www.undrr.org{href}"
+            )
+
+            # Date: field--name-field-event-date-range (Drupal field)
+            date_el = row.select_one(
+                ".field--name-field-event-date-range, .mg-card__date"
+            )
+            event_date = None
+            if date_el:
+                event_date = _parse_event_date(date_el.get_text(strip=True))
+
+            if title and link:
+                _add_event("UNDRR", title, link, event_date)
+                undrr_count += 1
+        print(f"    UNDRR: {undrr_count} events")
+    except Exception as exc:
+        print(f"    UNDRR events scrape failed: {exc}")
+
+    # --- SECONDARY: PreventionWeb RSS (may return 403) ---
+    print("  Trying PreventionWeb events RSS …")
     pw_count = 0
     try:
         feed = parse_feed("https://www.preventionweb.net/rss/drr-events.xml")
@@ -800,124 +981,26 @@ def fetch_events() -> None:
     except Exception as exc:
         print(f"    PreventionWeb RSS failed: {exc}")
 
-    # Fallback: scrape PreventionWeb events page
-    if pw_count == 0:
-        print("  Falling back to PreventionWeb page scrape …")
-        try:
-            resp = fetch_url("https://www.preventionweb.net/events")
-            soup = BeautifulSoup(resp.text, "html.parser")
-            event_cards = soup.select(
-                "article, .event-card, .views-row, .event-item"
-            )
-            for card in event_cards:
-                link_tag = card.find("a", href=True)
-                title = card.get_text(strip=True)[:200]
-                link = ""
-                if link_tag:
-                    href = link_tag.get("href", "")
-                    title = link_tag.get_text(strip=True) or title
-                    link = (
-                        href
-                        if href.startswith("http")
-                        else f"https://www.preventionweb.net{href}"
-                    )
-                event_date = _parse_event_date(card.get_text())
-                _add_event("PreventionWeb", title, link, event_date)
-            print(f"    PreventionWeb scrape: {len(events)} events")
-        except Exception as exc:
-            print(f"    PreventionWeb scrape failed: {exc}")
-
-    # --- GFDRR events ---
-    print("  Scraping GFDRR events …")
-    gfdrr_count = 0
-    try:
-        resp = fetch_url("https://www.gfdrr.org/en/events")
-        soup = BeautifulSoup(resp.text, "html.parser")
-        event_items = soup.select(
-            "article, .views-row, .event-item, .node--type-event"
-        )
-        for item in event_items:
-            # Collect all links in the item; skip the first one if it looks
-            # like a date — pick the next one that has a real title
-            all_links = item.find_all("a", href=True)
-            title = ""
-            link = ""
-            for a_tag in all_links:
-                candidate = a_tag.get_text(strip=True)
-                if candidate and not _DATE_TITLE_PATTERN.match(candidate):
-                    title = candidate
-                    href = a_tag.get("href", "")
-                    link = (
-                        href
-                        if href.startswith("http")
-                        else f"https://www.gfdrr.org{href}"
-                    )
-                    break
-
-            # If we still have no title, try heading tags
-            if not title:
-                heading = item.find(["h2", "h3", "h4"])
-                if heading:
-                    title = heading.get_text(strip=True)
-                    a_in_heading = heading.find("a", href=True)
-                    if a_in_heading:
-                        href = a_in_heading["href"]
-                        link = (
-                            href
-                            if href.startswith("http")
-                            else f"https://www.gfdrr.org{href}"
-                        )
-
-            event_date = _parse_event_date(item.get_text())
-            if title and link:
-                _add_event("GFDRR", title, link, event_date)
-                gfdrr_count += 1
-        print(f"    GFDRR: {gfdrr_count} events scraped")
-    except Exception as exc:
-        print(f"    GFDRR scrape failed: {exc}")
-
-    # --- UNDRR Events page ---
-    print("  Scraping UNDRR events …")
-    undrr_count = 0
-    try:
-        resp = fetch_url("https://www.undrr.org/events")
-        soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select(
-            "article, .views-row, .node--type-event, .card, .event-item"
-        )
-        for item in items:
-            link_tag = item.find("a", href=True)
-            if not link_tag:
-                continue
-            title = link_tag.get_text(strip=True)
-            if not title or _DATE_TITLE_PATTERN.match(title):
-                # Try heading
-                heading = item.find(["h2", "h3", "h4"])
-                if heading:
-                    title = heading.get_text(strip=True)
-            href = link_tag.get("href", "")
-            link = (
-                href
-                if href.startswith("http")
-                else f"https://www.undrr.org{href}"
-            )
-            event_date = _parse_event_date(item.get_text())
-            if title and link:
-                _add_event("UNDRR", title, link, event_date)
-                undrr_count += 1
-        print(f"    UNDRR: {undrr_count} events scraped")
-    except Exception as exc:
-        print(f"    UNDRR events scrape failed: {exc}")
-
-    # --- ReliefWeb Training / Events API ---
-    print("  Fetching ReliefWeb training events …")
+    # --- FALLBACK: ReliefWeb Training API (may require registered appname) ---
+    print("  Trying ReliefWeb training events (fallback) …")
     rw_count = 0
     try:
         rw_url = (
             "https://api.reliefweb.int/v1/training?"
             "appname=turkiye-drm"
-            "&filter[field]=country.name&filter[value]=Turkey"
-            "&limit=20&sort[]=date:desc"
+            "&limit=50"
+            "&sort[]=date.start:asc"
+            "&filter[operator]=AND"
+            "&filter[conditions][0][field]=date.start"
+            "&filter[conditions][0][value][from]=now"
+            "&filter[conditions][1][field]=date.start"
+            "&filter[conditions][1][value][to]=now%2B60d"
+            "&fields[include][]=title"
+            "&fields[include][]=url"
+            "&fields[include][]=date"
+            "&fields[include][]=source"
+            "&fields[include][]=country"
+            "&fields[include][]=format"
         )
         resp = fetch_url(rw_url)
         rw_data = resp.json()
@@ -925,21 +1008,42 @@ def fetch_events() -> None:
             fields = item.get("fields", {})
             title = fields.get("title", "")
             link = fields.get("url", "") or item.get("href", "")
-            date_str = fields.get("date", {}).get("created", "")
+            date_info = fields.get("date", {})
+            date_start = ""
+            if isinstance(date_info, dict):
+                date_start = date_info.get("start", "") or date_info.get("created", "")
             date_dt = None
-            if date_str:
+            if date_start:
                 try:
                     date_dt = datetime.fromisoformat(
-                        date_str.replace("Z", "+00:00")
+                        date_start.replace("Z", "+00:00")
                     )
                 except Exception:
                     pass
+            location = None
+            countries = fields.get("country", [])
+            if countries and isinstance(countries, list):
+                names = [
+                    c.get("name", "") if isinstance(c, dict) else str(c)
+                    for c in countries
+                ]
+                location = ", ".join(n for n in names if n)
+            event_type = None
+            formats = fields.get("format", [])
+            if formats and isinstance(formats, list):
+                fmt = formats[0]
+                if isinstance(fmt, dict):
+                    event_type = fmt.get("name", "").lower() or None
+            sources = fields.get("source", [])
+            source_name = "ReliefWeb"
+            if sources and isinstance(sources, list) and isinstance(sources[0], dict):
+                source_name = sources[0].get("name", "ReliefWeb")
             if title:
-                _add_event("ReliefWeb", title, link, date_dt)
+                _add_event(source_name, title, link, date_dt, location, event_type)
                 rw_count += 1
         print(f"    ReliefWeb training: {rw_count} events")
     except Exception as exc:
-        print(f"    ReliefWeb training fetch failed: {exc}")
+        print(f"    ReliefWeb training failed: {exc}")
 
     # Filter to next 60 days where date is known, keep undated ones too
     filtered = []
@@ -976,56 +1080,130 @@ def fetch_learning() -> None:
     print("\n=== 7. Learning Materials ===")
 
     materials = []
+    seen_links = set()
 
-    # --- World Bank Open Learning Campus / Urban Resilience ---
-    print("  Scraping World Bank learning resources …")
-    try:
-        resp = fetch_url(
-            "https://olc.worldbank.org/search?search_api_fulltext=urban+resilience+disaster+risk"
-        )
-        soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select(".views-row, .search-result, article")
-        for item in items[:20]:  # cap at 20
-            link_tag = item.find("a", href=True)
-            if link_tag:
-                title = link_tag.get_text(strip=True)
-                href = link_tag["href"]
-                link = href if href.startswith("http") else f"https://olc.worldbank.org{href}"
-                if title:
-                    materials.append({
-                        "source": "World Bank OLC",
-                        "title": title[:200],
-                        "link": link,
-                        "type": "course",
-                    })
-        print(f"    World Bank OLC: {len(materials)} items")
-    except Exception as exc:
-        print(f"    World Bank OLC scrape failed: {exc}")
+    def _add_material(source, title, link, mat_type="course", description=""):
+        """De-duplicate and add a learning material."""
+        if not title or not link:
+            return
+        if link in seen_links:
+            return
+        seen_links.add(link)
+        materials.append({
+            "source": source,
+            "title": title.strip()[:200],
+            "link": link,
+            "type": mat_type,
+            "description": description[:300] if description else "",
+        })
 
-    # --- UNDRR GETI (Global Education and Training Institute) ---
-    print("  Scraping UNDRR GETI …")
-    geti_count = 0
-    try:
-        resp = fetch_url("https://www.undrr.org/learning")
-        soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select(".views-row, article, .node--type-learning, .card")
-        for item in items[:20]:
-            link_tag = item.find("a", href=True)
-            if link_tag:
-                title = link_tag.get_text(strip=True)
-                href = link_tag["href"]
-                link = href if href.startswith("http") else f"https://www.undrr.org{href}"
+    # --- PRIMARY: World Bank Documents API v3 ---
+    # Search for DRM training/learning documents
+    WB_LEARNING_QUERIES = [
+        "disaster risk management training",
+        "disaster risk reduction course",
+        "earthquake resilience building code",
+        "flood risk management infrastructure",
+    ]
+    print("  Fetching World Bank DRM documents …")
+    wb_count = 0
+    for qterm in WB_LEARNING_QUERIES:
+        try:
+            wb_url = (
+                "https://search.worldbank.org/api/v3/wds?"
+                f"format=json&qterm={qterm.replace(' ', '+')}"
+                "&rows=10&os=0&srt=ddate_desc"
+            )
+            resp = fetch_url(wb_url)
+            wb_data = resp.json()
+            for doc_key, doc in wb_data.get("documents", {}).items():
+                if not isinstance(doc, dict):
+                    continue
+                title = doc.get("display_title", "") or doc.get("docna", "")
+                if isinstance(title, dict):
+                    title = title.get("0", {}).get("docna", "")
+                link = doc.get("url", "") or doc.get("pdfurl", "")
+                if not link:
+                    # Build link from doc ID
+                    doc_id = doc.get("id", "")
+                    if doc_id:
+                        link = (
+                            "https://documents.worldbank.org/en/publication/"
+                            f"documents-reports/documentdetail/{doc_id}"
+                        )
+                desc = doc.get("abstracts", "") or ""
+                if isinstance(desc, dict):
+                    desc = desc.get("cdata", "")
+                doc_type = (doc.get("docty", "") or "").lower()
+                mat_type = "report"
+                if "toolkit" in doc_type:
+                    mat_type = "toolkit"
+                elif "brief" in doc_type or "note" in doc_type:
+                    mat_type = "brief"
+                elif "working paper" in doc_type:
+                    mat_type = "working paper"
                 if title:
-                    materials.append({
-                        "source": "UNDRR",
-                        "title": title[:200],
-                        "link": link,
-                        "type": "learning",
-                    })
-                    geti_count += 1
-        print(f"    UNDRR GETI: {geti_count} items")
+                    _add_material("World Bank", title, link, mat_type, desc)
+                    wb_count += 1
+        except Exception as exc:
+            print(f"    WB query '{qterm}' failed: {exc}")
+    print(f"    World Bank documents: {wb_count} items")
+
+    # --- PRIMARY: GFDRR publications page (Drupal, server-rendered) ---
+    print("  Scraping GFDRR publications …")
+    gfdrr_count = 0
+    try:
+        resp = fetch_url("https://www.gfdrr.org/en/publications")
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for item in soup.select(".views-row")[:25]:
+            # Find the first link with actual text (skip image wrappers)
+            title = ""
+            link = ""
+            for a_tag in item.find_all("a", href=True):
+                text = a_tag.get_text(strip=True)
+                if text and not _DATE_TITLE_PATTERN.match(text):
+                    title = text
+                    href = a_tag.get("href", "")
+                    link = (
+                        href
+                        if href.startswith("http")
+                        else f"https://www.gfdrr.org{href}"
+                    )
+                    break
+            if title and link:
+                _add_material("GFDRR", title, link, "report")
+                gfdrr_count += 1
+        print(f"    GFDRR publications: {gfdrr_count} items")
     except Exception as exc:
-        print(f"    UNDRR GETI scrape failed: {exc}")
+        print(f"    GFDRR publications scrape failed: {exc}")
+
+    # --- SECONDARY: UNDRR publications (Drupal, server-rendered) ---
+    print("  Scraping UNDRR publications …")
+    undrr_count = 0
+    try:
+        resp = fetch_url("https://www.undrr.org/publications")
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for row in soup.select(".views-row")[:25]:
+            title_el = row.select_one(
+                "header.mg-card__title a, .mg-card__title a"
+            )
+            if not title_el:
+                title_el = row.find("a", href=True)
+            if not title_el:
+                continue
+            title = title_el.get_text(strip=True)
+            href = title_el.get("href", "")
+            link = (
+                href
+                if href.startswith("http")
+                else f"https://www.undrr.org{href}"
+            )
+            if title and not _DATE_TITLE_PATTERN.match(title):
+                _add_material("UNDRR", title, link, "learning")
+                undrr_count += 1
+        print(f"    UNDRR publications: {undrr_count} items")
+    except Exception as exc:
+        print(f"    UNDRR publications scrape failed: {exc}")
 
     print(f"  Total learning materials: {len(materials)}")
 
@@ -1118,78 +1296,110 @@ def fetch_publications() -> None:
     # --- GFDRR Publications page ---
     print("  Scraping GFDRR publications …")
     gfdrr_count = 0
-    try:
-        resp = fetch_url("https://www.gfdrr.org/en/publications")
-        soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select(
-            "article, .views-row, .node--type-publication, .publication-item, .card"
-        )
-        for item in items[:30]:
-            link_tag = item.find("a", href=True)
-            if not link_tag:
-                continue
-            title = link_tag.get_text(strip=True)
-            href = link_tag.get("href", "")
-            link = (
-                href
-                if href.startswith("http")
-                else f"https://www.gfdrr.org{href}"
-            )
-            # Try to get a description from nearby text
-            desc = ""
-            desc_tag = item.find(["p", ".field--name-body", ".summary"])
-            if desc_tag:
-                desc = desc_tag.get_text(strip=True)[:500]
-            # Try to extract date
-            date_dt = _parse_event_date(item.get_text())
-            date_str = date_dt.isoformat() if date_dt else ""
-            if title and not _DATE_TITLE_PATTERN.match(title):
-                _add_pub("GFDRR", title, desc, date_str, link, "report")
-                gfdrr_count += 1
-        print(f"    GFDRR publications: {gfdrr_count}")
-    except Exception as exc:
-        print(f"    GFDRR publications scrape failed: {exc}")
+    gfdrr_urls = [
+        "https://www.gfdrr.org/en/publications",
+        "https://www.gfdrr.org/rss.xml",
+    ]
+    for gfdrr_url in gfdrr_urls:
+        if gfdrr_count > 0:
+            break  # first URL worked, skip fallback
+        try:
+            if gfdrr_url.endswith(".xml"):
+                # RSS fallback
+                feed = parse_feed(gfdrr_url)
+                for entry in feed.entries[:30]:
+                    title = entry.get("title", "").strip()
+                    link = entry.get("link", "")
+                    desc = entry.get("summary", "")[:500]
+                    date_dt = _parse_entry_time(entry)
+                    date_str = date_dt.isoformat() if date_dt else ""
+                    if title and not _DATE_TITLE_PATTERN.match(title):
+                        _add_pub("GFDRR", title, desc, date_str, link, "report")
+                        gfdrr_count += 1
+                print(f"    GFDRR RSS: {gfdrr_count} publications")
+            else:
+                resp = fetch_url(gfdrr_url)
+                soup = BeautifulSoup(resp.text, "html.parser")
+                items = soup.select(
+                    "article, .views-row, .node--type-publication, .publication-item, .card"
+                )
+                for item in items[:30]:
+                    link_tag = item.find("a", href=True)
+                    if not link_tag:
+                        continue
+                    title = link_tag.get_text(strip=True)
+                    href = link_tag.get("href", "")
+                    link = (
+                        href
+                        if href.startswith("http")
+                        else f"https://www.gfdrr.org{href}"
+                    )
+                    desc = ""
+                    desc_tag = item.find(["p", ".field--name-body", ".summary"])
+                    if desc_tag:
+                        desc = desc_tag.get_text(strip=True)[:500]
+                    date_dt = _parse_event_date(item.get_text())
+                    date_str = date_dt.isoformat() if date_dt else ""
+                    if title and not _DATE_TITLE_PATTERN.match(title):
+                        _add_pub("GFDRR", title, desc, date_str, link, "report")
+                        gfdrr_count += 1
+                print(f"    GFDRR page scrape: {gfdrr_count} publications")
+        except Exception as exc:
+            print(f"    GFDRR ({gfdrr_url}) failed: {exc}")
 
     # --- UNDRR Publications page ---
     print("  Scraping UNDRR publications …")
     undrr_count = 0
-    try:
-        resp = fetch_url("https://www.undrr.org/publications")
-        soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select(
-            "article, .views-row, .node--type-publication, .card, .publication-item"
-        )
-        for item in items[:30]:
-            link_tag = item.find("a", href=True)
-            if not link_tag:
-                continue
-            title = link_tag.get_text(strip=True)
-            href = link_tag.get("href", "")
-            link = (
-                href
-                if href.startswith("http")
-                else f"https://www.undrr.org{href}"
+    undrr_pub_urls = [
+        ("https://www.undrr.org/publications", "undrr.org"),
+        ("https://www.preventionweb.net/publications", "preventionweb.net"),
+    ]
+    for undrr_url, domain in undrr_pub_urls:
+        try:
+            resp = fetch_url(undrr_url)
+            soup = BeautifulSoup(resp.text, "html.parser")
+            items = soup.select(
+                "article, .views-row, .node--type-publication, .card, .publication-item"
             )
-            desc = ""
-            desc_tag = item.find(["p", ".field--name-body", ".summary"])
-            if desc_tag:
-                desc = desc_tag.get_text(strip=True)[:500]
-            date_dt = _parse_event_date(item.get_text())
-            date_str = date_dt.isoformat() if date_dt else ""
-            if title and not _DATE_TITLE_PATTERN.match(title):
-                _add_pub("UNDRR", title, desc, date_str, link, "report")
-                undrr_count += 1
-        print(f"    UNDRR publications: {undrr_count}")
-    except Exception as exc:
-        print(f"    UNDRR publications scrape failed: {exc}")
+            base = f"https://www.{domain}"
+            for item in items[:30]:
+                link_tag = item.find("a", href=True)
+                if not link_tag:
+                    continue
+                title = link_tag.get_text(strip=True)
+                href = link_tag.get("href", "")
+                link = (
+                    href
+                    if href.startswith("http")
+                    else f"{base}{href}"
+                )
+                desc = ""
+                desc_tag = item.find(["p", ".field--name-body", ".summary"])
+                if desc_tag:
+                    desc = desc_tag.get_text(strip=True)[:500]
+                date_dt = _parse_event_date(item.get_text())
+                date_str = date_dt.isoformat() if date_dt else ""
+                source_label = "UNDRR" if "undrr" in domain else "PreventionWeb"
+                if title and not _DATE_TITLE_PATTERN.match(title):
+                    _add_pub(source_label, title, desc, date_str, link, "report")
+                    undrr_count += 1
+            print(f"    {domain} publications: {undrr_count}")
+        except Exception as exc:
+            print(f"    {domain} publications scrape failed: {exc}")
 
     # --- World Bank Documents Search API ---
     print("  Fetching World Bank documents …")
     wb_count = 0
+    wb_cutoff = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%d")
+    # Title substrings to skip (procurement / safeguards noise)
+    WB_SKIP_TITLES = {"procurement plan", "safeguards data sheet"}
+    # Acceptable document types (lowercase substrings)
+    WB_KEEP_TYPES = {"report", "brief", "working paper", "evaluation", "note", "toolkit"}
     try:
         wb_url = (
             "https://search.worldbank.org/api/v2/wds?"
-            "format=json&qterm=Turkey+disaster+risk&rows=10&os=0"
+            "format=json&qterm=Turkey+disaster+risk&rows=20&os=0"
+            "&srt=ddate_desc"
         )
         resp = fetch_url(wb_url)
         wb_data = resp.json()
@@ -1200,14 +1410,32 @@ def fetch_publications() -> None:
             title = doc.get("display_title", "") or doc.get("doctitle", "")
             link = doc.get("url", "") or doc.get("pdfurl", "")
             date_str = doc.get("docdt", "") or doc.get("disclosure_date", "")
+
+            # Skip documents older than 12 months
+            if date_str and date_str[:10] < wb_cutoff:
+                continue
+
+            # Skip procurement plans and safeguards data sheets
+            title_lower = title.lower()
+            if any(skip in title_lower for skip in WB_SKIP_TITLES):
+                continue
+
+            # Only keep acceptable document types
+            doc_type_raw = (doc.get("doctype", "") or "").lower()
+            if doc_type_raw and not any(kt in doc_type_raw for kt in WB_KEEP_TYPES):
+                continue
+
             desc = doc.get("abstracts", "") or ""
             if isinstance(desc, dict):
                 desc = desc.get("cdata", "")
             pub_type = "report"
-            doc_type_lower = (doc.get("doctype", "") or "").lower()
-            if "brief" in doc_type_lower or "note" in doc_type_lower:
+            if "brief" in doc_type_raw or "note" in doc_type_raw:
                 pub_type = "brief"
-            elif "toolkit" in doc_type_lower:
+            elif "working paper" in doc_type_raw:
+                pub_type = "working paper"
+            elif "evaluation" in doc_type_raw:
+                pub_type = "evaluation"
+            elif "toolkit" in doc_type_raw:
                 pub_type = "toolkit"
             if title:
                 _add_pub("World Bank", title, desc[:500], date_str, link, pub_type)

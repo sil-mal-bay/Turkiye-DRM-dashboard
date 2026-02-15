@@ -1,5 +1,46 @@
 {
-  "last_updated": "2026-02-15T07:13:47.239139+00:00",
-  "count": 0,
-  "events": []
+  "last_updated": "2026-02-15T15:02:25.880902+00:00",
+  "count": 5,
+  "events": [
+    {
+      "source": "UNDRR",
+      "title": "Webinar series on strengthening the disaster resilience of SMEs",
+      "date": "2026-02-19T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-series-strengthening-disaster-resilience-smes",
+      "location": null,
+      "type": "webinar"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Webinar series on strengthening the disaster resilience of SMEs: Part 2: Applying the Caribbean lens: Lessons from Barbados",
+      "date": "2026-02-26T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-series-strengthening-disaster-resilience-smes-part-2-applying-caribbean-lens-lessons",
+      "location": null,
+      "type": "webinar"
+    },
+    {
+      "source": "UNDRR",
+      "title": "HNPW 2026: Beyond Relief: Building Resilience Through Response",
+      "date": "2026-03-03T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/hnpw-2026-beyond-relief-building-resilience-through-response",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Webinar series on strengthening the disaster resilience of SMEs | Part 3: Urban resilience & SMEs: Lessons from Barcelona",
+      "date": "2026-03-05T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-series-strengthening-disaster-resilience-smes-part-3-urban-resilience-smes-lessons",
+      "location": null,
+      "type": "webinar"
+    },
+    {
+      "source": "UNDRR",
+      "title": "HNPW 2026: Leveraging Existing Resources: Scaling Anticipatory Action Through Smarter Finance",
+      "date": "2026-03-10T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/hnpw-2026-leveraging-existing-resources-scaling-anticipatory-action-through-smarter-finance",
+      "location": null,
+      "type": "event"
+    }
+  ]
 }

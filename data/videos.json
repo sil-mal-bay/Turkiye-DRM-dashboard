@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-02-15T07:12:24.581996+00:00",
+  "last_updated": "2026-02-15T15:02:03.886886+00:00",
   "count": 0,
-  "videos": []
+  "videos": [],
+  "note": "YOUTUBE_API_KEY not configured"
 }
