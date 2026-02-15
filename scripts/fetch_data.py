@@ -675,11 +675,11 @@ def fetch_news() -> None:
 
 # Official channel IDs — ONLY these channels are queried (no keyword searches)
 YOUTUBE_CHANNELS = {
-    "GFDRR": "UCueMQfh8JiMWJR3JDhVHMEg",
-    "World Bank": "UCz_l26KhGrPMPlJiCqhR0sA",
-    "UNDRR": "UCbMfHSvgqGaOal7K3sFPOXg",
-    "World Bank Live": "UCi0bHy8BGVr8s7FCrEl03HA",
-    "UNDP": "UCbeaB2MYxLhWoRY9tBUTFOA",
+    "GFDRR": "UCZWLxv2a7iWuz59JshmADBg",
+    "World Bank": "UCE9mrcoX-oE-2f1BL-iPPoQ",
+    "UNDRR": "UCUw0G3AdE_0EDhcDPlJtJyA",
+    "World Bank Live": "UCwFWAHK2dnJ8u1lYee93mZA",
+    "UNDP": "UCagCOAfZBpsTOlAJq_vcWbw",
 }
 
 # Videos must mention at least one of these keywords in title or description
@@ -693,94 +693,100 @@ VIDEO_RELEVANCE_KEYWORDS = re.compile(
 def fetch_videos() -> None:
     print("\n=== 5. Videos & Webinars (YouTube) ===")
 
-    if not YOUTUBE_API_KEY:
-        print("  YOUTUBE_API_KEY not set — skipping video fetch")
-        save_json("videos.json", {
-            "last_updated": now_iso(),
-            "count": 0,
-            "videos": [],
-            "note": "YOUTUBE_API_KEY not configured",
-        })
-        return
-
     videos = []
     seen_ids = set()
 
-    def _add_video(item, from_official_channel=False):
-        """Add a video.  Skip keyword filter for official channels."""
-        vid_id = None
-        if isinstance(item.get("id"), dict):
-            vid_id = item["id"].get("videoId")
-        elif isinstance(item.get("id"), str):
-            vid_id = item["id"]
-        # Also check contentDetails for playlist items
-        if not vid_id:
-            vid_id = item.get("contentDetails", {}).get("videoId")
+    def _add_video(vid_id, title, description, channel, published, thumbnail=None):
+        """De-duplicate and add a video."""
         if not vid_id or vid_id in seen_ids:
             return
-        snippet = item.get("snippet", {})
-        title = snippet.get("title") or ""
-        description = (snippet.get("description") or "")[:300]
-        # Trust official channel uploads entirely — only filter search results
-        if not from_official_channel:
-            combined = f"{title} {description}"
-            if not VIDEO_RELEVANCE_KEYWORDS.search(combined):
-                return
         seen_ids.add(vid_id)
         videos.append({
             "video_id": vid_id,
             "title": title,
-            "description": description,
-            "channel": snippet.get("channelTitle"),
-            "published": snippet.get("publishedAt"),
-            "thumbnail": snippet.get("thumbnails", {}).get("medium", {}).get("url"),
+            "description": (description or "")[:300],
+            "channel": channel,
+            "published": published,
+            "thumbnail": thumbnail or f"https://i.ytimg.com/vi/{vid_id}/mqdefault.jpg",
             "url": f"https://www.youtube.com/watch?v={vid_id}",
         })
 
-    # Fetch uploads from each official channel — take up to 15 most recent,
-    # NO keyword filter (these are trusted DRM channels).
-    MAX_PER_CHANNEL = 15
+    # PRIMARY: YouTube RSS feeds (free, no API key needed).
+    # Each channel publishes an Atom feed with its 15 most recent uploads.
     for name, channel_id in YOUTUBE_CHANNELS.items():
-        print(f"  Fetching videos from {name} channel …")
+        print(f"  Fetching {name} RSS …")
+        rss_url = (
+            f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+        )
         try:
-            # Get the uploads playlist ID for this channel
-            ch_url = (
-                "https://www.googleapis.com/youtube/v3/channels?"
-                f"part=contentDetails&id={channel_id}&key={YOUTUBE_API_KEY}"
-            )
-            ch_resp = fetch_url(ch_url).json()
-            # Check for API errors
-            if "error" in ch_resp:
-                err_msg = ch_resp["error"].get("message", "unknown error")
-                print(f"    {name}: API error — {err_msg}")
-                continue
-            items = ch_resp.get("items", [])
-            if not items:
-                print(f"    {name}: no channel data returned (check channel ID)")
-                continue
-            uploads_id = (
-                items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
-            )
-            # Fetch recent uploads
-            pl_url = (
-                "https://www.googleapis.com/youtube/v3/playlistItems?"
-                f"part=snippet,contentDetails&playlistId={uploads_id}"
-                f"&maxResults={MAX_PER_CHANNEL}&key={YOUTUBE_API_KEY}"
-            )
-            pl_resp = fetch_url(pl_url).json()
-            if "error" in pl_resp:
-                err_msg = pl_resp["error"].get("message", "unknown error")
-                print(f"    {name}: playlist API error — {err_msg}")
-                continue
+            feed = parse_feed(rss_url)
             before = len(videos)
-            for item in pl_resp.get("items", []):
-                _add_video(item, from_official_channel=True)
+            for entry in feed.entries:
+                vid_id = entry.get("yt_videoid") or ""
+                if not vid_id:
+                    link = entry.get("link", "")
+                    m = re.search(r"v=([a-zA-Z0-9_-]{11})", link)
+                    if m:
+                        vid_id = m.group(1)
+                _add_video(
+                    vid_id=vid_id,
+                    title=entry.get("title", ""),
+                    description=entry.get("summary", ""),
+                    channel=name,
+                    published=entry.get("published", ""),
+                    thumbnail=entry.get("media_thumbnail", [{}])[0].get("url")
+                    if entry.get("media_thumbnail")
+                    else None,
+                )
             added = len(videos) - before
-            print(f"    {name}: {added} videos added")
+            print(f"    {name}: {added} videos")
         except Exception as exc:
-            print(f"    {name} channel failed: {exc}")
+            print(f"    {name} RSS failed: {exc}")
 
-    # Sort newest first (no expiry — keep all)
+    # FALLBACK: YouTube Data API v3 (if RSS returned nothing and key is set)
+    if not videos and YOUTUBE_API_KEY:
+        print("  RSS returned no videos — trying YouTube Data API …")
+        for name, channel_id in YOUTUBE_CHANNELS.items():
+            print(f"  Fetching {name} via API …")
+            try:
+                ch_url = (
+                    "https://www.googleapis.com/youtube/v3/channels?"
+                    f"part=contentDetails&id={channel_id}&key={YOUTUBE_API_KEY}"
+                )
+                ch_resp = fetch_url(ch_url).json()
+                if "error" in ch_resp:
+                    print(f"    {name}: API error — {ch_resp['error'].get('message')}")
+                    continue
+                items = ch_resp.get("items", [])
+                if not items:
+                    continue
+                uploads_id = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+                pl_url = (
+                    "https://www.googleapis.com/youtube/v3/playlistItems?"
+                    f"part=snippet,contentDetails&playlistId={uploads_id}"
+                    f"&maxResults=15&key={YOUTUBE_API_KEY}"
+                )
+                pl_resp = fetch_url(pl_url).json()
+                if "error" in pl_resp:
+                    print(f"    {name}: playlist error — {pl_resp['error'].get('message')}")
+                    continue
+                before = len(videos)
+                for item in pl_resp.get("items", []):
+                    snippet = item.get("snippet", {})
+                    vid_id = item.get("contentDetails", {}).get("videoId") or ""
+                    _add_video(
+                        vid_id=vid_id,
+                        title=snippet.get("title", ""),
+                        description=snippet.get("description", ""),
+                        channel=snippet.get("channelTitle", name),
+                        published=snippet.get("publishedAt", ""),
+                        thumbnail=snippet.get("thumbnails", {}).get("medium", {}).get("url"),
+                    )
+                print(f"    {name}: {len(videos) - before} videos")
+            except Exception as exc:
+                print(f"    {name} API failed: {exc}")
+
+    # Sort newest first
     videos.sort(
         key=lambda v: v.get("published") or "1970-01-01", reverse=True
     )
