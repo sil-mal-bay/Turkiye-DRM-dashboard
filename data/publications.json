@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-02-15T15:03:02.019462+00:00",
-  "count": 20,
+  "last_updated": "2026-02-15T15:24:30.940108+00:00",
+  "count": 10,
   "publications": [
     {
       "source": "UNDRR",
-      "title": "Global Assessment Report (GAR) 2025: Resilience pays: financing and investing for our future",
-      "description": "We produce a range of publications by collecting and analysing risk data through a range of tools, knowledge products, and mobilising like-minded partners.",
-      "date": "2026-02-10T00:00:00+00:00",
-      "link": "https://www.undrr.org/gar/gar2025",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Other",
+      "title": "Resilience Maturity Assessment flyer",
       "description": "This flyer provides a concise overview of the Resilience Maturity Assessment (ReMA) tool, developed by UNDRR in collaboration with the Corporate Chief Resilience Officers (CCRO) Network.",
       "date": "2026-02-10T00:00:00+00:00",
-      "link": "https://www.undrr.org/undrr-publication-type/other",
+      "link": "https://www.undrr.org/publication/documents-and-publications/resilience-maturity-assessment-flyer",
       "type": "report"
     },
     {
@@ -28,10 +20,10 @@
     },
     {
       "source": "UNDRR",
-      "title": "Reports",
+      "title": "Strengthening the disaster resilience of SMEs in Barcelona: landscape assessment study",
       "description": "This landscape study aims to assess the current state of SME disaster preparedness, identify capability and resource gaps, and inform targeted interventions, particularly around business continuity plans (BCPs), access to finance and capacity-building.",
       "date": "2026-02-06T00:00:00+00:00",
-      "link": "https://www.undrr.org/undrr-publication-type/reports",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
       "type": "report"
     },
     {
@@ -44,10 +36,10 @@
     },
     {
       "source": "UNDRR",
-      "title": "UNDRR Document",
+      "title": "UNDRR Work Programme 2026-27",
       "description": "This Work Programme for 2026-2027 translates the ambitions of the Strategic Framework into the concrete actions UNDRR will take to lead, empower and accelerate global efforts to reduce disaster risk and safeguard development gains.",
       "date": "2026-01-16T00:00:00+00:00",
-      "link": "https://www.undrr.org/undrr-publication-type/undrr-documents",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
       "type": "report"
     },
     {
@@ -60,106 +52,34 @@
     },
     {
       "source": "UNDRR",
-      "title": "Tool kit",
+      "title": "PATHWAYS TO RESILIENCE:  Stories from MCR2030 Cities",
       "description": "This report captures the stories shared by MCR2030 cities through the online dashboard, providing a snapshot of city progress along the Resilience Roadmap and highlighting case examples that may serve as inspiration and guidance for other cities.",
       "date": "2026-01-09T00:00:00+00:00",
-      "link": "https://www.undrr.org/undrr-publication-type/tool-kits",
+      "link": "https://www.undrr.org/publication/pathways-to-resilience-stories-from-mcr2030-cities",
       "type": "report"
     },
     {
       "source": "UNDRR",
-      "title": "Newsletter",
+      "title": "The Disaster Resilience Scorecard for Cities – Action Guide. Chapter 1: Overview of the survey results",
+      "description": "This action guide aims to support local governments in developing and implementing an action plan to address gaps identified in their resilience strategies based on the results from the use of the UNDRR Disaster Resilience Scorecard for Cities.",
+      "date": "2025-12-19T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/scorecard-actionguide-ch1",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR ONEA and GETI Newsletter 48: Oct-Dec 2025",
       "description": "This newsletter highlights UNDRR ONEA & GETI activities in the last quarter of 2025",
       "date": "2025-12-18T00:00:00+00:00",
-      "link": "https://www.undrr.org/undrr-publication-type/newsletter",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-and-geti-newsletter-48-oct-dec-2025",
       "type": "report"
     },
     {
       "source": "UNDRR",
-      "title": "Global Status of Multi-Hazard Early Warning Systems 2025",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/media/112480/download",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Sendai Framework for Disaster Risk Reduction 2015-2030",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/implementing-sendai-framework/what-sendai-framework",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR Strategic Framework 2026-2030",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/strategic-framework-2026-2030",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR Work Programme 2026-27",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR Annual report 2024",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/annual-report/2024",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "News",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/our-impact/news",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Campaigns",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/campaigns",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Media centre",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/media-centre",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Terminology",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/terminology",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Words into Action",
-      "description": "",
-      "date": "",
-      "link": "https://www.undrr.org/words-action",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "PreventionWeb",
-      "description": "",
-      "date": "",
-      "link": "https://www.preventionweb.net",
+      "title": "International Disaster Resilience Leaders Forum Incheon 2025 - Final Report",
+      "description": "IDRLF 2025 was conducted under the theme of “Strengthening Global Cooperation on Disaster Risk Reduction for a Sustainable Future”, with focus on advancing international collaboration and reinforcing global-local partnerships to accelerate progress",
+      "date": "2025-12-18T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/international-disaster-resilience-leaders-forum-incheon-2025",
       "type": "report"
     }
   ]

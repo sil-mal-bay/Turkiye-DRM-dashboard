@@ -1350,6 +1350,12 @@ def fetch_publications() -> None:
     # --- UNDRR Publications page ---
     print("  Scraping UNDRR publications …")
     undrr_count = 0
+    # Titles that are navigation/category pages, not real publications
+    _NAV_TITLES = {
+        "other", "reports", "tool kit", "tool kits", "newsletter",
+        "newsletters", "campaigns", "media centre", "terminology",
+        "news", "undrr documents", "undrr document",
+    }
     undrr_pub_urls = [
         ("https://www.undrr.org/publications", "undrr.org"),
         ("https://www.preventionweb.net/publications", "preventionweb.net"),
@@ -1358,29 +1364,42 @@ def fetch_publications() -> None:
         try:
             resp = fetch_url(undrr_url)
             soup = BeautifulSoup(resp.text, "html.parser")
-            items = soup.select(
-                "article, .views-row, .node--type-publication, .card, .publication-item"
-            )
+            items = soup.select(".views-row")
             base = f"https://www.{domain}"
             for item in items[:30]:
-                link_tag = item.find("a", href=True)
+                # Use specific title selector (matches learning scraper)
+                link_tag = item.select_one(
+                    "header.mg-card__title a, .mg-card__title a"
+                )
+                if not link_tag:
+                    # Fallback: first link with /publication/ in href
+                    link_tag = item.find(
+                        "a", href=lambda h: h and "/publication/" in h
+                    )
                 if not link_tag:
                     continue
                 title = link_tag.get_text(strip=True)
+                if not title or title.lower() in _NAV_TITLES:
+                    continue
                 href = link_tag.get("href", "")
                 link = (
                     href
                     if href.startswith("http")
                     else f"{base}{href}"
                 )
+                # Skip category/index pages
+                if "/undrr-publication-type/" in link:
+                    continue
                 desc = ""
-                desc_tag = item.find(["p", ".field--name-body", ".summary"])
+                desc_tag = item.select_one(
+                    ".mg-card__description, .field--name-body, p"
+                )
                 if desc_tag:
                     desc = desc_tag.get_text(strip=True)[:500]
                 date_dt = _parse_event_date(item.get_text())
                 date_str = date_dt.isoformat() if date_dt else ""
                 source_label = "UNDRR" if "undrr" in domain else "PreventionWeb"
-                if title and not _DATE_TITLE_PATTERN.match(title):
+                if not _DATE_TITLE_PATTERN.match(title):
                     _add_pub(source_label, title, desc, date_str, link, "report")
                     undrr_count += 1
             print(f"    {domain} publications: {undrr_count}")

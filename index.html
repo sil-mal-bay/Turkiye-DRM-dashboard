@@ -59,7 +59,10 @@
 
   /* Stat Cards */
   .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 24px; }
-  .stat-card { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 12px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); }
+  .stat-card { background: rgba(255,255,255,0.92); backdrop-filter: blur(4px); border-radius: 12px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border: 1px solid rgba(226,232,240,0.8); transition: box-shadow 0.15s, transform 0.15s; cursor: pointer; display: block; }
+  a.stat-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.15); transform: translateY(-2px); }
+  .stat-source { font-size: 10px; color: #94a3b8; margin-top: 8px; }
+  a.stat-card:hover .stat-source { color: #3b82f6; }
   .stat-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; font-weight: 600; margin-bottom: 8px; }
   .stat-value { font-size: 28px; font-weight: 700; }
   .stat-value.red { color: #ef4444; }
@@ -178,16 +181,19 @@
         <div class="stat-label">Earthquakes (7 days)</div>
         <div class="stat-value red" id="eq-count">--</div>
         <div class="stat-sub" id="eq-sub">Loading...</div>
+        <div class="stat-source">USGS &amp; Kandilli &#8599;</div>
       </a>
       <a href="https://www.gdacs.org/floodmerge/index.aspx" target="_blank" class="stat-card" style="text-decoration:none; color:inherit;">
         <div class="stat-label">Active Flood Warnings</div>
         <div class="stat-value amber" id="flood-count">--</div>
         <div class="stat-sub" id="flood-sub">Loading...</div>
+        <div class="stat-source">GDACS &#8599;</div>
       </a>
       <a href="https://www.gdacs.org/" target="_blank" class="stat-card" style="text-decoration:none; color:inherit;">
         <div class="stat-label">Other Hazards</div>
         <div class="stat-value" style="color: #8b5cf6;" id="other-count">--</div>
         <div class="stat-sub" id="other-sub">Loading...</div>
+        <div class="stat-source">GDACS &#8599;</div>
       </a>
     </div>
   </div>

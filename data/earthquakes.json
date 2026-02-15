@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T15:02:00.376149+00:00",
+  "last_updated": "2026-02-15T15:23:30.091298+00:00",
   "count": 16,
   "largest": {
     "source": "Kandilli",
@@ -77,10 +77,10 @@
     {
       "source": "USGS",
       "magnitude": 3.9,
-      "place": "23 km NE of Osmancık, Turkey",
-      "time": "2026-02-14T21:20:48.459000+00:00",
-      "latitude": 41.1406,
-      "longitude": 34.9747,
+      "place": "21 km NE of Osmancık, Turkey",
+      "time": "2026-02-14T21:20:48.548000+00:00",
+      "latitude": 41.1333,
+      "longitude": 34.9572,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9cn"
     },
