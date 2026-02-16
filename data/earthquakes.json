@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T15:44:55.960392+00:00",
-  "count": 16,
+  "last_updated": "2026-02-16T06:14:20.720652+00:00",
+  "count": 15,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -142,16 +142,6 @@
       "latitude": 40.4698,
       "longitude": 30.2258,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "HACET-KIRKAGAC (MANISA) İlksel",
-      "time": "2026-02-09T19:51:41+00:00",
-      "latitude": 39.2148,
-      "longitude": 27.9783,
-      "depth_km": 9.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

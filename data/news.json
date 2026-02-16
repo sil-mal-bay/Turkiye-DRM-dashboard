@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T15:45:02.147746+00:00",
+  "last_updated": "2026-02-16T06:14:27.207530+00:00",
   "count": 10,
   "articles": [
     {
@@ -9,11 +9,11 @@
       "description": "A Turkish meteorologist has developed an early warning system that can detect sudden-onset weather hazards up to 60 hours before they occur, a breakthrough that could strengthen di...",
       "published": "2026-02-15T09:06:08+00:00",
       "link": "https://www.dailysabah.com/turkiye/turkish-scientist-develops-early-warning-system-for-weather-risks/news",
-      "score": 93.0,
+      "score": 86.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 80,
-      "recency_score": 100
+      "recency_score": 90
     },
     {
       "source": "undrr",
@@ -61,11 +61,11 @@
       "description": "UNDRR launches a call for contributions for a new compendium titled&nbsp;“State of Art Policy and Practice of Emerging Technologies in Enhancing Resilience.”",
       "published": "2026-02-11T22:17:59+00:00",
       "link": "https://www.undrr.org/news/call-chapter-submissions-emerging-technologies-enhancing-disaster-resilience",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
