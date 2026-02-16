@@ -144,6 +144,24 @@
   .news-title { font-size: 12px; font-weight: 500; color: #1e293b; line-height: 1.4; }
   .news-time { font-size: 10px; color: #94a3b8; white-space: nowrap; }
 
+  /* Search */
+  .search-wrapper { position: relative; }
+  .search-input { background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 8px 12px 8px 32px; font-size: 13px; color: #fff; width: 240px; outline: none; transition: background 0.15s, border-color 0.15s, width 0.2s; }
+  .search-input::placeholder { color: #94a3b8; }
+  .search-input:focus { background: rgba(255,255,255,0.18); border-color: rgba(255,255,255,0.4); width: 320px; }
+  .search-icon { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: #94a3b8; font-size: 14px; pointer-events: none; }
+  .search-overlay { position: absolute; top: calc(100% + 8px); right: 0; width: 480px; max-height: 70vh; overflow-y: auto; background: rgba(255,255,255,0.97); backdrop-filter: blur(12px); border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.18); border: 1px solid #e2e8f0; display: none; z-index: 999; }
+  .search-overlay.active { display: block; }
+  .search-group-title { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; padding: 12px 16px 6px; border-bottom: 1px solid #f1f5f9; }
+  .search-result { display: block; padding: 10px 16px; border-bottom: 1px solid #f8fafc; text-decoration: none; color: inherit; transition: background 0.1s; }
+  .search-result:hover { background: #f1f5f9; }
+  .search-result-title { font-size: 13px; font-weight: 600; color: #1e293b; line-height: 1.3; }
+  .search-result-title mark { background: #fef08a; color: inherit; border-radius: 2px; padding: 0 1px; }
+  .search-result-meta { font-size: 11px; color: #94a3b8; margin-top: 2px; display: flex; align-items: center; gap: 8px; }
+  .search-result-meta .source-badge { font-size: 9px; font-weight: 700; padding: 1px 6px; border-radius: 3px; text-transform: uppercase; }
+  .search-empty { padding: 24px 16px; text-align: center; color: #94a3b8; font-size: 13px; }
+  .search-hint { padding: 12px 16px; text-align: center; color: #94a3b8; font-size: 12px; }
+
   /* Watermark */
   .mockup-label { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-30deg); font-size: 48px; font-weight: 900; color: rgba(30,41,59,0.04); pointer-events: none; z-index: 1000; white-space: nowrap; letter-spacing: 4px; text-transform: uppercase; }
 </style>
@@ -155,6 +173,11 @@
   <div class="logo">
     Disaster Risk Management <span>Türkiye</span>
     <small>Weekly Briefing Dashboard</small>
+  </div>
+  <div class="search-wrapper">
+    <span class="search-icon">&#128269;</span>
+    <input type="text" class="search-input" id="search-input" placeholder="Search all content..." autocomplete="off">
+    <div class="search-overlay" id="search-overlay"></div>
   </div>
   <div class="update-info" id="update-info">
     <strong>Loading...</strong>
@@ -382,6 +405,11 @@ async function renderPublications() {
     grid.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No recent publications</p>';
     return;
   }
+  searchStore.publications = data.publications.map(p => ({
+    title: p.title, source: p.source, url: p.link || p.url,
+    date: p.date,
+    _search: [p.title, p.description, p.source, p.type].join(' ')
+  }));
   section.style.display = 'block';
   count.textContent = data.publications.length + ' recent';
   const show = data.publications.slice(0, 3);
@@ -411,6 +439,11 @@ async function renderVideos() {
     grid.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No videos available</p>';
     return;
   }
+  searchStore.videos = data.videos.map(v => ({
+    title: v.title, source: v.channel || v.source, url: v.url,
+    date: v.published || v.date,
+    _search: [v.title, v.description, v.channel, v.source].join(' ')
+  }));
   count.textContent = data.videos.length + ' videos';
   const show = data.videos.slice(0, 3);
   grid.innerHTML = show.map(v => {
@@ -441,6 +474,11 @@ async function renderEvents() {
     list.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No upcoming events</p>';
     return;
   }
+  searchStore.events = data.events.map(e => ({
+    title: e.title || e.name, source: e.source, url: e.link,
+    date: e.date,
+    _search: [e.title, e.name, e.source, e.location, e.type].join(' ')
+  }));
   // Filter out events with no valid date
   const validEvents = data.events.filter(e => e.date && !isNaN(new Date(e.date).getTime()));
   count.textContent = validEvents.length + ' upcoming';
@@ -480,6 +518,11 @@ async function renderLearning() {
     grid.innerHTML = '<p style="color:#94a3b8; font-size:13px;">No courses available</p>';
     return;
   }
+  searchStore.learning = data.items.map(item => ({
+    title: item.title, source: item.source, url: item.link || item.url,
+    date: null,
+    _search: [item.title, item.description, item.source, item.type, item.meta].join(' ')
+  }));
   count.textContent = data.items.length + ' available';
   const show = data.items.slice(0, 4);
   grid.innerHTML = show.map(item => {
@@ -506,6 +549,11 @@ async function renderNews() {
     strip.innerHTML = '<p style="color:#94a3b8; font-size:12px;">No matching articles</p>';
     return;
   }
+  searchStore.news = data.articles.map(a => ({
+    title: a.title, source: a.source, url: a.url || a.link,
+    date: a.published || a.date,
+    _search: [a.title, a.description, a.source].join(' ')
+  }));
   count.innerHTML = data.articles.length + ' articles &middot; <a href="#" class="sidebar-link">All news &rarr;</a>';
   strip.innerHTML = data.articles.map(a => {
     const url = a.url || a.link || '#';
@@ -540,6 +588,87 @@ async function renderUpdateInfo() {
   }
 }
 
+// ---------------------------------------------------------------------------
+// Search
+// ---------------------------------------------------------------------------
+const searchStore = {};  // populated by render functions
+
+function initSearch() {
+  const input = document.getElementById('search-input');
+  const overlay = document.getElementById('search-overlay');
+  let debounce = null;
+
+  input.addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => runSearch(input.value.trim()), 200);
+  });
+
+  input.addEventListener('focus', () => {
+    if (input.value.trim().length >= 2) runSearch(input.value.trim());
+  });
+
+  // Close on Escape or click outside
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') { overlay.classList.remove('active'); input.blur(); }
+  });
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.search-wrapper')) overlay.classList.remove('active');
+  });
+}
+
+function runSearch(query) {
+  const overlay = document.getElementById('search-overlay');
+  if (query.length < 2) { overlay.classList.remove('active'); return; }
+
+  const q = query.toLowerCase();
+  const sections = [
+    { key: 'news', label: 'News', items: searchStore.news || [] },
+    { key: 'videos', label: 'Videos & Webinars', items: searchStore.videos || [] },
+    { key: 'publications', label: 'Publications', items: searchStore.publications || [] },
+    { key: 'events', label: 'Events', items: searchStore.events || [] },
+    { key: 'learning', label: 'Learning Materials', items: searchStore.learning || [] },
+  ];
+
+  let html = '';
+  let totalResults = 0;
+
+  for (const sec of sections) {
+    const matches = sec.items.filter(item => {
+      const hay = (item._search || '').toLowerCase();
+      return hay.includes(q);
+    });
+    if (matches.length === 0) continue;
+    totalResults += matches.length;
+    html += `<div class="search-group-title">${sec.label} (${matches.length})</div>`;
+    for (const item of matches.slice(0, 8)) {
+      const cls = sourceBadgeClass(item.source);
+      const style = sourceBadgeStyle(cls);
+      const title = highlightMatch(item.title || '', query);
+      const date = item.date ? formatDate(item.date) : '';
+      html += `<a href="${item.url || '#'}" target="_blank" class="search-result">
+        <div class="search-result-title">${title}</div>
+        <div class="search-result-meta">
+          <span class="source-badge" style="${style}">${item.source || ''}</span>
+          ${date ? `<span>${date}</span>` : ''}
+        </div>
+      </a>`;
+    }
+  }
+
+  if (totalResults === 0) {
+    html = `<div class="search-empty">No results for "${query}"</div>`;
+  }
+
+  overlay.innerHTML = html;
+  overlay.classList.add('active');
+}
+
+function highlightMatch(text, query) {
+  if (!query) return text;
+  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return text.replace(new RegExp(`(${escaped})`, 'gi'), '<mark>$1</mark>');
+}
+
 // Load everything
 Promise.all([
   renderAlerts(),
@@ -552,7 +681,7 @@ Promise.all([
   renderLearning(),
   renderNews(),
   renderUpdateInfo()
-]);
+]).then(() => initSearch());
 </script>
 </body>
 </html>
