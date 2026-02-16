@@ -1,6 +1,6 @@
 # Turkiye Disaster Risk Management Dashboard -- Briefing Note
 
-**Date:** February 15, 2026
+**Date:** February 16, 2026
 **Prepared by:** Alex Panetta (project lead)
 **Prepared for:** World Bank Turkey Disaster Management Team
 
@@ -75,14 +75,25 @@ All data sources are free and require no authentication unless noted.
 - **GDACS:** Landslide, drought, and wildfire alerts filtered for Turkey.
 
 ### Hazard Cards (frontend)
-- Earthquake, flood, and other hazard stat cards are **clickable links** to their respective source monitoring pages (USGS earthquake map, GDACS flood merge, GDACS main dashboard).
+- Earthquake, flood, and other hazard stat cards are **clickable links** to their respective source monitoring pages:
+  - Earthquakes → USGS earthquake map (filtered to Turkey bounding box)
+  - Floods → GDACS flood report page (`gdacs.org/report.aspx?eventtype=FL`)
+  - Other Hazards → GDACS main dashboard
+- Cards have **hover effects** (lift + shadow) and **source labels** ("USGS & Kandilli ↗", "GDACS ↗") to visually indicate they are clickable.
 
 ### News
 - **UNDRR RSS** (`undrr.org/rss.xml`): Primary DRM-specific source. Provides disaster risk management, resilience, and preparedness content. Free, no API key required.
 - **General news RSS feeds:** Al Jazeera, Anadolu Agency, Daily Sabah, Hurriyet Daily News, BBC, ReliefWeb. These carry Turkey/disaster stories during active events. All free, no API keys required.
 
 ### Videos
-- **YouTube Data API v3:** Pulls videos from GFDRR, UNDRR, World Bank, World Bank Live, and UNDP channels. Official channel uploads bypass keyword filtering (trusted source). Search results are filtered for DRM relevance. **Requires YOUTUBE_API_KEY** (Google Cloud). Free tier provides 10,000 quota units/day.
+- **YouTube Data API v3 (primary):** Pulls recent uploads from GFDRR, UNDRR, World Bank, World Bank Live, and UNDP channels. **All videos are filtered** through a DRM relevance keyword regex — no channel gets a bypass. **Requires YOUTUBE_API_KEY** (Google Cloud). Free tier provides 10,000 quota units/day.
+- **YouTube RSS feeds (fallback):** Used only when no API key is available. Note: YouTube RSS feeds have been intermittently returning 404 errors since late December 2025 (known Google bug), which is why the API is the primary path.
+
+#### Video Relevance Keywords
+Videos must match at least one of these terms (in title or description) to be included:
+- **Hazard types:** earthquake, flood/flooding, disaster, seismic, tsunami, drought, wildfire, landslide, mudslide, extreme heat, heat wave
+- **DRM terms:** disaster risk, hazard, early warning, preparedness, climate resilience/adaptation, reconstruction, DRM, DRR, GFDRR, civil protection, emergency management, infrastructure resilience, building code, retrofit, coastal resilience, urban resilience, resilient housing/infrastructure
+- **Turkey-specific:** Türkiye, Turkey, deprem, sel, afet, heyelan, calor extremo
 
 ### Events
 - **GFDRR events page** (`gfdrr.org/en/events`): Scraped (Drupal server-rendered HTML). CSS selectors: `.views-row`, `.views-field-field-date-1`, `.views-field-title`.
@@ -95,8 +106,12 @@ All data sources are free and require no authentication unless noted.
 - **GFDRR publications page** (`gfdrr.org/en/publications`): Scraped for publication titles and links. Drupal HTML with `.views-row` selectors. Typically returns ~12 items.
 - **UNDRR publications page** (`undrr.org/publications`): Scraped using `header.mg-card__title a` selectors. Typically returns ~10 items.
 
+### Learning Materials (frontend)
+- Learning material cards are **clickable `<a>` tags** linking directly to the source document (World Bank, GFDRR, or UNDRR page).
+- Cards have hover effects (lift + shadow) and color-coded top borders by source (blue = GFDRR, green = UNDRR, amber = World Bank).
+
 ### Publications
-- **UNDRR publications** (primary): Scraped from `undrr.org/publications`. Returns ~20 items.
+- **UNDRR publications** (primary): Scraped from `undrr.org/publications` using `header.mg-card__title a` selectors. Navigation titles ("Other", "Reports", "Tool kit") are filtered out via a blocklist. Category page URLs (`/undrr-publication-type/`) are also excluded. Returns ~10 items.
 - **ReliefWeb Reports API** (currently failing -- needs registered appname).
 - **GFDRR RSS** (currently returning malformed XML).
 
@@ -200,7 +215,7 @@ Each content type has distinct display and expiration rules:
 | Earthquakes | Rolling 7-day window | Magnitude descending | Drops after 7 days. Only M3.0+ from Kandilli. |
 | Active Alerts | 48 hours | Most recent first | M4.0+ earthquakes or medium+ flood warnings within 48 hours. |
 | News | 14-day window | Ranked by credibility + recency + Turkey boost | Drops after 14 days. Turkey articles boosted 2x. |
-| Videos / Webinars | Never expire | Newest first | Official channel uploads bypass keyword filter. |
+| Videos / Webinars | Never expire | Newest first | All videos filtered through DRM relevance keywords. |
 | Upcoming Events | 60-day forward window | Closest date first | Removed after the event date passes. Undated events shown at end. |
 | Learning Materials | Refreshed daily | By source (World Bank, GFDRR, UNDRR) | 2-year lookback for World Bank documents. |
 | Publications | Refreshed daily | By date | UNDRR publications (primary source). |
@@ -236,6 +251,7 @@ The following external sources are currently non-functional:
 
 | Source | Issue | Impact |
 |---|---|---|
+| YouTube RSS feeds | Intermittent 404 errors (known Google bug since late Dec 2025) | No impact — YouTube Data API v3 is used as primary. RSS is fallback only. |
 | Reuters RSS | Returns malformed XML | No Reuters articles. Low impact (rarely carries DRM content). |
 | TRT World RSS | Returns HTML instead of XML | No TRT articles. Low impact. |
 | Anadolu Agency RSS | Returns 0 entries | No Anadolu articles during quiet periods. Works during active Turkey events. |
@@ -277,7 +293,7 @@ Defined in `requirements.txt`:
 | `anthropic` (>=0.40.0) | Claude API client (translation) |
 | `python-dotenv` (>=1.0.0) | Loading `.env` file for local development |
 | `beautifulsoup4` (>=4.12.0) | HTML parsing for web scraping |
-| `python-dateutil` | Event date parsing (installed as transitive dependency of feedparser) |
+| `python-dateutil` (>=2.8.0) | Event date parsing (UNDRR event date ranges) |
 
 ---
 
@@ -390,6 +406,7 @@ feedparser>=6.0.0
 anthropic>=0.40.0
 python-dotenv>=1.0.0
 beautifulsoup4>=4.12.0
+python-dateutil>=2.8.0
 ```
 
 ---
