@@ -183,7 +183,7 @@
         <div class="stat-sub" id="eq-sub">Loading...</div>
         <div class="stat-source">USGS &amp; Kandilli &#8599;</div>
       </a>
-      <a href="https://www.gdacs.org/floodmerge/index.aspx" target="_blank" class="stat-card" style="text-decoration:none; color:inherit;">
+      <a href="https://www.gdacs.org/report.aspx?eventtype=FL" target="_blank" class="stat-card" style="text-decoration:none; color:inherit;">
         <div class="stat-label">Active Flood Warnings</div>
         <div class="stat-value amber" id="flood-count">--</div>
         <div class="stat-sub" id="flood-sub">Loading...</div>
@@ -364,7 +364,8 @@ async function renderOtherHazards() {
   const data = await loadJSON('other_hazards.json');
   if (!data) return;
   document.getElementById('other-count').textContent = data.count || 0;
-  const types = data.types || data.items?.map(i => i.type).filter(Boolean);
+  const hazardList = data.hazards || data.items || [];
+  const types = data.types || hazardList.map(i => i.type).filter(Boolean);
   document.getElementById('other-sub').textContent = types && types.length
     ? [...new Set(types)].join(', ')
     : 'No active hazards';
@@ -485,12 +486,13 @@ async function renderLearning() {
     const cls = sourceBadgeClass(item.source);
     const borderClass = cls + '-border';
     const typeClass = (item.type || 'course').toLowerCase().replace(/\s+/g, '');
-    return `<div class="learn-card ${borderClass}">
+    const url = item.link || item.url || '#';
+    return `<a href="${url}" target="_blank" class="learn-card ${borderClass}" style="text-decoration:none; color:inherit; display:block;">
       <div class="learn-type ${typeClass}">${item.type || 'Course'}</div>
       <div class="learn-title">${item.title}</div>
       <div class="learn-desc">${item.description || ''}</div>
       <div class="learn-meta">${item.source || ''} | ${item.meta || ''}</div>
-    </div>`;
+    </a>`;
   }).join('');
 }
 

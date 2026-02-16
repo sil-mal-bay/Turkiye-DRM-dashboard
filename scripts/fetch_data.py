@@ -682,10 +682,18 @@ YOUTUBE_CHANNELS = {
     "UNDP": "UCagCOAfZBpsTOlAJq_vcWbw",
 }
 
-# Videos must mention at least one of these keywords in title or description
+# Videos must mention at least one of these DRM-specific terms.
+# Single words like "risk", "climate", "resilience" are too broad — they
+# match economic/political content.  Use phrases or disaster-specific terms.
 VIDEO_RELEVANCE_KEYWORDS = re.compile(
-    r"earthquake|flood|disaster|resilience|risk|drm|seismic|infrastructure"
-    r"|reconstruction|climate|hazard|türkiye|turkey|deprem|sel|afet",
+    r"earthquake|flood(?:ing)?|disaster|seismic|tsunami|drought|wildfire"
+    r"|landslide|mudslide|hazard|early\s+warning|preparedness"
+    r"|disaster\s+risk|climate\s+(?:resilience|adaptation)|reconstruction"
+    r"|drm\b|drr\b|gfdrr|civil\s+protection|emergency\s+management"
+    r"|infrastructure\s+resilien|building\s+code|retrofit"
+    r"|extreme\s+heat|heat\s+wave|calor\s+extremo"
+    r"|coastal\s+resilien|urban\s+resilien|resilient\s+(?:housing|infrastructure)"
+    r"|türkiye|turkey|deprem|sel\b|afet|heyelan",
     re.IGNORECASE,
 )
 
@@ -697,8 +705,11 @@ def fetch_videos() -> None:
     seen_ids = set()
 
     def _add_video(vid_id, title, description, channel, published, thumbnail=None):
-        """De-duplicate and add a video."""
+        """De-duplicate and add a video.  Must match DRM keywords."""
         if not vid_id or vid_id in seen_ids:
+            return
+        combined = f"{title} {description or ''}"
+        if not VIDEO_RELEVANCE_KEYWORDS.search(combined):
             return
         seen_ids.add(vid_id)
         videos.append({
@@ -711,41 +722,9 @@ def fetch_videos() -> None:
             "url": f"https://www.youtube.com/watch?v={vid_id}",
         })
 
-    # PRIMARY: YouTube RSS feeds (free, no API key needed).
-    # Each channel publishes an Atom feed with its 15 most recent uploads.
-    for name, channel_id in YOUTUBE_CHANNELS.items():
-        print(f"  Fetching {name} RSS …")
-        rss_url = (
-            f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-        )
-        try:
-            feed = parse_feed(rss_url)
-            before = len(videos)
-            for entry in feed.entries:
-                vid_id = entry.get("yt_videoid") or ""
-                if not vid_id:
-                    link = entry.get("link", "")
-                    m = re.search(r"v=([a-zA-Z0-9_-]{11})", link)
-                    if m:
-                        vid_id = m.group(1)
-                _add_video(
-                    vid_id=vid_id,
-                    title=entry.get("title", ""),
-                    description=entry.get("summary", ""),
-                    channel=name,
-                    published=entry.get("published", ""),
-                    thumbnail=entry.get("media_thumbnail", [{}])[0].get("url")
-                    if entry.get("media_thumbnail")
-                    else None,
-                )
-            added = len(videos) - before
-            print(f"    {name}: {added} videos")
-        except Exception as exc:
-            print(f"    {name} RSS failed: {exc}")
-
-    # FALLBACK: YouTube Data API v3 (if RSS returned nothing and key is set)
-    if not videos and YOUTUBE_API_KEY:
-        print("  RSS returned no videos — trying YouTube Data API …")
+    # PRIMARY: YouTube Data API v3 (reliable, requires YOUTUBE_API_KEY).
+    if YOUTUBE_API_KEY:
+        print("  Using YouTube Data API v3 …")
         for name, channel_id in YOUTUBE_CHANNELS.items():
             print(f"  Fetching {name} via API …")
             try:
@@ -759,6 +738,7 @@ def fetch_videos() -> None:
                     continue
                 items = ch_resp.get("items", [])
                 if not items:
+                    print(f"    {name}: no channel data returned")
                     continue
                 uploads_id = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
                 pl_url = (
@@ -785,6 +765,41 @@ def fetch_videos() -> None:
                 print(f"    {name}: {len(videos) - before} videos")
             except Exception as exc:
                 print(f"    {name} API failed: {exc}")
+
+    # FALLBACK: YouTube RSS feeds (free, no API key needed).
+    # YouTube RSS has been intermittently broken since late 2025, so only
+    # used when no API key is available.
+    if not videos:
+        print("  API unavailable — trying YouTube RSS feeds …")
+        for name, channel_id in YOUTUBE_CHANNELS.items():
+            print(f"  Fetching {name} RSS …")
+            rss_url = (
+                f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+            )
+            try:
+                feed = parse_feed(rss_url)
+                before = len(videos)
+                for entry in feed.entries:
+                    vid_id = entry.get("yt_videoid") or ""
+                    if not vid_id:
+                        link = entry.get("link", "")
+                        m = re.search(r"v=([a-zA-Z0-9_-]{11})", link)
+                        if m:
+                            vid_id = m.group(1)
+                    _add_video(
+                        vid_id=vid_id,
+                        title=entry.get("title", ""),
+                        description=entry.get("summary", ""),
+                        channel=name,
+                        published=entry.get("published", ""),
+                        thumbnail=entry.get("media_thumbnail", [{}])[0].get("url")
+                        if entry.get("media_thumbnail")
+                        else None,
+                    )
+                added = len(videos) - before
+                print(f"    {name}: {added} videos")
+            except Exception as exc:
+                print(f"    {name} RSS failed: {exc}")
 
     # Sort newest first
     videos.sort(
