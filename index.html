@@ -164,6 +164,61 @@
 
   /* Watermark */
   .mockup-label { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-30deg); font-size: 48px; font-weight: 900; color: rgba(30,41,59,0.04); pointer-events: none; z-index: 1000; white-space: nowrap; letter-spacing: 4px; text-transform: uppercase; }
+
+  /* ---- Mobile Responsive ---- */
+  @media (max-width: 768px) {
+    /* Header: stack vertically */
+    .source-ribbon { flex-wrap: wrap; padding: 12px 16px; gap: 8px; }
+    .logo { font-size: 20px; width: 100%; }
+    .logo small { font-size: 11px; }
+    .search-wrapper { order: 3; width: 100%; }
+    .search-input { width: 100%; }
+    .search-input:focus { width: 100%; }
+    .search-overlay { width: 100%; right: 0; left: 0; }
+    .update-info { order: 2; text-align: left; font-size: 11px; }
+
+    /* Alert strip */
+    .alert-strip { padding: 8px 16px; }
+    .alert-text { font-size: 12px; }
+
+    /* Container: stack sidebar below main content */
+    .container { flex-direction: column; padding: 16px; gap: 16px; }
+    .news-sidebar { width: 100%; }
+
+    /* All grids: single column */
+    .stat-grid, .stat-grid[style] { grid-template-columns: 1fr !important; gap: 10px; }
+    .pub-grid { grid-template-columns: 1fr; gap: 12px; }
+    .video-grid { grid-template-columns: 1fr; gap: 12px; }
+    .event-list { grid-template-columns: 1fr; gap: 10px; }
+    .learn-grid { grid-template-columns: 1fr; gap: 12px; }
+
+    /* Section headers */
+    .section-header { flex-wrap: wrap; gap: 6px; }
+    .section-title { font-size: 18px; }
+    .section-count { font-size: 12px; }
+
+    /* Stat cards: horizontal layout on mobile */
+    .stat-card { display: flex; align-items: center; gap: 12px; padding: 14px 16px; }
+    .stat-label { margin-bottom: 0; font-size: 10px; flex: 1; }
+    .stat-value { font-size: 22px; }
+    .stat-sub { display: none; }
+    .stat-source { display: none; }
+
+    /* Video thumb smaller */
+    .video-thumb { height: 180px; }
+
+    /* Section spacing */
+    .section { margin-bottom: 24px; }
+  }
+
+  /* Tablet: 2-column grids */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .container { padding: 20px; }
+    .news-sidebar { width: 240px; }
+    .pub-grid { grid-template-columns: repeat(2, 1fr); }
+    .video-grid { grid-template-columns: repeat(2, 1fr); }
+    .learn-grid { grid-template-columns: repeat(2, 1fr); }
+  }
 </style>
 </head>
 <body>
