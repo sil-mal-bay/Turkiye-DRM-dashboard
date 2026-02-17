@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:44:22.790183+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — TAHTAKOPRU-VEZIRKOPRU (SAMSUN) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-02-15T00:20:47+00:00",
-      "location": "TAHTAKOPRU-VEZIRKOPRU (SAMSUN) İlksel",
-      "latitude": 41.1062,
-      "longitude": 34.9468,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-02-17T07:41:46.354743+00:00",
+  "count": 0,
+  "alerts": []
 }

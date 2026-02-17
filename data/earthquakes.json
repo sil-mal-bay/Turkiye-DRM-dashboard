@@ -1,78 +1,38 @@
 {
-  "last_updated": "2026-02-16T07:43:18.524744+00:00",
-  "count": 15,
+  "last_updated": "2026-02-17T07:40:28.927099+00:00",
+  "count": 12,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
-    "place": "TAHTAKOPRU-VEZIRKOPRU (SAMSUN) İlksel",
-    "time": "2026-02-15T00:20:47+00:00",
-    "latitude": 41.1062,
-    "longitude": 34.9468,
-    "depth_km": 7.7,
+    "place": "KARALARGUNEY-OSMANCIK (CORUM) İlksel",
+    "time": "2026-02-15T00:20:48+00:00",
+    "latitude": 41.1095,
+    "longitude": 34.933,
+    "depth_km": 7.3,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
     {
       "source": "Kandilli",
       "magnitude": 4.1,
-      "place": "TAHTAKOPRU-VEZIRKOPRU (SAMSUN) İlksel",
-      "time": "2026-02-15T00:20:47+00:00",
-      "latitude": 41.1062,
-      "longitude": 34.9468,
-      "depth_km": 7.7,
+      "place": "KARALARGUNEY-OSMANCIK (CORUM) İlksel",
+      "time": "2026-02-15T00:20:48+00:00",
+      "latitude": 41.1095,
+      "longitude": 34.933,
+      "depth_km": 7.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "GEDIKTEPE-KEMAH (ERZINCAN) İlksel",
-      "time": "2026-02-11T00:38:27+00:00",
-      "latitude": 39.6938,
-      "longitude": 38.827,
-      "depth_km": 3.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4,
-      "place": "54 km SE of Emporeío, Greece",
-      "time": "2026-02-10T04:34:59.136000+00:00",
-      "latitude": 36.0251,
-      "longitude": 25.8932,
-      "depth_km": 118.481,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7km"
     }
   ],
   "events": [
     {
       "source": "Kandilli",
       "magnitude": 4.1,
-      "place": "TAHTAKOPRU-VEZIRKOPRU (SAMSUN) İlksel",
-      "time": "2026-02-15T00:20:47+00:00",
-      "latitude": 41.1062,
-      "longitude": 34.9468,
-      "depth_km": 7.7,
+      "place": "KARALARGUNEY-OSMANCIK (CORUM) İlksel",
+      "time": "2026-02-15T00:20:48+00:00",
+      "latitude": 41.1095,
+      "longitude": 34.933,
+      "depth_km": 7.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "GEDIKTEPE-KEMAH (ERZINCAN) İlksel",
-      "time": "2026-02-11T00:38:27+00:00",
-      "latitude": 39.6938,
-      "longitude": 38.827,
-      "depth_km": 3.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4,
-      "place": "54 km SE of Emporeío, Greece",
-      "time": "2026-02-10T04:34:59.136000+00:00",
-      "latitude": 36.0251,
-      "longitude": 25.8932,
-      "depth_km": 118.481,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7km"
     },
     {
       "source": "USGS",
@@ -86,16 +46,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-02-10T07:34:58+00:00",
-      "latitude": 36.0248,
-      "longitude": 25.8552,
-      "depth_km": 118.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.7,
       "place": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA) İlksel",
       "time": "2026-02-14T14:34:52+00:00",
@@ -106,12 +56,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-02-10T07:55:18+00:00",
-      "latitude": 35.3433,
-      "longitude": 23.336,
-      "depth_km": 4.8,
+      "magnitude": 3.3,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-02-17T03:07:31+00:00",
+      "latitude": 39.2332,
+      "longitude": 28.9763,
+      "depth_km": 7.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -167,6 +117,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-02-14T01:39:17+00:00",
+      "latitude": 35.9013,
+      "longitude": 23.1323,
+      "depth_km": 1.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "BAYRAKLI-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-02-12T13:55:25+00:00",
       "latitude": 39.1545,
@@ -176,22 +136,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "ISIKLAR-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-02-10T16:24:32+00:00",
-      "latitude": 39.1638,
-      "longitude": 28.2932,
-      "depth_km": 9.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.0,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-02-13T20:50:04+00:00",
-      "latitude": 34.5348,
-      "longitude": 23.6913,
-      "depth_km": 14.6,
+      "latitude": 34.5018,
+      "longitude": 23.662,
+      "depth_km": 8.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
