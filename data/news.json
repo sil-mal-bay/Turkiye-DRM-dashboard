@@ -1,33 +1,7 @@
 {
-  "last_updated": "2026-02-18T07:40:53.256335+00:00",
-  "count": 12,
+  "last_updated": "2026-02-19T07:39:30.006435+00:00",
+  "count": 9,
   "articles": [
-    {
-      "source": "reliefweb",
-      "title": "Situation Report - Sri Lanka 18th February 2026 at 1000hrs - (Additional details included) – Ditwah",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/20/65/2065a891-2a0d-4bec-b593-9b9e71176957.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
-      "published": "2026-02-18T06:25:34+00:00",
-      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-18th-february-2026-1000hrs-additional-details-included-ditwah",
-      "score": 87.75,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
-    },
-    {
-      "source": "reliefweb",
-      "title": "UNICEF Myanmar Humanitarian Situation Report No. 4, January-December 2025",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Country: Myanmar</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c7/fb/c7fba542-6162-42e4-933a-53d8b5e33ed5.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p><strong>Highlights</strong></p>\n<ul><li>Children and families in Myanmar faced an escalating humanitarian crisis in 2025, as conflict, repeated displacement, public health emergencies, and natural disasters—including a major earthquake—left millions of children without access to safe shelter, education, healthcare, and protection services. In 2025, 21.9 million people, including 6.9 million children, were in need of humanitarian assistance.</li>\n<li>A 7.7‑magnitude earthquake on 28 March hit central Myanmar, where over half of all vulnerable displaced population reside, destroying water, sanitation, health, and education infrastructure and pushing an additional two million people into acute humanitarian need.</li>\n<li>Despite the challenging environment, and amid funding constraints, UNICEF and its partners reached 4 million people, including 3.2 million children, in 2025. Nearly 2.5 million children received vitamin A supplementation, over 1.2 million people were reached with safe water, 747,375 children accessed learning, and 23,025 children with disabilities were supported with specialized services.</li>\n<li>UNICEF secured only 25 per cent of its US$ 346.8M appeal, leaving a 75 per cent funding gap that significantly limited scale‑up of its critical humanitarian and earthquake‑response service.</li>\n</ul><p><strong>Situation Overview &amp; Humanitarian Needs</strong></p>\n<p>In 2025, Myanmar remained the world’s most fragmented conflict and second-highest globally in conflict intensity,1 leading to a deepening humanitarian crisis for children and families. By the end of December, over 3.6 million people2 were internally displaced,3 an increase of more than 150,000 newly displaced individuals compared to 2024. Most newly displaced populations are from Sagaing, Kayin, Tanintharyi, and Ayeyarwaddy regions, often fleeing multiple times, only to end up in informal shelters with limited access to food, healthcare, and clean water.</p>\n<p>Children’s rights to education and safety were severely affected. Ongoing conflict, school destruction, teacher shortages, and severe access restrictions limited service delivery, while areas hit by both conflict and the 2025 earthquake faced critical shortages of safe learning spaces, learning materials, and mental health and psychosocial support (MHPSS).</p>\n<p>Protection risks intensified as families under extreme stress resorted to harmful coping strategies, including child labour, unsafe migration, family separation, and early marriage. Landmine and explosive ordnance contamination remained a major threat, with children making up over a quarter of casualties in the first half of 2025.</p>\n<p>Displacement continued to rise particularly across Kachin, the northwest and northern and southern Shan, where airstrikes, shifting frontlines, prolonged banking and telecommunications disruption, widespread landmine contamination, and service disruptions heightened risks of exploitation and psychological distress. In Rakhine state, intensified conflict and movement restrictions left an estimated 500,000 displaced people - including a 235,862 stateless population6 – at risk of harassment and abuse.</p>\n<p>The humanitarian crisis severely worsened in March 2025 when a 7.7 magnitude earthquake struck central Myanmar, followed by 262 aftershocks ranging from 5.5 to 3.0 magnitude,8 damaging more than 10,000 water systems impacting over 92,457 people’s access to safe water, damaging 10,471 household latrines in the 401 locations assessed in 29 townships, and depriving 45,812 people of access to safe sanitation facilities.9 Seasonal disasters compounded the situation: flash floods from late May to July affected 195,000 people across multiple states and regions.</p>\n<p>Disease outbreaks, hunger and inadequate WASH conditions intensified the risks to child survival. Health risks heightened in overcrowded displacement settings. In 2025, as per WHO, a total of 2,378 acute watery diarrhoea (AWD) cases were reported10 across nine states and regions, with the majority occurring in Yangon, Kayin, Chin, and Rakhine. Specific outbreaks were reported in Kayin state, bordering Thailand, in January and Chin state in December.11 Myanmar remained classified as a hunger hotspot of “very high concern” in the latest global food security update,12 and 410,000 children under five, along with pregnant and breastfeeding women, were projected to be suffering from acute malnutrition between June 2025 and May 2026.13 Joint mapping conducted by Health, Nutrition and WASH clusters identified 76 townships at very high risk of AWD outbreaks, primarily located in conflict- and disaster-affected areas.</p>\n<p>Humanitarian access remained critically constrained, with over one-third of townships extremely difficult to access (Level 3)14 due to active hostilities, administrative restrictions, and insecurity. Conflict hotspots like Rakhine, Sagaing, and Magway accounted for 69 per cent of incidents.15 Furthermore, 58 per cent of the 6.7 million people targeted for assistance reside in high-restriction areas, where airstrikes, landmines, and telecommunications blackouts frequently force the suspension of life-saving operations.</p>",
-      "published": "2026-02-18T03:19:27+00:00",
-      "link": "https://reliefweb.int/report/myanmar/unicef-myanmar-humanitarian-situation-report-no-4-january-december-2025",
-      "score": 87.75,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
-    },
     {
       "source": "undrr",
       "title": "Ensuring early warnings and early action reach fragile, and conflict-affected people",
@@ -35,11 +9,11 @@
       "description": "From 9 to 11 December 2025, stakeholders from 9 member states were brought together in an effort to improve the often fragmented and at times non-existent early warning systems available in conflict and post-conflict situations on the African continent.",
       "published": "2026-02-16T14:21:25+00:00",
       "link": "https://www.undrr.org/news/ensuring-early-warnings-and-early-action-reach-fragile-and-conflict-affected-people",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -48,11 +22,11 @@
       "description": "Kamal Kishore reflects on the future of disaster risk reduction – a future challenged by growing complexity, but made navigable by new AI-enabled capabilities. We must make the right choices now so that we use AI not only to do more, but to do better.",
       "published": "2026-02-16T10:45:46+00:00",
       "link": "https://www.undrr.org/news/we-can-and-must-harness-power-ai-tackle-complexity-disaster-risk",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -61,11 +35,11 @@
       "description": "In an effort to further strengthen Liberia’s capacities for guaranteeing Early Warmings for All (EW4ALL), a study tour and training was held in Abuja, Nigeria, from 1 to 5 December 2025, with a delegation from Liberia and Nigerian national institutions.",
       "published": "2026-02-13T12:44:22+00:00",
       "link": "https://www.undrr.org/news/liberia-draws-lessons-nigerias-disaster-risk-management-systems",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -74,11 +48,11 @@
       "description": "In December 2025, a study tour organized by UNDRR enabled delegations from Ethiopia and South Sudan to learn from Mozambique’s experience in establishing and operationalizing the National Multi-Hazard Early Warning Situation Room at the INGD.",
       "published": "2026-02-13T12:23:44+00:00",
       "link": "https://www.undrr.org/news/ethiopia-and-south-sudan-learn-mozambiques-early-warning-systems",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -87,11 +61,11 @@
       "description": "The Global Centre For Environment and Disaster Management is committed to building resilient communities and promoting sustainable ecosystems through integrated approaches to disaster risk reduction, environmental protection, and emergency response.",
       "published": "2026-02-13T10:08:39+00:00",
       "link": "https://www.undrr.org/organization/global-centre-environment-and-disaster-management",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -139,19 +113,6 @@
       "description": "This month from UNDRR: DRC launches Early Warnings for All, Translating strategy into action through Work Programme 2026-2027, Managing growing wildfire risks, Disaster data as the lever for climate action, and much more",
       "published": "2026-02-05T08:52:13+00:00",
       "link": "https://www.undrr.org/news/undrr-january-2026-newsletter-0",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Webinar series on strengthening the disaster resilience of SMEs",
-      "original_title": null,
-      "description": "This three-part webinar series will showcase key outcomes, practical lessons, and transferable approaches from Barcelona, Bridgetown and Sendai on SME resilience.",
-      "published": "2026-02-04T18:41:19+00:00",
-      "link": "https://www.undrr.org/event/webinar-series-strengthening-disaster-resilience-smes",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

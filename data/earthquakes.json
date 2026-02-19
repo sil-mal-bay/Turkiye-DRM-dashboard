@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-18T07:40:46.832702+00:00",
-  "count": 16,
+  "last_updated": "2026-02-19T07:39:21.398833+00:00",
+  "count": 19,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -47,6 +47,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.7,
+      "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-18T15:02:47+00:00",
+      "latitude": 39.197,
+      "longitude": 28.3098,
+      "depth_km": 13.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.7,
       "place": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA) İlksel",
       "time": "2026-02-14T14:34:52+00:00",
       "latitude": 40.0355,
@@ -86,12 +96,32 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "SAFIBEY-GEYVE (SAKARYA) İlksel",
-      "time": "2026-02-13T02:01:49+00:00",
-      "latitude": 40.4698,
-      "longitude": 30.2258,
-      "depth_km": 5.0,
+      "magnitude": 3.1,
+      "place": "CAMLIBEL-POZANTI (ADANA) İlksel",
+      "time": "2026-02-19T08:07:30+00:00",
+      "latitude": 37.4337,
+      "longitude": 35.0948,
+      "depth_km": 5.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "BAYRAMDERE-KARACABEY (BURSA) İlksel",
+      "time": "2026-02-18T22:43:14+00:00",
+      "latitude": 40.3693,
+      "longitude": 28.3767,
+      "depth_km": 4.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "GOKOVA KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-02-18T16:26:43+00:00",
+      "latitude": 36.936,
+      "longitude": 27.5635,
+      "depth_km": 4.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -126,12 +156,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
+      "magnitude": 3.0,
       "place": "BAYRAKLI-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-02-12T13:55:25+00:00",
-      "latitude": 39.1545,
-      "longitude": 28.2482,
-      "depth_km": 15.7,
+      "time": "2026-02-18T11:03:13+00:00",
+      "latitude": 39.1542,
+      "longitude": 28.2417,
+      "depth_km": 10.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
