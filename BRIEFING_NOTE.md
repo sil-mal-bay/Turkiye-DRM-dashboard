@@ -1,6 +1,6 @@
 # Turkiye Disaster Risk Management Dashboard -- Briefing Note
 
-**Date:** February 16, 2026
+**Date:** February 19, 2026
 **Prepared by:** Alex Panetta (project lead)
 **Prepared for:** World Bank Turkey Disaster Management Team
 
@@ -228,13 +228,30 @@ The dashboard uses a layout internally called **Option B ("Briefing Page")**.
 
 ### Layout
 - **Two-column layout:** Main content on the left, news sidebar on the right (newspaper-style).
-- Responsive for standard desktop viewing.
+- **Fully responsive** across desktop, tablet, and mobile (see Responsive Design below).
 
 ### Visual Elements
 - **Background image:** Turkey fault line map (`diri-fay.jpg`) displayed at **45% opacity**.
-- **Header banner:** Navy color (`#1e293b`) with white title text.
+- **Header banner:** Navy color (`#1e293b`) with white title text and search bar.
 - **Cards:** Frosted glass effect using `rgba` white backgrounds with `backdrop-filter: blur()`.
 - **Hazard stat cards:** Clickable, linking to source monitoring pages (USGS, GDACS).
+
+### Search
+- A **search input** in the header bar allows users to search across all loaded content (news, videos, publications, events, learning materials).
+- Typing 2+ characters opens a **dropdown results overlay** with matches grouped by content type.
+- Results show the item title (with highlighted match text), source badge, and date.
+- Each result links to the original source. Escape or click-outside to dismiss.
+- Search is **client-side only** — it filters across all items already loaded from the JSON data files (~170 items total). No backend or API calls required.
+- Input is debounced at 200ms.
+
+### Responsive Design
+Three breakpoints ensure the dashboard works on all screen sizes:
+
+| Breakpoint | Layout |
+|---|---|
+| **Desktop** (>1024px) | Two-column layout. 3–4 column grids. Full header with search bar. |
+| **Tablet** (769–1024px) | Two-column layout with narrower sidebar (240px). 2-column grids. |
+| **Mobile** (<768px) | Single-column layout. News sidebar stacks below main content. All grids collapse to single column. Header stacks vertically (logo → update info → full-width search). Stat cards use compact horizontal layout. |
 
 ### Source Color Coding
 | Source | Color |
