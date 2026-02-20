@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-02-19T07:39:30.006435+00:00",
-  "count": 9,
+  "last_updated": "2026-02-20T07:37:50.988227+00:00",
+  "count": 10,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "HNPW 2026: Strengthening early warning systems in fragile, conflict and violence-affected contexts",
+      "original_title": null,
+      "description": "At HNPW 2026, UNDRR, together with WMO, ITU, IFRC and IOM, will convene an online briefing to explore how early warning and early action can be strengthened in FCV contexts.",
+      "published": "2026-02-19T10:25:49+00:00",
+      "link": "https://www.undrr.org/event/hnpw-2026-strengthening-early-warning-systems-fragile-conflict-and-violence-affected-contexts",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "reliefweb",
+      "title": "UNICEF Pakistan Humanitarian Situation Report No. 2- January-September 2025",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Countries: Pakistan, Afghanistan</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3b/31/3b31fa56-f2fa-4b64-bf40-64d47221a9cc.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p><strong>Highlights</strong></p>\n<p>· UNICEF ensured learning continuity for flood-affected children through temporary learning spaces, school rehabilitation, and DRR initiatives in KP and Sindh, benefiting 38,500 students, including 18,264 girls.</p>\n<p>· Over 210,000 PHC consultations and 3,580 safe deliveries were supported, while more than 24,700 children with SAM received treatment.</p>\n<p>· Nearly 600,000 people accessed safe drinking water, alongside hygiene support and sanitation services.</p>\n<p>· UNICEF continues to provide essential services for Afghans and host communities, making required adjustments as the Illegal Foreigners Repatriation Plan (IFRP) is further rolled out.</p>\n<p>· UNICEF is appealing for US$69.89 million to sustain humanitarian services in 2025, with a current 59% funding gap despite contributions from bilateral donors, CERF, private funds and thematic support.</p>\n<p>[...]</p>\n<p><strong>SITUATION OVERVIEW AND HUMANITARIAN NEEDS</strong></p>\n<p>From late June to mid-September 2025, Pakistan faced severe monsoon rains causing landslides and flash floods in Khyber Pakhtunkhwa and Gilgit-Baltistan, and riverine floods in Punjab and Sindh. Major rivers, including the Indus and Sutlej, overflowed, triggering Punjab’s worst flooding in 40 years. Over 6.9 million people were affected, with 3 million displaced and 1,580 evacuation centers activated. More than 1,000 lives were lost, including 275 children, and infrastructure damage included 229,700 homes, 790 bridges, and 2,811 km of roads.</p>\n<p>UNICEF’s preparedness efforts, including the prepositioning of essential supplies and establishing standby partnerships, proved critical for enabling a timely and effective response to the 2025 monsoon floods. Despite limited funding, strategically available resources allowed for the support of urgent needs. The role of district governments was pivotal in coordinating locally appropriate responses, especially given the varying impact across provinces and districts. Regular situation updates from the National Disaster Management Authority (NDMA) and Provincial Disaster Management Authorities (PDMAs) facilitated coordinated actions, although further improvements are needed in identifying specific needs and vulnerable populations, including those on the move.</p>\n<p>Timely dissemination of weather alerts ensured consistent information sharing among stakeholders, enhancing early warning and preparedness. Coordination mechanisms were strengthened through the activation of PDMA’s helpline (1700), and the engagement of district administrations and local communities significantly contributed to effective response efforts. Health and safety interventions, such as mobile health units and disease surveillance, have helped contain outbreaks of waterborne diseases.</p>\n<p>Additionally, civil society organizations and government agencies ensured rapid distribution of food, water, and shelter to affected populations.</p>\n<p>While immediate response efforts have been critical, the work is far from over. As communities begin to return, significant humanitarian needs and risks persist, requiring a strong, multisectoral, and coordinated approach. The urgent resumption of essential services remains a priority, particularly for vulnerable populations who continue to face gaps in access. Mobilizing local philanthropic support and tapping into domestic funding sources in solidarity with government efforts, complemented by international partners, will be key to recovery and building resilience. Promoting self-reliance within communities is essential for long-term recovery. Strengthening disease surveillance and ensuring timely, location-specific health data will be vital in managing public health risks in the short to medium term.<br />\nSpecific areas for improvement include enhancing early warning systems in remote regions and improving community-level alert mechanisms through mobile networks, radio, and local volunteers.</p>\n<p>Coordination among NDMA, PDMA, and district administrations must be further strengthened to ensure cohesive action. Expanding psychosocial support through mobile health units—particularly for trauma care, maternal and newborn health, and mental well-being— is also critical. Climate adaptation and policy reform should be prioritized by integrating resilience measures into provincial development plans. Investments in resilient infrastructure, such as upgrading urban drainage systems and reinforcing river embankments, are necessary to prevent future flooding. Lastly, securing flexible funding will enable rapid response and sustained recovery efforts.</p>\n<p>Between 1 January and 1 November 2025, Pakistan detained 102,249 Afghan nationals, 89% of whom were Afghan Citizen Card (ACC) holders or undocumented, with most being undocumented. Arrests surged by 146% from 26 October to 01 November, totalling 7,765, with Balochistan accounting for 86%. Since January, Balochistan (63%) and Punjab (21%) recorded the highest arrests, followed by Islamabad (7%) and Sindh (5%). The top districts were Chaghi and Quetta in Balochistan, and Attock in Punjab.</p>",
+      "published": "2026-02-20T01:08:09+00:00",
+      "link": "https://reliefweb.int/report/pakistan/unicef-pakistan-humanitarian-situation-report-no-2-january-september-2025",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Ensuring early warnings and early action reach fragile, and conflict-affected people",
@@ -9,11 +35,11 @@
       "description": "From 9 to 11 December 2025, stakeholders from 9 member states were brought together in an effort to improve the often fragmented and at times non-existent early warning systems available in conflict and post-conflict situations on the African continent.",
       "published": "2026-02-16T14:21:25+00:00",
       "link": "https://www.undrr.org/news/ensuring-early-warnings-and-early-action-reach-fragile-and-conflict-affected-people",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -22,11 +48,11 @@
       "description": "Kamal Kishore reflects on the future of disaster risk reduction – a future challenged by growing complexity, but made navigable by new AI-enabled capabilities. We must make the right choices now so that we use AI not only to do more, but to do better.",
       "published": "2026-02-16T10:45:46+00:00",
       "link": "https://www.undrr.org/news/we-can-and-must-harness-power-ai-tackle-complexity-disaster-risk",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -100,19 +126,6 @@
       "description": "This landscape study aims to assess the current state of SME disaster preparedness, identify capability and resource gaps, and inform targeted interventions, particularly around business continuity plans (BCPs), access to finance and capacity-building.",
       "published": "2026-02-06T11:59:12+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "UNDRR January 2026 newsletter",
-      "original_title": null,
-      "description": "This month from UNDRR: DRC launches Early Warnings for All, Translating strategy into action through Work Programme 2026-2027, Managing growing wildfire risks, Disaster data as the lever for climate action, and much more",
-      "published": "2026-02-05T08:52:13+00:00",
-      "link": "https://www.undrr.org/news/undrr-january-2026-newsletter-0",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
