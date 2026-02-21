@@ -1,17 +1,37 @@
 {
-  "last_updated": "2026-02-20T07:37:44.256525+00:00",
-  "count": 24,
+  "last_updated": "2026-02-21T06:05:44.621515+00:00",
+  "count": 23,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 4.1,
-    "place": "KAZKELI-KIRIKHAN (HATAY) İlksel",
-    "time": "2026-02-20T06:10:51+00:00",
-    "latitude": 36.3832,
-    "longitude": 36.3648,
-    "depth_km": 7.4,
+    "magnitude": 4.5,
+    "place": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
+    "time": "2026-02-21T06:43:13+00:00",
+    "latitude": 38.2792,
+    "longitude": 38.7687,
+    "depth_km": 5.6,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.5,
+      "place": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
+      "time": "2026-02-21T06:43:13+00:00",
+      "latitude": 38.2792,
+      "longitude": 38.7687,
+      "depth_km": 5.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.3,
+      "place": "24 km W of Doğanyol, Turkey",
+      "time": "2026-02-21T03:43:16.285000+00:00",
+      "latitude": 38.3103,
+      "longitude": 38.7575,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
+    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -20,16 +40,6 @@
       "latitude": 36.3832,
       "longitude": 36.3648,
       "depth_km": 7.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "KARALARGUNEY-OSMANCIK (CORUM) İlksel",
-      "time": "2026-02-15T00:20:48+00:00",
-      "latitude": 41.1095,
-      "longitude": 34.933,
-      "depth_km": 7.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -46,22 +56,32 @@
   "events": [
     {
       "source": "Kandilli",
+      "magnitude": 4.5,
+      "place": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
+      "time": "2026-02-21T06:43:13+00:00",
+      "latitude": 38.2792,
+      "longitude": 38.7687,
+      "depth_km": 5.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.3,
+      "place": "24 km W of Doğanyol, Turkey",
+      "time": "2026-02-21T03:43:16.285000+00:00",
+      "latitude": 38.3103,
+      "longitude": 38.7575,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 4.1,
       "place": "KAZKELI-KIRIKHAN (HATAY) İlksel",
       "time": "2026-02-20T06:10:51+00:00",
       "latitude": 36.3832,
       "longitude": 36.3648,
       "depth_km": 7.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "KARALARGUNEY-OSMANCIK (CORUM) İlksel",
-      "time": "2026-02-15T00:20:48+00:00",
-      "latitude": 41.1095,
-      "longitude": 34.933,
-      "depth_km": 7.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -96,12 +116,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA) İlksel",
-      "time": "2026-02-14T14:34:52+00:00",
-      "latitude": 40.0355,
-      "longitude": 28.7502,
-      "depth_km": 5.4,
+      "magnitude": 3.3,
+      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-20T18:44:52+00:00",
+      "latitude": 39.1807,
+      "longitude": 28.1578,
+      "depth_km": 12.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -122,26 +142,6 @@
       "latitude": 39.2332,
       "longitude": 28.9763,
       "depth_km": 7.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "BALCILAR-KOYCEGIZ (MUGLA) İlksel",
-      "time": "2026-02-15T07:26:12+00:00",
-      "latitude": 37.0395,
-      "longitude": 28.5887,
-      "depth_km": 7.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-02-15T05:36:13+00:00",
-      "latitude": 34.283,
-      "longitude": 32.1865,
-      "depth_km": 10.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "DIKME-YAHYALI (KAYSERI) İlksel",
-      "time": "2026-02-15T06:11:01+00:00",
-      "latitude": 38.0222,
-      "longitude": 35.5467,
-      "depth_km": 5.0,
+      "magnitude": 3.0,
+      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-20T22:44:46+00:00",
+      "latitude": 39.1708,
+      "longitude": 28.133,
+      "depth_km": 9.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
