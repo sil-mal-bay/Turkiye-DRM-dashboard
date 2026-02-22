@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-02-21T06:08:23.749244+00:00",
-  "count": 4,
+  "last_updated": "2026-02-22T07:12:19.381652+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-02-19T22:11:01+00:00",
-      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "latitude": 34.423,
-      "longitude": 26.1652,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — KAZKELI-KIRIKHAN (HATAY) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-02-20T06:10:51+00:00",
-      "location": "KAZKELI-KIRIKHAN (HATAY) İlksel",
-      "latitude": 36.3832,
-      "longitude": 36.3648,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",

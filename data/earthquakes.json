@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-21T06:05:44.621515+00:00",
-  "count": 23,
+  "last_updated": "2026-02-22T07:09:00.753519+00:00",
+  "count": 28,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.5,
@@ -31,6 +31,16 @@
       "longitude": 38.7575,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "5 km NNE of Serinyol, Turkey",
+      "time": "2026-02-20T03:10:53.767000+00:00",
+      "latitude": 36.4067,
+      "longitude": 36.2278,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000saby"
     },
     {
       "source": "Kandilli",
@@ -75,6 +85,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
     },
     {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "5 km NNE of Serinyol, Turkey",
+      "time": "2026-02-20T03:10:53.767000+00:00",
+      "latitude": 36.4067,
+      "longitude": 36.2278,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000saby"
+    },
+    {
       "source": "Kandilli",
       "magnitude": 4.1,
       "place": "KAZKELI-KIRIKHAN (HATAY) İlksel",
@@ -95,16 +115,6 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "USGS",
-      "magnitude": 3.9,
-      "place": "21 km NE of Osmancık, Turkey",
-      "time": "2026-02-14T21:20:48.548000+00:00",
-      "latitude": 41.1333,
-      "longitude": 34.9572,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9cn"
-    },
-    {
       "source": "Kandilli",
       "magnitude": 3.7,
       "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR) İlksel",
@@ -112,6 +122,46 @@
       "latitude": 39.197,
       "longitude": 28.3098,
       "depth_km": 13.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-02-22T07:58:18+00:00",
+      "latitude": 35.7687,
+      "longitude": 28.5502,
+      "depth_km": 26.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-22T07:54:54+00:00",
+      "latitude": 39.1712,
+      "longitude": 28.1653,
+      "depth_km": 6.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-22T07:40:49+00:00",
+      "latitude": 39.1767,
+      "longitude": 28.1632,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "MANDIRA-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-21T09:07:55+00:00",
+      "latitude": 39.2163,
+      "longitude": 28.1408,
+      "depth_km": 8.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -152,6 +202,16 @@
       "latitude": 39.2337,
       "longitude": 28.3205,
       "depth_km": 6.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "KUP-ALADAG (ADANA) İlksel",
+      "time": "2026-02-22T00:38:25+00:00",
+      "latitude": 37.6673,
+      "longitude": 35.4367,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
