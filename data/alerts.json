@@ -1,30 +1,5 @@
 {
-  "last_updated": "2026-02-22T07:12:19.381652+00:00",
-  "count": 2,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — 24 km W of Doğanyol, Turkey",
-      "magnitude": 4.3,
-      "time": "2026-02-21T03:43:16.285000+00:00",
-      "location": "24 km W of Doğanyol, Turkey",
-      "latitude": 38.3103,
-      "longitude": 38.7575,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.5 earthquake — KARSIYAKA-PUTURGE (MALATYA) İlksel",
-      "magnitude": 4.5,
-      "time": "2026-02-21T06:43:13+00:00",
-      "location": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
-      "latitude": 38.2792,
-      "longitude": 38.7687,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-02-23T07:46:49.519913+00:00",
+  "count": 0,
+  "alerts": []
 }

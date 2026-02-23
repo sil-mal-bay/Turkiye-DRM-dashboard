@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T07:09:00.753519+00:00",
-  "count": 28,
+  "last_updated": "2026-02-23T07:44:10.115921+00:00",
+  "count": 33,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.5,
@@ -116,12 +116,42 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.9,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-02-22T15:09:20+00:00",
+      "latitude": 39.7433,
+      "longitude": 23.8818,
+      "depth_km": 20.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-02-23T00:19:36+00:00",
+      "latitude": 34.7007,
+      "longitude": 29.1232,
+      "depth_km": 10.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.7,
       "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-02-18T15:02:47+00:00",
       "latitude": 39.197,
       "longitude": 28.3098,
       "depth_km": 13.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "KUSADASI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-02-23T07:21:15+00:00",
+      "latitude": 37.8838,
+      "longitude": 26.9413,
+      "depth_km": 10.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -148,10 +178,40 @@
       "source": "Kandilli",
       "magnitude": 3.5,
       "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-23T09:26:35+00:00",
+      "latitude": 39.1838,
+      "longitude": 28.1582,
+      "depth_km": 9.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-22T11:19:10+00:00",
+      "latitude": 39.139,
+      "longitude": 28.3385,
+      "depth_km": 8.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-02-22T07:40:49+00:00",
       "latitude": 39.1767,
       "longitude": 28.1632,
       "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-02-23T09:09:54+00:00",
+      "latitude": 40.3463,
+      "longitude": 24.1283,
+      "depth_km": 11.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -162,6 +222,16 @@
       "latitude": 39.2163,
       "longitude": 28.1408,
       "depth_km": 8.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-22T11:20:06+00:00",
+      "latitude": 39.1277,
+      "longitude": 28.3395,
+      "depth_km": 8.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -182,16 +252,6 @@
       "latitude": 37.215,
       "longitude": 28.7317,
       "depth_km": 9.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-02-17T03:07:31+00:00",
-      "latitude": 39.2332,
-      "longitude": 28.9763,
-      "depth_km": 7.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -267,6 +327,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.0,
+      "place": "HACIMIRZA-GOKSUN (KAHRAMANMARAS) İlksel",
+      "time": "2026-02-23T10:17:27+00:00",
+      "latitude": 38.0358,
+      "longitude": 36.4897,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUREGIL-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-22T12:27:24+00:00",
+      "latitude": 39.1285,
+      "longitude": 28.3238,
+      "depth_km": 9.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
       "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-02-20T22:44:46+00:00",
       "latitude": 39.1708,
@@ -312,36 +392,6 @@
       "latitude": 40.3652,
       "longitude": 28.3925,
       "depth_km": 9.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-02-17T20:55:12+00:00",
-      "latitude": 36.2177,
-      "longitude": 28.488,
-      "depth_km": 8.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-02-17T18:23:38+00:00",
-      "latitude": 36.677,
-      "longitude": 25.7567,
-      "depth_km": 11.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-02-17T04:50:47+00:00",
-      "latitude": 34.6125,
-      "longitude": 26.133,
-      "depth_km": 5.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
