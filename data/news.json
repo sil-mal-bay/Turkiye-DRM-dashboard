@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T07:44:15.565954+00:00",
+  "last_updated": "2026-02-24T07:40:24.844842+00:00",
   "count": 8,
   "articles": [
     {
@@ -9,11 +9,11 @@
       "description": "At HNPW 2026, UNDRR, together with WMO, ITU, IFRC and IOM, will convene an online briefing to explore how early warning and early action can be strengthened in FCV contexts.",
       "published": "2026-02-19T10:25:49+00:00",
       "link": "https://www.undrr.org/event/hnpw-2026-strengthening-early-warning-systems-fragile-conflict-and-violence-affected-contexts",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
