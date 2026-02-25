@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-24T07:40:24.844842+00:00",
-  "count": 8,
+  "last_updated": "2026-02-25T07:41:41.340012+00:00",
+  "count": 7,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Journal of Catastrophe Risk and Resilience",
+      "original_title": null,
+      "description": "The Journal of Catastrophe Risk and Resilience (JCRR), is a diamond open-access interdisciplinary research journal with a broad remit encompassing natural hazards, catastrophe risk, and the societal and institutional response to their management.",
+      "published": "2026-02-24T09:42:30+00:00",
+      "link": "https://www.undrr.org/organization/journal-catastrophe-risk-and-resilience",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "HNPW 2026: Strengthening early warning systems in fragile, conflict and violence-affected contexts",
@@ -9,19 +22,6 @@
       "description": "At HNPW 2026, UNDRR, together with WMO, ITU, IFRC and IOM, will convene an online briefing to explore how early warning and early action can be strengthened in FCV contexts.",
       "published": "2026-02-19T10:25:49+00:00",
       "link": "https://www.undrr.org/event/hnpw-2026-strengthening-early-warning-systems-fragile-conflict-and-violence-affected-contexts",
-      "score": 41.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 15
-    },
-    {
-      "source": "undrr",
-      "title": "Ensuring early warnings and early action reach fragile, and conflict-affected people",
-      "original_title": null,
-      "description": "From 9 to 11 December 2025, stakeholders from 9 member states were brought together in an effort to improve the often fragmented and at times non-existent early warning systems available in conflict and post-conflict situations on the African continent.",
-      "published": "2026-02-16T14:21:25+00:00",
-      "link": "https://www.undrr.org/news/ensuring-early-warnings-and-early-action-reach-fragile-and-conflict-affected-people",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
@@ -48,19 +48,6 @@
       "description": "In an effort to further strengthen Liberia’s capacities for guaranteeing Early Warmings for All (EW4ALL), a study tour and training was held in Abuja, Nigeria, from 1 to 5 December 2025, with a delegation from Liberia and Nigerian national institutions.",
       "published": "2026-02-13T12:44:22+00:00",
       "link": "https://www.undrr.org/news/liberia-draws-lessons-nigerias-disaster-risk-management-systems",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Ethiopia and South Sudan learn from Mozambique’s early warning systems",
-      "original_title": null,
-      "description": "In December 2025, a study tour organized by UNDRR enabled delegations from Ethiopia and South Sudan to learn from Mozambique’s experience in establishing and operationalizing the National Multi-Hazard Early Warning Situation Room at the INGD.",
-      "published": "2026-02-13T12:23:44+00:00",
-      "link": "https://www.undrr.org/news/ethiopia-and-south-sudan-learn-mozambiques-early-warning-systems",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
