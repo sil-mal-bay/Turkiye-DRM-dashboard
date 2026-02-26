@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-02-25T07:41:41.340012+00:00",
-  "count": 7,
+  "last_updated": "2026-02-26T07:40:50.342088+00:00",
+  "count": 8,
   "articles": [
+    {
+      "source": "reliefweb",
+      "title": "Suriname builds resilience through early warning",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Suriname</div>\n                                      <div class=\"tag source\">Source: UN Office for Disaster Risk Reduction</div>\n                                                                                              <h2>Suriname seeks to strengthen its national resilience agenda with a clear priority: reduce risk before it becomes loss. The country is committed to align institutions, improving risk information, and expanding early warning so that alerts translate into early action to protect people, infrastructure, livelihoods and development gains.</h2>\n<p>Suriname sets a practical starting point for this agenda: expanding access to disaster risk data and advancing a comprehensive multi-hazard early warning roadmap through the Early Warnings for All (EW4All) initiative. This direction brings institutions and partners around one shared pathway, strengthening what exists, identifying gaps, and defining the actions and resources required to deliver early warning for all.</p>\n<p>EW4All helps Suriname connect the full early warning chain, from understanding the risk to monitoring and forecasting to communication, preparedness and response, so communities receive timely information, understand it, and act upon it. The process yields a concrete outcome: a national gap analysis and a costed implementation plan that supports coordinated delivery and helps accelerate financing for inclusive, multi-hazard early warning.</p>\n<p>This nationally led effort will also strengthen how coordination works in practice. Disaster risk reduction responsibilities sit across ministries and agencies, and progress depends on collaboration that is steady and predictable. Suriname seeks to reinforce institutional arrangements that keep risk reduction integrated into policies, planning and investment decisions.</p>\n<p>Suriname will also advance toward stronger measurement and accountability by preparing to begin reporting to the Sendai Framework Monitor. This effort will support evidence-based decision-making and enhance the national picture of impacts and progress. Over time, strengthening how risk information is organized and used supports smarter planning and more risk-informed development choices.</p>\n<p>The country’s direction is reinforced through broad engagement across government, technical services and the private sector, bringing together perspectives that are essential to a whole-of-society approach. This multi-stakeholder approach helps to set an important and concrete agenda for 2026 to strengthen access to risk data and harness multi-sectoral support to advance early warning systems.</p>\n<blockquote>\n<p>“Disaster risk reduction is about building the systems that keep development safe, especially by connecting early warning to early action,” said Nahuel Arenas, Chief of UNDRR’s Regional Office for the Americas and the Caribbean. “When risk information, clear roles and preparedness work together, countries move from responding to hazards to managing risk in a way that saves lives and reduces losses.”</p>\n</blockquote>\n<blockquote>\n<p>“The United Nations system has been working closely with the Government of Suriname introducing innovations and new technologies to manage natural hazards and climate change. We are committed to supporting Suriname’s nationally led resilience agenda—strengthening institutions, advancing Early Warnings for All, and deepening regional cooperation so communities and development gains are protected across Suriname and the wider Caribbean,” said Joanna Kazana, UN Resident Coordinator for Suriname, Trinidad and Tobago, Aruba, Curaçao and Sint Maarten.</p>\n</blockquote>\n<p>As Suriname embarks in this pathway there are ample opportunities to deepen regional cooperation, share experience with neighboring countries, learn from peers, and shape collective solutions across the Caribbean and the wider Americas.</p>\n<p>Country and region <a href=\"https://www.undrr.org/countries-regions/americas/suriname\" rel=\"noreferrer noopener\" target=\"_blank\">Suriname</a></p>",
+      "published": "2026-02-26T04:33:05+00:00",
+      "link": "https://reliefweb.int/report/suriname/suriname-builds-resilience-through-early-warning",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
+    {
+      "source": "reliefweb",
+      "title": "World: Global Weather Hazards Summary February 26, 2026 – March 04, 2026",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Famine Early Warning System Network</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/24/48/24489a40-4890-477f-80a8-c86aa02428eb.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <h2>Global Overview: La Niña is present. Drought continues in Angola, while flooding persists in many parts of eastern Southern Africa. Risks for flooding exist over Central America and Northern South America; heavy snow expected in Central Asia.</h2>\n<h3><strong>Africa Weather Hazards</strong></h3>\n<p><strong>Flooding continues in many scattered portions of Southern Africa. Abnormal Dryness is now placed in central Mozambique and eastern Zimbabwe.</strong></p>\n<p>1. Inundation continues in the Sudd wetlands of South Sudan.<br />\n2. Below-average rainfall over the past several weeks has led to abnormal dryness in eastern Tanzania.<br />\n3. Insufficient rainfall since October has caused abnormal dryness across the south-central and central regions of the Democratic Republic of the Congo (DRC). Persistent rainfall deficits since the start of the season have also led to abnormal dryness across most of Angola, except for the Southeast. In western and central Angola, these sustained deficits have further intensified, resulting in Drought conditions.<br />\n4. Uneven rainfall over the past 3 months has led to rainfall deficits in southern Madagascar where an abnormal dryness is posted.<br />\n5. Flooding is still reported in southern and northern Mozambique, southern Malawi, eastern Angola, parts of western, central, and eastern Zambia, and northern Botswana. Some inundation likely lingers in northwestern Madagascar. Additional heavy rainfall is forecast for Zambia, northern Mozambique, Tanzania, and western Kenya which is expected to further increase flood risk across these areas.<br />\n6. A dry spell has caused a rapid increase in moisture deficits over the last 30 in central Mozambique and eastern Zimbabwe. Below-average rainfall is forecast to persist for the outlook period.</p>",
+      "published": "2026-02-26T02:41:56+00:00",
+      "link": "https://reliefweb.int/report/world/global-weather-hazards-summary-february-26-2026-march-04-2026",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Journal of Catastrophe Risk and Resilience",
@@ -9,11 +35,24 @@
       "description": "The Journal of Catastrophe Risk and Resilience (JCRR), is a diamond open-access interdisciplinary research journal with a broad remit encompassing natural hazards, catastrophe risk, and the societal and institutional response to their management.",
       "published": "2026-02-24T09:42:30+00:00",
       "link": "https://www.undrr.org/organization/journal-catastrophe-risk-and-resilience",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
+    },
+    {
+      "source": "undrr",
+      "title": "Our work and what we do",
+      "original_title": null,
+      "description": "UNDRR is the lead UN entity for the coordination of disaster risk reduction. We help decision makers across the globe better understand and act on risk.",
+      "published": "2026-02-24T04:06:10+00:00",
+      "link": "https://www.undrr.org/our-work",
+      "score": 67.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -61,32 +100,6 @@
       "description": "The Global Centre For Environment and Disaster Management is committed to building resilient communities and promoting sustainable ecosystems through integrated approaches to disaster risk reduction, environmental protection, and emergency response.",
       "published": "2026-02-13T10:08:39+00:00",
       "link": "https://www.undrr.org/organization/global-centre-environment-and-disaster-management",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Call for chapter submissions: Emerging technologies in enhancing disaster resilience",
-      "original_title": null,
-      "description": "UNDRR launches a call for contributions for a new compendium titled&nbsp;“State of Art Policy and Practice of Emerging Technologies in Enhancing Resilience.”",
-      "published": "2026-02-11T22:17:59+00:00",
-      "link": "https://www.undrr.org/news/call-chapter-submissions-emerging-technologies-enhancing-disaster-resilience",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Webinar series on strengthening the disaster resilience of SMEs | Part 3: Urban resilience & SMEs: Lessons from Barcelona",
-      "original_title": null,
-      "description": "This third webinar will focus on Barcelona (Spain), explaining how through co-developing tools, expanding outreach and aligning around a long-term ecosystem of partners has further reinforced the city’s role as a MCR2030 Resilience Hub.",
-      "published": "2026-02-11T15:08:20+00:00",
-      "link": "https://www.undrr.org/event/webinar-series-strengthening-disaster-resilience-smes-part-3-urban-resilience-smes-lessons",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
