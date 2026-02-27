@@ -1,26 +1,36 @@
 {
-  "last_updated": "2026-02-26T07:40:41.912592+00:00",
+  "last_updated": "2026-02-27T07:33:52.879356+00:00",
   "count": 30,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 4.5,
-    "place": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
-    "time": "2026-02-21T06:43:13+00:00",
-    "latitude": 38.2792,
-    "longitude": 38.7687,
+    "magnitude": 4.8,
+    "place": "AGCASAR-NURHAK (KAHRAMANMARAS) İlksel",
+    "time": "2026-02-26T20:17:08+00:00",
+    "latitude": 38.0953,
+    "longitude": 37.337,
     "depth_km": 5.6,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
     {
       "source": "Kandilli",
-      "magnitude": 4.5,
-      "place": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
-      "time": "2026-02-21T06:43:13+00:00",
-      "latitude": 38.2792,
-      "longitude": 38.7687,
+      "magnitude": 4.8,
+      "place": "AGCASAR-NURHAK (KAHRAMANMARAS) İlksel",
+      "time": "2026-02-26T20:17:08+00:00",
+      "latitude": 38.0953,
+      "longitude": 37.337,
       "depth_km": 5.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.6,
+      "place": "11 km NW of Nurhak, Turkey",
+      "time": "2026-02-26T17:17:09.570000+00:00",
+      "latitude": 38.0398,
+      "longitude": 37.357,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ij"
     },
     {
       "source": "USGS",
@@ -31,28 +41,28 @@
       "longitude": 38.7575,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "5 km NNE of Serinyol, Turkey",
-      "time": "2026-02-20T03:10:53.767000+00:00",
-      "latitude": 36.4067,
-      "longitude": 36.2278,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000saby"
     }
   ],
   "events": [
     {
       "source": "Kandilli",
-      "magnitude": 4.5,
-      "place": "KARSIYAKA-PUTURGE (MALATYA) İlksel",
-      "time": "2026-02-21T06:43:13+00:00",
-      "latitude": 38.2792,
-      "longitude": 38.7687,
+      "magnitude": 4.8,
+      "place": "AGCASAR-NURHAK (KAHRAMANMARAS) İlksel",
+      "time": "2026-02-26T20:17:08+00:00",
+      "latitude": 38.0953,
+      "longitude": 37.337,
       "depth_km": 5.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.6,
+      "place": "11 km NW of Nurhak, Turkey",
+      "time": "2026-02-26T17:17:09.570000+00:00",
+      "latitude": 38.0398,
+      "longitude": 37.357,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ij"
     },
     {
       "source": "USGS",
@@ -63,16 +73,6 @@
       "longitude": 38.7575,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "5 km NNE of Serinyol, Turkey",
-      "time": "2026-02-20T03:10:53.767000+00:00",
-      "latitude": 36.4067,
-      "longitude": 36.2278,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000saby"
     },
     {
       "source": "Kandilli",
@@ -266,16 +266,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "MANDIRA-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-02-21T09:07:55+00:00",
-      "latitude": 39.2163,
-      "longitude": 28.1408,
-      "depth_km": 8.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.3,
       "place": "MANDIRA-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-02-23T15:26:06+00:00",
@@ -312,6 +302,16 @@
       "latitude": 37.6673,
       "longitude": 35.4367,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-02-26T19:26:23+00:00",
+      "latitude": 39.168,
+      "longitude": 28.1432,
+      "depth_km": 11.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-02-26T07:41:52.783504+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-02-27T07:34:56.276047+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.6 earthquake — 11 km NW of Nurhak, Turkey",
+      "magnitude": 4.6,
+      "time": "2026-02-26T17:17:09.570000+00:00",
+      "location": "11 km NW of Nurhak, Turkey",
+      "latitude": 38.0398,
+      "longitude": 37.357,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ij"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.8 earthquake — AGCASAR-NURHAK (KAHRAMANMARAS) İlksel",
+      "magnitude": 4.8,
+      "time": "2026-02-26T20:17:08+00:00",
+      "location": "AGCASAR-NURHAK (KAHRAMANMARAS) İlksel",
+      "latitude": 38.0953,
+      "longitude": 37.337,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
