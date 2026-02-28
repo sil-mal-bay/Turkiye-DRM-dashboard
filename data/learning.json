@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T07:34:24.051329+00:00",
+  "last_updated": "2026-02-28T05:56:14.864060+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -270,16 +270,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
+      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -375,13 +375,6 @@
     },
     {
       "source": "UNDRR",
-      "title": "Report from the gender observatory - Women's network of the Americas and the Caribbean for DRR",
-      "link": "https://www.undrr.org/publication/documents-and-publications/report-gender-observatory-womens-network-americas-and",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
       "title": "Strengthening the disaster resilience of SMEs in Barcelona: landscape assessment study",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
       "type": "learning",
@@ -433,6 +426,13 @@
       "source": "UNDRR",
       "title": "International Disaster Resilience Leaders Forum Incheon 2025 - Final Report",
       "link": "https://www.undrr.org/publication/documents-and-publications/international-disaster-resilience-leaders-forum-incheon-2025",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Leveraging assistive technology for inclusive disaster risk reduction and climate action",
+      "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-assistive-technology-inclusive-disaster-risk",
       "type": "learning",
       "description": ""
     }

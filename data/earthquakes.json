@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T07:33:52.879356+00:00",
-  "count": 30,
+  "last_updated": "2026-02-28T05:55:41.466511+00:00",
+  "count": 28,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.8,
@@ -31,16 +31,6 @@
       "longitude": 37.357,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ij"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "24 km W of Doğanyol, Turkey",
-      "time": "2026-02-21T03:43:16.285000+00:00",
-      "latitude": 38.3103,
-      "longitude": 38.7575,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
     }
   ],
   "events": [
@@ -63,16 +53,6 @@
       "longitude": 37.357,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ij"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "24 km W of Doğanyol, Turkey",
-      "time": "2026-02-21T03:43:16.285000+00:00",
-      "latitude": 38.3103,
-      "longitude": 38.7575,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sakb"
     },
     {
       "source": "Kandilli",
@@ -292,16 +272,6 @@
       "latitude": 39.1305,
       "longitude": 28.3433,
       "depth_km": 11.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "KUP-ALADAG (ADANA) İlksel",
-      "time": "2026-02-22T00:38:25+00:00",
-      "latitude": 37.6673,
-      "longitude": 35.4367,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
