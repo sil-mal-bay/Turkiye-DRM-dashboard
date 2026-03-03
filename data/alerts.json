@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-03-02T07:40:46.617372+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-03-03T07:30:13.248262+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — 2 km WNW of Sincik, Turkey",
+      "magnitude": 4.4,
+      "time": "2026-03-02T14:52:52.861000+00:00",
+      "location": "2 km WNW of Sincik, Turkey",
+      "latitude": 38.0438,
+      "longitude": 38.5901,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1fn"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — GULUMUSAGI-(MALATYA) İlksel",
+      "magnitude": 4.4,
+      "time": "2026-03-02T17:52:50+00:00",
+      "location": "GULUMUSAGI-(MALATYA) İlksel",
+      "latitude": 38.2098,
+      "longitude": 38.5035,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:40:14.093758+00:00",
+  "last_updated": "2026-03-03T07:29:40.105806+00:00",
   "count": 62,
   "items": [
     {
@@ -284,6 +284,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "Why Do Some Countries Build Safer?",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099808402232613305",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "Seizing the Urban Opportunity in the Pacific",
       "link": "https://www.worldbank.org/en/country/pacificislands/publication/seizing-the-urban-opportunity-in-the-pacific",
       "type": "report",
@@ -360,13 +367,6 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "The Role of the Resilient Built Environment in Fragile, Conflict, and Violence-Affected Countries",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630212172515798",
-      "type": "report",
-      "description": ""
-    },
-    {
       "source": "UNDRR",
       "title": "Resilience Maturity Assessment flyer",
       "link": "https://www.undrr.org/publication/documents-and-publications/resilience-maturity-assessment-flyer",
@@ -403,7 +403,7 @@
     },
     {
       "source": "UNDRR",
-      "title": "PATHWAYS TO RESILIENCE:  Stories from MCR2030 Cities",
+      "title": "Pathways to resilience:  Stories from MCR2030 Cities",
       "link": "https://www.undrr.org/publication/pathways-to-resilience-stories-from-mcr2030-cities",
       "type": "learning",
       "description": ""
