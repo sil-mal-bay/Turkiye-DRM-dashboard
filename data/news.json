@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-03T07:29:12.987617+00:00",
-  "count": 5,
+  "last_updated": "2026-03-04T07:09:02.675903+00:00",
+  "count": 6,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "UNDRR February 2026 newsletter",
+      "original_title": null,
+      "description": "This month from UNDRR: Commemorating the 2023 Türkiye earthquake, Harnessing AI to tackle complexity of disaster risks, Promoting disability-inclusion in urban resilience, and much more.",
+      "published": "2026-03-03T10:47:47+00:00",
+      "link": "https://www.undrr.org/news/undrr-february-2026-newsletter",
+      "score": 180.0,
+      "world_bank_related": false,
+      "turkey_related": true,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Disaster resilience of small- and medium-sized enterprises (SMEs)",
@@ -9,11 +22,11 @@
       "description": "Disaster resilience of small- and medium-sized enterprises (SMEs)",
       "published": "2026-03-02T15:34:50+00:00",
       "link": "https://www.undrr.org/sme-resilience",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -22,11 +35,11 @@
       "description": "A project in Timor-Leste supported national authorities to strengthen disaster loss data systems, assess how early warnings reach communities, and improve institutional coordination, helping build more effective early warning and disaster risk management.",
       "published": "2026-03-02T10:56:33+00:00",
       "link": "https://www.undrr.org/news/warning-action-strengthening-risk-data-and-early-warning-systems-timor-leste",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
