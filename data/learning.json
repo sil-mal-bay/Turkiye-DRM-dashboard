@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T07:09:26.492534+00:00",
+  "last_updated": "2026-03-05T07:29:02.442059+00:00",
   "count": 62,
   "items": [
     {
@@ -270,16 +270,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
+      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -305,15 +305,15 @@
     },
     {
       "source": "GFDRR",
-      "title": "TAFF Workshop Summary Oct 2-3, 2025",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/TAFF_WORKHSOP_BRIEF_Oct%202025.pdf",
+      "title": "Integrated Wildfire Risk Management in Europe: Understanding the Approach and Examples",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122325103121105",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Integrated Wildfire Risk Management in Europe: Understanding the Approach and Examples",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122325103121105",
+      "title": "TAFF Workshop Summary Oct 2-3, 2025",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/TAFF_WORKHSOP_BRIEF_Oct%202025.pdf",
       "type": "report",
       "description": ""
     },
@@ -361,8 +361,8 @@
     },
     {
       "source": "GFDRR",
-      "title": "The Role of the Resilient Built Environment in Fragile, Conflict, and Violence-Affected Countries",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630212172515798",
+      "title": "The Role of Resilient Housing Reconstruction in Disaster Risk Management in Fragile, Conflict, and Violence-Affected Countries",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099621112172528162",
       "type": "report",
       "description": ""
     },

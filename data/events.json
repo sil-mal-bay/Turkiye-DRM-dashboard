@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-03-04T07:09:25.202913+00:00",
-  "count": 4,
+  "last_updated": "2026-03-05T07:29:00.932435+00:00",
+  "count": 3,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Webinar series on strengthening the disaster resilience of SMEs | Part 3: Urban resilience & SMEs: Lessons from Barcelona",
-      "date": "2026-03-05T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/webinar-series-strengthening-disaster-resilience-smes-part-3-urban-resilience-smes-lessons",
-      "location": null,
-      "type": "webinar"
-    },
-    {
-      "source": "UNDRR",
-      "title": "HNPW 2026: DELTA Resilience: Enabling the use of disaster impact data for risk-informed, inclusive & climate-resilient humanitarian action",
-      "date": "2026-03-05T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/hnpw-2026-delta-resilience-enabling-use-disaster-impact-data-risk-informed-inclusive-climate",
-      "location": null,
-      "type": "event"
-    },
     {
       "source": "UNDRR",
       "title": "HNPW 2026: Leveraging existing resources: Scaling anticipatory action through smarter finance",
       "date": "2026-03-10T00:00:00+00:00",
       "link": "https://www.undrr.org/event/hnpw-2026-leveraging-existing-resources-scaling-anticipatory-action-through-smarter-finance",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR & ARISE Japan joint symposium 2026: Strengthening disaster risk reduction by advancing investment in resilience and translating science into Practical Action",
+      "date": "2026-03-10T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/undrr-arise-japan-joint-symposium-2026-strengthening-disaster-risk-reduction-advancing",
       "location": null,
       "type": "event"
     },
