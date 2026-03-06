@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T07:29:34.144542+00:00",
+  "last_updated": "2026-03-06T07:12:49.013266+00:00",
   "count": 2,
   "alerts": [
     {
@@ -7,22 +7,22 @@
       "severity": "medium",
       "title": "M4.2 earthquake — GURCISTAN ACIKLARI (KARADENIZ) İlksel",
       "magnitude": 4.2,
-      "time": "2026-03-03T15:09:45+00:00",
+      "time": "2026-03-06T07:29:08+00:00",
       "location": "GURCISTAN ACIKLARI (KARADENIZ) İlksel",
-      "latitude": 43.3698,
-      "longitude": 39.3448,
+      "latitude": 43.3188,
+      "longitude": 39.4533,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.8 earthquake — GURCISTAN ACIKLARI (KARADENIZ) İlksel",
-      "magnitude": 4.8,
-      "time": "2026-03-03T16:05:35+00:00",
-      "location": "GURCISTAN ACIKLARI (KARADENIZ) İlksel",
-      "latitude": 43.4488,
-      "longitude": 39.4105,
+      "title": "M4.5 earthquake — AKDENIZ REVIZE01 (2026.03.06 08:35:20",
+      "magnitude": 4.5,
+      "time": "2026-03-06T08:35:20+00:00",
+      "location": "AKDENIZ REVIZE01 (2026.03.06 08:35:20",
+      "latitude": 34.6733,
+      "longitude": 28.9788,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
