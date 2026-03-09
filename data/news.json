@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T06:06:55.890372+00:00",
-  "count": 8,
+  "last_updated": "2026-03-09T07:40:47.955647+00:00",
+  "count": 7,
   "articles": [
     {
       "source": "undrr",
@@ -9,24 +9,11 @@
       "description": "This month from UNDRR: Commemorating the 2023 Türkiye earthquake, Harnessing AI to tackle complexity of disaster risks, Promoting disability-inclusion in urban resilience, and much more.",
       "published": "2026-03-03T10:47:47+00:00",
       "link": "https://www.undrr.org/news/undrr-february-2026-newsletter",
-      "score": 82.5,
+      "score": 63.0,
       "world_bank_related": false,
       "turkey_related": true,
       "credibility_score": 90,
-      "recency_score": 15
-    },
-    {
-      "source": "reliefweb",
-      "title": "Lebanon: Flash Update #1 - Escalation of hostilities in Lebanon, as of 5 March 2026",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Country: Lebanon</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/36/e6/36e69dc5-db67-482e-a86b-4997f066b633.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p>The current escalation in Lebanon is unfolding in the context of the wider regional situation. On 2 March, rockets and drones were launched from southern Lebanon by Hezbollah toward northern Israel. This was followed by large-scale Israeli military operations across Lebanon, causing massive displacement and civilian casualties. According to the Disaster Risk Management Unit (DRM), a total of 403 hostile incidents had been recorded as of 5 March, reflecting the intensity and rapid pace of developments over recent days. The escalation has resulted in a growing number of civilian casualties. According to the Public Health Emergency Operations Center at the Ministry of Public Health (MoPH), the cumulative toll of Israeli attacks Lebanon Flash Update No. 01 | 2 United Nations Office for the Coordination of Humanitarian Affairs <a href=\"http://www.unocha.org\" rel=\"noreferrer noopener\" target=\"_blank\">www.unocha.org</a> between the early hours of Monday, 2 March, and midnight on Thursday, 5 March, has reached 82 fatalities and 536 injuries. These figures mark a sharp increase in casualties in a short period of time and highlight the severe humanitarian impact of the ongoing hostilities. The rapid deterioration of security conditions has triggered large-scale displacement across several areas of the country. Thousands of displaced families have sought refuge in collective shelters, while many others are staying with host communities, sheltering in vehicles after displacement orders, or temporarily gathering along roadsides as they attempt to reach safer locations. As of 5 March, approximately 96,000 internally displaced Lebanese have sought safety in 441 collective shelters, according to DRM. This figure does not include over 64,000 people who had remained displaced since the previous escalation. Based on 2006 and 2024 trends, the overall number of displaced people is likely many times higher than the number of IDPs in collective shelters. Successive mass evacuation orders have significantly intensified forced displacement. On 5 March, Israel issued evacuation orders for a large part of Beirut’s Southern Suburb, while also banning travel toward southern areas, further limiting civilians’ ability to move safely. Earlier, on 4 March, an evacuation order was announced for the entire south of the Litani River—an area of approximately 850 square kilometers and home to at least 500,000 people. These orders follow previous evacuation directives affecting more than 110 towns and locations near the border and in the southern suburbs of Beirut, significantly increasing the scale and complexity of population movements. In parallel with heavy level and geo expansion of airstrikes, there are growing reports of expanded Israeli military presence along the blue line. This development raises serious concerns about the potential for further escalation, additional displacement, and prolonged instability in affected areas. Masnaa and Al-Qaa remain the only official border crossings between Lebanon and Syria currently open. UNHCR reports that, according to the Governments of Lebanon and the Government of Syria approximately 37,000 Syrians have crossed back into Syria and with a smaller number of Lebanese crossing from 2-4 March. Crossings are continuing at a steady pace and border crossings open extended hours. Departures are higher than what is typically observed during the Ramadan period and the GSO has extended their hours to accommodate the departures. The renewed hostilities are driving heightened fear and psychological distress among civilians, particularly among families, who have experienced repeated displacement. The growing influx of displaced people is placing severe pressure on collective shelters, host communities, and already overstretched public services, including healthcare, water, sanitation, and electricity systems. In a country already grappling with deep economic crisis and weakened public infrastructure, the current escalation risks exacerbating humanitarian needs and further straining national response capacities in the days ahead.</p>",
-      "published": "2026-03-06T21:44:21+00:00",
-      "link": "https://reliefweb.int/report/lebanon/lebanon-flash-update-1-escalation-hostilities-lebanon-5-march-2026",
-      "score": 71.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 75
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -35,11 +22,11 @@
       "description": "Verture is a Scottish climate resilience charity that aims to help people thrive as the climate changes by creating connections, actions and insights for a fairer and smarter future.",
       "published": "2026-03-04T14:03:27+00:00",
       "link": "https://www.undrr.org/organization/verture",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",

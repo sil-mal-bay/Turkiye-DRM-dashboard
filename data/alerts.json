@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-08T06:08:30.602123+00:00",
+  "last_updated": "2026-03-09T07:41:49.347288+00:00",
   "count": 2,
   "alerts": [
     {
       "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — GURCISTAN ACIKLARI (KARADENIZ) İlksel",
-      "magnitude": 4.2,
-      "time": "2026-03-06T07:29:08+00:00",
-      "location": "GURCISTAN ACIKLARI (KARADENIZ) İlksel",
-      "latitude": 43.3188,
-      "longitude": 39.4533,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+      "severity": "high",
+      "title": "M5.1 earthquake — 10 km E of Buldan, Turkey",
+      "magnitude": 5.1,
+      "time": "2026-03-09T06:21:05.912000+00:00",
+      "location": "10 km E of Buldan, Turkey",
+      "latitude": 38.0499,
+      "longitude": 28.9554,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s33s"
     },
     {
       "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.5 earthquake — AKDENIZ REVIZE01 (2026.03.06 08:35:20",
-      "magnitude": 4.5,
-      "time": "2026-03-06T08:35:20+00:00",
-      "location": "AKDENIZ REVIZE01 (2026.03.06 08:35:20",
-      "latitude": 34.6733,
-      "longitude": 28.9788,
+      "severity": "high",
+      "title": "M5.1 earthquake — YENICEKENT-BULDAN (DENIZLI) İlksel",
+      "magnitude": 5.1,
+      "time": "2026-03-09T09:21:04+00:00",
+      "location": "YENICEKENT-BULDAN (DENIZLI) İlksel",
+      "latitude": 38.0662,
+      "longitude": 28.9735,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
