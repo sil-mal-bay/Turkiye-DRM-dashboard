@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-03-09T07:41:49.346594+00:00",
+  "last_updated": "2026-03-10T07:14:01.660809+00:00",
   "count": 10,
   "publications": [
-    {
-      "source": "UNDRR",
-      "title": "Resilience Maturity Assessment flyer",
-      "description": "This flyer provides a concise overview of the Resilience Maturity Assessment (ReMA) tool, developed by UNDRR in collaboration with the Corporate Chief Resilience Officers (CCRO) Network.",
-      "date": "2026-02-10T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/resilience-maturity-assessment-flyer",
-      "type": "report"
-    },
     {
       "source": "UNDRR",
       "title": "Strengthening the disaster resilience of SMEs in Barcelona: landscape assessment study",
@@ -80,6 +72,14 @@
       "description": "This brief examines how the rights and needs of assistive technology users can be more effectively addressed in DRR and climate action.",
       "date": "2025-12-01T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-assistive-technology-inclusive-disaster-risk",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Strategic Framework 2026-2030",
+      "description": "This Strategic Framework sets out UNDRR's goals and activity focus for the period 2026-2030.",
+      "date": "2025-11-26T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-strategic-framework-2026-2030",
       "type": "report"
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-03-09T07:40:47.955647+00:00",
-  "count": 7,
+  "last_updated": "2026-03-10T07:13:02.878151+00:00",
+  "count": 8,
   "articles": [
+    {
+      "source": "reliefweb",
+      "title": "Situation Report - Sri Lanka 10th March 2026 at 1000hrs - (Additional details included) – Ditwah",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e4/fb/e4fbf26b-0ad0-432e-8709-281e4a8050bb.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
+      "published": "2026-03-10T05:20:16+00:00",
+      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-10th-march-2026-1000hrs-additional-details-included-ditwah",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
+    {
+      "source": "reliefweb",
+      "title": "Guatemala - Perspectiva de seguridad alimentaria: Inicio prematuro de la temporada de escasez provoca resultados de Crisis (Fase 3, CIF) (Febrero - Septiembre 2026)",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Guatemala</div>\n                                      <div class=\"tag source\">Source: Famine Early Warning System Network</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/35/aa/35aa4232-afa0-4a51-8c21-eeeb4b7a96dc.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p><strong>Mensajes Clave</strong></p>\n<ul><li>\n<p><strong>Entre febrero y septiembre en el Corredor Seco, áreas de Alta Verapaz y del Altiplano Occidental los hogares más pobres se clasificarán en Crisis (Fase 3, CIF).</strong> Dichas áreas iniciaron 2026 sin reservas tras pérdidas de cosechas causadas por lluvias irregulares y altas temperaturas en 2025. Años consecutivos de impactos climáticos han erosionado medios de vida y aumentado el arrastre de deudas, mientras la alta dependencia del mercado presiona el poder adquisitivo. Adicionalmente, el prolongado uso de estrategias de afrontamiento negativas marcará un inicio prematuro de la temporada de escasez.</p>\n</li>\n<li>\n<p><strong>En febrero, los elevados precios de los alimentos mantienen a gran parte del país en inseguridad alimentaria Acentuada (Fase 2, CIF),</strong> aunque la reciente producción de granos básicos y el aumento estacional de ingresos contribuyen a cubrir la alimentación básica. Hasta mayo, las reservas de granos y los ahorros limitados siguen mejorando marginalmente la dieta de muchos hogares pobres. Al avanzar la temporada de escasez, en junio, los ingresos reducidos, el fin de las reservas, la dependencia del mercado y el aumento estacional de precios harán que más hogares pobres caigan a Crisis (Fase 3, CIF) hasta septiembre.</p>\n</li>\n<li>\n<p><strong>FEWS NET estima que la población en necesidad de asistencia alimentaria alcanzará</strong> <strong>entre 2.0-2.4 millones entre junio y agosto.</strong> Las reservas se agotarían a medida que aumente la dependencia del mercado entre abril y mayo. Entre junio y agosto, los ingresos disminuirán y la compra de alimentos se intensificará, incrementando su demanda y generando picos estacionales de precios, acercando a la población en necesidad al límite superior del rango.</p>\n</li>\n<li>\n<p><strong>Las áreas de preocupación siguen siendo el Corredor Seco</strong> <strong>y partes de Alta Verapaz y del Altiplano Occidental</strong> dado quehan enfrentado impactos climáticos recurrentes que han deteriorado los medios de vida y la capacidad de enfrentar choques nuevos, por lo que habrá una concentración de hogares pobres en Crisis (Fase 3, CIF) en estas zonas.</p>\n<p><em><strong>El análisis presentado aquí se base en la información disponible al 20 de febrero de 2026.</strong></em></p>\n</li>\n</ul>",
+      "published": "2026-03-10T04:17:20+00:00",
+      "link": "https://reliefweb.int/report/guatemala/guatemala-perspectiva-de-seguridad-alimentaria-inicio-prematuro-de-la-temporada-de-escasez-provoca-resultados-de-crisis-fase-3-cif-febrero-septiembre-2026",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "UNDRR February 2026 newsletter",
@@ -22,11 +48,11 @@
       "description": "Verture is a Scottish climate resilience charity that aims to help people thrive as the climate changes by creating connections, actions and insights for a fairer and smarter future.",
       "published": "2026-03-04T14:03:27+00:00",
       "link": "https://www.undrr.org/organization/verture",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -74,19 +100,6 @@
       "description": "The Journal of Catastrophe Risk and Resilience (JCRR), is a diamond open-access interdisciplinary research journal with a broad remit encompassing natural hazards, catastrophe risk, and the societal and institutional response to their management.",
       "published": "2026-02-24T09:42:30+00:00",
       "link": "https://www.undrr.org/organization/journal-catastrophe-risk-and-resilience",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Our work and what we do",
-      "original_title": null,
-      "description": "UNDRR is the lead UN entity for the coordination of disaster risk reduction. We help decision makers across the globe better understand and act on risk.",
-      "published": "2026-02-24T04:06:10+00:00",
-      "link": "https://www.undrr.org/our-work",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

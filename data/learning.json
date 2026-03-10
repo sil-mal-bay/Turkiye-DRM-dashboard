@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T07:41:11.915535+00:00",
+  "last_updated": "2026-03-10T07:13:28.373867+00:00",
   "count": 62,
   "items": [
     {
@@ -368,13 +368,6 @@
     },
     {
       "source": "UNDRR",
-      "title": "Resilience Maturity Assessment flyer",
-      "link": "https://www.undrr.org/publication/documents-and-publications/resilience-maturity-assessment-flyer",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
       "title": "Strengthening the disaster resilience of SMEs in Barcelona: landscape assessment study",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
       "type": "learning",
@@ -433,6 +426,13 @@
       "source": "UNDRR",
       "title": "Leveraging assistive technology for inclusive disaster risk reduction and climate action",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-assistive-technology-inclusive-disaster-risk",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Strategic Framework 2026-2030",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-strategic-framework-2026-2030",
       "type": "learning",
       "description": ""
     }
