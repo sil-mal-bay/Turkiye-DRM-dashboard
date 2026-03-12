@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-03-11T07:31:38.632735+00:00",
-  "count": 7,
+  "last_updated": "2026-03-12T07:36:51.175759+00:00",
+  "count": 3,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.1 earthquake — YENICEKENT-BULDAN (DENIZLI) İlksel",
-      "magnitude": 5.1,
-      "time": "2026-03-09T09:21:04+00:00",
-      "location": "YENICEKENT-BULDAN (DENIZLI) İlksel",
-      "latitude": 38.0662,
-      "longitude": 28.9735,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — 13 km WSW of Gözler, Turkey",
-      "magnitude": 4.2,
-      "time": "2026-03-09T17:02:36.275000+00:00",
-      "location": "13 km WSW of Gözler, Turkey",
-      "latitude": 38.0706,
-      "longitude": 29.0062,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s373"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — HAMDIYE-GUNEY (DENIZLI) İlksel",
-      "magnitude": 4.2,
-      "time": "2026-03-09T20:02:34+00:00",
-      "location": "HAMDIYE-GUNEY (DENIZLI) İlksel",
-      "latitude": 38.0998,
-      "longitude": 28.9643,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — HAMDIYE-GUNEY (DENIZLI) İlksel",
-      "magnitude": 4.3,
-      "time": "2026-03-09T23:20:24+00:00",
-      "location": "HAMDIYE-GUNEY (DENIZLI) İlksel",
-      "latitude": 38.0753,
-      "longitude": 28.9705,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",

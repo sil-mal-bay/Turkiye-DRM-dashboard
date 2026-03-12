@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:31:06.349088+00:00",
+  "last_updated": "2026-03-12T07:36:15.617073+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -326,15 +326,15 @@
     },
     {
       "source": "GFDRR",
-      "title": "Iceland - Towards an Integrated Wildfire Risk Management Diagnostic and Recommendations Report",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122325103039393/p178843-8ff527a6-554f-4ebb-a792-48b5cd483748",
+      "title": "Towards an Integrated Wildfire Risk Management in Iceland - Diagnostic and Recommendations",
+      "link": "https://documents1.worldbank.org/curated/en/099122325103025733/pdf/P178843-a12c31f6-8ab3-47e0-afc0-7bfcddbf5bcd.pdf",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Towards an Integrated Wildfire Risk Management in Iceland - Diagnostic and Recommendations",
-      "link": "https://documents1.worldbank.org/curated/en/099122325103025733/pdf/P178843-a12c31f6-8ab3-47e0-afc0-7bfcddbf5bcd.pdf",
+      "title": "Iceland - Towards an Integrated Wildfire Risk Management Diagnostic and Recommendations Report",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099122325103039393/p178843-8ff527a6-554f-4ebb-a792-48b5cd483748",
       "type": "report",
       "description": ""
     },
@@ -361,8 +361,8 @@
     },
     {
       "source": "GFDRR",
-      "title": "The Role of Resilient Housing Reconstruction in Disaster Risk Management in Fragile, Conflict, and Violence-Affected Countries",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099621112172528162",
+      "title": "The Role of the Resilient Built Environment in Fragile, Conflict, and Violence-Affected Countries",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099630212172515798",
       "type": "report",
       "description": ""
     },
