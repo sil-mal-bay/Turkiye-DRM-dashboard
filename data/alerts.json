@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T07:33:55.671903+00:00",
-  "count": 3,
+  "last_updated": "2026-03-14T07:10:12.748229+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
@@ -23,18 +23,6 @@
       "location": "PINARBEYLI-ERBAA (TOKAT) İlksel",
       "latitude": 40.6628,
       "longitude": 36.7802,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — YENICEKENT-BULDAN (DENIZLI) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-03-11T07:42:14+00:00",
-      "location": "YENICEKENT-BULDAN (DENIZLI) İlksel",
-      "latitude": 38.0693,
-      "longitude": 28.9567,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
