@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T07:08:53.938198+00:00",
+  "last_updated": "2026-03-15T07:32:58.085935+00:00",
   "count": 6,
   "articles": [
     {
@@ -9,11 +9,11 @@
       "description": "The Government of the Democratic Republic of Congo hosted a national workshop on the Early Warnings for All (EW4All) initiative from 28 to 29 January 2026. The workshop built upon two landmark DRM decrees the DRC adopted in 2025.",
       "published": "2026-03-13T12:05:00+00:00",
       "link": "https://www.undrr.org/news/governance-reform-early-action-expanding-early-warning-systems-drc",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +35,11 @@
       "description": "An important study set out to understand the real-world reach of Timor-Leste's early warning systems by surveying 909 households and conducting 27 focus group discussions across eight municipalities.",
       "published": "2026-03-10T06:35:10+00:00",
       "link": "https://www.undrr.org/news/hearing-call-how-timor-leste-reaching-last-mile-early-warnings",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

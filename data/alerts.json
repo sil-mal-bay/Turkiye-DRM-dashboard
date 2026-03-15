@@ -1,28 +1,16 @@
 {
-  "last_updated": "2026-03-14T07:10:12.748229+00:00",
-  "count": 2,
+  "last_updated": "2026-03-15T07:34:06.710910+00:00",
+  "count": 1,
   "alerts": [
     {
       "type": "earthquake",
-      "severity": "high",
-      "title": "M5.3 earthquake — 16 km E of Erbaa, Turkey",
-      "magnitude": 5.3,
-      "time": "2026-03-13T00:35:14.948000+00:00",
-      "location": "16 km E of Erbaa, Turkey",
-      "latitude": 40.6932,
-      "longitude": 36.7643,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sfyj"
-    },
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.6 earthquake — PINARBEYLI-ERBAA (TOKAT) İlksel",
-      "magnitude": 5.6,
-      "time": "2026-03-13T03:35:13+00:00",
-      "location": "PINARBEYLI-ERBAA (TOKAT) İlksel",
-      "latitude": 40.6628,
-      "longitude": 36.7802,
+      "severity": "medium",
+      "title": "M4.5 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
+      "magnitude": 4.5,
+      "time": "2026-03-14T19:21:35+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 34.8648,
+      "longitude": 23.3147,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
