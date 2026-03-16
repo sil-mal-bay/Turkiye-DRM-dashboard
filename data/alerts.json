@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T07:34:06.710910+00:00",
-  "count": 1,
+  "last_updated": "2026-03-16T08:16:07.976853+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,18 @@
       "location": "GIRIT ADASI (AKDENIZ) İlksel",
       "latitude": 34.8648,
       "longitude": 23.3147,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "magnitude": 4.4,
+      "time": "2026-03-16T09:46:20+00:00",
+      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "latitude": 34.0158,
+      "longitude": 25.369,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
