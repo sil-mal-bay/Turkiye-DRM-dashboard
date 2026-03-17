@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-03-16T08:15:03.929669+00:00",
-  "count": 19,
+  "last_updated": "2026-03-17T07:44:09.919383+00:00",
+  "count": 21,
   "largest": {
-    "source": "Kandilli",
-    "magnitude": 5.6,
-    "place": "PINARBEYLI-ERBAA (TOKAT) İlksel",
-    "time": "2026-03-13T03:35:13+00:00",
-    "latitude": 40.659,
-    "longitude": 36.78,
-    "depth_km": 4.1,
-    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    "source": "USGS",
+    "magnitude": 5.3,
+    "place": "16 km E of Erbaa, Turkey",
+    "time": "2026-03-13T00:35:14.948000+00:00",
+    "latitude": 40.6932,
+    "longitude": 36.7643,
+    "depth_km": 10,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sfyj"
   },
   "significant_events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 5.6,
-      "place": "PINARBEYLI-ERBAA (TOKAT) İlksel",
-      "time": "2026-03-13T03:35:13+00:00",
-      "latitude": 40.659,
-      "longitude": 36.78,
-      "depth_km": 4.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "USGS",
       "magnitude": 5.3,
@@ -61,30 +51,10 @@
       "longitude": 31.5621,
       "depth_km": 104.608,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3d1"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "13 km WSW of Gözler, Turkey",
-      "time": "2026-03-09T17:02:36.275000+00:00",
-      "latitude": 38.0706,
-      "longitude": 29.0062,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s373"
     }
   ],
   "events": [
     {
-      "source": "Kandilli",
-      "magnitude": 5.6,
-      "place": "PINARBEYLI-ERBAA (TOKAT) İlksel",
-      "time": "2026-03-13T03:35:13+00:00",
-      "latitude": 40.659,
-      "longitude": 36.78,
-      "depth_km": 4.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "USGS",
       "magnitude": 5.3,
       "place": "16 km E of Erbaa, Turkey",
@@ -125,23 +95,43 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3d1"
     },
     {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "13 km WSW of Gözler, Turkey",
-      "time": "2026-03-09T17:02:36.275000+00:00",
-      "latitude": 38.0706,
-      "longitude": 29.0062,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s373"
+      "source": "Kandilli",
+      "magnitude": 3.9,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-03-16T21:19:29+00:00",
+      "latitude": 35.0395,
+      "longitude": 23.8683,
+      "depth_km": 12.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
       "magnitude": 3.9,
-      "place": "HAMDIYE-GUNEY (DENIZLI) REVIZE01 (2026.03.16 09:03:47",
+      "place": "HAMDIYE-GUNEY (DENIZLI) İlksel",
       "time": "2026-03-16T09:03:47+00:00",
-      "latitude": 38.0912,
-      "longitude": 28.9612,
-      "depth_km": 3.0,
+      "latitude": 38.0915,
+      "longitude": 28.9642,
+      "depth_km": 2.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-03-16T11:36:11+00:00",
+      "latitude": 33.9372,
+      "longitude": 25.2712,
+      "depth_km": 8.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "EYNESIL ACIKLARI-GIRESUN (KARADENIZ) İlksel",
+      "time": "2026-03-17T06:51:06+00:00",
+      "latitude": 41.3973,
+      "longitude": 38.8695,
+      "depth_km": 7.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -156,12 +146,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "AYAN-ERBAA (TOKAT) İlksel",
-      "time": "2026-03-13T03:47:35+00:00",
-      "latitude": 40.6623,
-      "longitude": 36.7587,
-      "depth_km": 4.4,
+      "magnitude": 3.5,
+      "place": "DERE-KAS (ANTALYA) İlksel",
+      "time": "2026-03-17T02:08:46+00:00",
+      "latitude": 36.2773,
+      "longitude": 29.675,
+      "depth_km": 39.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -202,6 +192,26 @@
       "latitude": 40.6473,
       "longitude": 36.783,
       "depth_km": 5.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KERTIL-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-03-17T01:38:01+00:00",
+      "latitude": 39.2073,
+      "longitude": 28.0883,
+      "depth_km": 9.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-03-16T17:01:43+00:00",
+      "latitude": 36.6588,
+      "longitude": 25.6787,
+      "depth_km": 8.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -252,16 +262,6 @@
       "latitude": 39.0077,
       "longitude": 25.611,
       "depth_km": 8.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "PINARBEYLI-ERBAA (TOKAT) İlksel",
-      "time": "2026-03-13T05:06:51+00:00",
-      "latitude": 40.6607,
-      "longitude": 36.7868,
-      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

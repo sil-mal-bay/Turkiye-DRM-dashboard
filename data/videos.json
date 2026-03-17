@@ -1,15 +1,141 @@
 {
-  "last_updated": "2026-03-16T08:15:12.511884+00:00",
+  "last_updated": "2026-03-17T07:44:21.850938+00:00",
   "count": 34,
   "videos": [
     {
-      "video_id": "Kmpky7MFcjQ",
-      "title": "Christian vang Eghoff presenting the City Resilience Program",
-      "description": "ABOUT THE CITY RESILIENCE PROGRAM\nThe City Resilience Program embeds resilience into urban planning, infrastructure investments, and government. The program supports cities to better understand and address their disasters and climate risks, and work with them to identify viable urban resilience inve",
+      "video_id": "-DftLNnxsTM",
+      "title": "A Pathway toward Resilient, Green, and Inclusive School Infrastructure",
+      "description": "Millions of children around the world attend classes in vulnerable schools. While governments strive to safely reopen schools during the pandemic, ever more frequent and severe natural hazards continue to hit educational systems every day, further exacerbating learning poverty.\n\nInfrastructure manag",
       "channel": "GFDRR",
-      "published": "2026-03-02T18:17:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/Kmpky7MFcjQ/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Kmpky7MFcjQ"
+      "published": "2026-03-16T22:18:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/-DftLNnxsTM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-DftLNnxsTM"
+    },
+    {
+      "video_id": "5qWfyG7zbs4",
+      "title": "Insights from the Lloyd's Register Foundation World Risk Poll",
+      "description": "The Lloyd's Register Foundation's Director of Evidence and Insight, Dr. Sarah Cumbers, present the findings, and their implications for policymakers and stakeholders working to improve resilience will be discussed. Sponsored by the Territorial and Spatial Development GSG and the Resilience and Disas",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:16:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/5qWfyG7zbs4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5qWfyG7zbs4"
+    },
+    {
+      "video_id": "04Dzl4jCMKk",
+      "title": "The hybrid DPO/Cat-DDO: bringing disaster risk management center stage in the Pacific",
+      "description": "Pacific countries are some of the most hazard-exposed in the world. Located at the confluence of the Ring of Fire and the Pacific Cyclone Belt, countries in the region are highly vulnerable to tropical cyclones, earthquakes, volcanic activity, tsunami, storm surges, king tides, and seasonal droughts",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:16:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/04Dzl4jCMKk/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=04Dzl4jCMKk"
+    },
+    {
+      "video_id": "_N4pgw6LRVs",
+      "title": "GRADE for TTLs: What, Why, & When Behind the Global Rapid Post-Disaster Damage Estimation Products",
+      "description": "In the past 7 years, World Bank task teams have requested Global Rapid post-disaster Damage Estimation (GRADE) assessments for over 25 disasters spanning all of our working regions.\n\nGRADE assessments support the World Bank and partners in determining the appropriate levels of financial and technica",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:16:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/_N4pgw6LRVs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_N4pgw6LRVs"
+    },
+    {
+      "video_id": "GQSXegfbb18",
+      "title": "Examples of Cities, Urban Plans, and Policies Designed for Flood Risk mitigation and prevention",
+      "description": "Climate change affects urban areas and constitutes a threat to the population and the economy. New approaches, innovation, and proactivity of policy makers are necessary to better understand and tackle this growing challenge of managing current and future flood risk in urban areas. In this session, ",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:12:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/GQSXegfbb18/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GQSXegfbb18"
+    },
+    {
+      "video_id": "m7SBPTo9nP8",
+      "title": "Dissemination Seminar Resilient Transport in SIDS",
+      "description": "Small Island Developing States (SIDS) are among the most exposed and vulnerable countries to disasters and climate change risk. In spite of their high exposure to natural hazards, SIDS have at their disposal several options to enhance resilience. This BBL will present the results of the Programmatic",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:12:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/m7SBPTo9nP8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m7SBPTo9nP8"
+    },
+    {
+      "video_id": "lEiaGMKnUNs",
+      "title": "[Event] Climate-Resilient Education Infrastructure in Senegal and Burkina Faso (Session 2)",
+      "description": "The session present the experiences in Burkina Faso and Senegal in conducting a rapid diagnostic of school infrastructure. The objective of the rapid diagnostic is to identify the main factors that place school infrastructure at risk from natural hazards and climate related risks and to better under",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:10:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/lEiaGMKnUNs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lEiaGMKnUNs"
+    },
+    {
+      "video_id": "wsyosjzfq-g",
+      "title": "[Event] Climate-Resilient Education Infrastructure in Senegal and Burkina Faso (Session 1)",
+      "description": "The session present the experiences in Burkina Faso and Senegal in conducting a rapid diagnostic of school infrastructure. The objective of the rapid diagnostic is to identify the main factors that place school infrastructure at risk from natural hazards and climate related risks and to better under",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:10:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/wsyosjzfq-g/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wsyosjzfq-g"
+    },
+    {
+      "video_id": "Fvq72W-XcuA",
+      "title": "Unbreakable Updated: A global perspective on households' socioeconomic resilience to natural hazards",
+      "description": "Risk assessments typically focus on asset losses to quantify the impacts of natural hazards, often neglecting distributional effects, the socioeconomic heterogeneity of the people affected, and the temporal dimension of reconstruction.\n\nPresenting a major update to the global micro-simulation model ",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:10:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fvq72W-XcuA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fvq72W-XcuA"
+    },
+    {
+      "video_id": "2zTxEVcq-h8",
+      "title": "[Event] Municipal Services and Resilience",
+      "description": "This Brown Bag Breakfast on strengthening municipal services and resilience will introduce the South Africa National Treasury’s Cities Support Programme (CSP), the lessons learned and the forward-looking activities to develop the capability of municipalities in South Africa to implement strategies c",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:10:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/2zTxEVcq-h8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2zTxEVcq-h8"
+    },
+    {
+      "video_id": "IHqhAYd30qs",
+      "title": "Disaster Resilient Infrastructure – A holy grail or an achievable dream, November 2, 2023",
+      "description": "Built infrastructure systems must be disaster-resilient. After a disaster, its functionality has to be restored under significant uncertainties. Innovative Infrastructure design and management pathways can aid in incorporating flexibility in planning and decision-making, sequencing possible pre- and",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/IHqhAYd30qs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IHqhAYd30qs"
+    },
+    {
+      "video_id": "hC6kw-GaqB4",
+      "title": "Decoding Urban Flooding: The Urban Flood Risk Handbook and the Framework Agreement for Urban Flood",
+      "description": "By 2030, urban exposure to flooding will more than double. By 2050, annual flood losses in 136 major global cities will reach $52 billion, not even accounting for land subsidence or climate change. Torrential rains, overwhelmed drainage systems, and inadequate planning leave cities with more severe,",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:09:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/hC6kw-GaqB4/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hC6kw-GaqB4"
+    },
+    {
+      "video_id": "J0sOyvWcKoA",
+      "title": "Building Climate Resilience into the Construction Industry",
+      "description": "As climate change related natural disasters are becoming more frequent and severe, how do we ensure a building project we’re investing in will be resilient?\n\nHow can we scale up adoption of risk mitigation measures in the built environment and enhance the resilience of our cities?\n\nThe answer is Bui",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:09:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/J0sOyvWcKoA/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J0sOyvWcKoA"
+    },
+    {
+      "video_id": "tJUTNI1cZvs",
+      "title": "Scaling up Urban Flood Resilience through Nationally Facilitated Local Actions",
+      "description": "To effectively address growing globally urban flood risk, city-scale resilience building actions, including investments must be accelerated.\n\nRecent years have seen the use of nationally facilitated local actions, such as the national governments conducting urban flood risk analytics or creation of ",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:09:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/tJUTNI1cZvs/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tJUTNI1cZvs"
+    },
+    {
+      "video_id": "xt_0_zVoX5Q",
+      "title": "Urban Reconstruction in Post-Conflict Settings",
+      "description": "ABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower-middle-income countries better understand and reduce their vulnerabilities to natural hazards and adapt to climate change. GFDRR provides grant financing, technical assistance, tra",
+      "channel": "GFDRR",
+      "published": "2026-03-16T22:04:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/xt_0_zVoX5Q/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xt_0_zVoX5Q"
     },
     {
       "video_id": "_aci49uFHvQ",
@@ -145,132 +271,6 @@
       "published": "2026-02-18T14:47:23Z",
       "thumbnail": "https://i.ytimg.com/vi/JccU8tRIod0/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JccU8tRIod0"
-    },
-    {
-      "video_id": "DcEDMqc-qPg",
-      "title": "Resilient Housing Reconstruction: Insights from Japan’s Technical Knowledge Exchange (June 2025)",
-      "description": "This short video captures highlights from the June 2025 technical knowledge exchange in Japan, where global experts and practitioners gathered to learn about resilient housing reconstruction. Featuring interviews and site visits, the video showcases Japan’s innovative approaches and lessons for resi",
-      "channel": "GFDRR",
-      "published": "2026-02-13T21:19:34Z",
-      "thumbnail": "https://i.ytimg.com/vi/DcEDMqc-qPg/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DcEDMqc-qPg"
-    },
-    {
-      "video_id": "RXEG0GvjMWc",
-      "title": "Building Better Flood Early Warning Systems: Türkiye’s Learning in Japan",
-      "description": "In response to Turkiye’s increasing need to manage floods, a delegation from Türkiye visited Japan in October 2025 to learn from Japan’s experience, expertise, and good practices in operating their flood early warning systems combined with its infrastructure measures.\n\nABOUT THE GLOBAL FACILITY FOR ",
-      "channel": "GFDRR",
-      "published": "2026-01-20T15:24:19Z",
-      "thumbnail": "https://i.ytimg.com/vi/RXEG0GvjMWc/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RXEG0GvjMWc"
-    },
-    {
-      "video_id": "EllidfJa_iM",
-      "title": "Canada-Caribbean Resilience Facility: Public Financial Management",
-      "description": "The Canada-Caribbean Resilience Facility (CRF) works to achieve more effective and coordinated gender-informed climate-resilient preparedness, recovery, and public financial management (PFM) practices in nine Caribbean countries.  This video focuses on the facility's impact in PFM. Learn more: https",
-      "channel": "GFDRR",
-      "published": "2025-11-18T22:24:46Z",
-      "thumbnail": "https://i.ytimg.com/vi/EllidfJa_iM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EllidfJa_iM"
-    },
-    {
-      "video_id": "r3WgnFUHkWM",
-      "title": "Canada-Caribbean Resilience Facility",
-      "description": "The Canada-Caribbean Resilience Facility (CRF) works to achieve more effective and coordinated gender-informed climate-resilient preparedness, recovery, and public financial management (PFM) practices in nine Caribbean countries. Learn more about the facility: https://www.gfdrr.org/en/crf\n\nABOUT THE",
-      "channel": "GFDRR",
-      "published": "2025-11-18T21:36:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/r3WgnFUHkWM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=r3WgnFUHkWM"
-    },
-    {
-      "video_id": "tvlTWqNXIMA",
-      "title": "Canada-Caribbean Resilience Facility: Sectoral Recovery Capacity Assessments",
-      "description": "The Canada-Caribbean Resilience Facility (CRF) works to achieve more effective and coordinated gender-informed climate-resilient preparedness, recovery, and public financial management (PFM) practices in nine Caribbean countries. This video explores insights and lessons learned from a series of sect",
-      "channel": "GFDRR",
-      "published": "2025-11-18T21:29:42Z",
-      "thumbnail": "https://i.ytimg.com/vi/tvlTWqNXIMA/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tvlTWqNXIMA"
-    },
-    {
-      "video_id": "Pqw7A7jkRnI",
-      "title": "Michel Matera, Livable Cities Workshop: Integrated Urban Flood Risk Management | CRP",
-      "description": "True urban resilience is where finance meets foresight -- when investments in infrastructure are matched by investments in knowledge. \n\nLast month, the City Resilience Program (CRP) joined partners and city leaders in Cotonou, Benin, for the Livable Cities Workshop: Integrated Urban Flood Risk Manag",
-      "channel": "GFDRR",
-      "published": "2025-11-17T20:55:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/Pqw7A7jkRnI/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Pqw7A7jkRnI"
-    },
-    {
-      "video_id": "MFhOAu_QM60",
-      "title": "Dutch-Tunisian Knowledge Exchange on Urban & Coastal Resilience | City Resilience Program",
-      "description": "This summer, the World Bank’s City Resilience Program (CRP) partnered with the Netherlands Water Partnership (NWP) to co-organize a Dutch–Tunisian Knowledge Exchange Week focused on urban and coastal resilience. \n\nThe week brought together a high-level Tunisian delegation, including senior officials",
-      "channel": "GFDRR",
-      "published": "2025-10-23T22:39:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/MFhOAu_QM60/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MFhOAu_QM60"
-    },
-    {
-      "video_id": "iC8H40ugSlM",
-      "title": "Cómo enfrentar el calor extremo en las ciudades",
-      "description": "Inhabitable: Enfrentando el Calor Urbano Extremo en América Latina y el Caribe. \n\nEste reporte analiza las proyecciones de aumento de temperatura, sus impactos sobre la salud, la infraestructura y las economías urbanas, y propone medidas urgentes para mitigar los efectos del calor, proteger a los má",
-      "channel": "GFDRR",
-      "published": "2025-10-23T22:26:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/iC8H40ugSlM/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iC8H40ugSlM"
-    },
-    {
-      "video_id": "m_dUmn7vqdo",
-      "title": "Bringing Japan’s Knowledge Home: Romania’s Ionita Bogdan on Housing Resilience",
-      "description": "Ionita Bogdan from Romania reflects on the valuable information learned during the knowledge exchange and how these lessons can be applied to Romania’s housing resilience efforts.\n\nABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower",
-      "channel": "GFDRR",
-      "published": "2025-10-22T08:35:45Z",
-      "thumbnail": "https://i.ytimg.com/vi/m_dUmn7vqdo/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=m_dUmn7vqdo"
-    },
-    {
-      "video_id": "O4zZVZmqPrc",
-      "title": "Phased Recovery & Timelines: Kenya’s Takeaways from Japan’s Housing Reconstruction – Mary Kamau",
-      "description": "Mary Wangari Kamau from Kenya talks about the timeline and phased recovery approach in housing reconstruction, sharing insights gained from the Japan visit.\n\nABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower-middle-income countrie",
-      "channel": "GFDRR",
-      "published": "2025-10-22T08:35:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/O4zZVZmqPrc/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=O4zZVZmqPrc"
-    },
-    {
-      "video_id": "U8cW3fMLmpA",
-      "title": "Cómo enfrentar el calor extremo en las ciudades (Español)",
-      "description": "Inhabitable: Enfrentando el Calor Urbano Extremo en América Latina y el Caribe. \n\nEste reporte analiza las proyecciones de aumento de temperatura, sus impactos sobre la salud, la infraestructura y las economías urbanas, y propone medidas urgentes para mitigar los efectos del calor, proteger a los má",
-      "channel": "GFDRR",
-      "published": "2025-10-22T08:35:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/U8cW3fMLmpA/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=U8cW3fMLmpA"
-    },
-    {
-      "video_id": "OfGkl9cHKEY",
-      "title": "Rebuilding Balochistan: Pakistan’s Housing Reconstruction Lessons from Japan – Rashid Razzaq",
-      "description": "Rashid Razzaq talks about housing reconstruction in Balochistan, Pakistan, and how the visit to Japan has helped address some of the region’s key challenges.\n\nABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower-middle-income countri",
-      "channel": "GFDRR",
-      "published": "2025-10-22T08:35:10Z",
-      "thumbnail": "https://i.ytimg.com/vi/OfGkl9cHKEY/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OfGkl9cHKEY"
-    },
-    {
-      "video_id": "sFMycTOwecg",
-      "title": "Inspired by Japan: Lessons for Mozambique’s Housing Reconstruction – Maria Santos",
-      "description": "Maria Santos shares which aspects of the technical knowledge exchange have inspired her and the lessons she hopes to bring back to Mozambique.\n\nABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower-middle-income countries better under",
-      "channel": "GFDRR",
-      "published": "2025-10-22T08:35:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/sFMycTOwecg/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sFMycTOwecg"
-    },
-    {
-      "video_id": "MkMcDpXfxmY",
-      "title": "Mozambique’s Housing Projects: Insights from Japan’s Technical Knowledge Exchange – Luis Mandlhate",
-      "description": "Luis Mandlhate discusses current housing projects in Mozambique and how the knowledge exchange in Japan has provided new insights for their trajectory.\n\nABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower-middle-income countries bet",
-      "channel": "GFDRR",
-      "published": "2025-10-22T08:35:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/MkMcDpXfxmY/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MkMcDpXfxmY"
     },
     {
       "video_id": "iN1AJvlSB9U",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T08:15:36.193508+00:00",
+  "last_updated": "2026-03-17T07:44:45.333307+00:00",
   "count": 62,
   "items": [
     {
@@ -277,9 +277,9 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
+      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -354,16 +354,23 @@
     },
     {
       "source": "GFDRR",
+      "title": "Disaster Risk Profile: Dominican Republic (Spanish)",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099710103112618440",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "Disaster Risk Profile: Dominican Republic",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099705103112640261",
       "type": "report",
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Disaster Risk Profile: Dominican Republic (Spanish)",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099710103112618440",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Flames of change: Children and youth at the forefront of tackling urban heat",
+      "link": "https://www.undrr.org/publication/documents-and-publications/flames-change-children-and-youth-forefront-tackling-urban",
+      "type": "learning",
       "description": ""
     },
     {
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "Leveraging assistive technology for inclusive disaster risk reduction and climate action",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-assistive-technology-inclusive-disaster-risk",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR Strategic Framework 2026-2030",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-strategic-framework-2026-2030",
       "type": "learning",
       "description": ""
     }
