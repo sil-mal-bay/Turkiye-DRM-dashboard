@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T07:44:09.919383+00:00",
-  "count": 21,
+  "last_updated": "2026-03-18T05:46:23.664708+00:00",
+  "count": 26,
   "largest": {
     "source": "USGS",
     "magnitude": 5.3,
@@ -41,16 +41,6 @@
       "longitude": 25.369,
       "depth_km": 9.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "27 km SSW of Okurcalar, Turkey",
-      "time": "2026-03-10T11:20:17.920000+00:00",
-      "latitude": 36.4241,
-      "longitude": 31.5621,
-      "depth_km": 104.608,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3d1"
     }
   ],
   "events": [
@@ -83,16 +73,6 @@
       "longitude": 25.369,
       "depth_km": 9.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "27 km SSW of Okurcalar, Turkey",
-      "time": "2026-03-10T11:20:17.920000+00:00",
-      "latitude": 36.4241,
-      "longitude": 31.5621,
-      "depth_km": 104.608,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3d1"
     },
     {
       "source": "Kandilli",
@@ -147,6 +127,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.5,
+      "place": "CALIMLI-(VAN) İlksel",
+      "time": "2026-03-18T08:34:13+00:00",
+      "latitude": 38.6647,
+      "longitude": 43.7518,
+      "depth_km": 5.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
       "place": "DERE-KAS (ANTALYA) İlksel",
       "time": "2026-03-17T02:08:46+00:00",
       "latitude": 36.2773,
@@ -166,12 +156,32 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-03-18T04:16:27+00:00",
+      "latitude": 34.645,
+      "longitude": 26.6068,
+      "depth_km": 17.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "BUZKOY-NIKSAR (TOKAT) İlksel",
       "time": "2026-03-14T20:46:10+00:00",
       "latitude": 40.627,
       "longitude": 36.7962,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "KUMBETLI-NIKSAR (TOKAT) İlksel",
+      "time": "2026-03-18T03:10:38+00:00",
+      "latitude": 40.6422,
+      "longitude": 36.7815,
+      "depth_km": 1.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -192,6 +202,36 @@
       "latitude": 40.6473,
       "longitude": 36.783,
       "depth_km": 5.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "ONIKI ADALAR (EGE DENIZI) İlksel",
+      "time": "2026-03-18T00:16:35+00:00",
+      "latitude": 37.2063,
+      "longitude": 26.4182,
+      "depth_km": 9.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "ONIKI ADALAR (EGE DENIZI) İlksel",
+      "time": "2026-03-17T23:27:56+00:00",
+      "latitude": 36.561,
+      "longitude": 27.2683,
+      "depth_km": 104.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KUMBETLI-NIKSAR (TOKAT) İlksel",
+      "time": "2026-03-17T22:37:36+00:00",
+      "latitude": 40.652,
+      "longitude": 36.7675,
+      "depth_km": 5.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
