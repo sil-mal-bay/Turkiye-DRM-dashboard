@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T05:46:30.584506+00:00",
-  "count": 4,
+  "last_updated": "2026-03-19T05:43:14.607865+00:00",
+  "count": 3,
   "articles": [
     {
       "source": "undrr",
@@ -9,11 +9,11 @@
       "description": "In March 2026, São Tomé and Príncipe endorsed its EW4All roadmap to establish inclusive early warning systems. The roadmap benefited from the high-level political support and government ownership, paving the way to effectiveness and sustainability.",
       "published": "2026-03-17T12:28:03+00:00",
       "link": "https://www.undrr.org/news/sao-tome-and-principe-transforms-their-ew4all-commitments-action",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -22,19 +22,6 @@
       "description": "The Government of the Democratic Republic of Congo hosted a national workshop on the Early Warnings for All (EW4All) initiative from 28 to 29 January 2026. The workshop built upon two landmark DRM decrees the DRC adopted in 2025.",
       "published": "2026-03-13T12:05:00+00:00",
       "link": "https://www.undrr.org/news/governance-reform-early-action-expanding-early-warning-systems-drc",
-      "score": 41.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 15
-    },
-    {
-      "source": "undrr",
-      "title": "Hearing the call: How Timor-Leste is reaching the \"last mile\" with Early Warnings",
-      "original_title": null,
-      "description": "An important study set out to understand the real-world reach of Timor-Leste's early warning systems by surveying 909 households and conducting 27 focus group discussions across eight municipalities.",
-      "published": "2026-03-10T06:35:10+00:00",
-      "link": "https://www.undrr.org/news/hearing-call-how-timor-leste-reaching-last-mile-early-warnings",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
@@ -43,11 +30,11 @@
     },
     {
       "source": "undrr",
-      "title": "Verture",
+      "title": "Hearing the call: How Timor-Leste is reaching the \"last mile\" with Early Warnings",
       "original_title": null,
-      "description": "Verture is a Scottish climate resilience charity that aims to help people thrive as the climate changes by creating connections, actions and insights for a fairer and smarter future.",
-      "published": "2026-03-04T14:03:27+00:00",
-      "link": "https://www.undrr.org/organization/verture",
+      "description": "An important study set out to understand the real-world reach of Timor-Leste's early warning systems by surveying 909 households and conducting 27 focus group discussions across eight municipalities.",
+      "published": "2026-03-10T06:35:10+00:00",
+      "link": "https://www.undrr.org/news/hearing-call-how-timor-leste-reaching-last-mile-early-warnings",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
