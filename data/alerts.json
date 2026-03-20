@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-03-19T05:44:22.061186+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-03-20T05:37:57.646234+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — KIZILGUR-SINDIRGI (BALIKESIR) İlksel",
+      "magnitude": 4.1,
+      "time": "2026-03-20T07:52:02+00:00",
+      "location": "KIZILGUR-SINDIRGI (BALIKESIR) İlksel",
+      "latitude": 39.249,
+      "longitude": 28.0213,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
