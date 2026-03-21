@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T05:37:57.646234+00:00",
-  "count": 1,
+  "last_updated": "2026-03-21T05:30:01.963405+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,30 @@
       "location": "KIZILGUR-SINDIRGI (BALIKESIR) İlksel",
       "latitude": 39.249,
       "longitude": 28.0213,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.6 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.6,
+      "time": "2026-03-20T12:05:32+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 39.5092,
+      "longitude": 20.7758,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.8 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.8,
+      "time": "2026-03-20T12:40:42+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 39.5677,
+      "longitude": 20.4253,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

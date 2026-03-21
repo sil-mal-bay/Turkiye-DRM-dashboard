@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T05:37:25.510507+00:00",
+  "last_updated": "2026-03-21T05:29:29.472217+00:00",
   "count": 62,
   "items": [
     {
@@ -270,15 +270,36 @@
     },
     {
       "source": "World Bank",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "Flood risk management and urban resilience workshop",
       "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
     {
-      "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "source": "GFDRR",
+      "title": "Urban Heat : Assessing Risks and Identifying Interventions",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234541428",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Unlocking Nature for Disaster Resilience: A Policy Guide to Enable Nature-Based Solutions",
+      "link": "https://openknowledge.worldbank.org/entities/publication/69c8fe0d-1147-4574-9c85-1015a79ad7cd",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Urban Heat : Planning and Implementing Investments for Heat Resilience",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234518921",
       "type": "report",
       "description": ""
     },
@@ -342,27 +363,6 @@
       "source": "GFDRR",
       "title": "Handbook for Livable and Resilient Cities: Integrating Hazard and Risk Information into Urban Planning",
       "link": "https://openknowledge.worldbank.org/entities/publication/d7ee1212-42ed-4d8a-9ffa-225152ee65df",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Germany: The Economic Case for Investing in Disaster Preparedness and Resilience: Summary Report",
-      "link": "https://openknowledge.worldbank.org/entities/publication/2e35d6ac-6c52-4713-b2fe-7fd3bf1f5a85",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Disaster Risk Profile: Dominican Republic",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099705103112640261",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Disaster Risk Profile: Dominican Republic (Spanish)",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099710103112618440",
       "type": "report",
       "description": ""
     },
