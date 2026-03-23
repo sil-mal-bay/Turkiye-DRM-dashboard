@@ -1,19 +1,32 @@
 {
-  "last_updated": "2026-03-22T05:38:48.490155+00:00",
-  "count": 7,
+  "last_updated": "2026-03-23T05:54:53.288238+00:00",
+  "count": 8,
   "articles": [
     {
       "source": "reliefweb",
-      "title": "World: Flood and flash flood alerts in the last 24 hours (European Flood Awareness System - EFAS) (ECHO Daily Flash of 20 March 2026)",
+      "title": "Mozambique | Flood 2026 DREF Operation Update 1 (MDRMZ027)",
       "original_title": null,
-      "description": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                                              <ul><li><strong>Iceland</strong>: Warning for flooding in Snæfellsnes peninsula, Eyjafjöll and Öræfajökull.</li>\n<li><strong>Lithuania</strong>: Warning level 2/3 for Leitė near Kūlynai, Gėgė near Plaškiai, and Nemuno atšaka Atmata near Rusnė.</li>\n<li><strong>Poland</strong>: Threshold level 2/3 for Pisa river and Swędrnia river.</li>\n<li><strong>United Kingdom</strong>: Warning level 2/3 for 3 locations in the South of England.</li>\n</ul>",
-      "published": "2026-03-20T12:29:16+00:00",
-      "link": "https://reliefweb.int/report/world/flood-and-flash-flood-alerts-last-24-hours-european-flood-awareness-system-efas-echo-daily-flash-20-march-2026",
-      "score": 71.5,
+      "description": "<div class=\"tag country\">Country: Mozambique</div>\n                                      <div class=\"tag source\">Source: International Federation of Red Cross and Red Crescent Societies</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1c/2f/1c2fa1a1-6a61-4593-b5ac-e333f2570f69.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p><strong>A. SITUATION ANALYSIS</strong></p>\n<p><strong>Description of the crisis</strong></p>\n<p>Mozambique continues to face a significant humanitarian crisis following intense and prolonged flooding that began in late December 2025. According to the latest cumulative data from the National Institute of Disaster Management (INGD), approximately 724,131 people (170,877 families) have been affected nationwide, including 27 fatalities, 147 injuries and nine people reported missing1 . Although the heavy rainfall has now ceased, the humanitarian impact remains severe.</p>\n<p>Flooding has damaged or destroyed 201,411 houses (183,866 flooded, 12,279 partially destroyed and 5,266 completely destroyed), and critical infrastructure has been extensively affected, including more than 880 kilometres of roads, 228 bridges and 44 water supply systems. A total of 257 health facilities have also been impacted, significantly restricting access to essential services, markets and hard-to-reach communities.</p>\n<p>Agricultural losses are substantial, with over 440,000 hectares of crops damaged and more than 412,000 livestock lost, undermining livelihoods and exacerbating food insecurity during a crucial agricultural period1 . While displacement has declined from the peak of the emergency, 39 accommodation centres remain operational, currently hosting approximately 32,030 people in overcrowded conditions1 . These sites continue to face critical gaps in shelter, water, sanitation and hygiene (WASH), health services, food assistance and protection support, alongside heightened risks of cholera and malaria linked to stagnant water and damaged infrastructure.</p>\n<p>Despite the cessation of rainfall, some areas remain flooded, and access constraints persist due to damaged infrastructure. As Mozambique remains within the 2025–2026 cyclone season, affected communities continue to face heightened vulnerability to further shocks, underscoring the need for sustained humanitarian assistance and early recovery support.</p>",
+      "published": "2026-03-23T01:29:00+00:00",
+      "link": "https://reliefweb.int/report/mozambique/mozambique-flood-2026-dref-operation-update-1-mdrmz027",
+      "score": 87.75,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 65,
-      "recency_score": 75
+      "recency_score": 100
+    },
+    {
+      "source": "reliefweb",
+      "title": "Situation Report - Sri Lanka 22nd March 2026 at 1000hrs - (Additional details included) – Ditwah",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/84/a7/84a759e7-8212-4d3e-a68a-b65d67cb311d.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
+      "published": "2026-03-23T00:43:54+00:00",
+      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-22nd-march-2026-1000hrs-additional-details-included-ditwah",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
     },
     {
       "source": "undrr",
@@ -22,11 +35,11 @@
       "description": "The Higher Council of Civil Defence (HCCD) is the main Palestinian decision-making body on disaster risk management.",
       "published": "2026-03-19T17:23:57+00:00",
       "link": "https://www.undrr.org/organization/higher-council-civil-defense-hcfcd",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "The Global Tsunami Model (GTM) Network aims to save lives, reduce losses, and enhance resilience by advancing tsunami science, providing expert information, and promoting dialogue about tsunami hazards and risks.",
       "published": "2026-03-19T17:15:03+00:00",
       "link": "https://www.undrr.org/organization/global-tsunami-model-association-gtm",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -48,11 +61,11 @@
       "description": "Emergencia Animal's mission is to integrate animal welfare into disaster risk reduction frameworks across Spain, ensuring that families, animal shelters, and communities can effectively prepare for, respond to, and recover from emergencies.",
       "published": "2026-03-19T17:09:31+00:00",
       "link": "https://www.undrr.org/organization/emergencia-animal",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -61,11 +74,11 @@
       "description": "In March 2026, São Tomé and Príncipe endorsed its EW4All roadmap to establish inclusive early warning systems. The roadmap benefited from the high-level political support and government ownership, paving the way to effectiveness and sustainability.",
       "published": "2026-03-17T12:28:03+00:00",
       "link": "https://www.undrr.org/news/sao-tome-and-principe-transforms-their-ew4all-commitments-action",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
