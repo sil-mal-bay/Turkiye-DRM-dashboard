@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-03-24T05:44:24.831570+00:00",
-  "count": 6,
+  "last_updated": "2026-03-25T05:44:11.413021+00:00",
+  "count": 8,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Partnerships & Stakeholders: Science and Technology Community",
+      "original_title": null,
+      "description": "The role of global science, academia, research and innovation is enshrined in the Sendai Framework for Disaster Risk Reduction where it is recognized for the catalytic, boundary-pushing and transformative potential it holds for addressing the dynamic drivers of disaster risk.&nbsp;&nbsp;",
+      "published": "2026-09-01T14:27:29+00:00",
+      "link": "https://www.undrr.org/implementing-sendai-framework/partners-and-stakeholders/science-and-technology-community",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Learn, Connect, Share: Exploring resources for students in disaster resilience",
+      "original_title": null,
+      "description": "Are you a student passionate about building a safer, more resilient world? Join us for a live introduction to PreventionWeb, UNDRR’s global platform for disaster risk reduction (DRR) knowledge.",
+      "published": "2026-03-24T08:36:44+00:00",
+      "link": "https://www.undrr.org/event/learn-connect-share-exploring-resources-students-disaster-resilience",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "reliefweb",
+      "title": "Situation Report - Sri Lanka 25th March 2026 at 1000hrs - (Additional details included) – Ditwah",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ce/9a/ce9afb50-fc22-4418-b1bb-cf303c0f9042.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
+      "published": "2026-03-25T04:53:05+00:00",
+      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-25th-march-2026-1000hrs-additional-details-included-ditwah",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Higher Council for Civil Defense (HCfCD)",
@@ -9,11 +48,11 @@
       "description": "The Higher Council of Civil Defence (HCCD) is the main Palestinian decision-making body on disaster risk management.",
       "published": "2026-03-19T17:23:57+00:00",
       "link": "https://www.undrr.org/organization/higher-council-civil-defense-hcfcd",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -22,11 +61,11 @@
       "description": "The Global Tsunami Model (GTM) Network aims to save lives, reduce losses, and enhance resilience by advancing tsunami science, providing expert information, and promoting dialogue about tsunami hazards and risks.",
       "published": "2026-03-19T17:15:03+00:00",
       "link": "https://www.undrr.org/organization/global-tsunami-model-association-gtm",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -35,11 +74,11 @@
       "description": "Emergencia Animal's mission is to integrate animal welfare into disaster risk reduction frameworks across Spain, ensuring that families, animal shelters, and communities can effectively prepare for, respond to, and recover from emergencies.",
       "published": "2026-03-19T17:09:31+00:00",
       "link": "https://www.undrr.org/organization/emergencia-animal",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -61,19 +100,6 @@
       "description": "The Government of the Democratic Republic of Congo hosted a national workshop on the Early Warnings for All (EW4All) initiative from 28 to 29 January 2026. The workshop built upon two landmark DRM decrees the DRC adopted in 2025.",
       "published": "2026-03-13T12:05:00+00:00",
       "link": "https://www.undrr.org/news/governance-reform-early-action-expanding-early-warning-systems-drc",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Hearing the call: How Timor-Leste is reaching the \"last mile\" with Early Warnings",
-      "original_title": null,
-      "description": "An important study set out to understand the real-world reach of Timor-Leste's early warning systems by surveying 909 households and conducting 27 focus group discussions across eight municipalities.",
-      "published": "2026-03-10T06:35:10+00:00",
-      "link": "https://www.undrr.org/news/hearing-call-how-timor-leste-reaching-last-mile-early-warnings",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
