@@ -1,57 +1,37 @@
 {
-  "last_updated": "2026-03-25T05:44:04.424432+00:00",
-  "count": 13,
+  "last_updated": "2026-03-26T05:57:29.866120+00:00",
+  "count": 15,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 4.7,
+    "magnitude": 5.1,
     "place": "YUNANISTAN İlksel",
-    "time": "2026-03-20T12:40:45+00:00",
-    "latitude": 39.6372,
-    "longitude": 20.7107,
-    "depth_km": 5.0,
+    "time": "2026-03-25T22:08:23+00:00",
+    "latitude": 40.3385,
+    "longitude": 24.108,
+    "depth_km": 16.7,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
     {
       "source": "Kandilli",
-      "magnitude": 4.7,
+      "magnitude": 5.1,
       "place": "YUNANISTAN İlksel",
-      "time": "2026-03-20T12:40:45+00:00",
-      "latitude": 39.6372,
-      "longitude": 20.7107,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.6,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-03-20T12:05:31+00:00",
-      "latitude": 39.6042,
-      "longitude": 20.6333,
-      "depth_km": 5.0,
+      "time": "2026-03-25T22:08:23+00:00",
+      "latitude": 40.3385,
+      "longitude": 24.108,
+      "depth_km": 16.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
     {
       "source": "Kandilli",
-      "magnitude": 4.7,
+      "magnitude": 5.1,
       "place": "YUNANISTAN İlksel",
-      "time": "2026-03-20T12:40:45+00:00",
-      "latitude": 39.6372,
-      "longitude": 20.7107,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.6,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-03-20T12:05:31+00:00",
-      "latitude": 39.6042,
-      "longitude": 20.6333,
-      "depth_km": 5.0,
+      "time": "2026-03-25T22:08:23+00:00",
+      "latitude": 40.3385,
+      "longitude": 24.108,
+      "depth_km": 16.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -72,6 +52,16 @@
       "latitude": 40.2317,
       "longitude": 42.016,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-03-25T22:21:25+00:00",
+      "latitude": 40.3695,
+      "longitude": 24.0802,
+      "depth_km": 8.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -126,12 +116,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "BUYUKDAGDERE-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-03-21T01:01:58+00:00",
-      "latitude": 39.1805,
-      "longitude": 28.3198,
-      "depth_km": 7.8,
+      "magnitude": 3.2,
+      "place": "BOZBURUN-MARMARIS (MUGLA) İlksel",
+      "time": "2026-03-26T06:58:40+00:00",
+      "latitude": 36.7355,
+      "longitude": 28.0253,
+      "depth_km": 74.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-03-25T22:33:19+00:00",
+      "latitude": 40.3593,
+      "longitude": 24.1003,
+      "depth_km": 10.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -142,6 +142,16 @@
       "latitude": 38.0828,
       "longitude": 28.9735,
       "depth_km": 7.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-03-26T04:14:23+00:00",
+      "latitude": 40.2872,
+      "longitude": 24.1525,
+      "depth_km": 11.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
