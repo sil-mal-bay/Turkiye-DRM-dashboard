@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T05:58:12.287430+00:00",
+  "last_updated": "2026-03-27T05:57:51.606434+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -284,7 +284,7 @@
     },
     {
       "source": "GFDRR",
-      "title": "Unlocking Nature for Disaster Resilience: A Policy Guide to Enable Nature-Based Solutions",
+      "title": "Unlocking Nature for Disaster Resilience",
       "link": "https://openknowledge.worldbank.org/entities/publication/69c8fe0d-1147-4574-9c85-1015a79ad7cd",
       "type": "report",
       "description": ""
@@ -361,15 +361,36 @@
     },
     {
       "source": "GFDRR",
-      "title": "Handbook for Livable and Resilient Cities: Integrating Hazard and Risk Information into Urban Planning",
+      "title": "Handbook for Livable and Resilient Cities",
       "link": "https://openknowledge.worldbank.org/entities/publication/d7ee1212-42ed-4d8a-9ffa-225152ee65df",
       "type": "report",
       "description": ""
     },
     {
       "source": "UNDRR",
-      "title": "Flames of change: Children and youth at the forefront of tackling urban heat",
-      "link": "https://www.undrr.org/publication/documents-and-publications/flames-change-children-and-youth-forefront-tackling-urban",
+      "title": "Strengthening the Disaster Resilience of MSMEs in Barbados",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-msmes-barbados",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Strengthening disaster resilience of SMEs through business continuity planning – Guidance and Templates",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-through-business",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Sendai Framework Monitoring in Europe and Central Asia",
+      "link": "https://www.undrr.org/publication/documents-and-publications/sendai-framework-monitoring-europe-and-central-asia",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Flames of change II special report: Children and youth at the forefront of tackling urban heat",
+      "link": "https://www.undrr.org/publication/documents-and-publications/flames-change-ii-special-report-children-and-youth-forefront",
       "type": "learning",
       "description": ""
     },
@@ -412,27 +433,6 @@
       "source": "UNDRR",
       "title": "The Disaster Resilience Scorecard for Cities – Action Guide. Chapter 1: Overview of the survey results",
       "link": "https://www.undrr.org/publication/scorecard-actionguide-ch1",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR ONEA and GETI Newsletter 48: Oct-Dec 2025",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-and-geti-newsletter-48-oct-dec-2025",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "International Disaster Resilience Leaders Forum Incheon 2025 - Final Report",
-      "link": "https://www.undrr.org/publication/documents-and-publications/international-disaster-resilience-leaders-forum-incheon-2025",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Leveraging assistive technology for inclusive disaster risk reduction and climate action",
-      "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-assistive-technology-inclusive-disaster-risk",
       "type": "learning",
       "description": ""
     }
