@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-03-27T05:57:18.689514+00:00",
+  "last_updated": "2026-03-28T05:41:33.962862+00:00",
   "count": 33,
   "videos": [
+    {
+      "video_id": "FUOHd8NQPSU",
+      "title": "[Event] Heatwaves and Transportation Systems: from Evidence to Action",
+      "description": "Heatwaves are increasingly affecting transportation systems globally, posing significant risks to infrastructure, operations, and public safety. This event will showcase the latest evidence on how extreme heat impacts roads, railways, and public transit, drawing from a comprehensive literature revie",
+      "channel": "GFDRR",
+      "published": "2026-03-27T16:22:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/FUOHd8NQPSU/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FUOHd8NQPSU"
+    },
     {
       "video_id": "mVIpaDhH7Ok",
       "title": "[Event] Unlocking Nature for Resilience: Effective Policies for Enabling Nature-based Solutions",
@@ -172,15 +181,6 @@
       "published": "2026-03-16T22:10:00Z",
       "thumbnail": "https://i.ytimg.com/vi/IHqhAYd30qs/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IHqhAYd30qs"
-    },
-    {
-      "video_id": "hC6kw-GaqB4",
-      "title": "Decoding Urban Flooding: The Urban Flood Risk Handbook and the Framework Agreement for Urban Flood",
-      "description": "By 2030, urban exposure to flooding will more than double. By 2050, annual flood losses in 136 major global cities will reach $52 billion, not even accounting for land subsidence or climate change. Torrential rains, overwhelmed drainage systems, and inadequate planning leave cities with more severe,",
-      "channel": "GFDRR",
-      "published": "2026-03-16T22:09:53Z",
-      "thumbnail": "https://i.ytimg.com/vi/hC6kw-GaqB4/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hC6kw-GaqB4"
     },
     {
       "video_id": "_aci49uFHvQ",
