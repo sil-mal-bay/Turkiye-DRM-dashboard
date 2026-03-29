@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-03-28T05:44:13.328293+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — ALINCIK-SIVRICE (ELAZIG) İlksel",
-      "magnitude": 4.3,
-      "time": "2026-03-26T10:37:07+00:00",
-      "location": "ALINCIK-SIVRICE (ELAZIG) İlksel",
-      "latitude": 38.4633,
-      "longitude": 39.2205,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-03-29T05:59:18.428564+00:00",
+  "count": 0,
+  "alerts": []
 }
