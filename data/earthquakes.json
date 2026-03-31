@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T06:16:32.615496+00:00",
-  "count": 19,
+  "last_updated": "2026-03-31T06:04:47.107097+00:00",
+  "count": 18,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.1,
@@ -76,16 +76,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-03-24T15:38:29+00:00",
-      "latitude": 35.3675,
-      "longitude": 32.2837,
-      "depth_km": 78.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.6,
       "place": "MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel",
       "time": "2026-03-26T14:44:02+00:00",
@@ -102,6 +92,16 @@
       "latitude": 40.3695,
       "longitude": 24.0802,
       "depth_km": 8.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel",
+      "time": "2026-03-30T13:34:48+00:00",
+      "latitude": 40.8055,
+      "longitude": 28.1812,
+      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -162,16 +162,6 @@
       "latitude": 40.3593,
       "longitude": 24.1003,
       "depth_km": 10.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "HAMDIYE-GUNEY (DENIZLI) İlksel",
-      "time": "2026-03-24T12:26:28+00:00",
-      "latitude": 38.0828,
-      "longitude": 28.9735,
-      "depth_km": 7.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
