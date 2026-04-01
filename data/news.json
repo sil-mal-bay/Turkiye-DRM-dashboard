@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T06:04:54.728312+00:00",
-  "count": 12,
+  "last_updated": "2026-04-01T06:12:30.670098+00:00",
+  "count": 13,
   "articles": [
     {
       "source": "undrr",
@@ -17,16 +17,29 @@
     },
     {
       "source": "undrr",
-      "title": "Online Workshop on Strengthening Whole-of-Society Capacities for Disaster Risk Reduction and Climate Resilience: Inclusive Governance and Innovative Mechanisms",
+      "title": "Intra Africa, Caribbean and Pacific (ACP) Disaster Risk Reduction Programme (DRRP)",
       "original_title": null,
-      "description": "The workshop will introduce concepts, frameworks, practical approaches to strengthen inclusive DRR, climate resilience, and climate action through effective governance, risk-informed planning, private sector engagement, and technology-enabled solutions.",
-      "published": "2026-03-30T12:48:28+00:00",
-      "link": "https://www.undrr.org/event/online-workshop-strengthening-whole-society-capacities-disaster-risk-reduction-and-climate",
+      "description": "The Intra-ACP Disaster Risk Reduction (DRR) Programme represents one of the European Union’s key cooperation instruments with the Organisation of African, Caribbean and Pacific States (OACPS) in strengthening risk management and resilience to disasters.",
+      "published": "2026-03-31T15:13:21+00:00",
+      "link": "https://www.undrr.org/organization/intra-africa-caribbean-and-pacific-acp-disaster-risk-reduction-programme-drrp",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Online Workshop on Strengthening Whole-of-Society Capacities for Disaster Risk Reduction and Climate Resilience: Inclusive Governance and Innovative Mechanisms",
+      "original_title": null,
+      "description": "The workshop will introduce concepts, frameworks, practical approaches to strengthen inclusive DRR, climate resilience, and climate action through effective governance, risk-informed planning, private sector engagement, and technology-enabled solutions.",
+      "published": "2026-03-30T12:48:28+00:00",
+      "link": "https://www.undrr.org/event/online-workshop-strengthening-whole-society-capacities-disaster-risk-reduction-and-climate",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "The international day provides an annual opportunity for remembrance and renewed commitment to protecting lives and livelihoods from earthquake disasters.",
       "published": "2026-03-30T09:21:51+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,11 +61,11 @@
       "description": "In his three decades of responding to catastrophic events around the world, Kamal Kishore, head of the United Nations Office for Disaster Risk Reduction, often observed a curious human tendency to overlook the invisible foundations of our safety.",
       "published": "2026-03-27T16:02:03+00:00",
       "link": "https://www.undrr.org/news/why-resilient-infrastructure-can-no-longer-be-optional",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +74,11 @@
       "description": "In February 2026, UNDRR convened Ugandan stakeholders at both the local and national levels to strengthen disaster resilience and climate change adaptation through the Making Cities Resilient 2030 (MCR2030) initiative.",
       "published": "2026-03-27T12:17:19+00:00",
       "link": "https://www.undrr.org/news/advancing-urban-resilience-uganda",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -74,11 +87,11 @@
       "description": "This study evaluates the effectiveness of early warning systems in Timor-Leste, based on household surveys and focus group discussions across eight municipalities and key informant interviews with national, municipal and community stakeholders.",
       "published": "2026-03-27T07:46:27+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/study-reach-and-effectiveness-early-warning-systems-timor",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -87,11 +100,11 @@
       "description": "Strengthening the Disaster Resilience of MSMEs in Barbados",
       "published": "2026-03-26T13:31:28+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-sesilience-msmes-barbados",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
