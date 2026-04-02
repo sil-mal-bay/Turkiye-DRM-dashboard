@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-04-01T06:13:48.270434+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-04-02T05:58:01.566850+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.6 earthquake — AKDENIZ İlksel",
+      "magnitude": 4.6,
+      "time": "2026-04-01T20:11:31+00:00",
+      "location": "AKDENIZ İlksel",
+      "latitude": 35.6868,
+      "longitude": 22.4657,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
