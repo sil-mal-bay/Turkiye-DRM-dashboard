@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T05:56:40.909879+00:00",
-  "count": 11,
+  "last_updated": "2026-04-03T05:56:37.079051+00:00",
+  "count": 17,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.6,
@@ -21,6 +21,16 @@
       "longitude": 22.4657,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-04-02T21:22:51+00:00",
+      "latitude": 39.1222,
+      "longitude": 28.3543,
+      "depth_km": 9.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -32,6 +42,26 @@
       "latitude": 35.6868,
       "longitude": 22.4657,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-04-02T21:22:51+00:00",
+      "latitude": 39.1222,
+      "longitude": 28.3543,
+      "depth_km": 9.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.8,
+      "place": "MAVIKENT ACIKLARI-ANTALYA (AKDENIZ) İlksel",
+      "time": "2026-04-02T22:35:17+00:00",
+      "latitude": 36.0365,
+      "longitude": 30.3007,
+      "depth_km": 6.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -52,6 +82,16 @@
       "latitude": 38.0597,
       "longitude": 28.9783,
       "depth_km": 6.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "YESILDERE-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-03T01:36:22+00:00",
+      "latitude": 39.2495,
+      "longitude": 29.0185,
+      "depth_km": 4.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -87,11 +127,41 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "KUMBETLI-NIKSAR (TOKAT) İlksel",
+      "time": "2026-04-03T07:48:07+00:00",
+      "latitude": 40.6375,
+      "longitude": 36.7778,
+      "depth_km": 5.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "KOBAKLAR-GORDES (MANISA) İlksel",
+      "time": "2026-04-03T04:56:47+00:00",
+      "latitude": 39.1105,
+      "longitude": 28.3567,
+      "depth_km": 8.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "YENICEKENT-BULDAN (DENIZLI) İlksel",
       "time": "2026-04-01T04:07:55+00:00",
       "latitude": 38.0673,
       "longitude": 28.9595,
       "depth_km": 5.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KUMARLI-(KAHRAMANMARAS) İlksel",
+      "time": "2026-04-03T00:47:33+00:00",
+      "latitude": 37.8438,
+      "longitude": 36.4733,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
