@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-04-03T05:57:51.943603+00:00",
+  "last_updated": "2026-04-04T05:42:28.840731+00:00",
   "count": 2,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.6 earthquake — AKDENIZ İlksel",
-      "magnitude": 4.6,
-      "time": "2026-04-01T20:11:31+00:00",
-      "location": "AKDENIZ İlksel",
-      "latitude": 35.6868,
-      "longitude": 22.4657,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+      "title": "M4.2 earthquake — 17 km SE of Sındırgı, Turkey",
+      "magnitude": 4.2,
+      "time": "2026-04-02T18:22:51.720000+00:00",
+      "location": "17 km SE of Sındırgı, Turkey",
+      "latitude": 39.1241,
+      "longitude": 28.3171,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm65"
     },
     {
       "type": "earthquake",

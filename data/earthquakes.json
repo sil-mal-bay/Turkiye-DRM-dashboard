@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T05:56:37.079051+00:00",
-  "count": 17,
+  "last_updated": "2026-04-04T05:41:13.727406+00:00",
+  "count": 23,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.6,
@@ -23,6 +23,16 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "17 km SE of Sındırgı, Turkey",
+      "time": "2026-04-02T18:22:51.720000+00:00",
+      "latitude": 39.1241,
+      "longitude": 28.3171,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm65"
+    },
+    {
       "source": "Kandilli",
       "magnitude": 4.1,
       "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
@@ -43,6 +53,16 @@
       "longitude": 22.4657,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "17 km SE of Sındırgı, Turkey",
+      "time": "2026-04-02T18:22:51.720000+00:00",
+      "latitude": 39.1241,
+      "longitude": 28.3171,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm65"
     },
     {
       "source": "Kandilli",
@@ -107,11 +127,51 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-04-04T05:32:46+00:00",
+      "latitude": 36.3402,
+      "longitude": 24.2692,
+      "depth_km": 2.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "CORTEN-IMAMOGLU (ADANA) İlksel",
+      "time": "2026-04-03T18:58:03+00:00",
+      "latitude": 37.2653,
+      "longitude": 35.4898,
+      "depth_km": 7.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI) İlksel",
       "time": "2026-03-30T13:34:48+00:00",
       "latitude": 40.8055,
       "longitude": 28.1812,
       "depth_km": 6.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "KUMBETLI-NIKSAR (TOKAT) İlksel",
+      "time": "2026-04-04T03:16:38+00:00",
+      "latitude": 40.6322,
+      "longitude": 36.7683,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-04-03T11:01:28+00:00",
+      "latitude": 39.1348,
+      "longitude": 28.3385,
+      "depth_km": 11.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -152,6 +212,16 @@
       "latitude": 38.0673,
       "longitude": 28.9595,
       "depth_km": 5.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "ORTAKOY-GURPINAR (VAN) İlksel",
+      "time": "2026-04-03T09:23:29+00:00",
+      "latitude": 38.3593,
+      "longitude": 43.677,
+      "depth_km": 9.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
