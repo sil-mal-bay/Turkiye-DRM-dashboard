@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-04-04T05:42:28.840731+00:00",
+  "last_updated": "2026-04-05T06:02:22.371289+00:00",
   "count": 2,
   "alerts": [
     {
       "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — 17 km SE of Sındırgı, Turkey",
-      "magnitude": 4.2,
-      "time": "2026-04-02T18:22:51.720000+00:00",
-      "location": "17 km SE of Sındırgı, Turkey",
-      "latitude": 39.1241,
-      "longitude": 28.3171,
+      "severity": "high",
+      "title": "M5.1 earthquake — 21 km SSE of Erciş, Turkey",
+      "magnitude": 5.1,
+      "time": "2026-04-04T05:52:42.749000+00:00",
+      "location": "21 km SSE of Erciş, Turkey",
+      "latitude": 38.8615,
+      "longitude": 43.4874,
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm65"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
     },
     {
       "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-04-02T21:22:51+00:00",
-      "location": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
-      "latitude": 39.1222,
-      "longitude": 28.3543,
+      "severity": "high",
+      "title": "M5.1 earthquake — YUKARIGOLALAN-(VAN) REVIZE01 (2026.04.04 08:52:42",
+      "magnitude": 5.1,
+      "time": "2026-04-04T08:52:41+00:00",
+      "location": "YUKARIGOLALAN-(VAN) REVIZE01 (2026.04.04 08:52:42",
+      "latitude": 38.7813,
+      "longitude": 43.5577,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
