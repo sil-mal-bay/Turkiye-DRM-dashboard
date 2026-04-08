@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T06:07:43.833583+00:00",
+  "last_updated": "2026-04-08T06:09:05.778107+00:00",
   "count": 10,
   "publications": [
     {
@@ -24,6 +24,14 @@
       "description": "Strengthening the Disaster Resilience of MSMEs in Barbados",
       "date": "2026-03-26T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-sesilience-msmes-barbados",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Strengthening disaster resilience of SMEs through business continuity planning – Guidance and Templates",
+      "description": "This resource supports SMEs, including microenterprises, in developing a basic business continuity plan, with the aim of progressively aligning with leading international standards, particularly ISO 22301:2019 on business continuity management systems",
+      "date": "2026-03-26T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-through-business",
       "type": "report"
     },
     {
@@ -72,14 +80,6 @@
       "description": "This snapshot provides an overview of Anticipatory finance in Burkina Faso, with a particular focus on its linkages to disaster risk reduction (DRR), climate change adaptation (CCA) and humanitarian action.",
       "date": "2026-01-15T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/burkina-faso-2025-anticipatory-finance-snapshot",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Pathways to resilience:  Stories from MCR2030 Cities",
-      "description": "This report captures the stories shared by MCR2030 cities through the online dashboard, providing a snapshot of city progress along the Resilience Roadmap and highlighting case examples that may serve as inspiration and guidance for other cities.",
-      "date": "2026-01-09T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/pathways-to-resilience-stories-from-mcr2030-cities",
       "type": "report"
     }
   ]
