@@ -1,16 +1,40 @@
 {
-  "last_updated": "2026-04-08T06:09:05.778811+00:00",
-  "count": 1,
+  "last_updated": "2026-04-09T06:09:16.910856+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.6 earthquake — DOGU AKDENIZ REVIZE01 (2026.04.06 10:52:16",
-      "magnitude": 4.6,
-      "time": "2026-04-06T10:52:16+00:00",
-      "location": "DOGU AKDENIZ REVIZE01 (2026.04.06 10:52:16",
-      "latitude": 33.6365,
-      "longitude": 34.9263,
+      "title": "M4.0 earthquake — EGE DENIZI İlksel",
+      "magnitude": 4.0,
+      "time": "2026-04-08T09:54:22+00:00",
+      "location": "EGE DENIZI İlksel",
+      "latitude": 36.6695,
+      "longitude": 25.68,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — AHACIK-BAYAT (CORUM) İlksel",
+      "magnitude": 4.1,
+      "time": "2026-04-08T10:20:13+00:00",
+      "location": "AHACIK-BAYAT (CORUM) İlksel",
+      "latitude": 40.816,
+      "longitude": 34.1532,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — AKDENIZ İlksel",
+      "magnitude": 4.7,
+      "time": "2026-04-08T14:35:01+00:00",
+      "location": "AKDENIZ İlksel",
+      "latitude": 35.9525,
+      "longitude": 22.4135,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
