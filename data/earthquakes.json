@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T06:07:47.601682+00:00",
-  "count": 26,
+  "last_updated": "2026-04-10T06:17:11.886521+00:00",
+  "count": 23,
   "largest": {
     "source": "USGS",
     "magnitude": 5.1,
@@ -24,16 +24,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 5.1,
-      "place": "YUKARIGOLALAN-(VAN) REVIZE01 (2026.04.04 08:52:42",
-      "time": "2026-04-04T08:52:41+00:00",
-      "latitude": 38.7813,
-      "longitude": 43.5577,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 4.7,
       "place": "AKDENIZ İlksel",
       "time": "2026-04-08T14:35:01+00:00",
@@ -54,13 +44,13 @@
     },
     {
       "source": "USGS",
-      "magnitude": 4.2,
-      "place": "17 km SE of Sındırgı, Turkey",
-      "time": "2026-04-02T18:22:51.720000+00:00",
-      "latitude": 39.1241,
-      "longitude": 28.3171,
+      "magnitude": 4.4,
+      "place": "25 km ENE of Mesariá, Greece",
+      "time": "2026-04-08T06:54:21.709000+00:00",
+      "latitude": 36.4771,
+      "longitude": 25.7157,
       "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm65"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbac"
     },
     {
       "source": "Kandilli",
@@ -96,16 +86,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 5.1,
-      "place": "YUKARIGOLALAN-(VAN) REVIZE01 (2026.04.04 08:52:42",
-      "time": "2026-04-04T08:52:41+00:00",
-      "latitude": 38.7813,
-      "longitude": 43.5577,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 4.7,
       "place": "AKDENIZ İlksel",
       "time": "2026-04-08T14:35:01+00:00",
@@ -126,13 +106,13 @@
     },
     {
       "source": "USGS",
-      "magnitude": 4.2,
-      "place": "17 km SE of Sındırgı, Turkey",
-      "time": "2026-04-02T18:22:51.720000+00:00",
-      "latitude": 39.1241,
-      "longitude": 28.3171,
+      "magnitude": 4.4,
+      "place": "25 km ENE of Mesariá, Greece",
+      "time": "2026-04-08T06:54:21.709000+00:00",
+      "latitude": 36.4771,
+      "longitude": 25.7157,
       "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm65"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbac"
     },
     {
       "source": "Kandilli",
@@ -197,6 +177,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.4,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-04-10T08:35:19+00:00",
+      "latitude": 35.7013,
+      "longitude": 26.174,
+      "depth_km": 20.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "HACIHUSEYINLER-BASKIL (ELAZIG) İlksel",
+      "time": "2026-04-09T21:51:33+00:00",
+      "latitude": 38.4002,
+      "longitude": 38.9373,
+      "depth_km": 2.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-04-09T01:45:55+00:00",
       "latitude": 36.3048,
@@ -236,32 +236,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "ERGENUSAGI-KOZAN (ADANA) İlksel",
-      "time": "2026-04-04T14:51:26+00:00",
-      "latitude": 37.6265,
-      "longitude": 35.5592,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "DEGIRMENOZU-(VAN) İlksel",
-      "time": "2026-04-04T09:11:33+00:00",
-      "latitude": 38.785,
-      "longitude": 43.5317,
-      "depth_km": 2.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-04-04T05:32:46+00:00",
-      "latitude": 36.3402,
-      "longitude": 24.2692,
-      "depth_km": 2.1,
+      "magnitude": 3.2,
+      "place": "ERMENISTAN İlksel",
+      "time": "2026-04-09T21:44:11+00:00",
+      "latitude": 41.1608,
+      "longitude": 43.9613,
+      "depth_km": 1.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -302,26 +282,6 @@
       "latitude": 39.1372,
       "longitude": 28.339,
       "depth_km": 11.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-04-04T09:39:55+00:00",
-      "latitude": 36.3942,
-      "longitude": 24.2657,
-      "depth_km": 3.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "KUMBETLI-NIKSAR (TOKAT) İlksel",
-      "time": "2026-04-04T03:16:38+00:00",
-      "latitude": 40.6322,
-      "longitude": 36.7683,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-04-09T06:09:16.910856+00:00",
-  "count": 3,
+  "last_updated": "2026-04-10T06:18:49.888106+00:00",
+  "count": 4,
   "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — 25 km ENE of Mesariá, Greece",
+      "magnitude": 4.4,
+      "time": "2026-04-08T06:54:21.709000+00:00",
+      "location": "25 km ENE of Mesariá, Greece",
+      "latitude": 36.4771,
+      "longitude": 25.7157,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbac"
+    },
     {
       "type": "earthquake",
       "severity": "medium",
