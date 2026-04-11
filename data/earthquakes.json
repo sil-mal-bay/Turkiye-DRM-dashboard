@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T06:17:11.886521+00:00",
-  "count": 23,
+  "last_updated": "2026-04-11T05:45:01.520882+00:00",
+  "count": 20,
   "largest": {
     "source": "USGS",
     "magnitude": 5.1,
@@ -166,16 +166,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "YENILER-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-05T14:14:29+00:00",
-      "latitude": 39.252,
-      "longitude": 28.9428,
-      "depth_km": 7.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.4,
       "place": "EGE DENIZI İlksel",
       "time": "2026-04-10T08:35:19+00:00",
@@ -226,16 +216,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-04-05T19:26:13+00:00",
-      "latitude": 40.279,
-      "longitude": 24.1517,
-      "depth_km": 5.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "ERMENISTAN İlksel",
       "time": "2026-04-09T21:44:11+00:00",
@@ -272,16 +252,6 @@
       "latitude": 36.668,
       "longitude": 25.6758,
       "depth_km": 10.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-04-05T05:42:17+00:00",
-      "latitude": 39.1372,
-      "longitude": 28.339,
-      "depth_km": 11.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

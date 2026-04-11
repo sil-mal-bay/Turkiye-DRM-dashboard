@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T06:17:22.382966+00:00",
+  "last_updated": "2026-04-11T05:45:10.687258+00:00",
   "count": 7,
   "articles": [
     {
@@ -14,6 +14,45 @@
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "PreventionWeb empowers students with disaster resilience knowledge",
+      "original_title": null,
+      "description": "Early and sustained engagement with DRR knowledge and opportunities is essential to nurturing future professionals who will carry forward the principles of risk-informed development and community safety.",
+      "published": "2026-04-10T16:21:58+00:00",
+      "link": "https://www.undrr.org/news/preventionweb-empowers-students-disaster-resilience-knowledge",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Leveraging assistive technology for inclusive disaster risk reduction and climate action",
+      "original_title": null,
+      "description": "This April, in observance of the International Day in Memory of the Victims of Earthquakes, ATscale and UNDRR will host a webinar on ‘Inclusive Resilience: Leveraging Assistive’",
+      "published": "2026-04-10T07:29:04+00:00",
+      "link": "https://www.undrr.org/event/leveraging-assistive-technology-inclusive-disaster-risk-reduction-and-climate-action",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "From local voices to global action: Women leaders driving climate and disaster resilience",
+      "original_title": null,
+      "description": "Policy dialogue highlighting women leaders and grassroots groups driving climate and disaster resilience in Europe and Central Asia, fostering partnerships to advance disaster risk reduction.",
+      "published": "2026-04-09T15:57:02+00:00",
+      "link": "https://www.undrr.org/event/local-voices-global-action-women-leaders-driving-climate-and-disaster-resilience",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,45 +87,6 @@
       "description": "The international day provides an annual opportunity for remembrance and renewed commitment to protecting lives and livelihoods from earthquake disasters.",
       "published": "2026-03-30T09:21:51+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Why resilient infrastructure can no longer be optional",
-      "original_title": null,
-      "description": "In his three decades of responding to catastrophic events around the world, Kamal Kishore, head of the United Nations Office for Disaster Risk Reduction, often observed a curious human tendency to overlook the invisible foundations of our safety.",
-      "published": "2026-03-27T16:02:03+00:00",
-      "link": "https://www.undrr.org/news/why-resilient-infrastructure-can-no-longer-be-optional",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Advancing Urban Resilience in Uganda",
-      "original_title": null,
-      "description": "In February 2026, UNDRR convened Ugandan stakeholders at both the local and national levels to strengthen disaster resilience and climate change adaptation through the Making Cities Resilient 2030 (MCR2030) initiative.",
-      "published": "2026-03-27T12:17:19+00:00",
-      "link": "https://www.undrr.org/news/advancing-urban-resilience-uganda",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Study on the reach and effectiveness of Early Warning Systems in Timor-Leste",
-      "original_title": null,
-      "description": "This study evaluates the effectiveness of early warning systems in Timor-Leste, based on household surveys and focus group discussions across eight municipalities and key informant interviews with national, municipal and community stakeholders.",
-      "published": "2026-03-27T07:46:27+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/study-reach-and-effectiveness-early-warning-systems-timor",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
