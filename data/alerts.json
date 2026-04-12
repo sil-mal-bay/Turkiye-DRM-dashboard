@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-04-11T05:46:18.048850+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-04-12T06:11:38.136590+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — 12 km NNE of Simav, Turkey",
+      "magnitude": 4.7,
+      "time": "2026-04-11T14:31:56.448000+00:00",
+      "location": "12 km NNE of Simav, Turkey",
+      "latitude": 39.1996,
+      "longitude": 29.0137,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.9 earthquake — YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "magnitude": 4.9,
+      "time": "2026-04-11T17:31:56+00:00",
+      "location": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "latitude": 39.2533,
+      "longitude": 28.9687,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

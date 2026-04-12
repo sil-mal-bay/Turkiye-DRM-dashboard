@@ -1,26 +1,36 @@
 {
-  "last_updated": "2026-04-11T05:45:01.520882+00:00",
-  "count": 20,
+  "last_updated": "2026-04-12T06:10:09.993682+00:00",
+  "count": 17,
   "largest": {
-    "source": "USGS",
-    "magnitude": 5.1,
-    "place": "21 km SSE of Erciş, Turkey",
-    "time": "2026-04-04T05:52:42.749000+00:00",
-    "latitude": 38.8615,
-    "longitude": 43.4874,
-    "depth_km": 6.338,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
+    "source": "Kandilli",
+    "magnitude": 4.9,
+    "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+    "time": "2026-04-11T17:31:56+00:00",
+    "latitude": 39.2533,
+    "longitude": 28.9687,
+    "depth_km": 5.4,
+    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
     {
+      "source": "Kandilli",
+      "magnitude": 4.9,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T17:31:56+00:00",
+      "latitude": 39.2533,
+      "longitude": 28.9687,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
       "source": "USGS",
-      "magnitude": 5.1,
-      "place": "21 km SSE of Erciş, Turkey",
-      "time": "2026-04-04T05:52:42.749000+00:00",
-      "latitude": 38.8615,
-      "longitude": 43.4874,
-      "depth_km": 6.338,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
+      "magnitude": 4.7,
+      "place": "12 km NNE of Simav, Turkey",
+      "time": "2026-04-11T14:31:56.448000+00:00",
+      "latitude": 39.1996,
+      "longitude": 29.0137,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
     },
     {
       "source": "Kandilli",
@@ -33,16 +43,6 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "Kandilli",
-      "magnitude": 4.6,
-      "place": "DOGU AKDENIZ REVIZE01 (2026.04.06 10:52:16",
-      "time": "2026-04-06T10:52:16+00:00",
-      "latitude": 33.6365,
-      "longitude": 34.9263,
-      "depth_km": 56.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "USGS",
       "magnitude": 4.4,
       "place": "25 km ENE of Mesariá, Greece",
@@ -51,38 +51,28 @@
       "longitude": 25.7157,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbac"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "AHACIK-BAYAT (CORUM) İlksel",
-      "time": "2026-04-08T10:20:13+00:00",
-      "latitude": 40.816,
-      "longitude": 34.1532,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-04-08T09:54:22+00:00",
-      "latitude": 36.6695,
-      "longitude": 25.68,
-      "depth_km": 10.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
     {
+      "source": "Kandilli",
+      "magnitude": 4.9,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T17:31:56+00:00",
+      "latitude": 39.2533,
+      "longitude": 28.9687,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
       "source": "USGS",
-      "magnitude": 5.1,
-      "place": "21 km SSE of Erciş, Turkey",
-      "time": "2026-04-04T05:52:42.749000+00:00",
-      "latitude": 38.8615,
-      "longitude": 43.4874,
-      "depth_km": 6.338,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
+      "magnitude": 4.7,
+      "place": "12 km NNE of Simav, Turkey",
+      "time": "2026-04-11T14:31:56.448000+00:00",
+      "latitude": 39.1996,
+      "longitude": 29.0137,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
     },
     {
       "source": "Kandilli",
@@ -92,16 +82,6 @@
       "latitude": 35.9525,
       "longitude": 22.4135,
       "depth_km": 25.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.6,
-      "place": "DOGU AKDENIZ REVIZE01 (2026.04.06 10:52:16",
-      "time": "2026-04-06T10:52:16+00:00",
-      "latitude": 33.6365,
-      "longitude": 34.9263,
-      "depth_km": 56.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -116,32 +96,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "AHACIK-BAYAT (CORUM) İlksel",
-      "time": "2026-04-08T10:20:13+00:00",
-      "latitude": 40.816,
-      "longitude": 34.1532,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-04-08T09:54:22+00:00",
-      "latitude": 36.6695,
-      "longitude": 25.68,
-      "depth_km": 10.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "YENICEKENT-BULDAN (DENIZLI) İlksel",
-      "time": "2026-04-07T12:38:51+00:00",
-      "latitude": 38.057,
-      "longitude": 28.9657,
-      "depth_km": 7.9,
+      "magnitude": 3.8,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T17:37:07+00:00",
+      "latitude": 39.2573,
+      "longitude": 28.9693,
+      "depth_km": 5.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -156,12 +116,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel",
-      "time": "2026-04-06T21:29:35+00:00",
-      "latitude": 38.9562,
-      "longitude": 26.0163,
-      "depth_km": 9.3,
+      "magnitude": 3.7,
+      "place": "KOBAKLAR-GORDES (MANISA) İlksel",
+      "time": "2026-04-11T19:11:23+00:00",
+      "latitude": 39.112,
+      "longitude": 28.3585,
+      "depth_km": 8.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T17:42:11+00:00",
+      "latitude": 39.2462,
+      "longitude": 28.9802,
+      "depth_km": 6.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -206,12 +176,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "BAHCEDERE-(BALIKESIR) İlksel",
-      "time": "2026-04-08T07:47:37+00:00",
-      "latitude": 39.5557,
-      "longitude": 27.7155,
-      "depth_km": 10.9,
+      "magnitude": 3.3,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T18:33:58+00:00",
+      "latitude": 39.2387,
+      "longitude": 28.976,
+      "depth_km": 6.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -226,32 +196,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "ERTUGRUL-(BALIKESIR) İlksel",
-      "time": "2026-04-08T07:21:23+00:00",
-      "latitude": 39.5655,
-      "longitude": 27.7152,
-      "depth_km": 10.2,
+      "magnitude": 3.1,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T21:58:10+00:00",
+      "latitude": 39.252,
+      "longitude": 28.9785,
+      "depth_km": 6.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-04-07T23:34:07+00:00",
-      "latitude": 38.3688,
-      "longitude": 21.9822,
-      "depth_km": 19.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-04-07T12:27:05+00:00",
-      "latitude": 36.668,
-      "longitude": 25.6758,
-      "depth_km": 10.9,
+      "magnitude": 3.1,
+      "place": "HACIAHMETOGLU-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-11T17:33:03+00:00",
+      "latitude": 39.1417,
+      "longitude": 28.9822,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -262,16 +222,6 @@
       "latitude": 36.3268,
       "longitude": 24.2708,
       "depth_km": 2.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "OZBOYNUINCELI-SILIFKE (MERSIN) İlksel",
-      "time": "2026-04-08T12:36:32+00:00",
-      "latitude": 36.9728,
-      "longitude": 33.7217,
-      "depth_km": 10.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
