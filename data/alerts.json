@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T06:11:38.136590+00:00",
-  "count": 2,
+  "last_updated": "2026-04-13T06:33:15.122128+00:00",
+  "count": 5,
   "alerts": [
     {
       "type": "earthquake",
@@ -17,12 +17,48 @@
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.9 earthquake — YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "title": "M4.9 earthquake — KARAKOCA-SIMAV (KUTAHYA) İlksel",
       "magnitude": 4.9,
       "time": "2026-04-11T17:31:56+00:00",
-      "location": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "latitude": 39.2533,
-      "longitude": 28.9687,
+      "location": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
+      "latitude": 39.2602,
+      "longitude": 28.9578,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-04-12T14:06:56+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 34.7192,
+      "longitude": 23.8292,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — 36 km SSE of Finike, Turkey",
+      "magnitude": 4.7,
+      "time": "2026-04-13T05:48:34.499000+00:00",
+      "location": "36 km SSE of Finike, Turkey",
+      "latitude": 35.984,
+      "longitude": 30.2713,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spkw"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — AKDENIZ İlksel",
+      "magnitude": 4.7,
+      "time": "2026-04-13T08:48:32+00:00",
+      "location": "AKDENIZ İlksel",
+      "latitude": 35.8307,
+      "longitude": 30.2478,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
