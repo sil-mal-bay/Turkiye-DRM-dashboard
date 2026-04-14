@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T06:33:15.121449+00:00",
-  "count": 10,
+  "last_updated": "2026-04-14T06:18:26.839228+00:00",
+  "count": 11,
   "publications": [
     {
       "source": "UNDRR",
@@ -20,10 +20,10 @@
     },
     {
       "source": "UNDRR",
-      "title": "Strengthening the disaster sesilience of MSMEs in Barbados",
+      "title": "Strengthening the disaster resilience of MSMEs in Barbados",
       "description": "Strengthening the Disaster Resilience of MSMEs in Barbados",
       "date": "2026-03-26T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-sesilience-msmes-barbados",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-msmes-barbados",
       "type": "report"
     },
     {
@@ -80,6 +80,14 @@
       "description": "This snapshot provides an overview of Anticipatory finance in Burkina Faso, with a particular focus on its linkages to disaster risk reduction (DRR), climate change adaptation (CCA) and humanitarian action.",
       "date": "2026-01-15T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/burkina-faso-2025-anticipatory-finance-snapshot",
+      "type": "report"
+    },
+    {
+      "source": "GFDRR",
+      "title": "EP&R Academy 2026 - Agenda and Logistics Note",
+      "description": "",
+      "date": "",
+      "link": "https://www.gfdrr.org",
       "type": "report"
     }
   ]

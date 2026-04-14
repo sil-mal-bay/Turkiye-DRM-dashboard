@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T06:32:42.429425+00:00",
+  "last_updated": "2026-04-14T06:18:05.604279+00:00",
   "count": 62,
   "items": [
     {
@@ -270,16 +270,23 @@
     },
     {
       "source": "World Bank",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
       "link": "http://documents.worldbank.org/curated/en/858871468110664745",
       "type": "report",
       "description": ""
     },
     {
-      "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "source": "GFDRR",
+      "title": "EP&R Academy 2026 - Agenda and Logistics Note",
+      "link": "https://www.gfdrr.org",
+      "type": "report",
       "description": ""
     },
     {
@@ -360,13 +367,6 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Handbook for Livable and Resilient Cities",
-      "link": "https://openknowledge.worldbank.org/entities/publication/d7ee1212-42ed-4d8a-9ffa-225152ee65df",
-      "type": "report",
-      "description": ""
-    },
-    {
       "source": "UNDRR",
       "title": "Concept note: The International day in memory of the victims of earthquakes",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
@@ -382,8 +382,8 @@
     },
     {
       "source": "UNDRR",
-      "title": "Strengthening the disaster sesilience of MSMEs in Barbados",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-sesilience-msmes-barbados",
+      "title": "Strengthening the disaster resilience of MSMEs in Barbados",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-msmes-barbados",
       "type": "learning",
       "description": ""
     },

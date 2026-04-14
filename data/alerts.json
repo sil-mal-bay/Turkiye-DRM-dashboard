@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-04-13T06:33:15.122128+00:00",
-  "count": 5,
+  "last_updated": "2026-04-14T06:18:26.839947+00:00",
+  "count": 4,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.7 earthquake — 12 km NNE of Simav, Turkey",
-      "magnitude": 4.7,
-      "time": "2026-04-11T14:31:56.448000+00:00",
-      "location": "12 km NNE of Simav, Turkey",
-      "latitude": 39.1996,
-      "longitude": 29.0137,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.9 earthquake — KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "magnitude": 4.9,
-      "time": "2026-04-11T17:31:56+00:00",
-      "location": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "latitude": 39.2602,
-      "longitude": 28.9578,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -59,6 +35,18 @@
       "location": "AKDENIZ İlksel",
       "latitude": 35.8307,
       "longitude": 30.2478,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — DERE-KEMAH (ERZINCAN) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-04-13T19:15:56+00:00",
+      "location": "DERE-KEMAH (ERZINCAN) İlksel",
+      "latitude": 39.503,
+      "longitude": 39.2453,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
