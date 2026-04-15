@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-04-14T06:18:26.839947+00:00",
-  "count": 4,
+  "last_updated": "2026-04-15T06:19:00.908855+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-04-12T14:06:56+00:00",
-      "location": "GIRIT ADASI (AKDENIZ) İlksel",
-      "latitude": 34.7192,
-      "longitude": 23.8292,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.7 earthquake — 36 km SSE of Finike, Turkey",
-      "magnitude": 4.7,
-      "time": "2026-04-13T05:48:34.499000+00:00",
-      "location": "36 km SSE of Finike, Turkey",
-      "latitude": 35.984,
-      "longitude": 30.2713,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spkw"
-    },
     {
       "type": "earthquake",
       "severity": "medium",

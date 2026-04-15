@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-04-14T06:17:23.597955+00:00",
-  "count": 24,
+  "last_updated": "2026-04-15T06:17:54.054472+00:00",
+  "count": 23,
   "largest": {
-    "source": "Kandilli",
-    "magnitude": 4.9,
-    "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-    "time": "2026-04-11T17:31:56+00:00",
-    "latitude": 39.2602,
-    "longitude": 28.9578,
-    "depth_km": 6.6,
-    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    "source": "USGS",
+    "magnitude": 4.7,
+    "place": "12 km NNE of Simav, Turkey",
+    "time": "2026-04-11T14:31:56.448000+00:00",
+    "latitude": 39.1996,
+    "longitude": 29.0137,
+    "depth_km": 10,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
   },
   "significant_events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 4.9,
-      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T17:31:56+00:00",
-      "latitude": 39.2602,
-      "longitude": 28.9578,
-      "depth_km": 6.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "USGS",
       "magnitude": 4.7,
@@ -85,16 +75,6 @@
   ],
   "events": [
     {
-      "source": "Kandilli",
-      "magnitude": 4.9,
-      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T17:31:56+00:00",
-      "latitude": 39.2602,
-      "longitude": 28.9578,
-      "depth_km": 6.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "USGS",
       "magnitude": 4.7,
       "place": "12 km NNE of Simav, Turkey",
@@ -157,6 +137,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.8,
+      "place": "KARACABEY-BURSA ACIKLARI (MARMARA DENIZI) İlksel",
+      "time": "2026-04-14T15:42:37+00:00",
+      "latitude": 40.429,
+      "longitude": 28.4498,
+      "depth_km": 8.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.8,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-04-14T08:59:36+00:00",
       "latitude": 35.0597,
@@ -176,12 +166,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T17:37:07+00:00",
-      "latitude": 39.2573,
-      "longitude": 28.9693,
-      "depth_km": 5.4,
+      "magnitude": 3.7,
+      "place": "BAYRAMDERE-KARACABEY (BURSA) İlksel",
+      "time": "2026-04-15T01:17:27+00:00",
+      "latitude": 40.427,
+      "longitude": 28.453,
+      "depth_km": 8.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -192,26 +182,6 @@
       "latitude": 35.8927,
       "longitude": 28.1028,
       "depth_km": 5.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "KOBAKLAR-GORDES (MANISA) İlksel",
-      "time": "2026-04-11T19:11:23+00:00",
-      "latitude": 39.112,
-      "longitude": 28.3585,
-      "depth_km": 8.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T17:42:11+00:00",
-      "latitude": 39.2462,
-      "longitude": 28.9802,
-      "depth_km": 6.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -256,12 +226,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T18:33:58+00:00",
-      "latitude": 39.2387,
-      "longitude": 28.976,
-      "depth_km": 6.0,
+      "magnitude": 3.1,
+      "place": "SELCUKLU (KONYA) İlksel",
+      "time": "2026-04-14T10:38:23+00:00",
+      "latitude": 37.9587,
+      "longitude": 32.4278,
+      "depth_km": 5.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -306,11 +276,21 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "HACIAHMETOGLU-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T17:33:03+00:00",
-      "latitude": 39.1417,
-      "longitude": 28.9822,
+      "magnitude": 3.0,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-04-14T19:32:30+00:00",
+      "latitude": 34.8652,
+      "longitude": 26.0158,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-04-14T11:40:22+00:00",
+      "latitude": 36.123,
+      "longitude": 28.737,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
