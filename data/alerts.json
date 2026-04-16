@@ -1,30 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:19:00.908855+00:00",
-  "count": 2,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.7 earthquake — AKDENIZ İlksel",
-      "magnitude": 4.7,
-      "time": "2026-04-13T08:48:32+00:00",
-      "location": "AKDENIZ İlksel",
-      "latitude": 35.8307,
-      "longitude": 30.2478,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — DERE-KEMAH (ERZINCAN) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-04-13T19:15:56+00:00",
-      "location": "DERE-KEMAH (ERZINCAN) İlksel",
-      "latitude": 39.503,
-      "longitude": 39.2453,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-04-16T06:21:07.356203+00:00",
+  "count": 0,
+  "alerts": []
 }

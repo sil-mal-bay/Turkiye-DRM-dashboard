@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-04-15T06:19:00.908194+00:00",
+  "last_updated": "2026-04-16T06:21:07.355466+00:00",
   "count": 11,
   "publications": [
-    {
-      "source": "UNDRR",
-      "title": "Ecosystem-based disaster risk reduction: Implementing nature-based solutions for resilience",
-      "description": "The purpose of this policy paper is to increase awareness of the important role of ecosystem-based approaches in reducing disaster risk.",
-      "date": "2026-04-14T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/ecosystem-based-disaster-risk-reduction-implementing-nature",
-      "type": "report"
-    },
     {
       "source": "UNDRR",
       "title": "Concept note: The International day in memory of the victims of earthquakes",
@@ -80,6 +72,14 @@
       "description": "This Work Programme for 2026-2027 translates the ambitions of the Strategic Framework into the concrete actions UNDRR will take to lead, empower and accelerate global efforts to reduce disaster risk and safeguard development gains.",
       "date": "2026-01-16T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Burkina Faso 2025 – Anticipatory finance snapshot",
+      "description": "This snapshot provides an overview of Anticipatory finance in Burkina Faso, with a particular focus on its linkages to disaster risk reduction (DRR), climate change adaptation (CCA) and humanitarian action.",
+      "date": "2026-01-15T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/burkina-faso-2025-anticipatory-finance-snapshot",
       "type": "report"
     },
     {

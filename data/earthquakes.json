@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:17:54.054472+00:00",
+  "last_updated": "2026-04-16T06:20:03.301477+00:00",
   "count": 23,
   "largest": {
     "source": "USGS",
@@ -41,16 +41,6 @@
       "longitude": 30.2478,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.4,
-      "place": "25 km ENE of Mesariá, Greece",
-      "time": "2026-04-08T06:54:21.709000+00:00",
-      "latitude": 36.4771,
-      "longitude": 25.7157,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbac"
     },
     {
       "source": "Kandilli",
@@ -103,16 +93,6 @@
       "longitude": 30.2478,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.4,
-      "place": "25 km ENE of Mesariá, Greece",
-      "time": "2026-04-08T06:54:21.709000+00:00",
-      "latitude": 36.4771,
-      "longitude": 25.7157,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbac"
     },
     {
       "source": "Kandilli",
@@ -227,6 +207,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS) İlksel",
+      "time": "2026-04-16T05:05:27+00:00",
+      "latitude": 37.893,
+      "longitude": 36.4712,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "SELCUKLU (KONYA) İlksel",
       "time": "2026-04-14T10:38:23+00:00",
       "latitude": 37.9587,
@@ -266,12 +256,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-11T21:58:10+00:00",
-      "latitude": 39.252,
-      "longitude": 28.9785,
-      "depth_km": 6.1,
+      "magnitude": 3.0,
+      "place": "AGILLI-KULP (DIYARBAKIR) İlksel",
+      "time": "2026-04-15T23:59:37+00:00",
+      "latitude": 38.595,
+      "longitude": 40.8552,
+      "depth_km": 1.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
