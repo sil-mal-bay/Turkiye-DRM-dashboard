@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T06:20:03.301477+00:00",
+  "last_updated": "2026-04-17T06:20:52.884439+00:00",
   "count": 23,
   "largest": {
     "source": "USGS",
@@ -177,6 +177,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.5,
+      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-04-16T19:32:07+00:00",
+      "latitude": 39.2417,
+      "longitude": 28.966,
+      "depth_km": 5.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
       "place": "GUVERCINLI-PATNOS (AGRI) İlksel",
       "time": "2026-04-13T03:51:18+00:00",
       "latitude": 38.9405,
@@ -242,16 +252,6 @@
       "latitude": 39.2543,
       "longitude": 28.9712,
       "depth_km": 6.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "HAMIDIYE-BIGADIC (BALIKESIR) İlksel",
-      "time": "2026-04-12T04:53:52+00:00",
-      "latitude": 39.3777,
-      "longitude": 28.0043,
-      "depth_km": 7.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

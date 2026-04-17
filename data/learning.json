@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T06:20:46.417127+00:00",
-  "count": 60,
+  "last_updated": "2026-04-17T06:21:40.978069+00:00",
+  "count": 59,
   "items": [
     {
       "source": "World Bank",
@@ -270,22 +270,29 @@
     },
     {
       "source": "World Bank",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "Flood risk management and urban resilience workshop",
       "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
     {
-      "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
-      "type": "working paper",
+      "source": "GFDRR",
+      "title": "Emergency Preparedness & Response Thematic Area",
+      "link": "https://www.gfdrr.org",
+      "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Repository of Preparedness Education Good Practices and Resources",
-      "link": "https://www.gfdrr.org",
+      "title": "Crisis Preparedness GAP Analysis",
+      "link": "https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/cpga",
       "type": "report",
       "description": ""
     },
@@ -339,17 +346,10 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "TAFF Workshop Summary Oct 2-3, 2025",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/TAFF_WORKHSOP_BRIEF_Oct%202025.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "GFDRR Country Evaluation: Tajikistan",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099912501232636289",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Teaching resilience with the Stop Disasters game: a teacher's guide",
+      "link": "https://www.undrr.org/publication/documents-and-publications/teaching-resilience-stop-disasters-game-teachers-guide",
+      "type": "learning",
       "description": ""
     },
     {
@@ -412,13 +412,6 @@
       "source": "UNDRR",
       "title": "UNDRR Work Programme 2026-27",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Burkina Faso 2025 – Anticipatory finance snapshot",
-      "link": "https://www.undrr.org/publication/documents-and-publications/burkina-faso-2025-anticipatory-finance-snapshot",
       "type": "learning",
       "description": ""
     }
