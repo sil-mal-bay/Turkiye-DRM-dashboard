@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T06:21:02.745440+00:00",
-  "count": 8,
+  "last_updated": "2026-04-18T05:57:43.023321+00:00",
+  "count": 11,
   "articles": [
     {
       "source": "undrr",
@@ -16,12 +16,25 @@
       "recency_score": 100
     },
     {
-      "source": "undrr",
-      "title": "Teaching resilience with the Stop Disasters game: a teacher's guide",
+      "source": "bbc",
+      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
       "original_title": null,
-      "description": "This Teacher’s Pack supports the use of the  Stop Disasters online game as a practical way to introduce disaster risk reduction (DRR) and resilience in the classroom.",
-      "published": "2026-04-16T14:37:23+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/teaching-resilience-stop-disasters-game-teachers-guide",
+      "description": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
+      "published": "2026-04-18T04:46:34+00:00",
+      "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Regional initiative rolls out in North Macedonia to boost early warning systems and disaster resilience in the Western Balkans",
+      "original_title": null,
+      "description": "A three‑year regional initiative to boost disaster resilience in the Western Balkans is now being rolled out in North Macedonia, with support from the Government of Italy through AICS and implementation led by UNDRR and partners.",
+      "published": "2026-04-17T13:44:18+00:00",
+      "link": "https://www.undrr.org/news/regional-initiative-rolls-out-north-macedonia-boost-early-warning-systems-and-disaster",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
@@ -29,17 +42,43 @@
       "recency_score": 90
     },
     {
-      "source": "reliefweb",
-      "title": "World: Teaching resilience with the Stop Disasters game: a teacher's guide",
+      "source": "undrr",
+      "title": "Building disaster resilience in Barbados' tourism sector: Lessons from Atlantis Submarines",
       "original_title": null,
-      "description": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN Office for Disaster Risk Reduction</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d5/8a/d58a3998-25e5-448c-8e94-50b86a9e02e8.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p>This Teacher’s Pack supports the use of the Stop Disasters online game as a practical way to introduce disaster risk reduction (DRR) and resilience in the classroom. Developed by the United Nations Office for Disaster Risk Reduction (UNDRR), the game places students in the role of a community planner making real-world trade-offs—then seeing how those choices shape impacts when a hazard strikes. It provides an accessible starting point for exploring core ideas such as risk, exposure, vulnerability, and prevention.</p>\n<p>This pack includes five core elements:</p>\n<ol><li>a classroom-ready learning sequence,</li>\n<li>a short tutorial explaining how to play the game,</li>\n<li>hazard factsheets to deepen understanding and support discussion,</li>\n<li>an expanded glossary of related terms,</li>\n<li>additional classroom posters are available to download and print.</li>\n</ol><p>The activities are flexible—use them as written, adapt them to your learners’ age and context, or integrate them into subjects such as geography, social studies, science, civics, ICT, or language learning. Across the sequence, there are also opportunities to connect community-level planning in the game to age-appropriate home preparedness conversations, drawing on guidance from your local or national civil protection or disaster management agency.</p>",
-      "published": "2026-04-17T04:32:32+00:00",
-      "link": "https://reliefweb.int/report/world/teaching-resilience-stop-disasters-game-teachers-guide",
-      "score": 87.75,
+      "description": "In the tourism sector, where safety, reliability, and reputation are inseparable, Atlantis Submarines shows resilience isn’t a one-off task or static plan but a living system shaped by people, processes, and continuous learning.",
+      "published": "2026-04-17T08:59:38+00:00",
+      "link": "https://www.undrr.org/news/building-disaster-resilience-barbados-tourism-sector-lessons-atlantis-submarines",
+      "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "From Resilience Assessment to Action: Training Trainers to Strengthen Urban Resilience",
+      "original_title": null,
+      "description": "UNDRR GETI held a Training of Trainers in Incheon to strengthen urban resilience. 30 experts learned to use the Disaster Resilience Scorecard to help cities move from risk assessment to multi-sector action, supporting the MCR2030 initiative.",
+      "published": "2026-04-17T07:24:59+00:00",
+      "link": "https://www.undrr.org/news/resilience-assessment-action-training-trainers-strengthen-urban-resilience",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Teaching resilience with the Stop Disasters game: a teacher's guide",
+      "original_title": null,
+      "description": "This Teacher’s Pack supports the use of the  Stop Disasters online game as a practical way to introduce disaster risk reduction (DRR) and resilience in the classroom.",
+      "published": "2026-04-16T14:37:23+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/teaching-resilience-stop-disasters-game-teachers-guide",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,11 +87,11 @@
       "description": "29 April 2026 webinar marking the first International Day in Memory of the Victims of Earthquakes, bringing together experts to discuss seismic risk, resilient infrastructure, safer construction and risk-informed development in the region.",
       "published": "2026-04-13T15:24:58+00:00",
       "link": "https://www.undrr.org/event/first-international-day-international-day-memory-victims-earthquakes-earthquakes-dont-kill",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +100,11 @@
       "description": "The Disaster &amp; Development Journal is a publication for academia, policymakers, and professionals working in the fields of disaster management.",
       "published": "2026-04-13T15:21:46+00:00",
       "link": "https://www.undrr.org/organization/disaster-development",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",

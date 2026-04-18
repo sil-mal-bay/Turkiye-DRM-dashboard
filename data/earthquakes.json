@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T06:20:52.884439+00:00",
+  "last_updated": "2026-04-18T05:57:32.476207+00:00",
   "count": 23,
   "largest": {
     "source": "USGS",
@@ -45,21 +45,21 @@
     {
       "source": "Kandilli",
       "magnitude": 4.0,
-      "place": "DERE-KEMAH (ERZINCAN) İlksel",
-      "time": "2026-04-13T19:15:56+00:00",
-      "latitude": 39.503,
-      "longitude": 39.2453,
-      "depth_km": 9.2,
+      "place": "KUCUKKADAGAN-(ERZINCAN) İlksel",
+      "time": "2026-04-17T15:40:10+00:00",
+      "latitude": 39.6407,
+      "longitude": 39.693,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
       "magnitude": 4.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-04-12T14:06:56+00:00",
-      "latitude": 34.7192,
-      "longitude": 23.8292,
-      "depth_km": 5.0,
+      "place": "DERE-KEMAH (ERZINCAN) İlksel",
+      "time": "2026-04-13T19:15:56+00:00",
+      "latitude": 39.503,
+      "longitude": 39.2453,
+      "depth_km": 9.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
@@ -97,21 +97,21 @@
     {
       "source": "Kandilli",
       "magnitude": 4.0,
-      "place": "DERE-KEMAH (ERZINCAN) İlksel",
-      "time": "2026-04-13T19:15:56+00:00",
-      "latitude": 39.503,
-      "longitude": 39.2453,
-      "depth_km": 9.2,
+      "place": "KUCUKKADAGAN-(ERZINCAN) İlksel",
+      "time": "2026-04-17T15:40:10+00:00",
+      "latitude": 39.6407,
+      "longitude": 39.693,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
       "magnitude": 4.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-04-12T14:06:56+00:00",
-      "latitude": 34.7192,
-      "longitude": 23.8292,
-      "depth_km": 5.0,
+      "place": "DERE-KEMAH (ERZINCAN) İlksel",
+      "time": "2026-04-13T19:15:56+00:00",
+      "latitude": 39.503,
+      "longitude": 39.2453,
+      "depth_km": 9.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -186,16 +186,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "GUVERCINLI-PATNOS (AGRI) İlksel",
-      "time": "2026-04-13T03:51:18+00:00",
-      "latitude": 38.9405,
-      "longitude": 42.7978,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.4,
       "place": "AKDENIZ İlksel",
       "time": "2026-04-13T09:45:05+00:00",
@@ -216,6 +206,36 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "HAMDIYE-GUNEY (DENIZLI) İlksel",
+      "time": "2026-04-18T07:11:44+00:00",
+      "latitude": 38.0828,
+      "longitude": 28.9673,
+      "depth_km": 7.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "KUMARLI-(KAHRAMANMARAS) İlksel",
+      "time": "2026-04-17T11:58:38+00:00",
+      "latitude": 37.8643,
+      "longitude": 36.4667,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS) İlksel",
+      "time": "2026-04-17T08:45:07+00:00",
+      "latitude": 37.8607,
+      "longitude": 36.432,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS) İlksel",
       "time": "2026-04-16T05:05:27+00:00",
@@ -232,26 +252,6 @@
       "latitude": 37.9587,
       "longitude": 32.4278,
       "depth_km": 5.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "TEPEKOY-KALE (MALATYA) İlksel",
-      "time": "2026-04-13T03:03:22+00:00",
-      "latitude": 38.3652,
-      "longitude": 38.762,
-      "depth_km": 4.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-04-13T01:35:32+00:00",
-      "latitude": 39.2543,
-      "longitude": 28.9712,
-      "depth_km": 6.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
