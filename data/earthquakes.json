@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-04-18T05:57:32.476207+00:00",
-  "count": 23,
+  "last_updated": "2026-04-19T06:15:34.951462+00:00",
+  "count": 19,
   "largest": {
     "source": "USGS",
     "magnitude": 4.7,
-    "place": "12 km NNE of Simav, Turkey",
-    "time": "2026-04-11T14:31:56.448000+00:00",
-    "latitude": 39.1996,
-    "longitude": 29.0137,
+    "place": "36 km SSE of Finike, Turkey",
+    "time": "2026-04-13T05:48:34.499000+00:00",
+    "latitude": 35.984,
+    "longitude": 30.2713,
     "depth_km": 10,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spkw"
   },
   "significant_events": [
-    {
-      "source": "USGS",
-      "magnitude": 4.7,
-      "place": "12 km NNE of Simav, Turkey",
-      "time": "2026-04-11T14:31:56.448000+00:00",
-      "latitude": 39.1996,
-      "longitude": 29.0137,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
-    },
     {
       "source": "USGS",
       "magnitude": 4.7,
@@ -34,32 +24,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 4.7,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-04-13T08:48:32+00:00",
-      "latitude": 35.8307,
-      "longitude": 30.2478,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 4.0,
       "place": "KUCUKKADAGAN-(ERZINCAN) İlksel",
       "time": "2026-04-17T15:40:10+00:00",
       "latitude": 39.6407,
       "longitude": 39.693,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "DERE-KEMAH (ERZINCAN) İlksel",
-      "time": "2026-04-13T19:15:56+00:00",
-      "latitude": 39.503,
-      "longitude": 39.2453,
-      "depth_km": 9.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
@@ -67,16 +37,6 @@
     {
       "source": "USGS",
       "magnitude": 4.7,
-      "place": "12 km NNE of Simav, Turkey",
-      "time": "2026-04-11T14:31:56.448000+00:00",
-      "latitude": 39.1996,
-      "longitude": 29.0137,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spb7"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.7,
       "place": "36 km SSE of Finike, Turkey",
       "time": "2026-04-13T05:48:34.499000+00:00",
       "latitude": 35.984,
@@ -86,32 +46,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 4.7,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-04-13T08:48:32+00:00",
-      "latitude": 35.8307,
-      "longitude": 30.2478,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 4.0,
       "place": "KUCUKKADAGAN-(ERZINCAN) İlksel",
       "time": "2026-04-17T15:40:10+00:00",
       "latitude": 39.6407,
       "longitude": 39.693,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "DERE-KEMAH (ERZINCAN) İlksel",
-      "time": "2026-04-13T19:15:56+00:00",
-      "latitude": 39.503,
-      "longitude": 39.2453,
-      "depth_km": 9.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -136,11 +76,11 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.8,
+      "magnitude": 3.7,
       "place": "AKDENIZ İlksel",
-      "time": "2026-04-13T20:17:57+00:00",
-      "latitude": 35.9075,
-      "longitude": 30.2952,
+      "time": "2026-04-18T10:47:01+00:00",
+      "latitude": 35.978,
+      "longitude": 30.2762,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
@@ -156,26 +96,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-04-13T05:00:46+00:00",
-      "latitude": 35.8927,
-      "longitude": 28.1028,
-      "depth_km": 5.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-04-13T06:52:01+00:00",
-      "latitude": 36.0977,
-      "longitude": 27.2592,
-      "depth_km": 11.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.5,
       "place": "YEMISLI-SIMAV (KUTAHYA) İlksel",
       "time": "2026-04-16T19:32:07+00:00",
@@ -186,22 +106,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-04-13T09:45:05+00:00",
-      "latitude": 35.7863,
-      "longitude": 30.3357,
-      "depth_km": 15.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-04-13T08:43:34+00:00",
-      "latitude": 35.8927,
-      "longitude": 30.1,
-      "depth_km": 12.3,
+      "magnitude": 3.3,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-04-19T00:33:00+00:00",
+      "latitude": 34.1163,
+      "longitude": 25.786,
+      "depth_km": 13.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -212,6 +122,26 @@
       "latitude": 38.0828,
       "longitude": 28.9673,
       "depth_km": 7.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-04-19T01:00:25+00:00",
+      "latitude": 39.467,
+      "longitude": 23.5017,
+      "depth_km": 8.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-04-19T00:02:03+00:00",
+      "latitude": 40.2903,
+      "longitude": 24.1552,
+      "depth_km": 12.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
