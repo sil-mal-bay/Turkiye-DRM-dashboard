@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-19T06:16:41.445564+00:00",
+  "last_updated": "2026-04-20T06:33:39.261938+00:00",
   "count": 1,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.0 earthquake — KUCUKKADAGAN-(ERZINCAN) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-04-17T15:40:10+00:00",
-      "location": "KUCUKKADAGAN-(ERZINCAN) İlksel",
-      "latitude": 39.6407,
-      "longitude": 39.693,
+      "title": "M4.4 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
+      "magnitude": 4.4,
+      "time": "2026-04-19T10:04:39+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 34.9772,
+      "longitude": 25.9548,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
