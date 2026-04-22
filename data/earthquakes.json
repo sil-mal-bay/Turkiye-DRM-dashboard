@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T06:20:54.351462+00:00",
-  "count": 14,
+  "last_updated": "2026-04-22T06:20:11.013132+00:00",
+  "count": 12,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -152,26 +152,6 @@
       "latitude": 37.8607,
       "longitude": 36.432,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS) İlksel",
-      "time": "2026-04-16T05:05:27+00:00",
-      "latitude": 37.893,
-      "longitude": 36.4712,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "AGILLI-KULP (DIYARBAKIR) İlksel",
-      "time": "2026-04-15T23:59:37+00:00",
-      "latitude": 38.595,
-      "longitude": 40.8552,
-      "depth_km": 1.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

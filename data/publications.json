@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T06:35:40.345385+00:00",
-  "count": 11,
+  "last_updated": "2026-04-22T06:21:28.981631+00:00",
+  "count": 10,
   "publications": [
     {
       "source": "UNDRR",
@@ -80,14 +80,6 @@
       "description": "This Work Programme for 2026-2027 translates the ambitions of the Strategic Framework into the concrete actions UNDRR will take to lead, empower and accelerate global efforts to reduce disaster risk and safeguard development gains.",
       "date": "2026-01-16T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-work-programme-2026-27",
-      "type": "report"
-    },
-    {
-      "source": "GFDRR",
-      "title": "Emergency Preparedness & Response Thematic Area",
-      "description": "",
-      "date": "",
-      "link": "https://www.gfdrr.org",
       "type": "report"
     }
   ]
