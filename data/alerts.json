@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-04-22T06:21:28.982396+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-04-23T06:26:43.752228+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.3 earthquake — DIZGINKALE-PATNOS (AGRI) REVIZE01 (2026.04.22 17:17:00",
+      "magnitude": 4.3,
+      "time": "2026-04-22T17:17:00+00:00",
+      "location": "DIZGINKALE-PATNOS (AGRI) REVIZE01 (2026.04.22 17:17:00",
+      "latitude": 38.9582,
+      "longitude": 42.8287,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
