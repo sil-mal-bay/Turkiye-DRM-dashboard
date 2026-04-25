@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T06:28:47.719112+00:00",
-  "count": 2,
+  "last_updated": "2026-04-25T06:09:13.367337+00:00",
+  "count": 4,
   "alerts": [
     {
       "type": "earthquake",
@@ -16,13 +16,37 @@
     },
     {
       "type": "earthquake",
+      "severity": "high",
+      "title": "M5.0 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "magnitude": 5.0,
+      "time": "2026-04-24T11:58:16+00:00",
+      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "latitude": 34.9013,
+      "longitude": 26.1115,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
       "severity": "medium",
-      "title": "M4.3 earthquake — DIZGINKALE-PATNOS (AGRI) REVIZE01 (2026.04.22 17:17:00",
+      "title": "M4.3 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
       "magnitude": 4.3,
-      "time": "2026-04-22T17:17:00+00:00",
-      "location": "DIZGINKALE-PATNOS (AGRI) REVIZE01 (2026.04.22 17:17:00",
-      "latitude": 38.9582,
-      "longitude": 42.8287,
+      "time": "2026-04-24T12:26:45+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 34.9668,
+      "longitude": 25.9825,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "magnitude": 4.1,
+      "time": "2026-04-25T04:47:35+00:00",
+      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "latitude": 34.8715,
+      "longitude": 26.0045,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
