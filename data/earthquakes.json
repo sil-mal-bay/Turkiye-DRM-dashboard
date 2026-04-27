@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-26T06:25:11.565178+00:00",
-  "count": 53,
+  "last_updated": "2026-04-27T07:16:29.653947+00:00",
+  "count": 61,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.7,
@@ -85,11 +85,31 @@
     {
       "source": "Kandilli",
       "magnitude": 4.1,
+      "place": "SIRADERE-BULANIK (MUS) İlksel",
+      "time": "2026-04-26T19:48:21+00:00",
+      "latitude": 39.2808,
+      "longitude": 42.1892,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-04-25T04:47:35+00:00",
       "latitude": 34.8715,
       "longitude": 26.0045,
       "depth_km": 7.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.0,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-04-26T21:40:19+00:00",
+      "latitude": 35.0603,
+      "longitude": 25.9285,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
@@ -167,11 +187,31 @@
     {
       "source": "Kandilli",
       "magnitude": 4.1,
+      "place": "SIRADERE-BULANIK (MUS) İlksel",
+      "time": "2026-04-26T19:48:21+00:00",
+      "latitude": 39.2808,
+      "longitude": 42.1892,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-04-25T04:47:35+00:00",
       "latitude": 34.8715,
       "longitude": 26.0045,
       "depth_km": 7.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.0,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-04-26T21:40:19+00:00",
+      "latitude": 35.0603,
+      "longitude": 25.9285,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -308,6 +348,16 @@
       "source": "Kandilli",
       "magnitude": 3.6,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-04-27T09:12:59+00:00",
+      "latitude": 34.9942,
+      "longitude": 25.9222,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-04-24T15:09:55+00:00",
       "latitude": 35.0768,
       "longitude": 26.032,
@@ -332,6 +382,36 @@
       "latitude": 34.9058,
       "longitude": 26.1655,
       "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-04-26T23:47:41+00:00",
+      "latitude": 34.9422,
+      "longitude": 25.9337,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "ALIHAN-PUTURGE (MALATYA) İlksel",
+      "time": "2026-04-26T17:36:31+00:00",
+      "latitude": 38.2095,
+      "longitude": 38.685,
+      "depth_km": 5.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-04-26T11:51:35+00:00",
+      "latitude": 34.9647,
+      "longitude": 25.9243,
+      "depth_km": 2.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -437,6 +517,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "AYDINLAR-HONAZ (DENIZLI) İlksel",
+      "time": "2026-04-26T13:50:48+00:00",
+      "latitude": 37.7052,
+      "longitude": 29.3268,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-04-24T17:05:36+00:00",
       "latitude": 34.9397,
@@ -512,6 +602,16 @@
       "latitude": 34.9327,
       "longitude": 25.958,
       "depth_km": 6.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-04-26T23:14:27+00:00",
+      "latitude": 36.8137,
+      "longitude": 23.9783,
+      "depth_km": 109.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

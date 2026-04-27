@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-26T06:25:17.379110+00:00",
-  "count": 8,
+  "last_updated": "2026-04-27T07:16:37.019344+00:00",
+  "count": 9,
   "articles": [
     {
       "source": "undrr",
@@ -16,17 +16,30 @@
       "recency_score": 100
     },
     {
+      "source": "reliefweb",
+      "title": "Situation Report (Dry Weather Condition) - Sri Lanka 26th April 2026 at 1000hrs",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/eb/f7/ebf74f4e-6621-4b9b-9842-88af80d63861.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
+      "published": "2026-04-27T00:51:14+00:00",
+      "link": "https://reliefweb.int/report/sri-lanka/situation-report-dry-weather-condition-sri-lanka-26th-april-2026-1000hrs",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
+    {
       "source": "undrr",
       "title": "UNDRR trains Baltic States practitioners on disability-inclusive disaster risk reduction",
       "original_title": null,
       "description": "On 15 April 2026, UNDRR facilitated a Training of Trainers (ToT) on disability inclusion in DRR in Brussels, marking the opening day of the three-day READY Baltics Kick-off Meeting organized by the EDF.",
       "published": "2026-04-22T14:10:33+00:00",
       "link": "https://www.undrr.org/news/undrr-trains-baltic-states-practitioners-disability-inclusive-disaster-risk-reduction",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "The overarching ambition of Regions4Climate is to advance European transitions to climate resilience. The project will provide a suite of user-centred tools and frameworks to support socially-just regional climate resilience transitions.",
       "published": "2026-04-21T09:56:27+00:00",
       "link": "https://www.undrr.org/organization/regions4climate",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
