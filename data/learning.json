@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T07:17:17.927383+00:00",
+  "last_updated": "2026-04-28T07:15:15.243053+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -277,8 +277,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
+      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "A Catalogue of Nature‑Based Solutions for Coastal Resilience",
+      "link": "https://openknowledge.worldbank.org/entities/publication/888fbe94-8be8-4838-9dbd-4093430f04df",
       "type": "report",
       "description": ""
     },
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "Handbook for Livable and Resilient Cities",
       "link": "https://openknowledge.worldbank.org/entities/publication/d7ee1212-42ed-4d8a-9ffa-225152ee65df",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Germany: The Economic Case for Investing in Disaster Preparedness and Resilience: Summary Report",
-      "link": "https://openknowledge.worldbank.org/entities/publication/2e35d6ac-6c52-4713-b2fe-7fd3bf1f5a85",
       "type": "report",
       "description": ""
     },
