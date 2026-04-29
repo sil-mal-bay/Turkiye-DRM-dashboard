@@ -1,43 +1,7 @@
 {
-  "last_updated": "2026-04-28T07:16:09.154777+00:00",
-  "count": 6,
+  "last_updated": "2026-04-29T07:06:01.407939+00:00",
+  "count": 5,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — GUZGULU-YEDISU (BINGOL) İlksel",
-      "magnitude": 4.3,
-      "time": "2026-04-26T08:01:54+00:00",
-      "location": "GUZGULU-YEDISU (BINGOL) İlksel",
-      "latitude": 39.4152,
-      "longitude": 40.4528,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — SIRADERE-BULANIK (MUS) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-04-26T19:48:21+00:00",
-      "location": "SIRADERE-BULANIK (MUS) İlksel",
-      "latitude": 39.2808,
-      "longitude": 42.1892,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-04-26T21:40:19+00:00",
-      "location": "GIRIT ADASI (AKDENIZ) İlksel",
-      "latitude": 35.0603,
-      "longitude": 25.9285,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -71,6 +35,30 @@
       "location": "ALHANUSAGI-(MALATYA) İlksel",
       "latitude": 38.2708,
       "longitude": 38.6572,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.9 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.9,
+      "time": "2026-04-28T14:12:22+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 39.2035,
+      "longitude": 23.4552,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.7,
+      "time": "2026-04-28T16:07:45+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 39.2063,
+      "longitude": 23.4987,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
