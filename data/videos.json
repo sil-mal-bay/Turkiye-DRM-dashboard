@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-04-29T07:04:57.053352+00:00",
+  "last_updated": "2026-04-30T07:10:45.131158+00:00",
   "count": 32,
   "videos": [
+    {
+      "video_id": "chmLzHJr8L8",
+      "title": "[Launch Event] A Catalogue of Nature-based Solutions for Coastal Resilience",
+      "description": "Coastal areas rank among the world’s most vulnerable regions, facing the combined pressures of natural hazards, high population density, and concentrated economic activity in low lying zones. These hazards are compounded by the degradation of coastal ecosystems that provide essential services, inclu",
+      "channel": "GFDRR",
+      "published": "2026-04-29T16:21:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/chmLzHJr8L8/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=chmLzHJr8L8"
+    },
     {
       "video_id": "GS29HMgGC04",
       "title": "Caught indoors during an earthquake? Do this | UNDRR",
@@ -244,15 +253,6 @@
       "published": "2026-03-16T22:10:14Z",
       "thumbnail": "https://i.ytimg.com/vi/wsyosjzfq-g/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wsyosjzfq-g"
-    },
-    {
-      "video_id": "Fvq72W-XcuA",
-      "title": "Unbreakable Updated: A global perspective on households' socioeconomic resilience to natural hazards",
-      "description": "Risk assessments typically focus on asset losses to quantify the impacts of natural hazards, often neglecting distributional effects, the socioeconomic heterogeneity of the people affected, and the temporal dimension of reconstruction.\n\nPresenting a major update to the global micro-simulation model ",
-      "channel": "GFDRR",
-      "published": "2026-03-16T22:10:10Z",
-      "thumbnail": "https://i.ytimg.com/vi/Fvq72W-XcuA/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Fvq72W-XcuA"
     },
     {
       "video_id": "iN1AJvlSB9U",

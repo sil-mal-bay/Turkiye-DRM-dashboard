@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T07:04:54.308780+00:00",
-  "count": 8,
+  "last_updated": "2026-04-30T07:10:43.811690+00:00",
+  "count": 9,
   "articles": [
     {
       "source": "undrr",
@@ -14,6 +14,19 @@
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Nile Basin countries advance early warning systems through integrated risk assessment and forecasting",
+      "original_title": null,
+      "description": "Countries across the Nile Basin are strengthening their capacity to anticipate and respond to climate-related hazards, as experts convened for a four-day technical workshop to advance multi-hazard risk assessment and flood early warning systems",
+      "published": "2026-04-29T07:00:12+00:00",
+      "link": "https://www.undrr.org/news/nile-basin-countries-advance-early-warning-systems-through-integrated-risk-assessment-and",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",

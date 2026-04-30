@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-04-29T07:06:01.407043+00:00",
-  "count": 10,
+  "last_updated": "2026-04-30T07:11:31.039526+00:00",
+  "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "AI makes the call. Who answers for it?  Accountability, authority, and the data infrastructure that makes ethical AI possible in wildland firefighting.",
+      "description": "This report examines how AI is used in aerial firefighting, highlighting governance, accountability, and data requirements for safe and ethical deployment.",
+      "date": "2026-04-29T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/ai-makes-call-who-answers-it-accountability-authority-and",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "“Risks” and “communication”: conceptual discussion from the perspective of complex transdisciplinarity",
+      "description": "This article explores the concept of risk communication, highlighting the lack of a unified definition and proposing a transdisciplinary, complex-thinking approach to better understand it.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/risks-and-communication-conceptual-discussion-perspective",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Global climate surge report 2024-2025: climate crisis & Pakistan's vulnerability",
+      "description": "The Global climate surge report 2024–2025 presents a comprehensive assessment of accelerating global climate trends and their implications for Pakistan.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/global-climate-surge-report-2024-2025-climate-crisis",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Effectively delivering on climate and nature: Policy analysis to maximize synergies and co-benefits in Mongolia",
+      "description": "This policy analysis highlights the need for stronger integration and defines synergies as the intentional coordination of planning and implementation across NDCs, NAPs, and NBSAPs to achieve more effective outcomes and co-benefits.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/effectively-delivering-climate-and-nature-policy-analysis",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Heat and pregnancy: guidance for healthcare professionals and community health workers",
+      "description": "The World Health Organization has recently published a conceptual framework on hashtag#maternal health, highlighting the importance of mitigating heat-related risks.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/heat-and-pregnancy-guidance-healthcare-professionals-and",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Urban heat governance: assessing institutional capacity to manage extreme heat in cities of the Global South",
+      "description": "This policy brief presents findings from an analysis of heat-related urban governance across 83 coastal cities in the Global South.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/urban-heat-governance-assessing-institutional-capacity",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Rising temperatures, silent suffering: lived experiences of heat stress and its impact on health among street vendors",
+      "description": "Extreme heat is a growing public health concern that disproportionately affects certain disadvantaged communities. The situation calls for urgent action—placing adaptation and resilience-building on par with mitigation efforts.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/rising-temperatures-silent-suffering-lived-experiences-heat",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Rethinking how India adapts to extreme heat",
+      "description": "A new white paper from the Salata Institute's Climate Adaptation in South Asia research cluster brings together perspectives to examine how extreme heat is reshaping life and livelihoods across India.",
+      "date": "2026-04-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/rethinking-how-india-adapts-extreme-heat",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Teaching resilience with the Stop Disasters game: a teacher's guide",

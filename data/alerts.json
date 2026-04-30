@@ -1,42 +1,18 @@
 {
-  "last_updated": "2026-04-29T07:06:01.407939+00:00",
-  "count": 5,
+  "last_updated": "2026-04-30T07:11:31.040403+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.5 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "magnitude": 4.5,
-      "time": "2026-04-27T10:45:01+00:00",
-      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "latitude": 34.9018,
-      "longitude": 26.118,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4 earthquake — 30 km N of Sincik, Turkey",
-      "magnitude": 4,
-      "time": "2026-04-27T12:42:41.441000+00:00",
-      "location": "30 km N of Sincik, Turkey",
-      "latitude": 38.3047,
-      "longitude": 38.6633,
+      "title": "M4.3 earthquake — 29 km N of Susuz, Turkey",
+      "magnitude": 4.3,
+      "time": "2026-04-28T12:02:39.162000+00:00",
+      "location": "29 km N of Susuz, Turkey",
+      "latitude": 41.0418,
+      "longitude": 43.0886,
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st4v"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — ALHANUSAGI-(MALATYA) İlksel",
-      "magnitude": 4.2,
-      "time": "2026-04-27T15:42:38+00:00",
-      "location": "ALHANUSAGI-(MALATYA) İlksel",
-      "latitude": 38.2708,
-      "longitude": 38.6572,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgn2"
     },
     {
       "type": "earthquake",

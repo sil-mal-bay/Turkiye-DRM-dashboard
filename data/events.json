@@ -1,5 +1,54 @@
 {
-  "last_updated": "2026-04-29T07:05:28.121586+00:00",
-  "count": 0,
-  "events": []
+  "last_updated": "2026-04-30T07:11:07.110308+00:00",
+  "count": 6,
+  "events": [
+    {
+      "source": "UNDRR",
+      "title": "Symposium on loss and damage advancing non-economic losses: Data, policy, and capacity for action",
+      "date": "2026-05-04T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/symposium-loss-and-damage-advancing-non-economic-losses-data-policy-and-capacity-action",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Roundtable on strengthening supply chain resilience in an era of complex and interconnected risks",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/roundtable-strengthening-supply-chain-resilience-era-complex-and-interconnected-risks",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Online workshop on strengthening whole-of-society capacities for disaster risk reduction and climate resilience: Inclusive governance and innovative mechanisms",
+      "date": "2026-05-12T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/online-workshop-strengthening-whole-society-capacities-disaster-risk-reduction-and-climate",
+      "location": null,
+      "type": "workshop"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Strengthening disaster tracking systems through DELTA Resilience   (Global in-person training of trainers)",
+      "date": "2026-05-12T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/strengthening-disaster-tracking-systems-through-delta-resilience-global-person-training",
+      "location": null,
+      "type": "training"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Advancing Heat Risk Governance and Action: Responding to the UN Secretary-General’s Call to Action on Extreme Heat",
+      "date": "2026-05-14T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/advancing-heat-risk-governance-and-action-responding-un-secretary-generals-call-action",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Integrating Risk Reduction and Risk Finance: From Strategy to Implementation",
+      "date": "2026-06-17T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/integrating-risk-reduction-and-risk-finance-strategy-implementation",
+      "location": null,
+      "type": "event"
+    }
+  ]
 }
