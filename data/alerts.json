@@ -1,42 +1,5 @@
 {
-  "last_updated": "2026-04-30T07:11:31.040403+00:00",
-  "count": 3,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — 29 km N of Susuz, Turkey",
-      "magnitude": 4.3,
-      "time": "2026-04-28T12:02:39.162000+00:00",
-      "location": "29 km N of Susuz, Turkey",
-      "latitude": 41.0418,
-      "longitude": 43.0886,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgn2"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.9 earthquake — YUNANISTAN İlksel",
-      "magnitude": 4.9,
-      "time": "2026-04-28T14:12:22+00:00",
-      "location": "YUNANISTAN İlksel",
-      "latitude": 39.2035,
-      "longitude": 23.4552,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.7 earthquake — YUNANISTAN İlksel",
-      "magnitude": 4.7,
-      "time": "2026-04-28T16:07:45+00:00",
-      "location": "YUNANISTAN İlksel",
-      "latitude": 39.2063,
-      "longitude": 23.4987,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-05-01T07:15:47.371767+00:00",
+  "count": 0,
+  "alerts": []
 }

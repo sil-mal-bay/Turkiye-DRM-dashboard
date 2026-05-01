@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T07:10:35.994674+00:00",
-  "count": 43,
+  "last_updated": "2026-05-01T07:14:50.842125+00:00",
+  "count": 39,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.9,
@@ -100,16 +100,6 @@
       "latitude": 39.2808,
       "longitude": 42.1892,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-04-25T04:47:35+00:00",
-      "latitude": 34.8715,
-      "longitude": 26.0045,
-      "depth_km": 7.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -225,16 +215,6 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-04-25T04:47:35+00:00",
-      "latitude": 34.8715,
-      "longitude": 26.0045,
-      "depth_km": 7.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "USGS",
       "magnitude": 4,
       "place": "30 km N of Sincik, Turkey",
@@ -286,16 +266,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-04-25T03:47:16+00:00",
-      "latitude": 34.9472,
-      "longitude": 26.0298,
-      "depth_km": 8.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.7,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-04-26T02:28:20+00:00",
@@ -312,6 +282,16 @@
       "latitude": 34.9942,
       "longitude": 25.9222,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "ELMALI-YEDISU (BINGOL) İlksel",
+      "time": "2026-05-01T00:57:46+00:00",
+      "latitude": 39.4085,
+      "longitude": 40.6403,
+      "depth_km": 4.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -352,16 +332,6 @@
       "latitude": 34.9647,
       "longitude": 25.9243,
       "depth_km": 2.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-04-25T10:58:51+00:00",
-      "latitude": 34.9288,
-      "longitude": 26.0343,
-      "depth_km": 7.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -446,22 +416,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-04-25T07:48:47+00:00",
-      "latitude": 35.1208,
-      "longitude": 25.9427,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "IRAK İlksel",
-      "time": "2026-04-25T04:37:27+00:00",
-      "latitude": 37.0788,
-      "longitude": 42.7295,
-      "depth_km": 5.4,
+      "magnitude": 3.1,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-04-30T12:07:36+00:00",
+      "latitude": 40.2163,
+      "longitude": 24.6128,
+      "depth_km": 10.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -496,21 +456,11 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-04-25T06:30:28+00:00",
-      "latitude": 34.9247,
-      "longitude": 25.9998,
-      "depth_km": 2.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "BAYKOY-(HAKKARI) İlksel",
-      "time": "2026-04-25T04:53:49+00:00",
-      "latitude": 37.56,
-      "longitude": 43.7202,
+      "magnitude": 3.0,
+      "place": "KURUCAOVA-(KAHRAMANMARAS) İlksel",
+      "time": "2026-05-01T06:14:11+00:00",
+      "latitude": 37.9333,
+      "longitude": 36.5492,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
