@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T07:14:59.847661+00:00",
-  "count": 8,
+  "last_updated": "2026-05-02T06:26:18.103916+00:00",
+  "count": 7,
   "articles": [
     {
       "source": "undrr",
@@ -14,6 +14,32 @@
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 100
+    },
+    {
+      "source": "reliefweb",
+      "title": "Papua New Guinea: Severe Tropical Cyclone Maila - Disaster Management Team Situation Report No. 06 (01 May 2026)",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Papua New Guinea</div>\n                                      <div class=\"tag source\">Source: UN Country Team in Papua New Guinea</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/77/51/77514e4f-d43f-44f2-ae99-f0a902ae1709.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p>As of 30 April 2026, assessments have expanded to 140 wards in 23 LLGs, across 8 districts and 5 affected provinces.</p>\n<p>Preliminary findings indicate over 83,000 people affected, with over 77,000 people in need of humanitarian assistance, and 34 reported fatalities.</p>\n<p>Priority needs identified include food assistance, shelter and NFIs, WASH, health services, and support to reach isolated and hard to reach communities.</p>\n<p>The National Disaster Centre (NDC), through the National Emergency Operations Centre (NEOC), continues to coordinate assessments and initial relief operations while transitioning towards sub nationally led coordination of ongoing response and recovery.</p>",
+      "published": "2026-05-01T09:03:20+00:00",
+      "link": "https://reliefweb.int/report/papua-new-guinea/papua-new-guinea-severe-tropical-cyclone-maila-disaster-management-team-situation-report-no-06-01-may-2026",
+      "score": 81.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 90
+    },
+    {
+      "source": "reliefweb",
+      "title": "Agrometeorological Bulletin for 01 - 10 May 2026 across the Northern Tonle Sap Basin of Cambodia",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Cambodia</div>\n                                      <div class=\"tag source\">Source: Food and Agriculture Organization of the United Nations</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c6/9f/c69ff7b0-66e3-47b0-80f9-fa83ead8593d.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p><strong>No Flood, rainfall deficit Until 10 May 2026 Samraong district, Oddar Meanchey Province</strong></p>\n<p><strong>Flood Early Warning</strong></p>\n<p>No flood risk for the next 10 days. Keep tree bases mulched 10-15 cm {about a palm to a palm-and-a-half thick): using dry rice straw chopped pruning:, dried grass/leaves; keep mulch a hand with away from the trunk to avoid rot. Maintain shallow diversion furrow some hand wide one palm deep to move rainwater away from trunks during the rainy season. Young trees: keep a small raised ring around the basin about half a palm high to slow splash and hold irrigation water near the roots. This helps reduce splash-borne diseases on leaves and stems, prevents soil erosion around the trunk, and lets water soak in instead of running off. Keep mulch a handwidth away from the trunk, and during heavy rain cut a small notch in the ring so water drains and the trunk and graft union do not stay wet. Bearing trees: keep basins two to three paces across clear of weeds and trash. After showers, check for standing water; if present, open a cut in the ring to drain.</p>",
+      "published": "2026-05-01T06:37:23+00:00",
+      "link": "https://reliefweb.int/report/cambodia/agrometeorological-bulletin-01-10-may-2026-across-northern-tonle-sap-basin-cambodia",
+      "score": 81.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 90
     },
     {
       "source": "undrr",
@@ -61,45 +87,6 @@
       "description": "Beyond The Brink is a podcast with diverse perspectives on Disaster Risk Reduction (DRR) and climate resilience.",
       "published": "2026-04-20T17:57:32+00:00",
       "link": "https://www.undrr.org/organization/beyond-brink",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Regional initiative rolls out in North Macedonia to boost early warning systems and disaster resilience in the Western Balkans",
-      "original_title": null,
-      "description": "A three‑year regional initiative to boost disaster resilience in the Western Balkans is now being rolled out in North Macedonia, with support from the Government of Italy through AICS and implementation led by UNDRR and partners.",
-      "published": "2026-04-17T13:44:18+00:00",
-      "link": "https://www.undrr.org/news/regional-initiative-rolls-out-north-macedonia-boost-early-warning-systems-and-disaster",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Building disaster resilience in Barbados' tourism sector: Lessons from Atlantis Submarines",
-      "original_title": null,
-      "description": "In the tourism sector, where safety, reliability, and reputation are inseparable, Atlantis Submarines shows resilience isn’t a one-off task or static plan but a living system shaped by people, processes, and continuous learning.",
-      "published": "2026-04-17T08:59:38+00:00",
-      "link": "https://www.undrr.org/news/building-disaster-resilience-barbados-tourism-sector-lessons-atlantis-submarines",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "From resilience assessment to action: Training trainers to strengthen urban resilience",
-      "original_title": null,
-      "description": "UNDRR GETI held a Training of Trainers in Incheon to strengthen urban resilience. 30 experts learned to use the Disaster Resilience Scorecard to help cities move from risk assessment to multi-sector action, supporting the MCR2030 initiative.",
-      "published": "2026-04-17T07:24:59+00:00",
-      "link": "https://www.undrr.org/news/resilience-assessment-action-training-trainers-strengthen-urban-resilience",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
