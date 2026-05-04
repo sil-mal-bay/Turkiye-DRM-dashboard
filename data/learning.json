@@ -1,77 +1,7 @@
 {
-  "last_updated": "2026-05-03T07:06:32.628013+00:00",
-  "count": 62,
+  "last_updated": "2026-05-04T07:36:53.592549+00:00",
+  "count": 52,
   "items": [
-    {
-      "source": "World Bank",
-      "title": "Serbian National Disaster Risk Management Program : Serbian - National Disaster Risk Management Program",
-      "link": "http://documents.worldbank.org/curated/en/266831614666100180",
-      "type": "working paper",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Disaster Risk Finance Workshop : Proceedings",
-      "link": "http://documents.worldbank.org/curated/en/207451574240408444",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
-      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
-      "type": "working paper",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
-      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
-      "type": "working paper",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/984781632914115507",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
-      "type": "report",
-      "description": ""
-    },
     {
       "source": "World Bank",
       "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
@@ -235,15 +165,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Guyana - Flood Risk Management Project : Additional Financing",
-      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
-      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
       "type": "report",
       "description": ""
     },
@@ -277,8 +207,8 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
+      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
       "type": "working paper",
       "description": ""
     },

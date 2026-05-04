@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-03T07:06:00.899445+00:00",
-  "count": 30,
+  "last_updated": "2026-05-04T07:36:06.006656+00:00",
+  "count": 27,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.9,
@@ -41,16 +41,6 @@
       "longitude": 43.0886,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgn2"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.2,
-      "place": "ALHANUSAGI-(MALATYA) İlksel",
-      "time": "2026-04-27T15:42:38+00:00",
-      "latitude": 38.2708,
-      "longitude": 38.6572,
-      "depth_km": 3.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "USGS",
@@ -95,16 +85,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgn2"
     },
     {
-      "source": "Kandilli",
-      "magnitude": 4.2,
-      "place": "ALHANUSAGI-(MALATYA) İlksel",
-      "time": "2026-04-27T15:42:38+00:00",
-      "latitude": 38.2708,
-      "longitude": 38.6572,
-      "depth_km": 3.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "USGS",
       "magnitude": 4,
       "place": "30 km N of Sincik, Turkey",
@@ -122,16 +102,6 @@
       "latitude": 40.9795,
       "longitude": 43.1203,
       "depth_km": 8.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "KAMISTAS-(MALATYA) İlksel",
-      "time": "2026-04-27T15:41:57+00:00",
-      "latitude": 38.2803,
-      "longitude": 38.6737,
-      "depth_km": 3.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -257,6 +227,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-05-03T19:37:31+00:00",
+      "latitude": 35.9362,
+      "longitude": 29.8232,
+      "depth_km": 13.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "AKTAS-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-05-03T04:10:32+00:00",
       "latitude": 39.1793,
@@ -296,12 +276,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "SAHINKAYA-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-04-27T16:52:39+00:00",
-      "latitude": 39.1955,
-      "longitude": 28.0518,
-      "depth_km": 12.1,
+      "magnitude": 3.0,
+      "place": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "time": "2026-05-03T23:57:39+00:00",
+      "latitude": 37.4737,
+      "longitude": 37.1837,
+      "depth_km": 4.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -342,26 +322,6 @@
       "latitude": 34.8713,
       "longitude": 26.1383,
       "depth_km": 7.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-04-27T22:27:46+00:00",
-      "latitude": 34.9552,
-      "longitude": 25.8692,
-      "depth_km": 1.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "CAKMAKLAR-AYVACIK (CANAKKALE) İlksel",
-      "time": "2026-04-27T14:49:15+00:00",
-      "latitude": 39.6667,
-      "longitude": 26.3623,
-      "depth_km": 13.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
