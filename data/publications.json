@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-05T06:35:38.255033+00:00",
+  "last_updated": "2026-05-06T07:17:35.791943+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
+      "description": "This expert report examines how digital infrastructure, now central to essential services such as healthcare, finance, and emergency response, is creating new forms of systemic risk through increasing interdependence.",
+      "date": "2026-05-05T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Identifying Natech vulnerability based on the Istanbul earthquake scenario at the neighborhood level",
+      "description": "This study presents neighborhood-level assessment of potential Natech risks in Istanbul specifically under the scenario of the probable earthquake, analyzing the spatial intersection of structural vulnerability and hazardous industrial/economic activities",
+      "date": "2026-05-05T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/identifying-natech-vulnerability-based-istanbul-earthquake",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Building-scale flood hazard modelling for risk assessment of cultural heritage",
+      "description": "The present study aims to improve the representation of floodhazard inside CH buildings, whose architectural complexity,such as intricate planimetric & altimetric layouts, often limits the reliability of micro-scale models for exposure and riskassessment.",
+      "date": "2026-05-05T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/building-scale-flood-hazard-modelling-risk-assessment",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
+      "description": "This expert report examines how digital infrastructure, now central to essential services such as healthcare, finance, and emergency response, is creating new forms of systemic risk through increasing interdependence.",
+      "date": "2026-05-05T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Stories of resilience: lessons from local adaptation practice",
+      "description": "This report brings together a set of grounded, practice-based insights on how adaptation can be more effective when it is led from the local level.",
+      "date": "2026-05-04T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/stories-resilience-lessons-local-adaptation-practice",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Adaptation insights – Climate-resilient health systems for sustained value chains, healthcare access and services",
@@ -40,38 +80,6 @@
       "description": "Drawing on ethnographic fieldwork in Japan (and partially Chile) since 2016, this article argues that disaster preparedness education is increasingly delivered through playful, fun activities.",
       "date": "2026-04-30T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/detouring-theory-fun-disaster-preparedness",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "A geoAI-driven and decision-oriented methodology for multi-hazard early warning system development",
-      "description": "Drawing on ethnographic fieldwork in Japan (and partially Chile) since 2016, this article argues that disaster preparedness education is increasingly delivered through playful, fun activities.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/geoai-driven-and-decision-oriented-methodology-multi-hazard",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Climate adaptation investment planning: Lessons learned",
-      "description": "This report explores how developing countries can convert their climate adaptation goals into investment-ready programs that incorporate public and private financing, generate strong economic returns, and help drive development benefits.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/climate-adaptation-investment-planning-lessons-learned",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "The road to timely, relevant and consistent flood warnings: a City of Gold Coast case study",
-      "description": "This analysis examined how a large local government systematically addressed warning system limitations through technological innovation, multi-agency collaboration and community-centred design approaches.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/road-timely-relevant-and-consistent-flood-warnings-city-gold",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "The role of green infrastructure in enhancing flood resilience: A spatial perspective",
-      "description": "The aim of this study is to empirically assess the effectiveness of green infrastructure (GI) in South Korea as a way to enhance flood resilience.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/role-green-infrastructure-enhancing-flood-resilience-spatial",
       "type": "report"
     },
     {
@@ -136,14 +144,6 @@
       "description": "This landscape study aims to assess the current state of SME disaster preparedness, identify capability and resource gaps, and inform targeted interventions, particularly around business continuity plans (BCPs), access to finance and capacity-building.",
       "date": "2026-02-06T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Twenty-third session of the Africa Working Group for Disaster Risk Reduction",
-      "description": "This outcome document summarises the main achievements of the 23rd Africa Working Group on Disaster Risk Reduction, held from 11 to 13 November 2025 in Victoria Falls.",
-      "date": "2026-01-20T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/twenty-third-session-africa-working-group-disaster-risk",
       "type": "report"
     }
   ]

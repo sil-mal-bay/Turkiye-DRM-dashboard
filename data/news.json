@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T06:34:46.586016+00:00",
-  "count": 6,
+  "last_updated": "2026-05-06T07:16:47.707667+00:00",
+  "count": 5,
   "articles": [
     {
       "source": "undrr",
@@ -22,11 +22,11 @@
       "description": "The United Nations Office for Disaster Risk Reduction (UNDRR), in collaboration with the Municipality of Quelimane, organised an event to integrate technical DRR needs into municipal planning for Quelimane, a major seaport city in Mozambique’.",
       "published": "2026-05-04T15:06:00+00:00",
       "link": "https://www.undrr.org/news/quelimane-mozambique-puts-urban-resilience-practice-new-drr-action-plan",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +35,11 @@
       "description": "In 2025, we marked the 10-year anniversary of the Sendai Framework for Disaster Risk Reduction and its goal of significantly reducing disaster risk and losses by 2030. This report captures the progress, partnerships, and impact of UNDRR's work throughout the year.",
       "published": "2026-05-04T10:11:56+00:00",
       "link": "https://www.undrr.org/annual-report/2025",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -61,19 +61,6 @@
       "description": "On 15 April 2026, UNDRR facilitated a Training of Trainers (ToT) on disability inclusion in DRR in Brussels, marking the opening day of the three-day READY Baltics Kick-off Meeting organized by the EDF.",
       "published": "2026-04-22T14:10:33+00:00",
       "link": "https://www.undrr.org/news/undrr-trains-baltic-states-practitioners-disability-inclusive-disaster-risk-reduction",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Regions4Climate",
-      "original_title": null,
-      "description": "The overarching ambition of Regions4Climate is to advance European transitions to climate resilience. The project will provide a suite of user-centred tools and frameworks to support socially-just regional climate resilience transitions.",
-      "published": "2026-04-21T09:56:27+00:00",
-      "link": "https://www.undrr.org/organization/regions4climate",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

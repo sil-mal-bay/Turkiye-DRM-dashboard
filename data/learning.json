@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T06:35:15.183462+00:00",
+  "last_updated": "2026-05-06T07:17:13.619285+00:00",
   "count": 62,
   "items": [
     {
@@ -270,16 +270,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
+      "link": "https://www.undrr.org/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Jan-Mar 2026)",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-jan-mar",
       "type": "learning",
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "Strengthening the disaster resilience of SMEs in Barcelona: landscape assessment study",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-barcelona-landscape",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Twenty-third session of the Africa Working Group for Disaster Risk Reduction",
-      "link": "https://www.undrr.org/publication/documents-and-publications/twenty-third-session-africa-working-group-disaster-risk",
       "type": "learning",
       "description": ""
     }
