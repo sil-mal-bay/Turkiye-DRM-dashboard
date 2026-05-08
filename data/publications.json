@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T07:26:43.873130+00:00",
+  "last_updated": "2026-05-08T06:17:46.019454+00:00",
   "count": 18,
   "publications": [
     {
@@ -8,6 +8,30 @@
       "description": "The UNDRR Annual Report 2025 presents several important achievements that UNDRR marked in the year 2025",
       "date": "2026-05-06T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-annual-report-2025",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Australian Journal of Emergency Management (Vol. 41, No. 1, January 2026)",
+      "description": "This issue celebrates the 40 years of publication of the Australian Journal of Emergency Management (AJEM).",
+      "date": "2026-05-06T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/australian-journal-emergency-management-vol-41-no-1-january",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Australian Journal of Emergency Management (Vol. 41, No. 2, April 2026)",
+      "description": "This issue provides a historical and critical overview of the development of emergency management in Australia from the 1970s to the present.",
+      "date": "2026-05-06T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/australian-journal-emergency-management-vol-41-no-2-april",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Climate health implementation manual",
+      "description": "The climate health implementation manual is a guide that helps project teams, government counterparts, and development partners integrate climate considerations into health systems, not as an add-on, but as a core component of health systems strengthening",
+      "date": "2026-05-06T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/climate-health-implementation-manual",
       "type": "report"
     },
     {
@@ -64,30 +88,6 @@
       "description": "UNDRR's Regional Office for Africa has published its first quarterly newsletter of 2026, detailing the major achievements of the work being done by the organisation.",
       "date": "2026-04-30T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-jan-mar",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Weather shocks and unintended fertility in Sub-Saharan Africa",
-      "description": "This paper examines the effects of drought shocks on unintended pregnancies across 18 countries in Sub-Saharan Africa.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/weather-shocks-and-unintended-fertility-sub-saharan-africa",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "CHIM intervention guidance: Low carbon climate resilient waste management",
-      "description": "This guide shows how low- and middle-income countries (LMICs) can integrate low carbon and climate resilient principles into health care waste management in a phased, practical way.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/chim-intervention-guidance-low-carbon-climate-resilient",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Detouring: A theory of fun in disaster preparedness",
-      "description": "Drawing on ethnographic fieldwork in Japan (and partially Chile) since 2016, this article argues that disaster preparedness education is increasingly delivered through playful, fun activities.",
-      "date": "2026-04-30T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/detouring-theory-fun-disaster-preparedness",
       "type": "report"
     },
     {
