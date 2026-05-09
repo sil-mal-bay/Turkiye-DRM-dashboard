@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T06:16:50.673933+00:00",
-  "count": 21,
+  "last_updated": "2026-05-09T06:33:02.278256+00:00",
+  "count": 18,
   "largest": {
     "source": "USGS",
     "magnitude": 4.4,
@@ -147,11 +147,11 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
-      "place": "CALDERE-KEMALIYE (ERZINCAN) İlksel",
-      "time": "2026-05-03T07:32:04+00:00",
-      "latitude": 39.3582,
-      "longitude": 38.5362,
-      "depth_km": 5.0,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-05-08T17:11:27+00:00",
+      "latitude": 34.6213,
+      "longitude": 32.3768,
+      "depth_km": 4.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -196,42 +196,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "IGDELI-ZARA (SIVAS) İlksel",
-      "time": "2026-05-02T23:05:04+00:00",
-      "latitude": 39.5158,
-      "longitude": 37.5437,
-      "depth_km": 2.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "FINDIKKOY-DOGANSEHIR (MALATYA) İlksel",
       "time": "2026-05-07T00:35:24+00:00",
       "latitude": 38.1075,
       "longitude": 37.7848,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-05-03T19:37:31+00:00",
-      "latitude": 35.9362,
-      "longitude": 29.8232,
-      "depth_km": 13.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "AKTAS-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-05-03T04:10:32+00:00",
-      "latitude": 39.1793,
-      "longitude": 28.2108,
-      "depth_km": 15.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

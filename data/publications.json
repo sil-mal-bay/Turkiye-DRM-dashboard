@@ -1,7 +1,71 @@
 {
-  "last_updated": "2026-05-08T06:17:46.019454+00:00",
+  "last_updated": "2026-05-09T06:34:05.707253+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Disaster risk planning in an evolving risk landscape: Barriers and enablers in the integration of land use and preparedness actors",
+      "description": "This study explored barriers and enablers in collaborative planning within an evolving risk landscape. The research question was explored through a limited exploratory scoping study of peer-reviewed literature and a survey targeting relevant actors.",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-planning-evolving-risk-landscape-barriers-and",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Emergency preparedness, disaster displacement and climate migration",
+      "description": "This brief explores how emergency preparedness shapes climate-related displacement and migration. As climate hazards intensify, preparedness determines whether movement is chaotic or safe and planned.",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/emergency-preparedness-disaster-displacement-and-climate",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Towards science-based climate policy in Kerala: Integrating adaptation and mitigation for a climate-resilient future",
+      "description": "This article examines the urgent need for science-based climate policy in Kerala, India, where increasing heat stress, extreme rainfall, floods, landslides and droughts are intensifying climate risks.",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/towards-science-based-climate-policy-kerala-integrating",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Engaging communities in climate vulnerability assessment: lessons from Southern Africa",
+      "description": "This study shares lessons from implementing community-level participatory climate vulnerability assessments processes in nearly 100 communities in Mozambique, Zambia, and Zimbabwe from 2024 to 2025.",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/engaging-communities-climate-vulnerability-assessment",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Preparatory phase of large earthquakes illuminated by unsupervised categorization of earthquake catalog features",
+      "description": "This study introduces an unsupervised machine learning framework to categorize seismicity patterns and identify, when present, seismicity transients preceding large earthquakes.",
+      "date": "2026-05-07T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/preparatory-phase-large-earthquakes-illuminated-unsupervised",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "The Gambia country climate and development report",
+      "description": "This Country Climate and Development Report (CCDR) demonstrates that climate-informed development is essential to sustaining growth and protecting national assets.",
+      "date": "2026-05-07T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/gambia-country-climate-and-development-report",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Targeting green space accessibility gaps to mitigate urban heat island risk in rapidly urbanizing megacities",
+      "description": "This study integrates urban heat island (UHI) risk assessment with green space accessibility analysis to locate mismatches between heat risk mitigation need and green provision, and identifies the most vulnerable populations.",
+      "date": "2026-05-07T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/targeting-green-space-accessibility-gaps-mitigate-urban-heat",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Seasonal predictions and their applications in the Mediterranean Region: Part I—sources of predictability and prediction skill",
+      "description": "The main objective of this paper is to review and discuss the current understanding of climate variability and sources of predictability in the Mediterranean basin and surrounding areas.",
+      "date": "2026-05-07T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/seasonal-predictions-and-their-applications-mediterranean-0",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "UNDRR Annual Report 2025",
@@ -11,75 +75,11 @@
       "type": "report"
     },
     {
-      "source": "PreventionWeb",
-      "title": "Australian Journal of Emergency Management (Vol. 41, No. 1, January 2026)",
-      "description": "This issue celebrates the 40 years of publication of the Australian Journal of Emergency Management (AJEM).",
-      "date": "2026-05-06T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/australian-journal-emergency-management-vol-41-no-1-january",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Australian Journal of Emergency Management (Vol. 41, No. 2, April 2026)",
-      "description": "This issue provides a historical and critical overview of the development of emergency management in Australia from the 1970s to the present.",
-      "date": "2026-05-06T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/australian-journal-emergency-management-vol-41-no-2-april",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Climate health implementation manual",
-      "description": "The climate health implementation manual is a guide that helps project teams, government counterparts, and development partners integrate climate considerations into health systems, not as an add-on, but as a core component of health systems strengthening",
-      "date": "2026-05-06T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/climate-health-implementation-manual",
-      "type": "report"
-    },
-    {
       "source": "UNDRR",
       "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
       "description": "This expert report examines how digital infrastructure, now central to essential services such as healthcare, finance, and emergency response, is creating new forms of systemic risk through increasing interdependence.",
       "date": "2026-05-05T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Identifying Natech vulnerability based on the Istanbul earthquake scenario at the neighborhood level",
-      "description": "This study presents neighborhood-level assessment of potential Natech risks in Istanbul specifically under the scenario of the probable earthquake, analyzing the spatial intersection of structural vulnerability and hazardous industrial/economic activities",
-      "date": "2026-05-05T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/identifying-natech-vulnerability-based-istanbul-earthquake",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Building-scale flood hazard modelling for risk assessment of cultural heritage",
-      "description": "The present study aims to improve the representation of floodhazard inside CH buildings, whose architectural complexity,such as intricate planimetric & altimetric layouts, often limits the reliability of micro-scale models for exposure and riskassessment.",
-      "date": "2026-05-05T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/building-scale-flood-hazard-modelling-risk-assessment",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
-      "description": "This expert report examines how digital infrastructure, now central to essential services such as healthcare, finance, and emergency response, is creating new forms of systemic risk through increasing interdependence.",
-      "date": "2026-05-05T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Stories of resilience: lessons from local adaptation practice",
-      "description": "This report brings together a set of grounded, practice-based insights on how adaptation can be more effective when it is led from the local level.",
-      "date": "2026-05-04T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/stories-resilience-lessons-local-adaptation-practice",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Adaptation insights – Climate-resilient health systems for sustained value chains, healthcare access and services",
-      "description": "This edition of the adaptation insights series addresses the specific question of how health systems can be made climate resilient in order to sustain value chains, healthcare services, and access to healthcare.",
-      "date": "2026-05-04T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/adaptation-insights-climate-resilient-health-systems",
       "type": "report"
     },
     {
