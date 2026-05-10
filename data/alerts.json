@@ -1,30 +1,5 @@
 {
-  "last_updated": "2026-05-09T06:34:05.707954+00:00",
-  "count": 2,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.4 earthquake — 18 km S of Khowy, Iran",
-      "magnitude": 4.4,
-      "time": "2026-05-08T03:47:23.753000+00:00",
-      "location": "18 km S of Khowy, Iran",
-      "latitude": 38.3798,
-      "longitude": 44.9692,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw49"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — IRAN İlksel",
-      "magnitude": 4.2,
-      "time": "2026-05-08T06:47:19+00:00",
-      "location": "IRAN İlksel",
-      "latitude": 38.1475,
-      "longitude": 45.6092,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-05-10T07:13:55.548512+00:00",
+  "count": 0,
+  "alerts": []
 }

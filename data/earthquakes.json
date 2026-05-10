@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T06:33:02.278256+00:00",
-  "count": 18,
+  "last_updated": "2026-05-10T07:12:47.901291+00:00",
+  "count": 21,
   "largest": {
     "source": "USGS",
     "magnitude": 4.4,
@@ -97,6 +97,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.7,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-05-09T12:59:28+00:00",
+      "latitude": 35.9287,
+      "longitude": 30.2733,
+      "depth_km": 2.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.7,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-05-05T22:38:40+00:00",
       "latitude": 34.8812,
@@ -127,6 +137,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.4,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-05-10T07:14:38+00:00",
+      "latitude": 34.8977,
+      "longitude": 24.3585,
+      "depth_km": 8.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
       "place": "CAKALTEPE-MENDERES (IZMIR) İlksel",
       "time": "2026-05-07T08:35:31+00:00",
       "latitude": 38.0792,
@@ -152,6 +172,26 @@
       "latitude": 34.6213,
       "longitude": 32.3768,
       "depth_km": 4.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-05-10T01:50:51+00:00",
+      "latitude": 36.6073,
+      "longitude": 25.6562,
+      "depth_km": 17.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-05-09T09:08:18+00:00",
+      "latitude": 35.9128,
+      "longitude": 30.9398,
+      "depth_km": 12.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -212,16 +252,6 @@
       "latitude": 35.3687,
       "longitude": 27.4542,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS) İlksel",
-      "time": "2026-05-03T23:57:39+00:00",
-      "latitude": 37.4737,
-      "longitude": 37.1837,
-      "depth_km": 4.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

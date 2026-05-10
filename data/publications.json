@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-09T06:34:05.707253+00:00",
+  "last_updated": "2026-05-10T07:13:55.547827+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Reinterpreting disasters and urban resilience in the Anthropocene: Disaster management or transforming with disasters?",
+      "description": "This study aims to reinterpret disasters from the perspective of Anthropocene and discuss its implications for disaster policies.",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/reinterpreting-disasters-and-urban-resilience-anthropocene",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Sint Maarten national climate change adaptation report",
+      "description": "This National Climate Change Adaptation (NCCA) Report serves as the bridge between recognizing those vulnerabilities and enforcing resilience.",
+      "date": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/sint-maarten-national-climate-change-adaptation-report",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Disaster risk planning in an evolving risk landscape: Barriers and enablers in the integration of land use and preparedness actors",
@@ -48,22 +64,6 @@
       "description": "This Country Climate and Development Report (CCDR) demonstrates that climate-informed development is essential to sustaining growth and protecting national assets.",
       "date": "2026-05-07T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/gambia-country-climate-and-development-report",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Targeting green space accessibility gaps to mitigate urban heat island risk in rapidly urbanizing megacities",
-      "description": "This study integrates urban heat island (UHI) risk assessment with green space accessibility analysis to locate mismatches between heat risk mitigation need and green provision, and identifies the most vulnerable populations.",
-      "date": "2026-05-07T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/targeting-green-space-accessibility-gaps-mitigate-urban-heat",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Seasonal predictions and their applications in the Mediterranean Region: Part I—sources of predictability and prediction skill",
-      "description": "The main objective of this paper is to review and discuss the current understanding of climate variability and sources of predictability in the Mediterranean basin and surrounding areas.",
-      "date": "2026-05-07T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/seasonal-predictions-and-their-applications-mediterranean-0",
       "type": "report"
     },
     {
