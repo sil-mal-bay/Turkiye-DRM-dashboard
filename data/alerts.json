@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-05-10T07:13:55.548512+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-05-11T08:03:04.779256+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — 22 km W of Kéfalos, Greece",
+      "magnitude": 4.7,
+      "time": "2026-05-10T20:29:54.713000+00:00",
+      "location": "22 km W of Kéfalos, Greece",
+      "latitude": 36.7079,
+      "longitude": 26.7078,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swsg"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.2 earthquake — EGE DENIZI İlksel",
+      "magnitude": 4.2,
+      "time": "2026-05-10T23:29:54+00:00",
+      "location": "EGE DENIZI İlksel",
+      "latitude": 36.6758,
+      "longitude": 26.6988,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
