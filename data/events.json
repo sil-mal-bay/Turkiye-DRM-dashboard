@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-05-11T08:02:41.082792+00:00",
-  "count": 5,
+  "last_updated": "2026-05-12T07:24:26.211994+00:00",
+  "count": 3,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Online workshop on strengthening whole-of-society capacities for disaster risk reduction and climate resilience: Inclusive governance and innovative mechanisms",
-      "date": "2026-05-12T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/online-workshop-strengthening-whole-society-capacities-disaster-risk-reduction-and-climate",
-      "location": null,
-      "type": "workshop"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Strengthening disaster tracking systems through DELTA Resilience   (Global in-person training of trainers)",
-      "date": "2026-05-12T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/strengthening-disaster-tracking-systems-through-delta-resilience-global-person-training",
-      "location": null,
-      "type": "training"
-    },
     {
       "source": "UNDRR",
       "title": "Advancing Heat Risk Governance and Action: Responding to the UN Secretary-General’s Call to Action on Extreme Heat",

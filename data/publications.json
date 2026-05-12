@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-11T08:03:04.778478+00:00",
+  "last_updated": "2026-05-12T07:24:49.839633+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Thirty years of earthquake retrofit in the city of Los Angeles: Trends, drivers, and implications for seismic resilience",
+      "description": "This study examines three decades of seismic retrofit activity in the City of Los Angeles to assess how the implementation has varied across space, time, and socially vulnerable communities.",
+      "date": "2026-05-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/thirty-years-earthquake-retrofit-city-los-angeles-trends",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Ecuador | Volcanic Ash: Early Action Protocol Annual Report (EAP2023EC03| MDREC024)",
+      "description": "This report summarizes the annual readiness and prepositioning activities implemented during year two (2025), covering the period from 02 January 2025 to 31 December 2025.",
+      "date": "2026-05-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/ecuador-volcanic-ash-early-action-protocol-annual-report",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Reinterpreting disasters and urban resilience in the Anthropocene: Disaster management or transforming with disasters?",
@@ -48,22 +64,6 @@
       "description": "This study shares lessons from implementing community-level participatory climate vulnerability assessments processes in nearly 100 communities in Mozambique, Zambia, and Zimbabwe from 2024 to 2025.",
       "date": "2026-05-08T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/engaging-communities-climate-vulnerability-assessment",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Preparatory phase of large earthquakes illuminated by unsupervised categorization of earthquake catalog features",
-      "description": "This study introduces an unsupervised machine learning framework to categorize seismicity patterns and identify, when present, seismicity transients preceding large earthquakes.",
-      "date": "2026-05-07T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/preparatory-phase-large-earthquakes-illuminated-unsupervised",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "The Gambia country climate and development report",
-      "description": "This Country Climate and Development Report (CCDR) demonstrates that climate-informed development is essential to sustaining growth and protecting national assets.",
-      "date": "2026-05-07T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/gambia-country-climate-and-development-report",
       "type": "report"
     },
     {
