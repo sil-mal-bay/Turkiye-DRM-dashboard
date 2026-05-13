@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-12T07:24:49.839633+00:00",
+  "last_updated": "2026-05-13T07:38:31.673537+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "A catalogue of nature‑based solutions for coastal resilience",
+      "description": "The Coastal Catalogue is designed to support the identification of investment opportunities and the integration of NBS into coastal risk management and planning processes.",
+      "date": "2026-05-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/catalogue-nature-based-solutions-coastal-resilience-0",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Assessing El Niño definitions and early warning alerts across Australia, Peru, and the U.S.: implications for disaster risk reduction and climate justice",
+      "description": "This study examined how three Pacific Rim countries issued early warning alerts associated with El Niño, the warm phase of the climate cycle, El Niño-Southern Oscillation (ENSO).",
+      "date": "2026-05-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/assessing-el-nino-definitions-and-early-warning-alerts",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Thirty years of earthquake retrofit in the city of Los Angeles: Trends, drivers, and implications for seismic resilience",
@@ -48,22 +64,6 @@
       "description": "This brief explores how emergency preparedness shapes climate-related displacement and migration. As climate hazards intensify, preparedness determines whether movement is chaotic or safe and planned.",
       "date": "2026-05-08T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/emergency-preparedness-disaster-displacement-and-climate",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Towards science-based climate policy in Kerala: Integrating adaptation and mitigation for a climate-resilient future",
-      "description": "This article examines the urgent need for science-based climate policy in Kerala, India, where increasing heat stress, extreme rainfall, floods, landslides and droughts are intensifying climate risks.",
-      "date": "2026-05-08T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/towards-science-based-climate-policy-kerala-integrating",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Engaging communities in climate vulnerability assessment: lessons from Southern Africa",
-      "description": "This study shares lessons from implementing community-level participatory climate vulnerability assessments processes in nearly 100 communities in Mozambique, Zambia, and Zimbabwe from 2024 to 2025.",
-      "date": "2026-05-08T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/engaging-communities-climate-vulnerability-assessment",
       "type": "report"
     },
     {

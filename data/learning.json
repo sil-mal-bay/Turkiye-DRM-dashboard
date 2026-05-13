@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T07:24:27.535682+00:00",
+  "last_updated": "2026-05-13T07:38:08.656955+00:00",
   "count": 62,
   "items": [
     {
@@ -284,6 +284,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "Making Spatial Planning Work: Lessons from Colombia",
+      "link": "https://openknowledge.worldbank.org/entities/publication/fdfe857f-d183-4600-a1ee-2fcdafedb8f6",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "A Catalogue of Nature‑Based Solutions for Coastal Resilience",
       "link": "https://openknowledge.worldbank.org/entities/publication/888fbe94-8be8-4838-9dbd-4093430f04df",
       "type": "report",
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "Towards an Integrated Wildfire Risk Management in Iceland - Diagnostic and Recommendations",
       "link": "https://documents1.worldbank.org/curated/en/099122325103025733/pdf/P178843-a12c31f6-8ab3-47e0-afc0-7bfcddbf5bcd.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Handbook for Livable and Resilient Cities",
-      "link": "https://openknowledge.worldbank.org/entities/publication/d7ee1212-42ed-4d8a-9ffa-225152ee65df",
       "type": "report",
       "description": ""
     },
