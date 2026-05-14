@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-13T07:37:42.407101+00:00",
-  "count": 9,
+  "last_updated": "2026-05-14T07:32:02.879138+00:00",
+  "count": 10,
   "articles": [
+    {
+      "source": "dailysabah",
+      "title": "Türkiye presents post-quake reconstruction model to COP31 guests",
+      "original_title": null,
+      "description": "Türkiye presented its post-earthquake reconstruction efforts in Hatay in southern Türkiye to international officials and foreign media representatives as part of preparations for t...",
+      "published": "2026-05-13T11:19:00+00:00",
+      "link": "https://www.dailysabah.com/turkiye/turkiye-presents-post-quake-reconstruction-model-to-cop31-guests/news",
+      "score": 173.0,
+      "world_bank_related": false,
+      "turkey_related": true,
+      "credibility_score": 80,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Partnerships & Stakeholders: Science and Technology Community",

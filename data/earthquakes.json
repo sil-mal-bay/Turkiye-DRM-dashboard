@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T07:37:32.367723+00:00",
-  "count": 16,
+  "last_updated": "2026-05-14T07:30:01.050527+00:00",
+  "count": 15,
   "largest": {
     "source": "USGS",
     "magnitude": 4.7,
@@ -41,16 +41,6 @@
       "longitude": 26.6988,
       "depth_km": 153.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.2,
-      "place": "IRAN İlksel",
-      "time": "2026-05-08T06:47:19+00:00",
-      "latitude": 38.1475,
-      "longitude": 45.6092,
-      "depth_km": 5.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -82,16 +72,6 @@
       "latitude": 36.6758,
       "longitude": 26.6988,
       "depth_km": 153.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.2,
-      "place": "IRAN İlksel",
-      "time": "2026-05-08T06:47:19+00:00",
-      "latitude": 38.1475,
-      "longitude": 45.6092,
-      "depth_km": 5.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -177,6 +157,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-05-14T08:21:32+00:00",
+      "latitude": 40.2262,
+      "longitude": 24.7592,
+      "depth_km": 12.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "KOPRUBASI OMEREFENDI-(DUZCE) İlksel",
       "time": "2026-05-10T22:48:20+00:00",
       "latitude": 40.8072,
@@ -202,16 +192,6 @@
       "latitude": 35.2513,
       "longitude": 32.0088,
       "depth_km": 24.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-05-08T04:24:54+00:00",
-      "latitude": 35.3687,
-      "longitude": 27.4542,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
