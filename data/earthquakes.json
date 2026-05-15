@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T07:30:01.050527+00:00",
+  "last_updated": "2026-05-15T07:41:41.219363+00:00",
   "count": 15,
   "largest": {
     "source": "USGS",
@@ -23,16 +23,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swsg"
     },
     {
-      "source": "USGS",
-      "magnitude": 4.4,
-      "place": "18 km S of Khowy, Iran",
-      "time": "2026-05-08T03:47:23.753000+00:00",
-      "latitude": 38.3798,
-      "longitude": 44.9692,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw49"
-    },
-    {
       "source": "Kandilli",
       "magnitude": 4.2,
       "place": "EGE DENIZI İlksel",
@@ -53,16 +43,6 @@
       "longitude": 26.7078,
       "depth_km": 158.504,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swsg"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.4,
-      "place": "18 km S of Khowy, Iran",
-      "time": "2026-05-08T03:47:23.753000+00:00",
-      "latitude": 38.3798,
-      "longitude": 44.9692,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw49"
     },
     {
       "source": "Kandilli",
@@ -116,16 +96,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-05-08T17:11:27+00:00",
-      "latitude": 34.6213,
-      "longitude": 32.3768,
-      "depth_km": 4.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "KALEKOY-GOKCEADA (CANAKKALE) İlksel",
       "time": "2026-05-10T19:05:02+00:00",
@@ -146,12 +116,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-05-09T09:08:18+00:00",
-      "latitude": 35.9128,
-      "longitude": 30.9398,
-      "depth_km": 12.8,
+      "magnitude": 3.1,
+      "place": "TURKIYE-IRAN SINIR BOLGESI İlksel",
+      "time": "2026-05-14T18:36:33+00:00",
+      "latitude": 38.6215,
+      "longitude": 44.7078,
+      "depth_km": 3.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -172,6 +142,26 @@
       "latitude": 40.8072,
       "longitude": 31.0465,
       "depth_km": 4.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "BAYRAKLI-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-05-14T19:35:28+00:00",
+      "latitude": 39.181,
+      "longitude": 28.2253,
+      "depth_km": 4.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "FINIKE ACIKLARI-ANTALYA (AKDENIZ) İlksel",
+      "time": "2026-05-14T13:49:05+00:00",
+      "latitude": 36.0875,
+      "longitude": 30.2527,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
