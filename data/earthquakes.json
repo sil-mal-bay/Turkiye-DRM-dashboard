@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T07:41:41.219363+00:00",
+  "last_updated": "2026-05-16T06:39:54.383634+00:00",
   "count": 15,
   "largest": {
     "source": "USGS",
@@ -56,16 +56,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-05-09T12:59:28+00:00",
-      "latitude": 35.9287,
-      "longitude": 30.2733,
-      "depth_km": 2.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.5,
       "place": "ULUPINAR-YAHYALI (KAYSERI) İlksel",
       "time": "2026-05-10T16:59:40+00:00",
@@ -87,10 +77,30 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-05-16T04:21:35+00:00",
+      "latitude": 34.8372,
+      "longitude": 25.9685,
+      "depth_km": 7.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "SEYITUSAGI-YESILYURT (MALATYA) İlksel",
       "time": "2026-05-10T23:28:45+00:00",
       "latitude": 38.2427,
       "longitude": 38.151,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-05-15T19:11:18+00:00",
+      "latitude": 34.8748,
+      "longitude": 26.0465,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
@@ -102,16 +112,6 @@
       "latitude": 40.3605,
       "longitude": 25.8052,
       "depth_km": 7.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-05-10T01:50:51+00:00",
-      "latitude": 36.6073,
-      "longitude": 25.6562,
-      "depth_km": 17.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

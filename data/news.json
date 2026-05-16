@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T07:41:47.421572+00:00",
+  "last_updated": "2026-05-16T06:40:00.470934+00:00",
   "count": 11,
   "articles": [
     {
@@ -17,29 +17,29 @@
     },
     {
       "source": "undrr",
+      "title": "Advancing gender and disability inclusive risk knowledge in Burundi",
+      "original_title": null,
+      "description": "To address Burundi's challenge of insufficient disaster data on gender, and disability in relation to vulnerability and exposure, UNDRR gave support to improve SFM reporting, and to enhance the use of inclusive risk knowledge in early warning systems.",
+      "published": "2026-05-15T11:05:28+00:00",
+      "link": "https://www.undrr.org/news/advancing-gender-and-disability-inclusive-risk-knowledge-burundi",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
       "title": "Oman advances disaster risk reduction and climate action planning through national workshop",
       "original_title": null,
       "description": "The Sultanate of Oman gathered governmental and non-governmental representative, and technical experts at a national workshop focused on strengthening disaster risk reduction (DRR) and climate action planning.",
       "published": "2026-05-14T20:46:53+00:00",
       "link": "https://www.undrr.org/news/oman-advances-disaster-risk-reduction-and-climate-action-planning-through-national-workshop",
-      "score": 96.5,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 100
-    },
-    {
-      "source": "reliefweb",
-      "title": "Egypt: Al Murunah: Building Climate Resilience from the Ground Up with Scalable, Resilient Nature-Based Water Solutions Pilot Projects in the MENA Region",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Countries: Egypt, Jordan, Lebanon, occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: International Water Management Institute</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/36/81/36818d3c-840b-4f00-9ffb-6433de4ddb20.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <h2>Authors</h2>\n<p><a href=\"https://cgspace.cgiar.org/browse/author?startsWith=Palay,%20Isis\" rel=\"noreferrer noopener\" target=\"_blank\">Palay, Isis</a></p>\n<p><a href=\"https://cgspace.cgiar.org/browse/author?startsWith=Fragaszy,%20Stephen\" rel=\"noreferrer noopener\" target=\"_blank\">Fragaszy, Stephen</a></p>\n<p><a href=\"https://cgspace.cgiar.org/browse/author?startsWith=Stifel,%20Elizabeth\" rel=\"noreferrer noopener\" target=\"_blank\">Stifel, Elizabeth</a></p>\n<p><a href=\"https://cgspace.cgiar.org/browse/author?startsWith=Abeyrathna,%20Wasudha%20Prabodhani\" rel=\"noreferrer noopener\" target=\"_blank\">Abeyrathna, Wasudha Prabodhani</a></p>\n<p><a href=\"https://cgspace.cgiar.org/browse/author?startsWith=Gharaibeh,%20Sawsan\" rel=\"noreferrer noopener\" target=\"_blank\">Gharaibeh, Sawsan</a></p>\n<h2>Abstract/Description</h2>\n<p>This thematic brief explores how the Al Murunah project is implementing scalable, resilient nature-based water solutions (RNBWS) pilot projects to strengthen climate resilience and water security across fragile and climate-vulnerable settings in the Middle East and North Africa (MENA) region. Focusing on pilot sites in Egypt, Jordan, Lebanon and Palestine, Al Murunah pilots combine technical innovation, inclusive governance and community-led approaches to address water scarcity, land degradation, climate change and institutional fragility.</p>\n<p>Al Murunah pilots are designed as integrated and scalable models embedded within local institutions, households and policy systems. Through participatory planning, co-design and partnerships with communities, cooperatives, water user associations and government stakeholders, the project strengthens local ownership while supporting long-term adaptation and resilience. This brief presents Al Murunah as a proven and investable process for scaling locally led climate resilience solutions across the MENA region.</p>",
-      "published": "2026-05-15T04:12:48+00:00",
-      "link": "https://reliefweb.int/report/egypt/al-murunah-building-climate-resilience-ground-scalable-resilient-nature-based-water-solutions-pilot-projects-mena-region",
-      "score": 87.75,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
+      "recency_score": 75
     },
     {
       "source": "undrr",
