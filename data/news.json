@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T07:22:29.447168+00:00",
-  "count": 12,
+  "last_updated": "2026-05-18T08:32:11.724894+00:00",
+  "count": 11,
   "articles": [
     {
       "source": "undrr",
@@ -22,24 +22,11 @@
       "description": "To address Burundi's challenge of insufficient disaster data on gender, and disability in relation to vulnerability and exposure, UNDRR gave support to improve SFM reporting, and to enhance the use of inclusive risk knowledge in early warning systems.",
       "published": "2026-05-15T11:05:28+00:00",
       "link": "https://www.undrr.org/news/advancing-gender-and-disability-inclusive-risk-knowledge-burundi",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
-    },
-    {
-      "source": "reliefweb",
-      "title": "WFP El Salvador April 2026 Country Brief",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Country: El Salvador</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d6/09/d6096807-db8b-4a16-915c-650cc2e9a9e7.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• Anticipating El Niño impacts, WFP is working closely with government and partners to protect rural livelihoods, as erratic rainfall and the potential for drought threaten crop production, incomes, and food access by mid-year.</p>\n<p>• In line with the Government’s priority to advance education outcomes and child nutrition, WFP works closely with the Ministry of Education and key partners to strengthen and further develop the national School Feeding Programme.</p>\n<p>• Predictable, flexible contributions help WFP stay ahead of shocks and prevent harmful coping strategies.</p>",
-      "published": "2026-05-15T13:26:47+00:00",
-      "link": "https://reliefweb.int/report/el-salvador/wfp-el-salvador-april-2026-country-brief",
-      "score": 71.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -48,11 +35,11 @@
       "description": "The Sultanate of Oman gathered governmental and non-governmental representative, and technical experts at a national workshop focused on strengthening disaster risk reduction (DRR) and climate action planning.",
       "published": "2026-05-14T20:46:53+00:00",
       "link": "https://www.undrr.org/news/oman-advances-disaster-risk-reduction-and-climate-action-planning-through-national-workshop",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
