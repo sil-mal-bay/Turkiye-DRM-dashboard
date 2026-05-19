@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-18T08:33:02.151043+00:00",
+  "last_updated": "2026-05-19T08:02:31.723067+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Women’s empowerment and climate resilience: global evidence",
+      "description": "This study investigates whether empowering women can reduce climate vulnerability, and enhance nations’ resilience, readiness and adaptability to climate change.",
+      "date": "2026-05-18T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/womens-empowerment-and-climate-resilience-global-evidence",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "One-fifth of the world’s population is at high risk of climate-related hazards",
+      "description": "This paper estimates the global population at high risk of climate-related hazards by combining household-level vulnerability data with local exposure to four types of events: agricultural droughts in rural areas, floods, heatwaves, and cyclones.",
+      "date": "2026-05-18T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/one-fifth-worlds-population-high-risk-climate-related",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Towards anticipatory disaster risk financing and index insurance mechanisms for resilience building in Eastern Africa",
@@ -48,22 +64,6 @@
       "description": "This literature review focuses on the economic quantifications of the mental health consequences of disasters and how these mental health impacts can shape people’s economic trajectories.",
       "date": "2026-05-15T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/how-much-do-we-know-about-mental-health-economic-costs",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Under strain- international insights into electricity grid outages",
-      "description": "As climate change accelerates, the resilience of electricity infrastructure is emerging as a critical challenge for countries worldwide.",
-      "date": "2026-05-15T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/under-strain-international-insights-electricity-grid-outages",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Assessment of land subsidence and future flood hazards for coastal cities of the Gulf of Mexico using time series InSAR",
-      "description": "As sea levels rise and urban land continues to sink, coastal cities along the Gulf of Mexico face a compounding flood threat that demands urgent, data-driven action.",
-      "date": "2026-05-15T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/assessment-land-subsidence-and-future-flood-hazards-coastal",
       "type": "report"
     },
     {
