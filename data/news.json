@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T08:01:42.402401+00:00",
-  "count": 12,
+  "last_updated": "2026-05-20T08:01:14.195983+00:00",
+  "count": 9,
   "articles": [
     {
       "source": "undrr",
@@ -22,11 +22,11 @@
       "description": "The nominations for the 2026 Women’s International Network for Disaster Risk Reduction (WIN DRR) Leadership Awards are now open.",
       "published": "2026-05-18T10:23:23+00:00",
       "link": "https://www.undrr.org/news/nominations-now-open-2026-win-drr-leadership-awards",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +35,11 @@
       "description": "To address Burundi's challenge of insufficient disaster data on gender, and disability in relation to vulnerability and exposure, UNDRR gave support to improve SFM reporting, and to enhance the use of inclusive risk knowledge in early warning systems.",
       "published": "2026-05-15T11:05:28+00:00",
       "link": "https://www.undrr.org/news/advancing-gender-and-disability-inclusive-risk-knowledge-burundi",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -48,11 +48,11 @@
       "description": "UNDRR &amp; ARISE Japan joint symposium 2026 \"Strengthening disaster risk reduction by advancing investment in resilience and translating science into Practical Action” as held in Tokyo with the presence of Mr. Kishore, Head of UNDRR, on 10 March 2026.",
       "published": "2026-05-15T10:20:39+00:00",
       "link": "https://www.undrr.org/news/undrr-arise-japan-joint-symposium-2026-showcases-how-japanese-private-sector-and",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +61,11 @@
       "description": "The Sultanate of Oman gathered governmental and non-governmental representative, and technical experts at a national workshop focused on strengthening disaster risk reduction (DRR) and climate action planning.",
       "published": "2026-05-14T20:46:53+00:00",
       "link": "https://www.undrr.org/news/oman-advances-disaster-risk-reduction-and-climate-action-planning-through-national-workshop",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -113,45 +113,6 @@
       "description": "As global challenges grow in complexity and uncertainty, a coordinated, multilevel approach to international cooperation is essential to support cities and municipalities in addressing systemic risks that cross geographic and sectoral boundaries.",
       "published": "2026-05-06T21:33:39+00:00",
       "link": "https://www.undrr.org/news/accelerating-local-disaster-risk-reduction-caribbean-through-work-making-cities-resilient-2030",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Sendai Framework Focal Points and National Platforms",
-      "original_title": null,
-      "description": "By ensuring effective coordination of disaster risk reduction at national level, National Platforms play an instrumental role in ensuring an all-of-government and all-of-society approach to reducing risk and building resilience. These efforts are intimately tied to the coordination efforts at local level (ex. Local platforms), as well as supranational level.",
-      "published": "2026-05-06T07:34:46+00:00",
-      "link": "https://www.undrr.org/implementing-sendai-framework/sendai-focal-points-and-national-platforms",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Caribbean regional workshop on DELTA Resilience System and the Sendai Framework Monitor",
-      "original_title": null,
-      "description": "To support countries in this endeavor, the United Nations Office for Disaster Risk Reduction (UNDRR), in collaboration with partners, has developed the Disaster &amp; Hazardous Events, Losses and Damages Tracking &amp; Analysis (DELTA Resilience) system.",
-      "published": "2026-05-05T19:57:46+00:00",
-      "link": "https://www.undrr.org/event/caribbean-regional-workshop-delta-resilience-system-and-sendai-framework-monitor",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "UNDRR 2025 Annual Report",
-      "original_title": null,
-      "description": "In 2025, we marked the 10-year anniversary of the Sendai Framework for Disaster Risk Reduction and its goal of significantly reducing disaster risk and losses by 2030. This report captures the progress, partnerships, and impact of UNDRR's work throughout the year.",
-      "published": "2026-05-05T10:11:56+00:00",
-      "link": "https://www.undrr.org/annual-report/2025",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
