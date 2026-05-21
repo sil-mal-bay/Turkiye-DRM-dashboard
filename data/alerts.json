@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T08:02:05.624452+00:00",
+  "last_updated": "2026-05-21T08:09:45.375362+00:00",
   "count": 2,
   "alerts": [
     {
@@ -17,12 +17,12 @@
     {
       "type": "earthquake",
       "severity": "high",
-      "title": "M5.6 earthquake — GULUMUSAGI-(MALATYA) İlksel",
+      "title": "M5.6 earthquake — TANISIK-(MALATYA) REVIZE01 (2026.05.20 09:00:15",
       "magnitude": 5.6,
       "time": "2026-05-20T09:00:15+00:00",
-      "location": "GULUMUSAGI-(MALATYA) İlksel",
-      "latitude": 38.2288,
-      "longitude": 38.547,
+      "location": "TANISIK-(MALATYA) REVIZE01 (2026.05.20 09:00:15",
+      "latitude": 38.2678,
+      "longitude": 38.589,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
