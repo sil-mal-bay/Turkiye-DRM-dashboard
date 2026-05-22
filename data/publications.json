@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-05-21T08:09:45.374564+00:00",
+  "last_updated": "2026-05-22T07:59:55.316248+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Quantifying uncertainty in climate change impacts: A Bayesian approach for the Cagayan river basin",
+      "description": "This study develops a probabilistic flood-impact assessment for the Cagayan river basin (northern Luzon, Philippines) by linking Bayesian extreme-value inference with uncertainty propagation along the rainfall–flood–damage chain.",
+      "date": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/quantifying-uncertainty-climate-change-impacts-bayesian",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Ready of not? Hurricane preparedness, response, and recovery of farms, forests, and rural communities in the U.S. Caribbean",
+      "description": "This study highlights that forest owners, and rural communities in the Caribbean are among the groups most vulnerable to hurricanes and other extreme climate events.",
+      "date": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/ready-not-hurricane-preparedness-response-and-recovery-farms",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Radiotherapy continuity for cancer treatment: Lessons learned from natural disasters",
+      "description": "This study examines the impact of natural disasters on the continuity of radiotherapy services, a critical component of cancer treatment responsible for managing one of the world's leading causes of death.",
+      "date": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/radiotherapy-continuity-cancer-treatment-lessons-learned",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Characterizing changes in postfire debris-flow hazard as burned areas recover",
+      "description": "Updating post-fire debris-flow hazard thresholds with satellite-tracked vegetation recovery reduces false alarms and improves predictions for years 2 and 3 after a wildfire.",
+      "date": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/characterizing-changes-postfire-debris-flow-hazard-burned",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Are the poor more exposed to climate hazards in Latin America?",
+      "description": "This paper addresses two main questions. First, what proportion of people are exposed to climate hazards in Latin America and the Caribbean, especially among the poor versus the nonpoor?",
+      "date": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/are-poor-more-exposed-climate-hazards-latin-america",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Disaster risk financing: Annual report 2025",
+      "description": "The report provides deep dives into the DRF programmes in each country, as well as stories from the field, interviews with partners and insights into how WFP promotes the use of pre-arranged financing.",
+      "date": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-financing-annual-report-2025",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Strengthening the disaster resilience of SMEs in Sendai",
@@ -24,54 +72,6 @@
       "description": "ML models for hydrological forecasting, even when given perfect inputs, cannot yet match the reliability of experienced human forecasters operating real-world prediction systems.",
       "date": "2026-05-20T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/value-forecasters-loop-real-time-flood-forecasting-age",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Disaster risk financing in the Pacific: a landscape study of systems, instruments, and enabling conditions",
-      "description": "This working paper provides a comprehensive analysis of the disaster risk financing landscape across the Pacific.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-financing-pacific-landscape-study-systems",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Subsidence more than doubles sea-level rise today along densely populated coasts",
-      "description": "This study addresses the problem of low confidence in estimates of vertical land motion (VLM) and its contribution to relative sea-level (RSL) rise.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/subsidence-more-doubles-sea-level-rise-today-along-densely",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Adaptation through water: Scaling private sector finance for climate adaptation in Southeast Asia",
-      "description": "This report explores how the private sector can accelerate participation and financing for Adaptation through Water (AtW). It highlights the key enablers of bankable AtW solutions globally, including translating resilience into financial value.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/adaptation-through-water-scaling-private-sector-finance",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Climate extremes and socioeconomic impacts of extreme rainfall events in April and May 2024 in Rio Grande do Sul, Brazil",
-      "description": "This study evaluates observed changes in temperature and precipitation extremes across the state and examines the May 2024 floods as a case study of evolving risk conditions in southern Brazil.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/climate-extremes-and-socioeconomic-impacts-extreme-rainfall",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Toward enhanced coastal flooding forecasting using deterministic and probabilistic models",
-      "description": "This study focuses on the application of advanced data‐driven modeling techniques to assess and predict high‐tide flooding (HTF) risks in Oman. The research analyzes the duration, frequency, and economic impacts of HTF.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/toward-enhanced-coastal-flooding-forecasting-using",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Cybersecurity in ports: Shifting from risk to resilience",
-      "description": "This report examines the growing cybersecurity risks ports face. Drawing on a global survey of 109 port stakeholders it provides a comprehensive overview of cybersecurity policies, practices, and barriers across port ecosystems worldwide",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/cybersecurity-ports-shifting-risk-resilience",
       "type": "report"
     },
     {

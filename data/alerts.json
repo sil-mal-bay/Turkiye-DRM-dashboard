@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-05-21T08:09:45.375362+00:00",
-  "count": 2,
+  "last_updated": "2026-05-22T07:59:55.317063+00:00",
+  "count": 1,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.4 earthquake — 19 km N of Sincik, Turkey",
-      "magnitude": 5.4,
-      "time": "2026-05-20T06:00:16.653000+00:00",
-      "location": "19 km N of Sincik, Turkey",
-      "latitude": 38.2157,
-      "longitude": 38.6061,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx6"
-    },
     {
       "type": "earthquake",
       "severity": "high",

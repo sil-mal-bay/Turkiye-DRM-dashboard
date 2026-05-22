@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T08:08:56.842221+00:00",
-  "count": 9,
+  "last_updated": "2026-05-22T07:59:08.949522+00:00",
+  "count": 7,
   "articles": [
     {
       "source": "undrr",
@@ -17,16 +17,29 @@
     },
     {
       "source": "undrr",
+      "title": "Vanuatu Marks First International Day in Memory of the Victims of Earthquakes",
+      "original_title": null,
+      "description": "On 29 April 2026, Vanuatu marked its first national observance of the International Day in Memory of the Victims of Earthquakes, bringing together partners to strengthen earthquake preparedness and disaster resilience.",
+      "published": "2026-05-21T10:36:56+00:00",
+      "link": "https://www.undrr.org/news/vanuatu-marks-first-international-day-memory-victims-earthquakes",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
       "title": "Strengthening the disaster resilience of SMEs in Sendai",
       "original_title": null,
       "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
       "published": "2026-05-20T07:48:55+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "The nominations for the 2026 Women’s International Network for Disaster Risk Reduction (WIN DRR) Leadership Awards are now open.",
       "published": "2026-05-18T10:23:23+00:00",
       "link": "https://www.undrr.org/news/nominations-now-open-2026-win-drr-leadership-awards",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -74,45 +87,6 @@
       "description": "The Sultanate of Oman gathered governmental and non-governmental representative, and technical experts at a national workshop focused on strengthening disaster risk reduction (DRR) and climate action planning.",
       "published": "2026-05-14T20:46:53+00:00",
       "link": "https://www.undrr.org/news/oman-advances-disaster-risk-reduction-and-climate-action-planning-through-national-workshop",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Sudan National Platform",
-      "original_title": null,
-      "description": "The National Council for Civil Defense has been the focal point for disaster risk management in Sudan since its establishment in 1994. Its membership includes all sovereign ministries, states, and other relevant entities. The Council is chaired by the Minister of the Interior and has a General Secretariat headed by the Director of the Civil Defense Forces.",
-      "published": "2026-05-07T23:56:13+00:00",
-      "link": "https://www.undrr.org/national-platform/sudan-national-platform",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Somalia National Platform",
-      "original_title": null,
-      "description": "On 13 December 2021, the Government of Somalia launched the National Platform for Disaster Risk Reduction (NPDRR).The NPDRR in Somalia brings together various stakeholders that are responsible for facilitating disaster risk reduction efforts in the country in alignment with the Sendai Framework for Disaster Risk Reduction and in coherence with other global frameworks.",
-      "published": "2026-05-07T23:54:22+00:00",
-      "link": "https://www.undrr.org/national-platform/somalia-national-platform",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Euro-Mediterranean partners strengthen cooperation on wildfire risk management and preparedness",
-      "original_title": null,
-      "description": "Representatives from across the Euro-Mediterranean region, alongside Arab Member States convened in Paphos this week for the 3rd Euro-Mediterranean High-Level Workshop on Fire Risks",
-      "published": "2026-05-07T19:00:08+00:00",
-      "link": "https://www.undrr.org/news/euro-mediterranean-partners-strengthen-cooperation-wildfire-risk-management-and-preparedness",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
