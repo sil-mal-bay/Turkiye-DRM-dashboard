@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-05-22T07:59:55.316248+00:00",
+  "last_updated": "2026-05-23T07:17:56.238419+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Women's well-being and everyday adaptation to heat",
+      "description": "This review examines how extreme heat affects women’s well-being and highlights everyday adaptation practices across Africa, Asia and Oceania.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/womens-well-being-and-everyday-adaptation-heat",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "The increasing risk of heatwaves to vulnerable populations in eastern Australia",
+      "description": "This study investigates historical trends in heatwave characteristics across New South Wales (NSW), identifies regions with increasing exposure in recent decades, and assesses risks to vulnerable populations using a combined heatwave risk framework.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/increasing-risk-heatwaves-vulnerable-populations-eastern",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Addressing Southern Africa climate shocks: advocating for child-centred climate resilience and fiscal prioritization",
+      "description": "The report addresses the escalating climate crisis in Southern Africa, where the region has swung from severe El Niño-driven drought in 2023-2024 to devastating La Niña floods and cyclones in 2025-2026, affecting nearly 1.9 million people.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/addressing-southern-africa-climate-shocks-advocating-child",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Psychosocial adaptation as a coping strategy among older farmers facing drought in Thailand",
+      "description": "The study examines how older farmers (aged 60–69) in drought-prone areas of Buriram Province, Thailand, perceive and respond to drought risk.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/psychosocial-adaptation-coping-strategy-among-older-farmers",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "A world on the edge: priorities for a pandemic‑resilient future",
+      "description": "The 2026 GPMB report finds that as infectious disease outbreaks become more frequent they are also becoming more damaging, with widening health, economic, political and social impacts, and less capacity to recover from them.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/world-edge-priorities-pandemic-resilient-future",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Towards multimodal geospatial reasoning: a foundation model approach for disaster detection from social media, news, and weather data",
+      "description": "This publication explores how generative language models combine social media, news and weather data to detect disasters quickly and accurately, using satellite data to validate results from flood and wildfire case studies.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/towards-multimodal-geospatial-reasoning-foundation-model",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Bridging warning and adaptation addressing risk communication strategies for short-term natural hazard warnings and long-term risk adaptation – A scoping review",
+      "description": "This review analyzes peer-reviewed studies to examine how risk communication strategies vary across temporal dimensions, hazard groups and intended purpose.",
+      "date": "2026-05-22T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/bridging-warning-and-adaptation-addressing-risk",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Quantifying uncertainty in climate change impacts: A Bayesian approach for the Cagayan river basin",
@@ -11,67 +67,11 @@
       "type": "report"
     },
     {
-      "source": "PreventionWeb",
-      "title": "Ready of not? Hurricane preparedness, response, and recovery of farms, forests, and rural communities in the U.S. Caribbean",
-      "description": "This study highlights that forest owners, and rural communities in the Caribbean are among the groups most vulnerable to hurricanes and other extreme climate events.",
-      "date": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/ready-not-hurricane-preparedness-response-and-recovery-farms",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Radiotherapy continuity for cancer treatment: Lessons learned from natural disasters",
-      "description": "This study examines the impact of natural disasters on the continuity of radiotherapy services, a critical component of cancer treatment responsible for managing one of the world's leading causes of death.",
-      "date": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/radiotherapy-continuity-cancer-treatment-lessons-learned",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Characterizing changes in postfire debris-flow hazard as burned areas recover",
-      "description": "Updating post-fire debris-flow hazard thresholds with satellite-tracked vegetation recovery reduces false alarms and improves predictions for years 2 and 3 after a wildfire.",
-      "date": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/characterizing-changes-postfire-debris-flow-hazard-burned",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Are the poor more exposed to climate hazards in Latin America?",
-      "description": "This paper addresses two main questions. First, what proportion of people are exposed to climate hazards in Latin America and the Caribbean, especially among the poor versus the nonpoor?",
-      "date": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/are-poor-more-exposed-climate-hazards-latin-america",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Disaster risk financing: Annual report 2025",
-      "description": "The report provides deep dives into the DRF programmes in each country, as well as stories from the field, interviews with partners and insights into how WFP promotes the use of pre-arranged financing.",
-      "date": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-financing-annual-report-2025",
-      "type": "report"
-    },
-    {
       "source": "UNDRR",
       "title": "Strengthening the disaster resilience of SMEs in Sendai",
       "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
       "date": "2026-05-20T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Seeing the hazard: Effects of visual communication in flood warning messages",
-      "description": "The study examines how visual cues, especially maps and warning symbols, can improve flood early warning messages by helping citizens understand event magnitude, timing, impacts and recommended protective actions.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/seeing-hazard-effects-visual-communication-flood-warning",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "The value of forecasters-in-the-loop in real-time flood forecasting in the age of machine learning",
-      "description": "ML models for hydrological forecasting, even when given perfect inputs, cannot yet match the reliability of experienced human forecasters operating real-world prediction systems.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/value-forecasters-loop-real-time-flood-forecasting-age",
       "type": "report"
     },
     {

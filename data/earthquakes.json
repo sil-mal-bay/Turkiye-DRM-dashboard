@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T07:59:02.449810+00:00",
-  "count": 26,
+  "last_updated": "2026-05-23T07:16:59.517684+00:00",
+  "count": 27,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.6,
@@ -222,6 +222,16 @@
       "latitude": 35.091,
       "longitude": 24.5157,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-05-22T15:38:40+00:00",
+      "latitude": 39.6475,
+      "longitude": 23.5425,
+      "depth_km": 19.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

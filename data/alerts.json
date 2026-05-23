@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-05-22T07:59:55.317063+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.6 earthquake — TANISIK-(MALATYA) REVIZE01 (2026.05.20 09:00:15",
-      "magnitude": 5.6,
-      "time": "2026-05-20T09:00:15+00:00",
-      "location": "TANISIK-(MALATYA) REVIZE01 (2026.05.20 09:00:15",
-      "latitude": 38.2678,
-      "longitude": 38.589,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-05-23T07:17:56.239105+00:00",
+  "count": 0,
+  "alerts": []
 }
