@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T07:17:08.305962+00:00",
+  "last_updated": "2026-05-24T07:37:56.012524+00:00",
   "count": 8,
   "articles": [
     {
@@ -9,11 +9,11 @@
       "description": "Türkiye is introducing stricter wildfire prevention measures across several provinces after experiencing one of its most destructive fire seasons in recent years.\n\nAuthorities have...",
       "published": "2026-05-22T11:24:00+00:00",
       "link": "https://www.dailysabah.com/turkiye/turkiye-tightens-forest-access-as-wildfire-season-approaches/news",
-      "score": 173.0,
+      "score": 153.5,
       "world_bank_related": false,
       "turkey_related": true,
       "credibility_score": 80,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,19 +35,6 @@
       "description": "On 29 April 2026, Vanuatu marked its first national observance of the International Day in Memory of the Victims of Earthquakes, bringing together partners to strengthen earthquake preparedness and disaster resilience.",
       "published": "2026-05-21T10:36:56+00:00",
       "link": "https://www.undrr.org/news/vanuatu-marks-first-international-day-memory-victims-earthquakes",
-      "score": 80.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 75
-    },
-    {
-      "source": "undrr",
-      "title": "Strengthening the disaster resilience of SMEs in Sendai",
-      "original_title": null,
-      "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
-      "published": "2026-05-20T07:48:55+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
       "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -56,16 +43,29 @@
     },
     {
       "source": "undrr",
+      "title": "Strengthening the disaster resilience of SMEs in Sendai",
+      "original_title": null,
+      "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
+      "published": "2026-05-20T07:48:55+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
+      "score": 54.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 35
+    },
+    {
+      "source": "undrr",
       "title": "Nominations now open for the 2026 WIN DRR Leadership Awards",
       "original_title": null,
       "description": "The nominations for the 2026 Women’s International Network for Disaster Risk Reduction (WIN DRR) Leadership Awards are now open.",
       "published": "2026-05-18T10:23:23+00:00",
       "link": "https://www.undrr.org/news/nominations-now-open-2026-win-drr-leadership-awards",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
