@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-24T07:38:44.144501+00:00",
-  "count": 4,
+  "last_updated": "2026-05-25T08:46:34.261643+00:00",
+  "count": 5,
   "alerts": [
     {
       "type": "earthquake",
@@ -47,6 +47,18 @@
       "location": "AKOLUK-FEKE (ADANA) İlksel",
       "latitude": 37.7592,
       "longitude": 36.0933,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — SOGUTLU-PUTURGE (MALATYA) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-05-24T22:36:49+00:00",
+      "location": "SOGUTLU-PUTURGE (MALATYA) İlksel",
+      "latitude": 38.2358,
+      "longitude": 38.5845,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
