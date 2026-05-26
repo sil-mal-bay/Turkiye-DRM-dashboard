@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-05-25T08:46:34.261643+00:00",
-  "count": 5,
+  "last_updated": "2026-05-26T08:07:28.108529+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
-      "magnitude": 4.3,
-      "time": "2026-05-23T16:34:14+00:00",
-      "location": "GIRIT ADASI (AKDENIZ) İlksel",
-      "latitude": 35.4127,
-      "longitude": 26.516,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-05-23T17:40:57+00:00",
-      "location": "GIRIT ADASI (AKDENIZ) İlksel",
-      "latitude": 35.4537,
-      "longitude": 26.5587,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.9 earthquake — 22 km SSE of Saimbeyli, Turkey",
-      "magnitude": 4.9,
-      "time": "2026-05-24T01:26:53.012000+00:00",
-      "location": "22 km SSE of Saimbeyli, Turkey",
-      "latitude": 37.7964,
-      "longitude": 36.1699,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szud"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.9 earthquake — AKOLUK-FEKE (ADANA) İlksel",
-      "magnitude": 4.9,
-      "time": "2026-05-24T04:26:50+00:00",
-      "location": "AKOLUK-FEKE (ADANA) İlksel",
-      "latitude": 37.7592,
-      "longitude": 36.0933,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -59,6 +11,18 @@
       "location": "SOGUTLU-PUTURGE (MALATYA) İlksel",
       "latitude": 38.2358,
       "longitude": 38.5845,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — AKOLUK-FEKE (ADANA) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-05-25T21:44:52+00:00",
+      "location": "AKOLUK-FEKE (ADANA) İlksel",
+      "latitude": 37.741,
+      "longitude": 36.0745,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

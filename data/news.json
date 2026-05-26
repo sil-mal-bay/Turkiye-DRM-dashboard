@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T08:45:47.628402+00:00",
-  "count": 9,
+  "last_updated": "2026-05-26T08:06:38.783532+00:00",
+  "count": 7,
   "articles": [
     {
       "source": "undrr",
@@ -16,43 +16,17 @@
       "recency_score": 100
     },
     {
-      "source": "reliefweb",
-      "title": "WFP Malawi Country Brief May 2026",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Country: Malawi</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/82/de/82dee4ad-67e9-4e48-9d0d-d0b78fe5e6dc.png\" /></p>\n                        <p>Please refer to the attached file.</p>\n                        <ul><li>The Department of Disaster Management Affairs (DODMA) and WFP continue to respond to households affected by the floods that occurred in March this year where at least 368,000 people (81,842 households) across 23 district and city councils were affected.</li>\n<li>WFP reached nearly 1.2 million people in April, distributing 1,336 metric tons of food and USD 2.41 million through cash-based transfers.</li>\n</ul>",
-      "published": "2026-05-25T07:56:13+00:00",
-      "link": "https://reliefweb.int/report/malawi/wfp-malawi-country-brief-may-2026",
-      "score": 87.75,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
-    },
-    {
-      "source": "reliefweb",
-      "title": "Situation Report - Sri Lanka 25th May 2026 at 1000hrs",
-      "original_title": null,
-      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/48/30/4830b877-f6a3-4879-9e48-ae9a98130fb2.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
-      "published": "2026-05-25T06:58:10+00:00",
-      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-25th-may-2026-1000hrs",
-      "score": 87.75,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
-    },
-    {
       "source": "undrr",
       "title": "Vanuatu Marks First International Day in Memory of the Victims of Earthquakes",
       "original_title": null,
       "description": "On 29 April 2026, Vanuatu marked its first national observance of the International Day in Memory of the Victims of Earthquakes, bringing together partners to strengthen earthquake preparedness and disaster resilience.",
       "published": "2026-05-21T10:36:56+00:00",
       "link": "https://www.undrr.org/news/vanuatu-marks-first-international-day-memory-victims-earthquakes",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
