@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T08:06:38.783532+00:00",
+  "last_updated": "2026-05-27T08:26:44.989085+00:00",
   "count": 7,
   "articles": [
     {
@@ -22,11 +22,11 @@
       "description": "On 29 April 2026, Vanuatu marked its first national observance of the International Day in Memory of the Victims of Earthquakes, bringing together partners to strengthen earthquake preparedness and disaster resilience.",
       "published": "2026-05-21T10:36:56+00:00",
       "link": "https://www.undrr.org/news/vanuatu-marks-first-international-day-memory-victims-earthquakes",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

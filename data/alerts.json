@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-05-26T08:07:28.108529+00:00",
-  "count": 2,
+  "last_updated": "2026-05-27T08:27:35.433755+00:00",
+  "count": 1,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — SOGUTLU-PUTURGE (MALATYA) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-05-24T22:36:49+00:00",
-      "location": "SOGUTLU-PUTURGE (MALATYA) İlksel",
-      "latitude": 38.2358,
-      "longitude": 38.5845,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-26T08:07:28.107777+00:00",
+  "last_updated": "2026-05-27T08:27:35.433036+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Extreme flood events as a neglected natural hazard for marginalized Roma communities of Slovakia",
+      "description": "Marginalized Roma communities (MRCs) located in flood prone areas represent a highly pressing research challenge.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/extreme-flood-events-neglected-natural-hazard-marginalized",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Disaster risk in Brazil: trends, challenges and policy insights",
+      "description": "The study analyzes the evolution of DRR policies in Brazil and examines how these developments are reflected in disaster outcomes.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-brazil-trends-challenges-and-policy-insights",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "A novel dynamic disaster risk assessment of urban built environments: An application to flood and earthquake",
+      "description": "This study presents a dynamic disaster risk assessment methodology for urban built environments, integrating flood and earthquake scenarios with spatiotemporal patterns of population exposure and vulnerability.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/novel-dynamic-disaster-risk-assessment-urban-built",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Disaster risk planning in an evolving risk landscape: Barriers and enablers in the integration of land use and preparedness actors",
+      "description": "This study explored barriers and enablers in collaborative planning within an evolving risk landscape. In this context, friction-free, bidirectional feedback between the preventive and the reactive parts of the DRM system-of-systems is essential.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-planning-evolving-risk-landscape-barriers-0",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Early-warning engineering for corridor vulnerability: A remote sensing threshold model for disaster risk reduction in Tanzania",
+      "description": "This research article examines how Earth observation technologies can strengthen early warning and disaster risk reduction for transport infrastructure in Tanzania.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/early-warning-engineering-corridor-vulnerability-remote",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Programmatic responses to extreme heat - guidance for humanitarian practitioners",
+      "description": "A comprehensive, sector-by-sector practical guide helping humanitarian organizations understand, prepare for, and respond to the rapidly growing threat of extreme heat and heatwaves.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/programmatic-responses-extreme-heat-guidance-humanitarian",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Passive cooling for public buildings - guidance for humanitarian practitioners",
+      "description": "A practical, non-technical guide helping humanitarian workers keep health centres and schools cooler through low-cost, energy-free building strategies suited to hot climates.",
+      "date": "2026-05-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/passive-cooling-public-buildings-guidance-humanitarian",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Women's well-being and everyday adaptation to heat",
       "description": "This review examines how extreme heat affects women’s well-being and highlights everyday adaptation practices across Africa, Asia and Oceania.",
       "date": "2026-05-22T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/womens-well-being-and-everyday-adaptation-heat",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "The increasing risk of heatwaves to vulnerable populations in eastern Australia",
-      "description": "This study investigates historical trends in heatwave characteristics across New South Wales (NSW), identifies regions with increasing exposure in recent decades, and assesses risks to vulnerable populations using a combined heatwave risk framework.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/increasing-risk-heatwaves-vulnerable-populations-eastern",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Addressing Southern Africa climate shocks: advocating for child-centred climate resilience and fiscal prioritization",
-      "description": "The report addresses the escalating climate crisis in Southern Africa, where the region has swung from severe El Niño-driven drought in 2023-2024 to devastating La Niña floods and cyclones in 2025-2026, affecting nearly 1.9 million people.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/addressing-southern-africa-climate-shocks-advocating-child",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Psychosocial adaptation as a coping strategy among older farmers facing drought in Thailand",
-      "description": "The study examines how older farmers (aged 60–69) in drought-prone areas of Buriram Province, Thailand, perceive and respond to drought risk.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/psychosocial-adaptation-coping-strategy-among-older-farmers",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "A world on the edge: priorities for a pandemic‑resilient future",
-      "description": "The 2026 GPMB report finds that as infectious disease outbreaks become more frequent they are also becoming more damaging, with widening health, economic, political and social impacts, and less capacity to recover from them.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/world-edge-priorities-pandemic-resilient-future",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Towards multimodal geospatial reasoning: a foundation model approach for disaster detection from social media, news, and weather data",
-      "description": "This publication explores how generative language models combine social media, news and weather data to detect disasters quickly and accurately, using satellite data to validate results from flood and wildfire case studies.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/towards-multimodal-geospatial-reasoning-foundation-model",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Bridging warning and adaptation addressing risk communication strategies for short-term natural hazard warnings and long-term risk adaptation – A scoping review",
-      "description": "This review analyzes peer-reviewed studies to examine how risk communication strategies vary across temporal dimensions, hazard groups and intended purpose.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/bridging-warning-and-adaptation-addressing-risk",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Quantifying uncertainty in climate change impacts: A Bayesian approach for the Cagayan river basin",
-      "description": "This study develops a probabilistic flood-impact assessment for the Cagayan river basin (northern Luzon, Philippines) by linking Bayesian extreme-value inference with uncertainty propagation along the rainfall–flood–damage chain.",
-      "date": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/quantifying-uncertainty-climate-change-impacts-bayesian",
       "type": "report"
     },
     {
