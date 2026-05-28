@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T08:26:44.989085+00:00",
-  "count": 7,
+  "last_updated": "2026-05-28T08:27:37.892546+00:00",
+  "count": 10,
   "articles": [
     {
       "source": "undrr",
@@ -14,6 +14,45 @@
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "IDRLF",
+      "original_title": null,
+      "description": "International Disaster Resilience Leaders Forum in Incheon (IDRLF)The IDRLF is an annual international event convening national and local governments in Inche",
+      "published": "2026-05-28T06:09:32+00:00",
+      "link": "https://www.undrr.org/about-undrr/where-we-work/incheon/idrlf",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Calls for Proposals: Towards evidence-based decision making and risk investment for disaster risk reduction and early warning in Eastern Africa",
+      "original_title": null,
+      "description": "A grant to upgrade the Kenya national risk profile using the probabilistic approach and conduct DRR integrated fiscal risk analysis and recommendations.",
+      "published": "2026-05-27T15:04:14+00:00",
+      "link": "https://www.undrr.org/vacancy/calls-proposals-towards-evidence-based-decision-making-and-risk-investment-disaster-risk",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Europe and Central Asia Regional Platform for Disaster Risk Reduction",
+      "original_title": null,
+      "description": "The next Europe and Central Asia Regional Platform for Disaster Risk Reduction (RP2027) will take place 25–27 May 2027 in Bucharest, Romania, hosted by the Government of Romania.",
+      "published": "2026-05-26T13:54:58+00:00",
+      "link": "https://www.undrr.org/event/europe-and-central-asia-regional-platform-disaster-risk-reduction",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",

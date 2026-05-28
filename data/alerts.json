@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-05-27T08:27:35.433755+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — AKOLUK-FEKE (ADANA) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-05-25T21:44:52+00:00",
-      "location": "AKOLUK-FEKE (ADANA) İlksel",
-      "latitude": 37.741,
-      "longitude": 36.0745,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-05-28T08:28:24.259242+00:00",
+  "count": 0,
+  "alerts": []
 }
