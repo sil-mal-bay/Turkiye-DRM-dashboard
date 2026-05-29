@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-05-28T08:28:24.258434+00:00",
+  "last_updated": "2026-05-29T08:26:09.265013+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Coupling land use planning and multi-stakeholder dynamics to inform disaster risk management: Who pays for risk and who gains from intervention?",
+      "description": "This study assesses how land use and acquisition strategies shape disaster losses, government expenditures, and household outcomes over time.",
+      "date": "2026-05-28T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/coupling-land-use-planning-and-multi-stakeholder-dynamics",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Extreme flood events as a neglected natural hazard for marginalized Roma communities of Slovakia",
@@ -56,14 +64,6 @@
       "description": "A practical, non-technical guide helping humanitarian workers keep health centres and schools cooler through low-cost, energy-free building strategies suited to hot climates.",
       "date": "2026-05-26T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/passive-cooling-public-buildings-guidance-humanitarian",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Women's well-being and everyday adaptation to heat",
-      "description": "This review examines how extreme heat affects women’s well-being and highlights everyday adaptation practices across Africa, Asia and Oceania.",
-      "date": "2026-05-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/womens-well-being-and-everyday-adaptation-heat",
       "type": "report"
     },
     {
