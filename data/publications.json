@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-29T08:26:09.265013+00:00",
+  "last_updated": "2026-05-30T07:27:01.499803+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "The imminent risk bulletin (BRI): innovation from civil society for climate resilience in Mexico",
+      "description": "The Imminent Risk Bulletin (BRI) is a civil society-driven impact-based forecasting tool developed in Mexico to bridge the gap between atmospheric science and citizen survival.",
+      "date": "2026-05-29T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/imminent-risk-bulletin-bri-innovation-civil-society-climate",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Unpacking climate change and health nexus in Bangladesh: 10 points on how the country can prepare to implement and support the WHO’s global action plan on climate change and health (2025)",
+      "description": "This working paper offers a timely and in-depth exploration of the climate-health nexus, specifically focusing on the context of Bangladesh as this country faces some of the world’s highest global climate risks.",
+      "date": "2026-05-29T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/unpacking-climate-change-and-health-nexus-bangladesh-10",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "WMO Global annual to decadal climate update 2026-2035",
+      "description": "The Global Annual-to-Decadal Update takes a look at the observed climate over the past five years and gives regional predictions for temperatures and precipitation over the next five years.",
+      "date": "2026-05-29T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/wmo-global-annual-decadal-climate-update-2026-2035",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Anthropogenic climate change accelerates the onset of global flood timing",
+      "description": "This study provides a global assessment of flood timing changes and associated risks under incremental warming levels.",
+      "date": "2026-05-29T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/anthropogenic-climate-change-accelerates-onset-global-flood",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Assessing the impact of wildfires on the Swedish housing market: a case study of the 2014 Västmanland wildfire",
+      "description": "The study investigates how the largest wildfire in Sweden's recent history, the 2014 wildfire in Västmanland County, affected nearby housing prices and time-on-market.",
+      "date": "2026-05-29T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/assessing-impact-wildfires-swedish-housing-market-case-study",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Coupling land use planning and multi-stakeholder dynamics to inform disaster risk management: Who pays for risk and who gains from intervention?",
@@ -24,46 +64,6 @@
       "description": "The study analyzes the evolution of DRR policies in Brazil and examines how these developments are reflected in disaster outcomes.",
       "date": "2026-05-26T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-brazil-trends-challenges-and-policy-insights",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "A novel dynamic disaster risk assessment of urban built environments: An application to flood and earthquake",
-      "description": "This study presents a dynamic disaster risk assessment methodology for urban built environments, integrating flood and earthquake scenarios with spatiotemporal patterns of population exposure and vulnerability.",
-      "date": "2026-05-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/novel-dynamic-disaster-risk-assessment-urban-built",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Disaster risk planning in an evolving risk landscape: Barriers and enablers in the integration of land use and preparedness actors",
-      "description": "This study explored barriers and enablers in collaborative planning within an evolving risk landscape. In this context, friction-free, bidirectional feedback between the preventive and the reactive parts of the DRM system-of-systems is essential.",
-      "date": "2026-05-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/disaster-risk-planning-evolving-risk-landscape-barriers-0",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Early-warning engineering for corridor vulnerability: A remote sensing threshold model for disaster risk reduction in Tanzania",
-      "description": "This research article examines how Earth observation technologies can strengthen early warning and disaster risk reduction for transport infrastructure in Tanzania.",
-      "date": "2026-05-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/early-warning-engineering-corridor-vulnerability-remote",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Programmatic responses to extreme heat - guidance for humanitarian practitioners",
-      "description": "A comprehensive, sector-by-sector practical guide helping humanitarian organizations understand, prepare for, and respond to the rapidly growing threat of extreme heat and heatwaves.",
-      "date": "2026-05-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/programmatic-responses-extreme-heat-guidance-humanitarian",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Passive cooling for public buildings - guidance for humanitarian practitioners",
-      "description": "A practical, non-technical guide helping humanitarian workers keep health centres and schools cooler through low-cost, energy-free building strategies suited to hot climates.",
-      "date": "2026-05-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/passive-cooling-public-buildings-guidance-humanitarian",
       "type": "report"
     },
     {
