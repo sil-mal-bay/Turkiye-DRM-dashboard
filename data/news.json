@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T07:57:21.923675+00:00",
+  "last_updated": "2026-06-01T09:41:36.453328+00:00",
   "count": 9,
   "articles": [
     {
@@ -22,19 +22,6 @@
       "description": "The next Europe &amp; Central Asia Regional Platform for Disaster Risk Reduction will take place in Romania from the 25th to 27th of May 2027",
       "published": "2026-05-29T16:26:36+00:00",
       "link": "https://www.preventionweb.net/news/save-date-next-europe-central-asia-regional-platform-disaster-risk-reduction-romania-25-27-may",
-      "score": 80.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 75
-    },
-    {
-      "source": "undrr",
-      "title": "When small businesses restart, cities recover: How Barcelona built an SME resilience ecosystem, and what other cities can learn from it",
-      "original_title": null,
-      "description": "How Barcelona, with support from UNDRR through its Strengthening the Disaster Resilience of SMEs initiative, began addressing vulnerabilities among SMEs by building an ecosystem designed to support business continuity and long-term preparedness.",
-      "published": "2026-05-28T10:54:41+00:00",
-      "link": "https://www.undrr.org/news/when-small-businesses-restart-cities-recover-how-barcelona-built-sme-resilience-ecosystem-and",
       "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -43,16 +30,29 @@
     },
     {
       "source": "undrr",
-      "title": "IDRLF",
+      "title": "When small businesses restart, cities recover: How Barcelona built an SME resilience ecosystem, and what other cities can learn from it",
       "original_title": null,
-      "description": "International Disaster Resilience Leaders Forum in Incheon (IDRLF)The IDRLF is an annual international event convening national and local governments in Inche",
-      "published": "2026-05-28T06:09:32+00:00",
-      "link": "https://www.undrr.org/about-undrr/where-we-work/incheon/idrlf",
+      "description": "How Barcelona, with support from UNDRR through its Strengthening the Disaster Resilience of SMEs initiative, began addressing vulnerabilities among SMEs by building an ecosystem designed to support business continuity and long-term preparedness.",
+      "published": "2026-05-28T10:54:41+00:00",
+      "link": "https://www.undrr.org/news/when-small-businesses-restart-cities-recover-how-barcelona-built-sme-resilience-ecosystem-and",
       "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 35
+    },
+    {
+      "source": "undrr",
+      "title": "IDRLF",
+      "original_title": null,
+      "description": "International Disaster Resilience Leaders Forum in Incheon (IDRLF)The IDRLF is an annual international event convening national and local governments in Inche",
+      "published": "2026-05-28T06:09:32+00:00",
+      "link": "https://www.undrr.org/about-undrr/where-we-work/incheon/idrlf",
+      "score": 41.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +61,11 @@
       "description": "A grant to upgrade the Kenya national risk profile using the probabilistic approach and conduct DRR integrated fiscal risk analysis and recommendations.",
       "published": "2026-05-27T15:04:14+00:00",
       "link": "https://www.undrr.org/vacancy/calls-proposals-towards-evidence-based-decision-making-and-risk-investment-disaster-risk",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -74,11 +74,11 @@
       "description": "The next Europe and Central Asia Regional Platform for Disaster Risk Reduction (RP2027) will take place 25–27 May 2027 in Bucharest, Romania, hosted by the Government of Romania.",
       "published": "2026-05-26T13:54:58+00:00",
       "link": "https://www.undrr.org/event/europe-and-central-asia-regional-platform-disaster-risk-reduction",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-05-31T07:58:10.672246+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — 32 km ENE of Mesariá, Greece",
-      "magnitude": 4.1,
-      "time": "2026-05-29T14:36:55.425000+00:00",
-      "location": "32 km ENE of Mesariá, Greece",
-      "latitude": 36.4972,
-      "longitude": 25.7887,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb7"
-    }
-  ]
+  "last_updated": "2026-06-01T09:42:23.357025+00:00",
+  "count": 0,
+  "alerts": []
 }
