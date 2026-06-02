@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T09:42:01.512725+00:00",
+  "last_updated": "2026-06-02T08:53:35.419274+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -270,15 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
@@ -300,6 +300,13 @@
       "source": "GFDRR",
       "title": "A Catalogue of Nature‑Based Solutions for Coastal Resilience",
       "link": "https://openknowledge.worldbank.org/entities/publication/888fbe94-8be8-4838-9dbd-4093430f04df",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Disaster–Fragility, Conflict, and Violence (FCV) Nexus Diagnostic for Myanmar : Summary Report",
+      "link": "https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/099033126055023286",
       "type": "report",
       "description": ""
     },
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "GFDRR Country Evaluation: Tajikistan",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099912501232636289",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Towards an Integrated Wildfire Risk Management in Iceland - Diagnostic and Recommendations",
-      "link": "https://documents1.worldbank.org/curated/en/099122325103025733/pdf/P178843-a12c31f6-8ab3-47e0-afc0-7bfcddbf5bcd.pdf",
       "type": "report",
       "description": ""
     },

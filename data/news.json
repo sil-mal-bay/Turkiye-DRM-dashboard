@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T09:41:36.453328+00:00",
+  "last_updated": "2026-06-02T08:53:09.186240+00:00",
   "count": 9,
   "articles": [
     {
@@ -16,25 +16,25 @@
       "recency_score": 100
     },
     {
-      "source": "undrr",
-      "title": "Save the date for the next Europe & Central Asia Regional Platform for Disaster Risk Reduction, Romania 25–27 May 2027",
+      "source": "reliefweb",
+      "title": "Situation Report - Sri Lanka 2nd June 2026 at 1000hrs",
       "original_title": null,
-      "description": "The next Europe &amp; Central Asia Regional Platform for Disaster Risk Reduction will take place in Romania from the 25th to 27th of May 2027",
-      "published": "2026-05-29T16:26:36+00:00",
-      "link": "https://www.preventionweb.net/news/save-date-next-europe-central-asia-regional-platform-disaster-risk-reduction-romania-25-27-may",
-      "score": 67.25,
+      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c6/ad/c6adeebd-5234-4b17-b09e-a6b9e52088a5.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
+      "published": "2026-06-02T06:31:29+00:00",
+      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-2nd-june-2026-1000hrs",
+      "score": 87.75,
       "world_bank_related": false,
       "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 55
+      "credibility_score": 65,
+      "recency_score": 100
     },
     {
       "source": "undrr",
-      "title": "When small businesses restart, cities recover: How Barcelona built an SME resilience ecosystem, and what other cities can learn from it",
+      "title": "Save the date: Europe & Central Asia Regional Platform for Disaster Risk Reduction, Romania 25–27 May 2027",
       "original_title": null,
-      "description": "How Barcelona, with support from UNDRR through its Strengthening the Disaster Resilience of SMEs initiative, began addressing vulnerabilities among SMEs by building an ecosystem designed to support business continuity and long-term preparedness.",
-      "published": "2026-05-28T10:54:41+00:00",
-      "link": "https://www.undrr.org/news/when-small-businesses-restart-cities-recover-how-barcelona-built-sme-resilience-ecosystem-and",
+      "description": "The next Europe &amp; Central Asia Regional Platform for Disaster Risk Reduction will take place in Romania from the 25th to 27th of May 2027",
+      "published": "2026-05-29T16:26:36+00:00",
+      "link": "https://www.undrr.org/news/save-date-europe-central-asia-regional-platform-disaster-risk-reduction-romania-25-27-may-2027",
       "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -43,11 +43,11 @@
     },
     {
       "source": "undrr",
-      "title": "IDRLF",
+      "title": "When small businesses restart, cities recover: How Barcelona built an SME resilience ecosystem, and what other cities can learn from it",
       "original_title": null,
-      "description": "International Disaster Resilience Leaders Forum in Incheon (IDRLF)The IDRLF is an annual international event convening national and local governments in Inche",
-      "published": "2026-05-28T06:09:32+00:00",
-      "link": "https://www.undrr.org/about-undrr/where-we-work/incheon/idrlf",
+      "description": "How Barcelona, with support from UNDRR through its Strengthening the Disaster Resilience of SMEs initiative, began addressing vulnerabilities among SMEs by building an ecosystem designed to support business continuity and long-term preparedness.",
+      "published": "2026-05-28T10:54:41+00:00",
+      "link": "https://www.undrr.org/news/when-small-businesses-restart-cities-recover-how-barcelona-built-sme-resilience-ecosystem-and",
       "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -56,16 +56,29 @@
     },
     {
       "source": "undrr",
+      "title": "IDRLF",
+      "original_title": null,
+      "description": "International Disaster Resilience Leaders Forum in Incheon (IDRLF)The IDRLF is an annual international event convening national and local governments in Inche",
+      "published": "2026-05-28T06:09:32+00:00",
+      "link": "https://www.undrr.org/about-undrr/where-we-work/incheon/idrlf",
+      "score": 31.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 0
+    },
+    {
+      "source": "undrr",
       "title": "Calls for Proposals: Towards evidence-based decision making and risk investment for disaster risk reduction and early warning in Eastern Africa",
       "original_title": null,
       "description": "A grant to upgrade the Kenya national risk profile using the probabilistic approach and conduct DRR integrated fiscal risk analysis and recommendations.",
       "published": "2026-05-27T15:04:14+00:00",
       "link": "https://www.undrr.org/vacancy/calls-proposals-towards-evidence-based-decision-making-and-risk-investment-disaster-risk",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -100,19 +113,6 @@
       "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
       "published": "2026-05-20T07:48:55+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Nominations now open for the 2026 WIN DRR Leadership Awards",
-      "original_title": null,
-      "description": "The nominations for the 2026 Women’s International Network for Disaster Risk Reduction (WIN DRR) Leadership Awards are now open.",
-      "published": "2026-05-18T10:23:23+00:00",
-      "link": "https://www.undrr.org/news/nominations-now-open-2026-win-drr-leadership-awards",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
