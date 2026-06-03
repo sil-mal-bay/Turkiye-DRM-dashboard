@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-02T08:53:57.090451+00:00",
+  "last_updated": "2026-06-03T09:15:13.869073+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Evaluating the skill of AI and physics-based models for February 2020 North Atlantic storm hazards",
+      "description": "In this study, the authors compare the performance of data-driven models to physics-based models in forecasting the February 2020 storm series over the United Kingdom.",
+      "date": "2026-06-02T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/evaluating-skill-ai-and-physics-based-models-february-2020",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Embedding risk finance in integrated national financing frameworks",
+      "description": "This policy note explores how Integrated National Financing Frameworks (INFFs) can support more resilient financing by embedding climate risk diagnostics and climate disaster risk finance and insurance (CDRFI) mechanisms into national financing strategies",
+      "date": "2026-06-02T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/embedding-risk-finance-integrated-national-financing",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Early warning! Early action! Early finance?",
+      "description": "This special issue is about drawing lessons about recognising the importance of acting early, learning from practice, and strengthening the systems that make early action possible.",
+      "date": "2026-06-02T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/early-warning-early-action-early-finance",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Worldwide job losses due to natural hazards",
+      "description": "This study quantifies job losses due to floods, earthquakes, wind, storm surges, tsunamis, and heat across 132 countries, using a full-time job equivalent loss estimation approach.",
+      "date": "2026-06-02T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/worldwide-job-losses-due-natural-hazards",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Storm surge responses in Macau: Early warnings and soft adaptation",
+      "description": "In this study, the authors investigated three major typhoons in Macau—Typhoons Hato (2017), Mangkhut (2018), and Ragasa (2025)—to examine changes in residents' evacuation behavior and government responses.",
+      "date": "2026-06-02T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/storm-surge-responses-macau-early-warnings-and-soft",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "AI-enabled mental-health interventions for climate-related distress: a call for coordinated EU policy action",
@@ -24,46 +64,6 @@
       "description": "The paper demonstrates that a knowledge-driven VGE system with 3D animations significantly improves public disaster risk perception compared to static or textual formats, validated through eye-tracking experiments and comparative NLP model analysis.",
       "date": "2026-06-01T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/debris-flow-disaster-information-representation-and",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Anticipatory action in 2025: a global overview",
-      "description": "The report documents the continued expansion of anticipatory action globally in 2025, with record activations, growing institutional embedding, and a first-ever analysis of donor funding flows, while flagging persistent gaps in financing and coordination.",
-      "date": "2026-06-01T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/anticipatory-action-2025-global-overview",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Understanding cross-sectoral wildfire risk governance: Lessons from mix-method analysis of the wildfire risk governance in Italy, Greece, and Land Brandenburg",
-      "description": "This paper aims to enhance understanding of wildfire risk (WFR) governance, by identifying patterns and characteristics of cross-sectoral collaborations, and to inform integrated WFR governance strategies across Europe.",
-      "date": "2026-06-01T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/understanding-cross-sectoral-wildfire-risk-governance",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Timor-Leste - Rising risks, resilient futures: Climate and health vulnerability assessment",
-      "description": "The Climate and Health Vulnerability Assessment provides an evidence base to guide climate-resilient health investments. It integrates climate modeling, geospatial exposure mapping, and disease burden analysis and economic projections",
-      "date": "2026-06-01T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/timor-leste-rising-risks-resilient-futures-climate-and",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Strengthening the linkages between disaster risk finance and adaptive social protection – Why and how it matters",
-      "description": "This policy note builds on the practical and operational experience of the World Bank Group and World Food Programme to offer an overview of why and how strengthening the linkages between disaster risk finance (DRF) and adaptive social protection matters.",
-      "date": "2026-06-01T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/strengthening-linkages-between-disaster-risk-finance-and",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Advisory report on resilient recovery framework: Grindavík",
-      "description": "This report presents the findings of analysis and recommendations for resilient recovery planning in Grindavík, affected by multiple evacuations and ongoing volcanic and seismic activity.",
-      "date": "2026-06-01T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/advisory-report-resilient-recovery-framework-grindavik",
       "type": "report"
     },
     {

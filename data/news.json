@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T08:53:09.186240+00:00",
+  "last_updated": "2026-06-03T09:14:23.006128+00:00",
   "count": 9,
   "articles": [
     {
@@ -16,17 +16,30 @@
       "recency_score": 100
     },
     {
-      "source": "reliefweb",
-      "title": "Situation Report - Sri Lanka 2nd June 2026 at 1000hrs",
+      "source": "undrr",
+      "title": "2027 RISK Award \"Homes at risk: Climate resilience for informal settlements\"",
       "original_title": null,
-      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c6/ad/c6adeebd-5234-4b17-b09e-a6b9e52088a5.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
-      "published": "2026-06-02T06:31:29+00:00",
-      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-2nd-june-2026-1000hrs",
-      "score": 87.75,
+      "description": "Apply now for the 2027 RISK Award, endowed with a project funding of up to €100,000! Phase I runs from 1 June to 31 July 2026 (12:00 CET).",
+      "published": "2026-06-02T12:50:56+00:00",
+      "link": "https://www.undrr.org/news/2027-risk-award-homes-risk-climate-resilience-informal-settlements",
+      "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
-      "credibility_score": 65,
-      "recency_score": 100
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "dailysabah",
+      "title": "Turkish research body studies AI’s impact on climate, health, law",
+      "original_title": null,
+      "description": "The Turkish Academy of Sciences (TUBA) is studying the impact of artificial intelligence across a wide range of fields, from climate change, pandemics and disaster management to la...",
+      "published": "2026-06-02T09:21:00+00:00",
+      "link": "https://www.dailysabah.com/turkiye/turkish-research-body-studies-ais-impact-on-climate-health-law/news",
+      "score": 86.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 80,
+      "recency_score": 90
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "The next Europe &amp; Central Asia Regional Platform for Disaster Risk Reduction will take place in Romania from the 25th to 27th of May 2027",
       "published": "2026-05-29T16:26:36+00:00",
       "link": "https://www.undrr.org/news/save-date-europe-central-asia-regional-platform-disaster-risk-reduction-romania-25-27-may-2027",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -48,11 +61,11 @@
       "description": "How Barcelona, with support from UNDRR through its Strengthening the Disaster Resilience of SMEs initiative, began addressing vulnerabilities among SMEs by building an ecosystem designed to support business continuity and long-term preparedness.",
       "published": "2026-05-28T10:54:41+00:00",
       "link": "https://www.undrr.org/news/when-small-businesses-restart-cities-recover-how-barcelona-built-sme-resilience-ecosystem-and",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -100,19 +113,6 @@
       "description": "On 29 April 2026, Vanuatu marked its first national observance of the International Day in Memory of the Victims of Earthquakes, bringing together partners to strengthen earthquake preparedness and disaster resilience.",
       "published": "2026-05-21T10:36:56+00:00",
       "link": "https://www.undrr.org/news/vanuatu-marks-first-international-day-memory-victims-earthquakes",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Strengthening the disaster resilience of SMEs in Sendai",
-      "original_title": null,
-      "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
-      "published": "2026-05-20T07:48:55+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
