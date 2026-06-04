@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T09:14:47.743094+00:00",
-  "count": 2,
+  "last_updated": "2026-06-04T08:39:29.053291+00:00",
+  "count": 3,
   "events": [
     {
       "source": "UNDRR",
@@ -17,6 +17,14 @@
       "link": "https://www.gfdrr.org/en/event/technical-workshop-risk-informed-urban-planning-liberia",
       "location": "Monrovia, Liberia",
       "type": "workshop"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Regional Webinar on Enhancing Awareness and Reporting on Sendai Framework Target G in Africa",
+      "date": "2026-06-24T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/regional-webinar-enhancing-awareness-and-reporting-sendai-framework-target-g-africa",
+      "location": null,
+      "type": "webinar"
     }
   ]
 }

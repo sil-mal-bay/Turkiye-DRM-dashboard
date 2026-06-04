@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T09:14:23.006128+00:00",
-  "count": 9,
+  "last_updated": "2026-06-04T08:39:04.706060+00:00",
+  "count": 11,
   "articles": [
     {
       "source": "undrr",
@@ -17,11 +17,11 @@
     },
     {
       "source": "undrr",
-      "title": "2027 RISK Award \"Homes at risk: Climate resilience for informal settlements\"",
+      "title": "Euro-Mediterranean partners advance cooperation on civil protection and disaster risk management",
       "original_title": null,
-      "description": "Apply now for the 2027 RISK Award, endowed with a project funding of up to €100,000! Phase I runs from 1 June to 31 July 2026 (12:00 CET).",
-      "published": "2026-06-02T12:50:56+00:00",
-      "link": "https://www.undrr.org/news/2027-risk-award-homes-risk-climate-resilience-informal-settlements",
+      "description": "Representatives from across the Euro-Mediterranean region gathered for the UfM Civil Protection Meeting to advance regional cooperation on disaster risk management and support the 2030 UfM Action Plan on Civil Protection and Disaster Risk Management.",
+      "published": "2026-06-03T10:03:24+00:00",
+      "link": "https://www.undrr.org/news/euro-mediterranean-partners-advance-cooperation-civil-protection-and-disaster-risk-management",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
@@ -29,17 +29,43 @@
       "recency_score": 90
     },
     {
-      "source": "dailysabah",
-      "title": "Turkish research body studies AI’s impact on climate, health, law",
+      "source": "bbc",
+      "title": "She watched a wildfire destroy her town, so she's building fire-proof bunkers",
       "original_title": null,
-      "description": "The Turkish Academy of Sciences (TUBA) is studying the impact of artificial intelligence across a wide range of fields, from climate change, pandemics and disaster management to la...",
-      "published": "2026-06-02T09:21:00+00:00",
-      "link": "https://www.dailysabah.com/turkiye/turkish-research-body-studies-ais-impact-on-climate-health-law/news",
-      "score": 86.5,
+      "description": "Linda Cantey - and other US entrepreneurs - are channelling trauma into efforts to mitigate the damage of wildfires.",
+      "published": "2026-06-03T09:47:19+00:00",
+      "link": "https://www.bbc.com/news/articles/c78qgdpwx6eo?at_medium=RSS&at_campaign=rss",
+      "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
-      "credibility_score": 80,
+      "credibility_score": 90,
       "recency_score": 90
+    },
+    {
+      "source": "reliefweb",
+      "title": "Situation Report - Sri Lanka 4th June 2026 at 1000hrs",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: Disaster Management Centre of Sri Lanka</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3d/97/3d974d9f-9c32-43d1-a1dc-d71c07fd936d.png\" /></p>\n                        <p>Please refer to the attached file.</p>",
+      "published": "2026-06-04T06:31:29+00:00",
+      "link": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-4th-june-2026-1000hrs",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "2027 RISK Award \"Homes at risk: Climate resilience for informal settlements\"",
+      "original_title": null,
+      "description": "Apply now for the 2027 RISK Award, endowed with a project funding of up to €100,000! Phase I runs from 1 June to 31 July 2026 (12:00 CET).",
+      "published": "2026-06-02T12:50:56+00:00",
+      "link": "https://www.undrr.org/news/2027-risk-award-homes-risk-climate-resilience-informal-settlements",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,11 +74,11 @@
       "description": "The next Europe &amp; Central Asia Regional Platform for Disaster Risk Reduction will take place in Romania from the 25th to 27th of May 2027",
       "published": "2026-05-29T16:26:36+00:00",
       "link": "https://www.undrr.org/news/save-date-europe-central-asia-regional-platform-disaster-risk-reduction-romania-25-27-may-2027",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

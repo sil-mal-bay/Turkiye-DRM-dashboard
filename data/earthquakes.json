@@ -1,17 +1,37 @@
 {
-  "last_updated": "2026-06-03T09:14:15.558204+00:00",
-  "count": 20,
+  "last_updated": "2026-06-04T08:38:59.361348+00:00",
+  "count": 25,
   "largest": {
-    "source": "USGS",
-    "magnitude": 4.1,
-    "place": "32 km ENE of Mesariá, Greece",
-    "time": "2026-05-29T14:36:55.425000+00:00",
-    "latitude": 36.4972,
-    "longitude": 25.7887,
-    "depth_km": 10,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb7"
+    "source": "Kandilli",
+    "magnitude": 4.4,
+    "place": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
+    "time": "2026-06-03T13:12:07+00:00",
+    "latitude": 37.4847,
+    "longitude": 37.2498,
+    "depth_km": 6.1,
+    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.4,
+      "place": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "time": "2026-06-03T13:12:07+00:00",
+      "latitude": 37.4847,
+      "longitude": 37.2498,
+      "depth_km": 6.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "11 km NNW of Pazarcık, Turkey",
+      "time": "2026-06-03T10:12:09.025000+00:00",
+      "latitude": 37.5797,
+      "longitude": 37.2336,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq8x"
+    },
     {
       "source": "USGS",
       "magnitude": 4.1,
@@ -24,6 +44,26 @@
     }
   ],
   "events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.4,
+      "place": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "time": "2026-06-03T13:12:07+00:00",
+      "latitude": 37.4847,
+      "longitude": 37.2498,
+      "depth_km": 6.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "11 km NNW of Pazarcık, Turkey",
+      "time": "2026-06-03T10:12:09.025000+00:00",
+      "latitude": 37.5797,
+      "longitude": 37.2336,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq8x"
+    },
     {
       "source": "USGS",
       "magnitude": 4.1,
@@ -107,6 +147,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.4,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-06-03T21:00:41+00:00",
+      "latitude": 35.91,
+      "longitude": 28.1443,
+      "depth_km": 86.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-05-31T12:35:31+00:00",
       "latitude": 35.4467,
@@ -167,6 +217,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.2,
+      "place": "GUNEYKOY-SIVRICE (ELAZIG) İlksel",
+      "time": "2026-06-04T06:20:03+00:00",
+      "latitude": 38.4863,
+      "longitude": 39.3238,
+      "depth_km": 7.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
       "place": "KUCUKTUY-PASINLER (ERZURUM) İlksel",
       "time": "2026-06-01T05:35:34+00:00",
       "latitude": 40.0158,
@@ -192,6 +252,16 @@
       "latitude": 34.8652,
       "longitude": 26.056,
       "depth_km": 6.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "PALU (ELAZIG) İlksel",
+      "time": "2026-06-04T03:44:02+00:00",
+      "latitude": 38.7088,
+      "longitude": 39.9643,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

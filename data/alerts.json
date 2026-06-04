@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-06-03T09:15:13.869956+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-06-04T08:39:52.004879+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.2 earthquake — 11 km NNW of Pazarcık, Turkey",
+      "magnitude": 4.2,
+      "time": "2026-06-03T10:12:09.025000+00:00",
+      "location": "11 km NNW of Pazarcık, Turkey",
+      "latitude": 37.5797,
+      "longitude": 37.2336,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq8x"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "magnitude": 4.4,
+      "time": "2026-06-03T13:12:07+00:00",
+      "location": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "latitude": 37.4847,
+      "longitude": 37.2498,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
