@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T08:39:29.053291+00:00",
-  "count": 3,
+  "last_updated": "2026-06-05T08:31:34.965094+00:00",
+  "count": 2,
   "events": [
     {
       "source": "UNDRR",
@@ -9,14 +9,6 @@
       "link": "https://www.undrr.org/event/integrating-risk-reduction-and-risk-finance-strategy-implementation",
       "location": null,
       "type": "event"
-    },
-    {
-      "source": "GFDRR",
-      "title": "Technical Workshop on Risk-Informed Urban Planning in Liberia",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.gfdrr.org/en/event/technical-workshop-risk-informed-urban-planning-liberia",
-      "location": "Monrovia, Liberia",
-      "type": "workshop"
     },
     {
       "source": "UNDRR",

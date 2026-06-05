@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T08:38:59.361348+00:00",
-  "count": 25,
+  "last_updated": "2026-06-05T08:30:52.096977+00:00",
+  "count": 26,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -25,6 +25,16 @@
     {
       "source": "USGS",
       "magnitude": 4.2,
+      "place": "31 km NNW of Van, Turkey",
+      "time": "2026-05-29T13:26:11.614000+00:00",
+      "latitude": 38.7415,
+      "longitude": 43.2165,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqkw"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
       "place": "11 km NNW of Pazarcık, Turkey",
       "time": "2026-06-03T10:12:09.025000+00:00",
       "latitude": 37.5797,
@@ -35,10 +45,10 @@
     {
       "source": "USGS",
       "magnitude": 4.1,
-      "place": "32 km ENE of Mesariá, Greece",
-      "time": "2026-05-29T14:36:55.425000+00:00",
-      "latitude": 36.4972,
-      "longitude": 25.7887,
+      "place": "31 km S of Amorgós, Greece",
+      "time": "2026-05-29T14:36:55.300000+00:00",
+      "latitude": 36.5515,
+      "longitude": 25.8399,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb7"
     }
@@ -57,6 +67,16 @@
     {
       "source": "USGS",
       "magnitude": 4.2,
+      "place": "31 km NNW of Van, Turkey",
+      "time": "2026-05-29T13:26:11.614000+00:00",
+      "latitude": 38.7415,
+      "longitude": 43.2165,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqkw"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
       "place": "11 km NNW of Pazarcık, Turkey",
       "time": "2026-06-03T10:12:09.025000+00:00",
       "latitude": 37.5797,
@@ -67,22 +87,12 @@
     {
       "source": "USGS",
       "magnitude": 4.1,
-      "place": "32 km ENE of Mesariá, Greece",
-      "time": "2026-05-29T14:36:55.425000+00:00",
-      "latitude": 36.4972,
-      "longitude": 25.7887,
+      "place": "31 km S of Amorgós, Greece",
+      "time": "2026-05-29T14:36:55.300000+00:00",
+      "latitude": 36.5515,
+      "longitude": 25.8399,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb7"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-05-29T17:36:55+00:00",
-      "latitude": 36.6525,
-      "longitude": 25.7687,
-      "depth_km": 15.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -102,16 +112,6 @@
       "latitude": 35.4515,
       "longitude": 26.5577,
       "depth_km": 3.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "VAN GOLU İlksel",
-      "time": "2026-05-29T16:26:10+00:00",
-      "latitude": 38.7545,
-      "longitude": 43.1717,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -217,6 +217,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.2,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-06-05T03:09:59+00:00",
+      "latitude": 34.8563,
+      "longitude": 26.0185,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
       "place": "GUNEYKOY-SIVRICE (ELAZIG) İlksel",
       "time": "2026-06-04T06:20:03+00:00",
       "latitude": 38.4863,
@@ -267,6 +277,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.0,
+      "place": "CEVIRME-AKCADAG (MALATYA) İlksel",
+      "time": "2026-06-05T01:25:37+00:00",
+      "latitude": 38.2565,
+      "longitude": 37.7542,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "SARAYCIK-CERKES (CANKIRI) İlksel",
+      "time": "2026-06-04T23:17:54+00:00",
+      "latitude": 40.7762,
+      "longitude": 32.7543,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
       "place": "GURCISTAN İlksel",
       "time": "2026-06-02T04:27:33+00:00",
       "latitude": 42.447,
@@ -282,16 +312,6 @@
       "latitude": 36.0218,
       "longitude": 23.357,
       "depth_km": 8.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "SARAYCIK-ALTINTAS (KUTAHYA) İlksel",
-      "time": "2026-05-29T01:56:18+00:00",
-      "latitude": 38.9517,
-      "longitude": 29.794,
-      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
