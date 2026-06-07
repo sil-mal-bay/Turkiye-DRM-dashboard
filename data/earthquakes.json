@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T07:33:55.594052+00:00",
-  "count": 21,
+  "last_updated": "2026-06-07T08:06:56.179304+00:00",
+  "count": 18,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -106,16 +106,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-05-31T03:48:27+00:00",
-      "latitude": 35.9098,
-      "longitude": 23.2368,
-      "depth_km": 11.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.3,
       "place": "TEKKEKOY-SARAYKOY (DENIZLI) İlksel",
       "time": "2026-06-06T02:17:09+00:00",
@@ -186,16 +176,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-05-31T03:41:17+00:00",
-      "latitude": 35.2892,
-      "longitude": 31.5442,
-      "depth_km": 8.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "PALU (ELAZIG) İlksel",
       "time": "2026-06-04T03:44:02+00:00",
@@ -232,16 +212,6 @@
       "latitude": 42.447,
       "longitude": 42.5617,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-05-31T02:09:25+00:00",
-      "latitude": 36.0218,
-      "longitude": 23.357,
-      "depth_km": 8.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
