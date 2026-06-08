@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-06-07T08:08:30.778402+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-06-08T09:14:27.907527+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "high",
+      "title": "M5.0 earthquake — YUNANISTAN İlksel",
+      "magnitude": 5.0,
+      "time": "2026-06-07T13:02:46+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 38.7103,
+      "longitude": 23.4228,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.8 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.8,
+      "time": "2026-06-07T12:58:43+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 38.6993,
+      "longitude": 23.4012,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

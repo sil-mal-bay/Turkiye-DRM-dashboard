@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07T08:07:13.619367+00:00",
-  "count": 8,
+  "last_updated": "2026-06-08T09:12:50.061732+00:00",
+  "count": 9,
   "articles": [
     {
       "source": "undrr",
@@ -16,17 +16,30 @@
       "recency_score": 100
     },
     {
+      "source": "reliefweb",
+      "title": "Philippines: OCD logs 'major damage' in various infra from Sarangani quake",
+      "original_title": null,
+      "description": "<div class=\"tag country\">Country: Philippines</div>\n                                      <div class=\"tag source\">Source: Government of the Philippines</div>\n                                                                                              <p>By Priam Nepomuceno</p>\n<p><strong>MANILA</strong> – The Office of Civil Defense (OCD) on Monday logged reports of \"major damage in various infrastructure\" following the magnitude 7.8 earthquake that rocked Maasim, Sarangani, and nearby provinces.</p>\n<p>\"There are reports of major damage in various infrastructure. Electricity and communications are affected as well. Evacuation is also ongoing in affected coastal areas,\" the agency said in its initial update to reporters.</p>\n<p>The OCD also said most of the affected areas are in Zamboanga Peninsula, Davao Region, Soccsksargen, and the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). The agency is also verifying reports of casualties.</p>\n<p>\"Reports of casualties are being monitored and will be validated, however, no official reports as of reporting time,\" the OCD said.</p>\n<p>The public is advised to refrain from reentering their homes or other infrastructure, especially high-rise buildings with signs of damage, amid the threat of aftershocks.</p>\n<p>Likewise, local disaster risk reduction and management offices (LDRRMOs) are directed to supervise the response in their respective area of responsibility.</p>\n<p>\"Rescue units of uniformed services are directed to be alert and are for deployment anytime,\" it added.</p>\n<p>The OCD also said its operations center is on full red alert, along with the national inter-agency coordinating cells, response clusters, and agencies, and is closely coordinating with the LDRRMOs.</p>\n<p>It also said that its ranking officials from the OCD and Department of National Defense are now proceeding to the affected areas to check for damage and expedite immediate response operations. <em><strong>(PNA)</strong></em></p>",
+      "published": "2026-06-08T03:58:59+00:00",
+      "link": "https://reliefweb.int/report/philippines/ocd-logs-major-damage-various-infra-sarangani-quake",
+      "score": 87.75,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 65,
+      "recency_score": 100
+    },
+    {
       "source": "undrr",
       "title": "Euro-Mediterranean partners advance cooperation on civil protection and disaster risk management",
       "original_title": null,
       "description": "Representatives from across the Euro-Mediterranean region gathered for the UfM Civil Protection Meeting to advance regional cooperation on disaster risk management and support the 2030 UfM Action Plan on Civil Protection and Disaster Risk Management.",
       "published": "2026-06-03T10:03:24+00:00",
       "link": "https://www.undrr.org/news/euro-mediterranean-partners-advance-cooperation-civil-protection-and-disaster-risk-management",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "Apply now for the 2027 RISK Award, endowed with a project funding of up to €100,000! Phase I runs from 1 June to 31 July 2026 (12:00 CET).",
       "published": "2026-06-02T12:50:56+00:00",
       "link": "https://www.undrr.org/news/2027-risk-award-homes-risk-climate-resilience-informal-settlements",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
