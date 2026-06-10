@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-09T08:22:19.770369+00:00",
+  "last_updated": "2026-06-10T08:47:28.899296+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Federated States of Micronesia Disaster Management Reference Handbook",
+      "description": "This Disaster Management Reference Handbook provides a comprehensive overview of FSM’s disaster risk environment, institutional structures, and operational practices.",
+      "date": "2026-06-09T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/federated-states-micronesia-disaster-management-reference",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Trust, governance, and climate disasters in the Indo-Pacific",
+      "description": "This publication examines how climate-related emergencies can create epistemic stress situations in which uncertainty, competing narratives and political contestation undermine shared understandings of risk, preparedness and institutional responsibility.",
+      "date": "2026-06-09T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/trust-governance-and-climate-disasters-indo-pacific",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Uncertain Governance of a “Small Disaster”. Vulnerability to Recurrent Flooding in Lomé’s Second-hand Clothing Market (Togo)",
+      "description": "Based on ethnographic fieldwork conducted between 2023 and 2025, this article offers a socio-environmental analysis of the recurrent floods affecting the urban markets in Lomé.",
+      "date": "2026-06-09T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/uncertain-governance-small-disaster-vulnerability-recurrent",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
@@ -11,75 +35,51 @@
       "type": "report"
     },
     {
+      "source": "PreventionWeb",
+      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
+      "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
+      "date": "2026-06-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Practical guide to forest fire preparedness",
+      "description": "It contains advice on how to organize preparedness days, community events to prepare for the risk of forest fires, with a special emphasis on dialogue between residents of these risk areas, public authorities and emergency services.",
+      "date": "2026-06-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/practical-guide-forest-fire-preparedness",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Assessing the real-world economic value of weather forecasts under compounding extremes: a decision-specific framework",
+      "description": "This study proposes a flexible framework to assess the economic value of weather forecasts, with penalty functions that explicitly account for compounding losses as well as declining user trust in cases of repeated false alarms.",
+      "date": "2026-06-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/assessing-real-world-economic-value-weather-forecasts-under",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Understanding the experiences of persons with disabilities in disasters and emergencies in Tonga (December 2025)",
+      "description": "This report examines the experiences of persons with disabilities in Tonga during disasters and emergencies, focusing on emergency preparedness, access to early warning information, evacuation, food security, social protection, & use of cash assistance.",
+      "date": "2026-06-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/understanding-experiences-persons-disabilities-disasters-and",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Tribal hazard mitigation planning pathways: A comparative content analysis",
+      "description": "This study explores the extent to which a unique subset of communities in the United States has been able to engage in planning that aligns with these dual imperatives.",
+      "date": "2026-06-08T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/tribal-hazard-mitigation-planning-pathways-comparative",
+      "type": "report"
+    },
+    {
       "source": "UNDRR",
       "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
       "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
       "date": "2026-06-05T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
-      "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
-      "date": "2026-06-05T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Conceptualizing urban heat resilience through capacities and a multidimensional perspective: Empirical evidence from formal and informal settlements of Lahore, Pakistan",
-      "description": "This index-based study examines the heatwave resilience of both formal and informal communities located in Lahore, Pakistan. Resilience is assessed in terms of its capacities and dimensions.",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/conceptualizing-urban-heat-resilience-through-capacities-and",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Developing a rapid earthquake impact assessment procedure at European scale",
-      "description": "This study introduces a comprehensive rapid earthquake impact assessment procedure at the European scale, designed to provide timely damage and loss estimates following seismic events.",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/developing-rapid-earthquake-impact-assessment-procedure",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Applying a climate information distillation framework to support a climate resilient hydropower sector in Nepal",
-      "description": "This study applies the Climate Information Distillation Framework (CIDF) to the Nepal hydropower sector.",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/applying-climate-information-distillation-framework-support",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Beyond hazards and sectors: governing systemic climate risks",
-      "description": "The report uses an exploratory comparative analysis of adaptation governance across selected countries and US states to examine both the recognition of systemic risks.",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/beyond-hazards-and-sectors-governing-systemic-climate-risks",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Post-Disaster Needs Assessment (PDNA) Report: Cyclone Ditwah, Sri Lanka 2025",
-      "description": "This is a comprehensive assessment that will guide Sri Lanka's recovery and reconstruction efforts following one of the most devastating disasters in its recent history.",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/post-disaster-needs-assessment-pdna-report-cyclone-ditwah",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Diagnosing pandemic disaster risk management through impact chains and forensic analysis: an intertwined DRM model and key lessons from the hospital network in Bucharest, Romania",
-      "description": "This study aimed to examine the nuanced interplay between pandemic impacts, vulnerabilities, and adaptation options, and how this unfolded across the disaster risk management DRM cycle (preparedness, response, and recovery).",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/diagnosing-pandemic-disaster-risk-management-through-impact",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Drought’s inequalities: towards inclusive climate adaptation in Zambia",
-      "description": "The study highlights urgent needs regarding Zambia's drought: integrating informal settlements into city planning; investing in climate-resilient water, sanitation and hygiene (WASH) infrastructure; strengthening community governance and tenure security.",
-      "date": "2026-06-03T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/droughts-inequalities-towards-inclusive-climate-adaptation",
       "type": "report"
     },
     {

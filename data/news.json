@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T08:21:03.822683+00:00",
-  "count": 9,
+  "last_updated": "2026-06-10T08:46:11.149224+00:00",
+  "count": 10,
   "articles": [
     {
       "source": "undrr",
@@ -17,16 +17,42 @@
     },
     {
       "source": "undrr",
-      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
+      "title": "Maximum Information",
       "original_title": null,
-      "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
-      "published": "2026-06-08T15:41:31+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
+      "description": "Founded in 2020, Maximum Information is committed to increasing societal resilience to disasters through evolving risk modelling of natural hazards.",
+      "published": "2026-06-09T12:19:52+00:00",
+      "link": "https://www.undrr.org/organization/maximum-information",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Building business resilience in Venice: UNDRR and VSF put SMEs to the test at Venice Climate Week 2026",
+      "original_title": null,
+      "description": "UNDRR and the VSF brought disaster risk reduction to the heart of the business community, hosting Business Under Pressure — an interactive scenario exercise for small and medium-sized enterprises as part of Venice Climate Week 2026.",
+      "published": "2026-06-09T11:51:01+00:00",
+      "link": "https://www.undrr.org/news/building-business-resilience-venice-undrr-and-vsf-put-smes-test-venice-climate-week-2026",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
+      "original_title": null,
+      "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
+      "published": "2026-06-08T15:41:31+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -100,19 +126,6 @@
       "description": "A grant to upgrade the Kenya national risk profile using the probabilistic approach and conduct DRR integrated fiscal risk analysis and recommendations.",
       "published": "2026-05-27T15:04:14+00:00",
       "link": "https://www.undrr.org/vacancy/calls-proposals-towards-evidence-based-decision-making-and-risk-investment-disaster-risk",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Europe and Central Asia Regional Platform for Disaster Risk Reduction",
-      "original_title": null,
-      "description": "The next Europe and Central Asia Regional Platform for Disaster Risk Reduction (RP2027) will take place 25–27 May 2027 in Bucharest, Romania, hosted by the Government of Romania.",
-      "published": "2026-05-26T13:54:58+00:00",
-      "link": "https://www.undrr.org/event/europe-and-central-asia-regional-platform-disaster-risk-reduction",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
