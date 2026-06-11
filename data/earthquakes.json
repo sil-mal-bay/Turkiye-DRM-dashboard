@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T08:32:18.848634+00:00",
-  "count": 20,
+  "last_updated": "2026-06-11T09:00:56.075746+00:00",
+  "count": 23,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.0,
@@ -31,16 +31,6 @@
       "longitude": 23.4012,
       "depth_km": 6.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "11 km NNW of Pazarcık, Turkey",
-      "time": "2026-06-03T10:12:09.025000+00:00",
-      "latitude": 37.5797,
-      "longitude": 37.2336,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq8x"
     }
   ],
   "events": [
@@ -65,14 +55,14 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "11 km NNW of Pazarcık, Turkey",
-      "time": "2026-06-03T10:12:09.025000+00:00",
-      "latitude": 37.5797,
-      "longitude": 37.2336,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq8x"
+      "source": "Kandilli",
+      "magnitude": 3.8,
+      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
+      "time": "2026-06-10T18:43:12+00:00",
+      "latitude": 37.773,
+      "longitude": 36.107,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -136,16 +126,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-06-03T21:00:41+00:00",
-      "latitude": 35.91,
-      "longitude": 28.1443,
-      "depth_km": 86.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.3,
       "place": "YESILYURT-CAY (AFYONKARAHISAR) İlksel",
       "time": "2026-06-10T05:31:08+00:00",
@@ -162,6 +142,36 @@
       "latitude": 37.9028,
       "longitude": 28.7747,
       "depth_km": 7.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-06-11T08:58:13+00:00",
+      "latitude": 38.7622,
+      "longitude": 23.4415,
+      "depth_km": 12.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "TURKIYE-IRAN SINIR BOLGESI İlksel",
+      "time": "2026-06-11T08:57:31+00:00",
+      "latitude": 39.5102,
+      "longitude": 45.0018,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-06-11T01:45:33+00:00",
+      "latitude": 38.761,
+      "longitude": 23.4842,
+      "depth_km": 4.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -186,12 +196,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GUNEYKOY-SIVRICE (ELAZIG) İlksel",
-      "time": "2026-06-04T06:20:03+00:00",
-      "latitude": 38.4863,
-      "longitude": 39.3238,
-      "depth_km": 7.4,
+      "magnitude": 3.1,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-06-11T01:52:48+00:00",
+      "latitude": 38.9808,
+      "longitude": 23.4763,
+      "depth_km": 7.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "YESILYURT-CAY (AFYONKARAHISAR) İlksel",
+      "time": "2026-06-10T13:21:31+00:00",
+      "latitude": 38.6312,
+      "longitude": 31.063,
+      "depth_km": 6.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -206,12 +226,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "PALU (ELAZIG) İlksel",
-      "time": "2026-06-04T03:44:02+00:00",
-      "latitude": 38.7088,
-      "longitude": 39.9643,
-      "depth_km": 5.0,
+      "magnitude": 3.0,
+      "place": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
+      "time": "2026-06-10T23:04:17+00:00",
+      "latitude": 38.7337,
+      "longitude": 36.5325,
+      "depth_km": 2.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

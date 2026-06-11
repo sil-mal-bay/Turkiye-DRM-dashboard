@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T08:46:56.897929+00:00",
+  "last_updated": "2026-06-11T09:30:18.555279+00:00",
   "count": 50,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -284,6 +284,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "24th Africa Working Group on Disaster Risk Reduction",
+      "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
       "type": "learning",
@@ -342,13 +349,6 @@
       "source": "UNDRR",
       "title": "Study on the reach and effectiveness of Early Warning Systems in Timor-Leste",
       "link": "https://www.undrr.org/publication/documents-and-publications/study-reach-and-effectiveness-early-warning-systems-timor",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Strengthening the disaster resilience of MSMEs in Barbados",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-msmes-barbados",
       "type": "learning",
       "description": ""
     }

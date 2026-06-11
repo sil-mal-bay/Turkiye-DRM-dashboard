@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-06-10T08:47:28.899296+00:00",
+  "last_updated": "2026-06-11T09:30:49.827002+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "24th Africa Working Group on Disaster Risk Reduction",
+      "description": "This outcome document of the 24th Africa Working Group on Disaster Risk Reduction.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Federated States of Micronesia Disaster Management Reference Handbook",
@@ -136,14 +144,6 @@
       "description": "This study evaluates the effectiveness of early warning systems in Timor-Leste, based on household surveys and focus group discussions across eight municipalities and key informant interviews with national, municipal and community stakeholders.",
       "date": "2026-03-27T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/study-reach-and-effectiveness-early-warning-systems-timor",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Strengthening the disaster resilience of MSMEs in Barbados",
-      "description": "Strengthening the Disaster Resilience of MSMEs in Barbados",
-      "date": "2026-03-26T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-msmes-barbados",
       "type": "report"
     }
   ]
