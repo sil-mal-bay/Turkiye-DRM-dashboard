@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:47:55.323220+00:00",
+  "last_updated": "2026-06-13T08:03:51.414340+00:00",
   "count": 18,
   "publications": [
     {
@@ -8,6 +8,46 @@
       "description": "This outcome document of the 24th Africa Working Group on Disaster Risk Reduction.",
       "date": "2026-06-11T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Automatic sentiment analysis of citizen comments: the case of the Albania earthquake",
+      "description": "This study investigates how crowdsourced user comments collected through the LastQuake app can be used to improve situational awareness following an earthquake.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/automatic-sentiment-analysis-citizen-comments-case-albania",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Mental health integration guide: a tool for insurers",
+      "description": "Developed by the UNEP, the Mental Health Integration Guide: A Tool for Insurers provides a practical framework to help insurers understand and address the links between climate change, mental health and social resilience.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/mental-health-integration-guide-tool-insurers",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Shaking urban crime: Earthquakes, stress and crime in neighbourhoods",
+      "description": "This study analyses the impact of the earthquakes that occurred on the 7 and 19 September 2017, with magnitudes of 8.2 and 7.1 respectively, on crime patterns in Mexico City.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/shaking-urban-crime-earthquakes-stress-and-crime",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "How to better link landslide inventory mapping with loss and damage reporting",
+      "description": "As part of the process to strengthen national capabilities in tracking landslide losses and damages, this research presents the result of an initiative by UNDRR and its partners to encourage the development of data standards and methodological frameworks.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/how-better-link-landslide-inventory-mapping-loss-and-damage",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Integrated methodology for environmental-urban diagnosis and prioritization of drainage interventions to enhance urban flood resilience",
+      "description": "This study proposes an integrated environmental-urban diagnostic methodology that defines objective functions, identifies priority intervention areas, clarifies the role of drainage projects, and enables the measurement of intervention efficiency.",
+      "date": "2026-06-11T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/integrated-methodology-environmental-urban-diagnosis-and",
       "type": "report"
     },
     {
@@ -35,48 +75,8 @@
       "type": "report"
     },
     {
-      "source": "PreventionWeb",
-      "title": "Anticipating and monitoring water risks for agriculture",
-      "description": "This paper examines water risks for agriculture and outlines a typology of tools to support public authorities in anticipating, monitoring and assessing these risks.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/anticipating-and-monitoring-water-risks-agriculture",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Integrating the education sector into the National Adaptation plan process: a briefing for NAP teams",
-      "description": "This report aims to support National Adaptation Plan (NAP) teams to consider the education sector in the NAP process.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/integrating-education-sector-national-adaptation-plan",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Between the tides: Climate change adaptation in Palau",
-      "description": "This photo essay is about Palau, a small island nation of extraordinary ecological and cultural richness, spread across more than 300 islands in the western Pacific. It is also among the most climate-vulnerable countries on Earth.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/between-tides-climate-change-adaptation-palau",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Engaging the education sector in the National Adaptation Plan process",
-      "description": "This guidance note aims to support education ministries in engaging effectively throughout the National Adaptation Plan (NAP) process.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/engaging-education-sector-national-adaptation-plan-process",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Steps to identify and use adaptation indicators for national monitoring, evaluation, and learning systems",
-      "description": "This brief supports members of national adaptation plan (NAP) teams involved directly or indirectly in MEL systems, and those supporting them, in identifying and using adaptation indicators for their national MEL systems effectively and efficiently.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/steps-identify-and-use-adaptation-indicators-national",
-      "type": "report"
-    },
-    {
       "source": "UNDRR",
-      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
+      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
       "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
       "date": "2026-06-08T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",

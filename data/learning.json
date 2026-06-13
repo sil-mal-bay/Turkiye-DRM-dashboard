@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:47:23.911407+00:00",
+  "last_updated": "2026-06-13T08:03:20.098581+00:00",
   "count": 50,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -291,7 +291,7 @@
     },
     {
       "source": "UNDRR",
-      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning - Guidance and sectoral templates",
+      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
       "type": "learning",
       "description": ""

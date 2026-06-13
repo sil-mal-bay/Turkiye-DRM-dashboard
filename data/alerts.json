@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T08:47:55.324054+00:00",
-  "count": 1,
+  "last_updated": "2026-06-13T08:03:51.415135+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,30 @@
       "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "latitude": 34.6473,
       "longitude": 25.2362,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.3 earthquake — 12 km SSE of Nurdağı, Turkey",
+      "magnitude": 4.3,
+      "time": "2026-06-12T21:08:48.538000+00:00",
+      "location": "12 km SSE of Nurdağı, Turkey",
+      "latitude": 37.071,
+      "longitude": 36.8083,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sskd"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.5 earthquake — KUZOLUK-NURDAGI (GAZIANTEP) İlksel",
+      "magnitude": 4.5,
+      "time": "2026-06-13T00:08:46+00:00",
+      "location": "KUZOLUK-NURDAGI (GAZIANTEP) İlksel",
+      "latitude": 37.0825,
+      "longitude": 36.9243,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

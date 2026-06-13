@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T08:46:17.180461+00:00",
-  "count": 24,
+  "last_updated": "2026-06-13T08:02:28.367892+00:00",
+  "count": 28,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.0,
@@ -34,6 +34,26 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 4.5,
+      "place": "KUZOLUK-NURDAGI (GAZIANTEP) İlksel",
+      "time": "2026-06-13T00:08:46+00:00",
+      "latitude": 37.0825,
+      "longitude": 36.9243,
+      "depth_km": 10.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.3,
+      "place": "12 km SSE of Nurdağı, Turkey",
+      "time": "2026-06-12T21:08:48.538000+00:00",
+      "latitude": 37.071,
+      "longitude": 36.8083,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sskd"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 4.1,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-06-11T22:30:12+00:00",
@@ -63,6 +83,26 @@
       "longitude": 23.4012,
       "depth_km": 6.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.5,
+      "place": "KUZOLUK-NURDAGI (GAZIANTEP) İlksel",
+      "time": "2026-06-13T00:08:46+00:00",
+      "latitude": 37.0825,
+      "longitude": 36.9243,
+      "depth_km": 10.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.3,
+      "place": "12 km SSE of Nurdağı, Turkey",
+      "time": "2026-06-12T21:08:48.538000+00:00",
+      "latitude": 37.071,
+      "longitude": 36.8083,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sskd"
     },
     {
       "source": "Kandilli",
@@ -127,6 +167,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.4,
+      "place": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
+      "time": "2026-06-12T22:38:19+00:00",
+      "latitude": 38.7468,
+      "longitude": 36.5488,
+      "depth_km": 4.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-06-12T12:29:37+00:00",
+      "latitude": 38.8158,
+      "longitude": 23.4403,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
       "place": "KUCAK-PATNOS (AGRI) İlksel",
       "time": "2026-06-09T23:14:56+00:00",
       "latitude": 38.997,
@@ -152,16 +212,6 @@
       "latitude": 38.5995,
       "longitude": 31.0472,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "TEKKEKOY-SARAYKOY (DENIZLI) İlksel",
-      "time": "2026-06-06T02:17:09+00:00",
-      "latitude": 37.9028,
-      "longitude": 28.7747,
-      "depth_km": 7.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -212,6 +262,16 @@
       "latitude": 34.1718,
       "longitude": 25.625,
       "depth_km": 15.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "MOLLADAVUT-KARACOBAN (ERZURUM) İlksel",
+      "time": "2026-06-12T23:27:43+00:00",
+      "latitude": 39.2193,
+      "longitude": 41.9298,
+      "depth_km": 3.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
