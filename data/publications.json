@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-06-13T08:03:51.414340+00:00",
+  "last_updated": "2026-06-14T08:47:36.604208+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Principles and processes for prioritising and influencing urban resilience investment",
+      "description": "This guide outlines a set of principles and processes for resilience investment in Australia aimed at fostering effective, sustainable, and long-term resilience-building initiatives.",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/principles-and-processes-prioritising-and-influencing-urban",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "A century of chemical weapons: use, prohibition, and elimination",
+      "description": "This monograph provides a comprehensive examination of the history, regulation, and elimination of chemical weapons over the past century.",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/century-chemical-weapons-use-prohibition-and-elimination",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "White paper on live wildlife trade and markets",
+      "description": "The paper examines the complex links between live wildlife trade, zoonotic disease risks, biodiversity loss, animal welfare, and global health security through a comprehensive One Health perspective.",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/white-paper-live-wildlife-trade-and-markets",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Knowing what the weather will do: A guide for practitioners on impact-based early warning",
+      "description": "This guidebook provides a novel approach and methodology for designing and implementing Impact-based early warning (IbEW) systems. it guides the co-development and integration of risk knowledge on hazards, exposure, vulnerabilities",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/knowing-what-weather-will-do-guide-practitioners-impact",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Uncertainty, pastoral knowledge and early warning: a review of drought management in the drylands, with insights from northern Kenya",
+      "description": "This study assesses global inequalities in exposure to compound precipitation extremes (CPEs), defined as the concurrent occurrence of short-duration, high-intensity 1-day precipitation and prolonged 5-day precipitation.",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/uncertainty-pastoral-knowledge-and-early-warning-review",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "A 12-target global framework for measuring drought resilience: Insights from a multi-country review",
+      "description": "The research seeks to address the  question, what are the potential global targets forevaluating proactive drought preparedness and resilience that can be standardized and monitored to improve coordination among countries and international organizations.",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/12-target-global-framework-measuring-drought-resilience",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "24th Africa Working Group on Disaster Risk Reduction",
@@ -24,54 +72,6 @@
       "description": "Developed by the UNEP, the Mental Health Integration Guide: A Tool for Insurers provides a practical framework to help insurers understand and address the links between climate change, mental health and social resilience.",
       "date": "2026-06-11T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/mental-health-integration-guide-tool-insurers",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Shaking urban crime: Earthquakes, stress and crime in neighbourhoods",
-      "description": "This study analyses the impact of the earthquakes that occurred on the 7 and 19 September 2017, with magnitudes of 8.2 and 7.1 respectively, on crime patterns in Mexico City.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/shaking-urban-crime-earthquakes-stress-and-crime",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "How to better link landslide inventory mapping with loss and damage reporting",
-      "description": "As part of the process to strengthen national capabilities in tracking landslide losses and damages, this research presents the result of an initiative by UNDRR and its partners to encourage the development of data standards and methodological frameworks.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/how-better-link-landslide-inventory-mapping-loss-and-damage",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Integrated methodology for environmental-urban diagnosis and prioritization of drainage interventions to enhance urban flood resilience",
-      "description": "This study proposes an integrated environmental-urban diagnostic methodology that defines objective functions, identifies priority intervention areas, clarifies the role of drainage projects, and enables the measurement of intervention efficiency.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/integrated-methodology-environmental-urban-diagnosis-and",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Nigeria country climate and development report",
-      "description": "This report explores the ways in which Nigeria can pursue its development objectives while considering the challenges of climate change and the opportunities of low-emission technologies.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/nigeria-country-climate-and-development-report",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Beyond the tide: building flood and erosion resilience in the Gambia",
-      "description": "This report presents a comprehensive flood and coastal erosion risk assessment for Gambia and proposes a prioritized investment framework combining structural measures, nature-based solutions, and policy reforms to strengthen climate resilience.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/beyond-tide-building-flood-and-erosion-resilience-gambia",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Protecting jobs and employment during disasters: lessons from employment insurance system in Japan",
-      "description": "This paper examines how Japan's employment insurance system has been adapted to protect jobs and support workers during natural disasters, drawing on the 2011 Great East Japan Earthquake as a primary case study to extract lessons for other countries.",
-      "date": "2026-06-10T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/protecting-jobs-and-employment-during-disasters-lessons",
       "type": "report"
     },
     {
