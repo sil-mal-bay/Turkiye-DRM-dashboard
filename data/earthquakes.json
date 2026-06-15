@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T08:32:11.631182+00:00",
-  "count": 28,
+  "last_updated": "2026-06-15T10:43:58.137445+00:00",
+  "count": 30,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.5,
@@ -106,16 +106,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-06-07T18:58:24+00:00",
-      "latitude": 38.7347,
-      "longitude": 23.4362,
-      "depth_km": 5.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.7,
       "place": "IZMIR KORFEZI (EGE DENIZI) İlksel",
       "time": "2026-06-13T12:22:49+00:00",
@@ -187,6 +177,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-06-15T09:31:20+00:00",
+      "latitude": 38.7467,
+      "longitude": 23.2607,
+      "depth_km": 13.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "CANDARLI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-06-15T01:50:49+00:00",
+      "latitude": 38.845,
+      "longitude": 26.8282,
+      "depth_km": 11.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "YESILYURT-CAY (AFYONKARAHISAR) İlksel",
       "time": "2026-06-10T05:31:08+00:00",
       "latitude": 38.5995,
@@ -242,16 +252,6 @@
       "latitude": 38.761,
       "longitude": 23.4842,
       "depth_km": 4.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-06-07T16:58:33+00:00",
-      "latitude": 34.1718,
-      "longitude": 25.625,
-      "depth_km": 15.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -312,6 +312,26 @@
       "latitude": 38.2995,
       "longitude": 37.9357,
       "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel",
+      "time": "2026-06-15T04:54:36+00:00",
+      "latitude": 38.9862,
+      "longitude": 26.647,
+      "depth_km": 11.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-06-14T13:49:32+00:00",
+      "latitude": 38.7413,
+      "longitude": 23.5533,
+      "depth_km": 7.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
