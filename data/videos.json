@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-06-15T10:57:53.442979+00:00",
-  "count": 30,
+  "last_updated": "2026-06-16T09:40:07.415235+00:00",
+  "count": 32,
   "videos": [
+    {
+      "video_id": "YdWVS31qxKI",
+      "title": "AI for Clean Air: Scaling Smarter Solutions",
+      "description": "Air pollution is one of the most pressing development challenges globally, with far-reaching impacts on health, productivity, and economic growth. In South Asia alone, nearly one billion people are exposed to hazardous air every day, leading to around one million premature deaths annually, and short",
+      "channel": "World Bank Group",
+      "published": "2026-06-16T03:36:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/YdWVS31qxKI/mqdefault_live.jpg",
+      "url": "https://www.youtube.com/watch?v=YdWVS31qxKI"
+    },
+    {
+      "video_id": "W9x8D0DS0Sw",
+      "title": "Malawi’s Agricultural Reforms - A New Beginning for Smallholder Farmers",
+      "description": "In just a few years, Malawi is turning around its food sector in unprecedented ways, steering the engine that is its Affordable Input Subsidy Program in a new direction. In Malawi, agriculture is the lifeblood of the economy, comprising one third of the country’s GDP. But farmers are vulnerable to c",
+      "channel": "World Bank Group",
+      "published": "2026-06-15T15:51:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/W9x8D0DS0Sw/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W9x8D0DS0Sw"
+    },
     {
       "video_id": "IzR5KhUYNaY",
       "title": "IDA in Kenya: Supporting Health Across Generations",
