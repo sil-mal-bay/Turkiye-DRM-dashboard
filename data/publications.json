@@ -1,53 +1,69 @@
 {
-  "last_updated": "2026-06-16T09:41:21.982877+00:00",
+  "last_updated": "2026-06-17T09:33:33.039845+00:00",
   "count": 18,
   "publications": [
     {
       "source": "PreventionWeb",
-      "title": "Principles and processes for prioritising and influencing urban resilience investment",
-      "description": "This guide outlines a set of principles and processes for resilience investment in Australia aimed at fostering effective, sustainable, and long-term resilience-building initiatives.",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/principles-and-processes-prioritising-and-influencing-urban",
+      "title": "Predicting hydrological drought at global scale: an analysis of the CEMS seasonal forecasts",
+      "description": "This study evaluates the performance of forecasts in detecting hydrological drought in the period 1991–2022 using the ECMWF reanalysis ERA5 as a proxy for the observational reference.",
+      "date": "2026-06-16T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/predicting-hydrological-drought-global-scale-analysis-cems",
       "type": "report"
     },
     {
       "source": "PreventionWeb",
-      "title": "A century of chemical weapons: use, prohibition, and elimination",
-      "description": "This monograph provides a comprehensive examination of the history, regulation, and elimination of chemical weapons over the past century.",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/century-chemical-weapons-use-prohibition-and-elimination",
+      "title": "Rethinking architectural education post-disaster: an analytical framework for curricular transformation after the 2023 Kahramanmaraş earthquakes",
+      "description": "This study conducts a comparative analysis of the presence and evolution of disaster and earthquake-focused courses in Turkish public and foundation universities between 2022 and 2025.",
+      "date": "2026-06-16T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/rethinking-architectural-education-post-disaster-analytical",
       "type": "report"
     },
     {
       "source": "PreventionWeb",
-      "title": "White paper on live wildlife trade and markets",
-      "description": "The paper examines the complex links between live wildlife trade, zoonotic disease risks, biodiversity loss, animal welfare, and global health security through a comprehensive One Health perspective.",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/white-paper-live-wildlife-trade-and-markets",
+      "title": "A novel approach to quantify cover-collapse sinkhole occurrences using multitemporal lidar",
+      "description": "The researchers developed a novel method that detects elevation changes between two successive high-resolution lidar-derived digital elevation models and analyzes these changes to identify cover-collapse sinkholes that occurred over a defined time frame.",
+      "date": "2026-06-16T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/novel-approach-quantify-cover-collapse-sinkhole-occurrences",
       "type": "report"
     },
     {
       "source": "PreventionWeb",
-      "title": "Knowing what the weather will do: A guide for practitioners on impact-based early warning",
-      "description": "This guidebook provides a novel approach and methodology for designing and implementing Impact-based early warning (IbEW) systems. it guides the co-development and integration of risk knowledge on hazards, exposure, vulnerabilities",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/knowing-what-weather-will-do-guide-practitioners-impact",
+      "title": "Advancing gender-transformative action in human mobility in the context of climate change",
+      "description": "This publication explores how climate mobility programmes can move beyond gender-responsive approaches towards more gender-transformative change.",
+      "date": "2026-06-16T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/advancing-gender-transformative-action-human-mobility",
       "type": "report"
     },
     {
       "source": "PreventionWeb",
-      "title": "Uncertainty, pastoral knowledge and early warning: a review of drought management in the drylands, with insights from northern Kenya",
-      "description": "This study assesses global inequalities in exposure to compound precipitation extremes (CPEs), defined as the concurrent occurrence of short-duration, high-intensity 1-day precipitation and prolonged 5-day precipitation.",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/uncertainty-pastoral-knowledge-and-early-warning-review",
+      "title": "Spatially-explicit economic impacts and risks of climate change in Europe",
+      "description": "This paper improves climate-impact assessment for Europe by integrating NUTS-2 level damage functions from the ICES computable general equilibrium model into the spatially explicit CLIMRISK integrated assessment model.",
+      "date": "2026-06-15T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/spatially-explicit-economic-impacts-and-risks-climate-change",
       "type": "report"
     },
     {
       "source": "PreventionWeb",
-      "title": "A 12-target global framework for measuring drought resilience: Insights from a multi-country review",
-      "description": "The research seeks to address the  question, what are the potential global targets forevaluating proactive drought preparedness and resilience that can be standardized and monitored to improve coordination among countries and international organizations.",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/12-target-global-framework-measuring-drought-resilience",
+      "title": "Evolution of earthquake crisis management and recovery in Italy after 2009: An expert commentary",
+      "description": "This paper presents an expert commentary on lessons learned across five dimensions: governance, community engagement, technical assessment tools, professional mobilization, and urban reconstruction.",
+      "date": "2026-06-15T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/evolution-earthquake-crisis-management-and-recovery-italy",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Spatio-temporal variability of hydrometeorological disasters in Indonesia based on national disaster risk management data",
+      "description": "This study examines the relationship between hydrometeorological disasters and climate variability modes using disaster event ratios from the Indonesian National Disaster Management Agency (BNPB) for 2008–2023 in Indonesia.",
+      "date": "2026-06-15T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/spatio-temporal-variability-hydrometeorological-disasters",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Heat–health action plans: guidance, second edition",
+      "description": "This guidance on heat–health action plans (HHAPs) supports countries in developing, strengthening and implementing such plans at national, regional and local levels.",
+      "date": "2026-06-15T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/heat-health-action-plans-guidance-second-edition",
       "type": "report"
     },
     {
@@ -56,22 +72,6 @@
       "description": "This outcome document of the 24th Africa Working Group on Disaster Risk Reduction.",
       "date": "2026-06-11T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Automatic sentiment analysis of citizen comments: the case of the Albania earthquake",
-      "description": "This study investigates how crowdsourced user comments collected through the LastQuake app can be used to improve situational awareness following an earthquake.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/automatic-sentiment-analysis-citizen-comments-case-albania",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Mental health integration guide: a tool for insurers",
-      "description": "Developed by the UNEP, the Mental Health Integration Guide: A Tool for Insurers provides a practical framework to help insurers understand and address the links between climate change, mental health and social resilience.",
-      "date": "2026-06-11T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/mental-health-integration-guide-tool-insurers",
       "type": "report"
     },
     {

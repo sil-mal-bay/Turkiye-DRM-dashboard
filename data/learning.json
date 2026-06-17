@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T09:40:50.655594+00:00",
-  "count": 50,
+  "last_updated": "2026-06-17T09:33:21.126942+00:00",
+  "count": 62,
   "items": [
     {
       "source": "World Bank",
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -280,6 +280,90 @@
       "title": "Flood risk in road networks",
       "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "GFDRR Partnership Dialogue 2026 - Flickr",
+      "link": "https://www.gfdrr.org",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Worldwide Job Losses Due to Natural Hazards",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099555005292625254",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Making Spatial Planning Work: Lessons from Colombia",
+      "link": "https://openknowledge.worldbank.org/entities/publication/fdfe857f-d183-4600-a1ee-2fcdafedb8f6",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory Report on Resilient Recovery Framework: Grindavík",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099041726025022797",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "A Catalogue of Nature‑Based Solutions for Coastal Resilience",
+      "link": "https://openknowledge.worldbank.org/entities/publication/888fbe94-8be8-4838-9dbd-4093430f04df",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Disaster–Fragility, Conflict, and Violence (FCV) Nexus Diagnostic for Myanmar : Summary Report",
+      "link": "https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/099033126055023286",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Unlocking Nature for Disaster Resilience",
+      "link": "https://openknowledge.worldbank.org/entities/publication/69c8fe0d-1147-4574-9c85-1015a79ad7cd",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Urban Heat : Assessing Risks and Identifying Interventions",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234541428",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Urban Heat : Planning and Implementing Investments for Heat Resilience",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234518921",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Why Do Some Countries Build Safer?",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099808402232613305",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Seizing the Urban Opportunity in the Pacific",
+      "link": "https://www.worldbank.org/en/country/pacificislands/publication/seizing-the-urban-opportunity-in-the-pacific",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Moldova Country Climate and Development Report",
+      "link": "https://openknowledge.worldbank.org/entities/publication/b5886ecd-d46b-4d48-a747-19e9326e0e9d",
+      "type": "report",
       "description": ""
     },
     {
