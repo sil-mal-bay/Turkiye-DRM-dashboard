@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T09:33:21.126942+00:00",
+  "last_updated": "2026-06-18T09:05:01.862861+00:00",
   "count": 62,
   "items": [
     {
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Financing heat resilience",
+      "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "24th Africa Working Group on Disaster Risk Reduction",
       "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
       "type": "learning",
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "Concept note: The International day in memory of the victims of earthquakes",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Study on the reach and effectiveness of Early Warning Systems in Timor-Leste",
-      "link": "https://www.undrr.org/publication/documents-and-publications/study-reach-and-effectiveness-early-warning-systems-timor",
       "type": "learning",
       "description": ""
     }

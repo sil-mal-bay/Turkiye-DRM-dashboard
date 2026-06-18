@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-17T09:33:33.039845+00:00",
+  "last_updated": "2026-06-18T09:05:24.395030+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Financing heat resilience",
+      "description": "This report explores how governments can finance heat resilience through risk-informed investments, innovative financing mechanisms, and resilient infrastructure to protect lives, livelihoods, and economies from rising extreme heat risks.",
+      "date": "2026-06-17T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Publication: Children’s climate risk report 2026",
+      "description": "This report reveals how children’s exposure to multiple, overlapping climate hazards, inherent physical vulnerabilities, and the gaps in the social services they rely on, undermines their rights and increases their risk of harm.",
+      "date": "2026-06-17T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/publication-childrens-climate-risk-report-2026",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "State of the Climate in Asia 2025",
+      "description": "The WMO State of the Climate in Asia 2025 reports that ocean heat, which has increased since the 1990s, reached a new record.",
+      "date": "2026-06-17T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/state-climate-asia-2025",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Financing heat resilience",
+      "description": "This report explores how governments can finance heat resilience through risk-informed investments, innovative financing mechanisms, and resilient infrastructure to protect lives, livelihoods, and economies from rising extreme heat risks.",
+      "date": "2026-06-17T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/financing-heat-resilience",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Pathways to locally led adaptation: Lessons for effective climate resilience finance",
+      "description": "The report distils what the Alliance has learned through working directly within planning and budgeting processes in 10 countries: Bangladesh, Bolivia, Indonesia, Jordan, Kenya, Malawi, Nepal, Nigeria, the Philippines, and Vietnam.",
+      "date": "2026-06-17T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/pathways-locally-led-adaptation-lessons-effective-climate",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Predicting hydrological drought at global scale: an analysis of the CEMS seasonal forecasts",
@@ -32,38 +72,6 @@
       "description": "This publication explores how climate mobility programmes can move beyond gender-responsive approaches towards more gender-transformative change.",
       "date": "2026-06-16T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/advancing-gender-transformative-action-human-mobility",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Spatially-explicit economic impacts and risks of climate change in Europe",
-      "description": "This paper improves climate-impact assessment for Europe by integrating NUTS-2 level damage functions from the ICES computable general equilibrium model into the spatially explicit CLIMRISK integrated assessment model.",
-      "date": "2026-06-15T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/spatially-explicit-economic-impacts-and-risks-climate-change",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Evolution of earthquake crisis management and recovery in Italy after 2009: An expert commentary",
-      "description": "This paper presents an expert commentary on lessons learned across five dimensions: governance, community engagement, technical assessment tools, professional mobilization, and urban reconstruction.",
-      "date": "2026-06-15T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/evolution-earthquake-crisis-management-and-recovery-italy",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Spatio-temporal variability of hydrometeorological disasters in Indonesia based on national disaster risk management data",
-      "description": "This study examines the relationship between hydrometeorological disasters and climate variability modes using disaster event ratios from the Indonesian National Disaster Management Agency (BNPB) for 2008–2023 in Indonesia.",
-      "date": "2026-06-15T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/spatio-temporal-variability-hydrometeorological-disasters",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Heat–health action plans: guidance, second edition",
-      "description": "This guidance on heat–health action plans (HHAPs) supports countries in developing, strengthening and implementing such plans at national, regional and local levels.",
-      "date": "2026-06-15T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/heat-health-action-plans-guidance-second-edition",
       "type": "report"
     },
     {
@@ -136,14 +144,6 @@
       "description": "The international day provides an annual opportunity for remembrance and renewed commitment to protecting lives and livelihoods from earthquake disasters.",
       "date": "2026-03-30T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Study on the reach and effectiveness of Early Warning Systems in Timor-Leste",
-      "description": "This study evaluates the effectiveness of early warning systems in Timor-Leste, based on household surveys and focus group discussions across eight municipalities and key informant interviews with national, municipal and community stakeholders.",
-      "date": "2026-03-27T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/study-reach-and-effectiveness-early-warning-systems-timor",
       "type": "report"
     }
   ]

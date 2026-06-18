@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-06-17T09:33:08.043889+00:00",
+  "last_updated": "2026-06-18T09:04:23.237326+00:00",
   "count": 32,
   "videos": [
+    {
+      "video_id": "dNxSOguf45M",
+      "title": "[Tutorial] Building Regulations Atlas",
+      "description": "The Building Regulations Atlas is a new open-access knowledge platform designed to make global building regulation data more accessible and actionable for policymakers, practitioners, and development partners worldwide. It draws on multiple complementary datasets, produced by the World Bank, spannin",
+      "channel": "GFDRR",
+      "published": "2026-06-17T15:17:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/dNxSOguf45M/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dNxSOguf45M"
+    },
     {
       "video_id": "YdWVS31qxKI",
       "title": "AI for Clean Air: Scaling Smarter Solutions",
@@ -244,15 +253,6 @@
       "published": "2026-03-16T22:16:27Z",
       "thumbnail": "https://i.ytimg.com/vi/04Dzl4jCMKk/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=04Dzl4jCMKk"
-    },
-    {
-      "video_id": "_N4pgw6LRVs",
-      "title": "GRADE for TTLs: What, Why, & When Behind the Global Rapid Post-Disaster Damage Estimation Products",
-      "description": "In the past 7 years, World Bank task teams have requested Global Rapid post-disaster Damage Estimation (GRADE) assessments for over 25 disasters spanning all of our working regions.\n\nGRADE assessments support the World Bank and partners in determining the appropriate levels of financial and technica",
-      "channel": "GFDRR",
-      "published": "2026-03-16T22:16:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/_N4pgw6LRVs/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_N4pgw6LRVs"
     },
     {
       "video_id": "iN1AJvlSB9U",
