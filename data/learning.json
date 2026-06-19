@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T09:05:01.862861+00:00",
+  "last_updated": "2026-06-19T09:21:00.656622+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Building a Safer Society through Science and Technology: A Compendium of Korea’s Science and Technology-based Disaster Management",
+      "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Financing heat resilience",
       "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
       "type": "learning",
@@ -384,13 +391,6 @@
       "source": "UNDRR",
       "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
-      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "learning",
       "description": ""
     },

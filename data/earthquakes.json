@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T09:04:09.784051+00:00",
-  "count": 25,
+  "last_updated": "2026-06-19T09:20:24.324858+00:00",
+  "count": 23,
   "largest": {
     "source": "USGS",
     "magnitude": 4.3,
@@ -66,22 +66,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "IZMIR KORFEZI (EGE DENIZI) İlksel",
-      "time": "2026-06-13T12:22:49+00:00",
-      "latitude": 38.626,
-      "longitude": 26.6367,
-      "depth_km": 13.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.6,
-      "place": "CICEKLI-ULA (MUGLA) İlksel",
-      "time": "2026-06-13T16:15:42+00:00",
-      "latitude": 37.0882,
-      "longitude": 28.5197,
-      "depth_km": 7.7,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-06-18T15:07:39+00:00",
+      "latitude": 35.998,
+      "longitude": 30.788,
+      "depth_km": 8.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -112,16 +102,6 @@
       "latitude": 34.8103,
       "longitude": 26.08,
       "depth_km": 5.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-06-13T16:39:28+00:00",
-      "latitude": 36.1828,
-      "longitude": 23.4427,
-      "depth_km": 14.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

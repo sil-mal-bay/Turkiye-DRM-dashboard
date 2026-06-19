@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-06-18T09:05:24.395030+00:00",
+  "last_updated": "2026-06-19T09:21:23.280701+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Building a Safer Society through Science and Technology: A Compendium of Korea’s Science and Technology-based Disaster Management",
+      "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Financing heat resilience",
@@ -88,14 +96,6 @@
       "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
       "date": "2026-06-08T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
-      "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
-      "date": "2026-06-05T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "report"
     },
     {
