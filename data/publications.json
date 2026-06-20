@@ -1,13 +1,77 @@
 {
-  "last_updated": "2026-06-19T09:21:23.280701+00:00",
+  "last_updated": "2026-06-20T08:04:09.069482+00:00",
   "count": 18,
   "publications": [
     {
       "source": "UNDRR",
-      "title": "Building a Safer Society through Science and Technology: A Compendium of Korea’s Science and Technology-based Disaster Management",
+      "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",
       "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
       "date": "2026-06-19T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Multi-hazard exposure disproportionately affects vulnerable populations globally",
+      "description": "This study provides a global analysis of multi-hazard exposure and disparities in socio-economic vulnerabilities using data on hazard co-occurrence and population distribution for the period 2004–2017.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/multi-hazard-exposure-disproportionately-affects-vulnerable",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Community-led drainage construction to reduce prolonged flooding",
+      "description": "This solutions brief shares practical and replicable local knowledge of this approach in Nij Goddimari village in Lalmonirhat, Bangladesh, a community which faces chronic flooding and waterlogging due to its proximity to the Saniajan River.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/community-led-drainage-construction-reduce-prolonged",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "State of the climate in Africa 2025",
+      "description": "This report provides a consolidated regional assessment, with authoritative information on key climate indicators, impacts and risks to support decision-making.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/state-climate-africa-2025",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",
+      "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/building-safer-society-through-science-and-technology",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Standing the heat: an analysis of heatwave financing in India’s Union budget",
+      "description": "This report highlights a significant gap in dedicated public financing for heat resilience In India.",
+      "date": "2026-06-18T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/standing-heat-analysis-heatwave-financing-indias-union",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Deep learning completes US flood hazard maps revealing millions exposed to previously unrecognized risk",
+      "description": "This paper presents a deep-learning framework that learns from existing records to produce a spatially complete 30-m flood hazard map for the contiguous US, filling unmapped regions and updating legacy extents.",
+      "date": "2026-06-18T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/deep-learning-completes-us-flood-hazard-maps-revealing",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Seismic capacity survey and earthquake risk assessment of self-built buildings in rural areas of Shanghai Municipality",
+      "description": "This study conducted field research and theoretical calculations to gain an overall understanding of the seismic performance of these buildings.",
+      "date": "2026-06-18T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/seismic-capacity-survey-and-earthquake-risk-assessment-self",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Rapid assessment of flood-induced agricultural losses to support infrastructure and policy decisions",
+      "description": "This study develops an integrated, stochastic modeling framework to quantify three distinct agricultural flood-damage aspects—prevented planting, unharvested acreage, and yield loss—in Chariton County, Missouri.",
+      "date": "2026-06-18T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/rapid-assessment-flood-induced-agricultural-losses-support",
       "type": "report"
     },
     {
@@ -16,70 +80,6 @@
       "description": "This report explores how governments can finance heat resilience through risk-informed investments, innovative financing mechanisms, and resilient infrastructure to protect lives, livelihoods, and economies from rising extreme heat risks.",
       "date": "2026-06-17T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Publication: Children’s climate risk report 2026",
-      "description": "This report reveals how children’s exposure to multiple, overlapping climate hazards, inherent physical vulnerabilities, and the gaps in the social services they rely on, undermines their rights and increases their risk of harm.",
-      "date": "2026-06-17T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/publication-childrens-climate-risk-report-2026",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "State of the Climate in Asia 2025",
-      "description": "The WMO State of the Climate in Asia 2025 reports that ocean heat, which has increased since the 1990s, reached a new record.",
-      "date": "2026-06-17T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/state-climate-asia-2025",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Financing heat resilience",
-      "description": "This report explores how governments can finance heat resilience through risk-informed investments, innovative financing mechanisms, and resilient infrastructure to protect lives, livelihoods, and economies from rising extreme heat risks.",
-      "date": "2026-06-17T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/financing-heat-resilience",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Pathways to locally led adaptation: Lessons for effective climate resilience finance",
-      "description": "The report distils what the Alliance has learned through working directly within planning and budgeting processes in 10 countries: Bangladesh, Bolivia, Indonesia, Jordan, Kenya, Malawi, Nepal, Nigeria, the Philippines, and Vietnam.",
-      "date": "2026-06-17T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/pathways-locally-led-adaptation-lessons-effective-climate",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Predicting hydrological drought at global scale: an analysis of the CEMS seasonal forecasts",
-      "description": "This study evaluates the performance of forecasts in detecting hydrological drought in the period 1991–2022 using the ECMWF reanalysis ERA5 as a proxy for the observational reference.",
-      "date": "2026-06-16T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/predicting-hydrological-drought-global-scale-analysis-cems",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Rethinking architectural education post-disaster: an analytical framework for curricular transformation after the 2023 Kahramanmaraş earthquakes",
-      "description": "This study conducts a comparative analysis of the presence and evolution of disaster and earthquake-focused courses in Turkish public and foundation universities between 2022 and 2025.",
-      "date": "2026-06-16T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/rethinking-architectural-education-post-disaster-analytical",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "A novel approach to quantify cover-collapse sinkhole occurrences using multitemporal lidar",
-      "description": "The researchers developed a novel method that detects elevation changes between two successive high-resolution lidar-derived digital elevation models and analyzes these changes to identify cover-collapse sinkholes that occurred over a defined time frame.",
-      "date": "2026-06-16T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/novel-approach-quantify-cover-collapse-sinkhole-occurrences",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Advancing gender-transformative action in human mobility in the context of climate change",
-      "description": "This publication explores how climate mobility programmes can move beyond gender-responsive approaches towards more gender-transformative change.",
-      "date": "2026-06-16T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/advancing-gender-transformative-action-human-mobility",
       "type": "report"
     },
     {
