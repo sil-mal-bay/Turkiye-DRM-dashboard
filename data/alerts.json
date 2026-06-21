@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-06-20T08:04:09.070297+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-06-21T08:47:31.379240+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "high",
+      "title": "M5.2 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
+      "magnitude": 5.2,
+      "time": "2026-06-20T12:37:29+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 34.9703,
+      "longitude": 24.2132,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.6 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
+      "magnitude": 4.6,
+      "time": "2026-06-20T12:31:13+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 35.0143,
+      "longitude": 24.229,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

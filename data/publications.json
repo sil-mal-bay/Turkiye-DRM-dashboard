@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T08:04:09.069482+00:00",
+  "last_updated": "2026-06-21T08:47:31.377539+00:00",
   "count": 18,
   "publications": [
     {
@@ -8,6 +8,30 @@
       "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
       "date": "2026-06-19T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Rapid disaster damage assessment using deep adversarial sliced Wasserstein domain adaptation",
+      "description": "This study investigates the use of unsupervised domain adaptation (UDA) techniques for rapid damage assessment during disasters.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/rapid-disaster-damage-assessment-using-deep-adversarial",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Loss and damage beyond economics: exploring health as a non-economic loss in national climate planning",
+      "description": "The report offers a snapshot of how health-related Loss and Damage is reflected in national climate policy documents, examining the extent to which physical health, mental health, and health systems are integrated into climate planning and action.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/loss-and-damage-beyond-economics-exploring-health-non",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Preventing future zoonotic pandemics: strengthening national legal frameworks & international cooperation",
+      "description": "This report examines how national legal frameworks and international cooperation can help prevent future zoonotic pandemics, with a particular focus on the role of wildlife trade in the emergence and spread of infectious diseases.",
+      "date": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/preventing-future-zoonotic-pandemics-strengthening-national",
       "type": "report"
     },
     {
@@ -48,30 +72,6 @@
       "description": "This report highlights a significant gap in dedicated public financing for heat resilience In India.",
       "date": "2026-06-18T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/standing-heat-analysis-heatwave-financing-indias-union",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Deep learning completes US flood hazard maps revealing millions exposed to previously unrecognized risk",
-      "description": "This paper presents a deep-learning framework that learns from existing records to produce a spatially complete 30-m flood hazard map for the contiguous US, filling unmapped regions and updating legacy extents.",
-      "date": "2026-06-18T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/deep-learning-completes-us-flood-hazard-maps-revealing",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Seismic capacity survey and earthquake risk assessment of self-built buildings in rural areas of Shanghai Municipality",
-      "description": "This study conducted field research and theoretical calculations to gain an overall understanding of the seismic performance of these buildings.",
-      "date": "2026-06-18T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/seismic-capacity-survey-and-earthquake-risk-assessment-self",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Rapid assessment of flood-induced agricultural losses to support infrastructure and policy decisions",
-      "description": "This study develops an integrated, stochastic modeling framework to quantify three distinct agricultural flood-damage aspects—prevented planting, unharvested acreage, and yield loss—in Chariton County, Missouri.",
-      "date": "2026-06-18T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/rapid-assessment-flood-induced-agricultural-losses-support",
       "type": "report"
     },
     {
