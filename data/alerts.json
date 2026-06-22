@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T08:47:31.379240+00:00",
-  "count": 2,
+  "last_updated": "2026-06-22T10:23:17.583520+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
@@ -23,6 +23,18 @@
       "location": "GIRIT ADASI (AKDENIZ) İlksel",
       "latitude": 35.0143,
       "longitude": 24.229,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — KARADENIZ İlksel",
+      "magnitude": 4.1,
+      "time": "2026-06-22T08:48:12+00:00",
+      "location": "KARADENIZ İlksel",
+      "latitude": 45.0478,
+      "longitude": 33.4238,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
