@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T10:22:54.997742+00:00",
+  "last_updated": "2026-06-23T08:04:53.431796+00:00",
   "count": 62,
   "items": [
     {
@@ -270,16 +270,23 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "title": "Flood risk in road networks",
+      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
+      "link": "https://documents1.worldbank.org/curated/en/099925206182636834/pdf/IDU-cb537923-dcea-4ca4-8fc3-82def0940215.pdf",
+      "type": "report",
       "description": ""
     },
     {
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "Seizing the Urban Opportunity in the Pacific",
       "link": "https://www.worldbank.org/en/country/pacificislands/publication/seizing-the-urban-opportunity-in-the-pacific",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Moldova Country Climate and Development Report",
-      "link": "https://openknowledge.worldbank.org/entities/publication/b5886ecd-d46b-4d48-a747-19e9326e0e9d",
       "type": "report",
       "description": ""
     },

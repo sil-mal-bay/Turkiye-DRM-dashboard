@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-06-22T10:23:17.583520+00:00",
-  "count": 3,
+  "last_updated": "2026-06-23T08:05:16.238260+00:00",
+  "count": 4,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.2 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
-      "magnitude": 5.2,
-      "time": "2026-06-20T12:37:29+00:00",
-      "location": "GIRIT ADASI (AKDENIZ) İlksel",
-      "latitude": 34.9703,
-      "longitude": 24.2132,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.6 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
-      "magnitude": 4.6,
-      "time": "2026-06-20T12:31:13+00:00",
-      "location": "GIRIT ADASI (AKDENIZ) İlksel",
-      "latitude": 35.0143,
-      "longitude": 24.229,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -35,6 +11,42 @@
       "location": "KARADENIZ İlksel",
       "latitude": 45.0478,
       "longitude": 33.4238,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — KARADENIZ İlksel",
+      "magnitude": 4.1,
+      "time": "2026-06-22T14:07:27+00:00",
+      "location": "KARADENIZ İlksel",
+      "latitude": 44.7722,
+      "longitude": 33.1887,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.1,
+      "time": "2026-06-23T06:55:26+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 38.7135,
+      "longitude": 23.3055,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — GURCISTAN İlksel",
+      "magnitude": 4.0,
+      "time": "2026-06-23T07:07:54+00:00",
+      "location": "GURCISTAN İlksel",
+      "latitude": 42.4712,
+      "longitude": 42.7753,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
