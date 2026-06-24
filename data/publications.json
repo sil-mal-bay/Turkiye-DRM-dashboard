@@ -1,13 +1,69 @@
 {
-  "last_updated": "2026-06-23T08:05:16.237485+00:00",
+  "last_updated": "2026-06-24T08:00:34.524977+00:00",
   "count": 18,
   "publications": [
     {
       "source": "PreventionWeb",
-      "title": "Adapting infrastructure to changing climatic conditions: the case of transport infrastructure in Mongolia",
-      "description": "This policy paper analyses the mainstreaming of climate resilience into Mongolia's transport infrastructure before the bulk of the country's planned network is built.",
-      "date": "2026-06-22T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/adapting-infrastructure-changing-climatic-conditions-case",
+      "title": "World Risk Poll 2026 report: Alone together: The hidden consensus on climate change",
+      "description": "This report explores public perceptions of the threat of climate change - perceptions that are shaped by people’s lived experience of risk in their daily lives as much as by scientific evidence.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/world-risk-poll-2026-report-alone-together-hidden-consensus",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Asymmetric economic impacts of climate extremes on Italian agriculture: a nonlinear ARDL approach",
+      "description": "This study investigates the asymmetric economic impacts of climate extremes on the Italian agricultural sector.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/asymmetric-economic-impacts-climate-extremes-italian",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Country perspectives on pre-arranged financing: Belize, Grenada and Jamaica",
+      "description": "This report presents a comparative synthesis of how stakeholders in three Caribbean Small Island Developing States — Belize, Grenada, and Jamaica — value the core attributes of pre-arranged financing (PAF) for sovereign disaster risk.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/country-perspectives-pre-arranged-financing-belize-grenada",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Country perspectives on pre-arranged financing: Kenya, Malawi, Nigeria, Senegal and Zambia",
+      "description": "This report presents the first cross-country study to use a structured simulation to elicit how policymakers in five African countries value the core attributes of pre-arranged financing (PAF) systems for disaster response.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/country-perspectives-pre-arranged-financing-kenya-malawi",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Women and climate adaptation in rural sub-Saharan Africa: constraints and research priorities",
+      "description": "This brief reviews the empirical evidence on the barriers women face in adapting to climate change in rural Sub-Saharan Africa. A",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/women-and-climate-adaptation-rural-sub-saharan-africa",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "What governments want from pre-arranged financing: evidence from Africa and the Caribbean",
+      "description": "This policy brief presents the first cross-country study of what governments want from pre-arranged financing (PAF) — funding secured in advance to respond to disasters.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/what-governments-want-pre-arranged-financing-evidence-africa",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Where heat does not come in waves: a framework for understanding and managing chronic heat",
+      "description": "This study argues that heat research and practice have focused too narrowly on heat waves as acute, episodic emergencies, obscuring the chronic exposure of billions of people to dangerous levels of heat for months at a time.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/where-heat-does-not-come-waves-framework-understanding-and",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Competing in the face of climate risks: evidence from firms and policy priorities in MENAAP",
+      "description": "This World Bank Development Report examines how rising climate risks are reshaping the competitiveness of firms across the Middle East, North Africa, Afghanistan, and Pakistan (MENAAP) region.",
+      "date": "2026-06-23T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/competing-face-climate-risks-evidence-firms-and-policy",
       "type": "report"
     },
     {
@@ -16,62 +72,6 @@
       "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
       "date": "2026-06-19T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Rapid disaster damage assessment using deep adversarial sliced Wasserstein domain adaptation",
-      "description": "This study investigates the use of unsupervised domain adaptation (UDA) techniques for rapid damage assessment during disasters.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/rapid-disaster-damage-assessment-using-deep-adversarial",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Loss and damage beyond economics: exploring health as a non-economic loss in national climate planning",
-      "description": "The report offers a snapshot of how health-related Loss and Damage is reflected in national climate policy documents, examining the extent to which physical health, mental health, and health systems are integrated into climate planning and action.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/loss-and-damage-beyond-economics-exploring-health-non",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Preventing future zoonotic pandemics: strengthening national legal frameworks & international cooperation",
-      "description": "This report examines how national legal frameworks and international cooperation can help prevent future zoonotic pandemics, with a particular focus on the role of wildlife trade in the emergence and spread of infectious diseases.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/preventing-future-zoonotic-pandemics-strengthening-national",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Multi-hazard exposure disproportionately affects vulnerable populations globally",
-      "description": "This study provides a global analysis of multi-hazard exposure and disparities in socio-economic vulnerabilities using data on hazard co-occurrence and population distribution for the period 2004–2017.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/multi-hazard-exposure-disproportionately-affects-vulnerable",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Community-led drainage construction to reduce prolonged flooding",
-      "description": "This solutions brief shares practical and replicable local knowledge of this approach in Nij Goddimari village in Lalmonirhat, Bangladesh, a community which faces chronic flooding and waterlogging due to its proximity to the Saniajan River.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/community-led-drainage-construction-reduce-prolonged",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "State of the climate in Africa 2025",
-      "description": "This report provides a consolidated regional assessment, with authoritative information on key climate indicators, impacts and risks to support decision-making.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/state-climate-africa-2025",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",
-      "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/building-safer-society-through-science-and-technology",
       "type": "report"
     },
     {
@@ -96,6 +96,14 @@
       "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
       "date": "2026-06-08T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
+      "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
+      "date": "2026-06-05T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "report"
     },
     {
@@ -136,14 +144,6 @@
       "description": "This Teacher’s Pack supports the use of the  Stop Disasters online game as a practical way to introduce disaster risk reduction (DRR) and resilience in the classroom.",
       "date": "2026-04-16T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/teaching-resilience-stop-disasters-game-teachers-guide",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Concept note: The International day in memory of the victims of earthquakes",
-      "description": "The international day provides an annual opportunity for remembrance and renewed commitment to protecting lives and livelihoods from earthquake disasters.",
-      "date": "2026-03-30T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
       "type": "report"
     }
   ]

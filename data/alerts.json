@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T08:05:16.238260+00:00",
-  "count": 4,
+  "last_updated": "2026-06-24T08:00:34.525609+00:00",
+  "count": 5,
   "alerts": [
     {
       "type": "earthquake",
@@ -49,6 +49,18 @@
       "longitude": 42.7753,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.2 earthquake — 9 km WNW of Germencik, Turkey",
+      "magnitude": 4.2,
+      "time": "2026-06-23T11:04:36.971000+00:00",
+      "location": "9 km WNW of Germencik, Turkey",
+      "latitude": 37.8888,
+      "longitude": 27.4993,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7kj"
     }
   ]
 }
