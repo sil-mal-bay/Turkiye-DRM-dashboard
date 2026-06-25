@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-06-24T08:00:34.525609+00:00",
-  "count": 5,
+  "last_updated": "2026-06-25T08:00:57.830702+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — KARADENIZ İlksel",
-      "magnitude": 4.1,
-      "time": "2026-06-22T08:48:12+00:00",
-      "location": "KARADENIZ İlksel",
-      "latitude": 45.0478,
-      "longitude": 33.4238,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — KARADENIZ İlksel",
-      "magnitude": 4.1,
-      "time": "2026-06-22T14:07:27+00:00",
-      "location": "KARADENIZ İlksel",
-      "latitude": 44.7722,
-      "longitude": 33.1887,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — YUNANISTAN İlksel",
-      "magnitude": 4.1,
-      "time": "2026-06-23T06:55:26+00:00",
-      "location": "YUNANISTAN İlksel",
-      "latitude": 38.7135,
-      "longitude": 23.3055,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — GURCISTAN İlksel",
-      "magnitude": 4.0,
-      "time": "2026-06-23T07:07:54+00:00",
-      "location": "GURCISTAN İlksel",
-      "latitude": 42.4712,
-      "longitude": 42.7753,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -61,6 +13,18 @@
       "longitude": 27.4993,
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7kj"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.8 earthquake — EGE DENIZI İlksel",
+      "magnitude": 4.8,
+      "time": "2026-06-24T11:25:57+00:00",
+      "location": "EGE DENIZI İlksel",
+      "latitude": 35.6093,
+      "longitude": 27.0848,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
 }

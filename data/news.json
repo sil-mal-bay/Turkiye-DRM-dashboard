@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T07:59:46.013881+00:00",
-  "count": 13,
+  "last_updated": "2026-06-25T08:00:08.595474+00:00",
+  "count": 12,
   "articles": [
     {
       "source": "undrr",
@@ -17,16 +17,29 @@
     },
     {
       "source": "undrr",
-      "title": "Interagency working group of Tajikistan's national DRR platform agrees on approaches to monitor the implementation of the national strategy",
+      "title": "Tajikistan to establish framework for Disaster Risk Information Exchange",
       "original_title": null,
-      "description": "The Interagency Experts Working Group of the National Platform for Disaster Risk Reduction (DRR) discusses strategic tools for enhancing the effectiveness of risk management, improving data collection, and developing early warning systems in the country.",
-      "published": "2026-06-23T13:54:43+00:00",
-      "link": "https://www.undrr.org/news/interagency-working-group-tajikistans-national-drr-platform-agrees-approaches-monitor",
+      "description": "A consultative meeting on Disaster Risk Information Exchange convened in Dushanbe, brought together national specialists and international experts dedicated to DRR and the enhancement of multi-hazard early warning systems.",
+      "published": "2026-06-24T08:28:47+00:00",
+      "link": "https://www.undrr.org/news/tajikistan-establish-framework-disaster-risk-information-exchange",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Interagency working group of Tajikistan's national DRR platform agrees on approaches to monitor the implementation of the national strategy",
+      "original_title": null,
+      "description": "The Interagency Experts Working Group of the National Platform for Disaster Risk Reduction (DRR) discusses strategic tools for enhancing the effectiveness of risk management, improving data collection, and developing early warning systems in the country.",
+      "published": "2026-06-23T13:54:43+00:00",
+      "link": "https://www.undrr.org/news/interagency-working-group-tajikistans-national-drr-platform-agrees-approaches-monitor",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "The 13th EURESFO, held in Guimarães, Portugal, brought together urban resilience practitioners, city leaders, and international partners to accelerate local action on disaster risk reduction (DRR), climate adaptation, and resilient urban governance.",
       "published": "2026-06-23T13:01:50+00:00",
       "link": "https://www.undrr.org/news/undrr-brings-local-voices-center-13th-european-urban-resilience-forum",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,11 +61,11 @@
       "description": "In more than a century of operation, the authorities that manage the Panama Canal have accumulated some valuable lessons in risk governance that are relevant to other major infrastructure systems – and to disaster risk reduction more broadly.",
       "published": "2026-06-23T12:26:57+00:00",
       "link": "https://www.undrr.org/news/eleven-lessons-risk-governance-panama-canal",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -61,11 +74,11 @@
       "description": "The United Nations Office for Disaster Risk Reduction (UNDRR) today announced that the theme for the 2026 International Day for Disaster Risk Reduction (IDDRR), observed on 13 October, will be “Resilience Starts at Home.”",
       "published": "2026-06-21T13:03:52+00:00",
       "link": "https://www.undrr.org/news/undrr-announces-resilience-starts-home-theme-2026-international-day-disaster-risk-reduction",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -139,32 +152,6 @@
       "description": "More than sixty national experts and international partners convened in Paramaribo on 5 and 6 May 2026, bringing all relevant actors together for the first time within the Early Warnings for All (EW4All) framework.",
       "published": "2026-06-15T16:09:12+00:00",
       "link": "https://www.undrr.org/news/suriname-advances-toward-national-early-warning-system-protects-everyone-time",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Alexandria advances resilience planning through first technical workshop under MCR2030",
-      "original_title": null,
-      "description": "Alexandria is taking new steps to strengthen urban resilience and disaster risk reduction, as city counterparts and national partners joined an online technical workshop under the Making Cities Resilient 2030 (MCR2030) initiative.",
-      "published": "2026-06-11T08:43:10+00:00",
-      "link": "https://www.undrr.org/news/alexandria-advances-resilience-planning-through-first-technical-workshop-under-mcr2030",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "24th Africa Working Group on Disaster Risk Reduction",
-      "original_title": null,
-      "description": "This outcome document of the 24th Africa Working Group on Disaster Risk Reduction.",
-      "published": "2026-06-11T06:38:13+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
