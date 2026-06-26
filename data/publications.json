@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-25T08:00:57.829816+00:00",
+  "last_updated": "2026-06-26T08:09:20.923862+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Navigating the Indian power sector in the face of extreme heat: A scoping note",
+      "description": "This scoping note examines how intensifying heat-waves threaten every link of India’s power-sector value chain and outlines a roadmap for climate-ready electricity systems.",
+      "date": "2026-06-25T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/navigating-indian-power-sector-face-extreme-heat-scoping",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Heat smart schools",
+      "description": "Heat Smart Schools is a guidance framework by CDRI to help schools adapt to rising extreme heat risks. With over two billion children projected to face frequent heatwaves by 2050, the document emphasizes that heat threatens health, learning, and equity.",
+      "date": "2026-06-25T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/heat-smart-schools",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Understanding the global landscape of heat early warning systems",
@@ -48,22 +64,6 @@
       "description": "This brief reviews the empirical evidence on the barriers women face in adapting to climate change in rural Sub-Saharan Africa. A",
       "date": "2026-06-23T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/women-and-climate-adaptation-rural-sub-saharan-africa",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "What governments want from pre-arranged financing: evidence from Africa and the Caribbean",
-      "description": "This policy brief presents the first cross-country study of what governments want from pre-arranged financing (PAF) — funding secured in advance to respond to disasters.",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/what-governments-want-pre-arranged-financing-evidence-africa",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Where heat does not come in waves: a framework for understanding and managing chronic heat",
-      "description": "This study argues that heat research and practice have focused too narrowly on heat waves as acute, episodic emergencies, obscuring the chronic exposure of billions of people to dangerous levels of heat for months at a time.",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/where-heat-does-not-come-waves-framework-understanding-and",
       "type": "report"
     },
     {

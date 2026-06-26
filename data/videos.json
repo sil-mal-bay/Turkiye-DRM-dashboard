@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-06-25T08:00:10.838340+00:00",
+  "last_updated": "2026-06-26T08:08:36.021427+00:00",
   "count": 32,
   "videos": [
+    {
+      "video_id": "YdWVS31qxKI",
+      "title": "AI for Clean Air: Scaling Smarter Solutions",
+      "description": "Air pollution is one of the most pressing development challenges globally, with far-reaching impacts on health, productivity, and economic growth. In South Asia alone, nearly one billion people are exposed to hazardous air every day, leading to around one million premature deaths annually, and short",
+      "channel": "World Bank Group",
+      "published": "2026-06-25T13:02:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/YdWVS31qxKI/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YdWVS31qxKI"
+    },
     {
       "video_id": "DqJH5zZ76Is",
       "title": "知識から実践へ: 緊急事態への備えと対応アカデミー (日本)",
@@ -37,15 +46,6 @@
       "published": "2026-06-17T15:17:17Z",
       "thumbnail": "https://i.ytimg.com/vi/dNxSOguf45M/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dNxSOguf45M"
-    },
-    {
-      "video_id": "YdWVS31qxKI",
-      "title": "AI for Clean Air: Scaling Smarter Solutions",
-      "description": "Air pollution is one of the most pressing development challenges globally, with far-reaching impacts on health, productivity, and economic growth. In South Asia alone, nearly one billion people are exposed to hazardous air every day, leading to around one million premature deaths annually, and short",
-      "channel": "World Bank Group",
-      "published": "2026-06-16T03:36:03Z",
-      "thumbnail": "https://i.ytimg.com/vi/YdWVS31qxKI/mqdefault_live.jpg",
-      "url": "https://www.youtube.com/watch?v=YdWVS31qxKI"
     },
     {
       "video_id": "W9x8D0DS0Sw",
