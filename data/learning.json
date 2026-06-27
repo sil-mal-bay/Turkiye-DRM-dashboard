@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T08:08:58.851638+00:00",
+  "last_updated": "2026-06-27T07:36:34.365173+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -382,6 +382,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Knowing what the weather will do: A guide for practitioners on impact-based early warning",
+      "link": "https://www.undrr.org/publication/documents-and-publications/knowing-what-weather-will-do-guide-practitioners-impact",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "24th Africa Working Group on Disaster Risk Reduction",
       "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
       "type": "learning",
@@ -391,6 +398,13 @@
       "source": "UNDRR",
       "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
+      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "learning",
       "description": ""
     },
@@ -419,20 +433,6 @@
       "source": "UNDRR",
       "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Jan-Mar 2026)",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-jan-mar",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Teaching resilience with the Stop Disasters game: a teacher's guide",
-      "link": "https://www.undrr.org/publication/documents-and-publications/teaching-resilience-stop-disasters-game-teachers-guide",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Concept note: The International day in memory of the victims of earthquakes",
-      "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
       "type": "learning",
       "description": ""
     }

@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-06-26T08:09:20.924743+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.8 earthquake — EGE DENIZI İlksel",
-      "magnitude": 4.8,
-      "time": "2026-06-24T11:25:57+00:00",
-      "location": "EGE DENIZI İlksel",
-      "latitude": 35.6093,
-      "longitude": 27.0848,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-06-27T07:36:57.304426+00:00",
+  "count": 0,
+  "alerts": []
 }

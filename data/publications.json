@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-06-26T08:09:20.923862+00:00",
+  "last_updated": "2026-06-27T07:36:57.303610+00:00",
   "count": 18,
   "publications": [
+    {
+      "source": "PreventionWeb",
+      "title": "Handbook on macroeconomic modelling for climate resilience",
+      "description": "This handbook provides guidance for designing and implementing technical assistance on macroeconomic modelling to support climate resilient economic development in partner countries.",
+      "date": "2026-06-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/handbook-macroeconomic-modelling-climate-resilience-0",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Policy brief: Strengthening local government action on urban heat in Sri Lankan cities: UHI-City resilience scorecard & comprehensive guidance note",
+      "description": "This study seeks to understand how UHI risks are perceived, prioritised, and addressed in Sri Lankan cities, identify barriers and enablers influencing local government action.",
+      "date": "2026-06-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/policy-brief-strengthening-local-government-action-urban",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "From urban heat islands to resilient cities: A conceptual framework for resilient and sustainable urban environments",
+      "description": "This study aims to synthesise existing knowledge on urban heat island mechanisms, patterns, and impacts; review strategies for reducing UHI and heat risks; and develop a conceptual framework to support urban heat resilience and sustainable city planning.",
+      "date": "2026-06-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/urban-heat-islands-resilient-cities-conceptual-framework",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "How hazards turn into disasters: Perspectives of emergency responders",
+      "description": "This study investigates how disaster and emergency management professionals prioritize the factors that shape disaster risk and resilience across different contexts.",
+      "date": "2026-06-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/how-hazards-turn-disasters-perspectives-emergency-responders",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Expanding the Sendai Framework for Disaster Risk Reduction to include animals",
+      "description": "Policy paper proposing an animal-inclusive approach to the Sendai Framework by integrating animal welfare, biodiversity and sentient beings into disaster risk reduction.",
+      "date": "2026-06-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/expanding-sendai-framework-disaster-risk-reduction-include",
+      "type": "report"
+    },
+    {
+      "source": "PreventionWeb",
+      "title": "Making Delhi Heat-Resilient: A roadmap with the focus on vulnerable groups",
+      "description": "The study aims to assess Delhi's increasing heat stress and looks into propose roadmap that combines year-round city-wide heat resilience measures with targeted interventions for vulnerable groups.",
+      "date": "2026-06-26T00:00:00+00:00",
+      "link": "https://www.preventionweb.net/publication/documents-and-publications/making-delhi-heat-resilient-roadmap-focus-vulnerable-groups",
+      "type": "report"
+    },
     {
       "source": "PreventionWeb",
       "title": "Navigating the Indian power sector in the face of extreme heat: A scoping note",
@@ -16,54 +64,6 @@
       "description": "Heat Smart Schools is a guidance framework by CDRI to help schools adapt to rising extreme heat risks. With over two billion children projected to face frequent heatwaves by 2050, the document emphasizes that heat threatens health, learning, and equity.",
       "date": "2026-06-25T00:00:00+00:00",
       "link": "https://www.preventionweb.net/publication/documents-and-publications/heat-smart-schools",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Understanding the global landscape of heat early warning systems",
-      "description": "This report provides a global overview Heat Early Warning Systems, examining where they exist, how they are designed and operated, and their challenges and opportunities.",
-      "date": "2026-06-24T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/understanding-global-landscape-heat-early-warning-systems",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "World Risk Poll 2026 report: Alone together: The hidden consensus on climate change",
-      "description": "This report explores public perceptions of the threat of climate change - perceptions that are shaped by people’s lived experience of risk in their daily lives as much as by scientific evidence.",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/world-risk-poll-2026-report-alone-together-hidden-consensus",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Asymmetric economic impacts of climate extremes on Italian agriculture: a nonlinear ARDL approach",
-      "description": "This study investigates the asymmetric economic impacts of climate extremes on the Italian agricultural sector.",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/asymmetric-economic-impacts-climate-extremes-italian",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Country perspectives on pre-arranged financing: Belize, Grenada and Jamaica",
-      "description": "This report presents a comparative synthesis of how stakeholders in three Caribbean Small Island Developing States — Belize, Grenada, and Jamaica — value the core attributes of pre-arranged financing (PAF) for sovereign disaster risk.",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/country-perspectives-pre-arranged-financing-belize-grenada",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Country perspectives on pre-arranged financing: Kenya, Malawi, Nigeria, Senegal and Zambia",
-      "description": "This report presents the first cross-country study to use a structured simulation to elicit how policymakers in five African countries value the core attributes of pre-arranged financing (PAF) systems for disaster response.",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/country-perspectives-pre-arranged-financing-kenya-malawi",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Women and climate adaptation in rural sub-Saharan Africa: constraints and research priorities",
-      "description": "This brief reviews the empirical evidence on the barriers women face in adapting to climate change in rural Sub-Saharan Africa. A",
-      "date": "2026-06-23T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/women-and-climate-adaptation-rural-sub-saharan-africa",
       "type": "report"
     },
     {
@@ -84,6 +84,14 @@
     },
     {
       "source": "UNDRR",
+      "title": "Knowing what the weather will do: A guide for practitioners on impact-based early warning",
+      "description": "This guidebook provides a novel approach and methodology for designing and implementing Impact-based early warning (IbEW) systems. it guides the co-development and integration of risk knowledge on hazards, exposure, vulnerabilities",
+      "date": "2026-06-12T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/knowing-what-weather-will-do-guide-practitioners-impact",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
       "title": "24th Africa Working Group on Disaster Risk Reduction",
       "description": "This outcome document of the 24th Africa Working Group on Disaster Risk Reduction.",
       "date": "2026-06-11T00:00:00+00:00",
@@ -96,6 +104,14 @@
       "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
       "date": "2026-06-08T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
+      "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
+      "date": "2026-06-05T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "report"
     },
     {
@@ -128,22 +144,6 @@
       "description": "UNDRR's Regional Office for Africa has published its first quarterly newsletter of 2026, detailing the major achievements of the work being done by the organisation.",
       "date": "2026-04-30T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-jan-mar",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Teaching resilience with the Stop Disasters game: a teacher's guide",
-      "description": "This Teacher’s Pack supports the use of the  Stop Disasters online game as a practical way to introduce disaster risk reduction (DRR) and resilience in the classroom.",
-      "date": "2026-04-16T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/teaching-resilience-stop-disasters-game-teachers-guide",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Concept note: The International day in memory of the victims of earthquakes",
-      "description": "The international day provides an annual opportunity for remembrance and renewed commitment to protecting lives and livelihoods from earthquake disasters.",
-      "date": "2026-03-30T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-memory-victims-earthquakes",
       "type": "report"
     }
   ]
