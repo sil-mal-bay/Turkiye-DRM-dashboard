@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T08:03:21.701975+00:00",
+  "last_updated": "2026-06-29T09:16:09.836449+00:00",
   "count": 13,
   "articles": [
     {
@@ -17,11 +17,11 @@
     },
     {
       "source": "undrr",
-      "title": "Statement on Venezuela earthquakes by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction",
+      "title": "Morocco advances national early warning systems to protect communities from natural hazards",
       "original_title": null,
-      "description": "Statement on Venezuela earthquakes by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction",
-      "published": "2026-06-26T17:53:26+00:00",
-      "link": "https://www.undrr.org/news/statement-venezuela-earthquakes-kamal-kishore-special-representative-un-secretary-general",
+      "description": "Morocco advances national early warning systems to protect communities from natural hazards",
+      "published": "2026-06-28T08:53:25+00:00",
+      "link": "https://www.undrr.org/news/morocco-advances-national-early-warning-systems-protect-communities-natural-hazards",
       "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -30,11 +30,11 @@
     },
     {
       "source": "undrr",
-      "title": "Save the Date: Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
+      "title": "Statement on Venezuela earthquakes by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction",
       "original_title": null,
-      "description": "The Africa Early Warnings Forum will serve as an implementation and partnership platform focused on recommendations for rapidly scaling effective and sustainable multi-hazard early warning systems across Africa.",
-      "published": "2026-06-25T13:40:56+00:00",
-      "link": "https://www.undrr.org/event/save-date-africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
+      "description": "Statement on Venezuela earthquakes by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction",
+      "published": "2026-06-26T17:53:26+00:00",
+      "link": "https://www.undrr.org/news/statement-venezuela-earthquakes-kamal-kishore-special-representative-un-secretary-general",
       "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -43,11 +43,11 @@
     },
     {
       "source": "undrr",
-      "title": "Tajikistan to establish framework for Disaster Risk Information Exchange",
+      "title": "Save the Date: Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
       "original_title": null,
-      "description": "A consultative meeting on Disaster Risk Information Exchange convened in Dushanbe, brought together national specialists and international experts dedicated to DRR and the enhancement of multi-hazard early warning systems.",
-      "published": "2026-06-24T08:28:47+00:00",
-      "link": "https://www.undrr.org/news/tajikistan-establish-framework-disaster-risk-information-exchange",
+      "description": "The Africa Early Warnings Forum will serve as an implementation and partnership platform focused on recommendations for rapidly scaling effective and sustainable multi-hazard early warning systems across Africa.",
+      "published": "2026-06-25T13:40:56+00:00",
+      "link": "https://www.undrr.org/event/save-date-africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
       "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -56,16 +56,29 @@
     },
     {
       "source": "undrr",
+      "title": "Tajikistan to establish framework for Disaster Risk Information Exchange",
+      "original_title": null,
+      "description": "A consultative meeting on Disaster Risk Information Exchange convened in Dushanbe, brought together national specialists and international experts dedicated to DRR and the enhancement of multi-hazard early warning systems.",
+      "published": "2026-06-24T08:28:47+00:00",
+      "link": "https://www.undrr.org/news/tajikistan-establish-framework-disaster-risk-information-exchange",
+      "score": 31.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 0
+    },
+    {
+      "source": "undrr",
       "title": "Interagency working group of Tajikistan's national DRR platform agrees on approaches to monitor the implementation of the national strategy",
       "original_title": null,
       "description": "The Interagency Experts Working Group of the National Platform for Disaster Risk Reduction (DRR) discusses strategic tools for enhancing the effectiveness of risk management, improving data collection, and developing early warning systems in the country.",
       "published": "2026-06-23T13:54:43+00:00",
       "link": "https://www.undrr.org/news/interagency-working-group-tajikistans-national-drr-platform-agrees-approaches-monitor",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -74,11 +87,11 @@
       "description": "The 13th EURESFO, held in Guimarães, Portugal, brought together urban resilience practitioners, city leaders, and international partners to accelerate local action on disaster risk reduction (DRR), climate adaptation, and resilient urban governance.",
       "published": "2026-06-23T13:01:50+00:00",
       "link": "https://www.undrr.org/news/undrr-brings-local-voices-center-13th-european-urban-resilience-forum",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -87,11 +100,11 @@
       "description": "In more than a century of operation, the authorities that manage the Panama Canal have accumulated some valuable lessons in risk governance that are relevant to other major infrastructure systems – and to disaster risk reduction more broadly.",
       "published": "2026-06-23T12:26:57+00:00",
       "link": "https://www.undrr.org/news/eleven-lessons-risk-governance-panama-canal",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -152,19 +165,6 @@
       "description": "Tajikistan National Pillar Leads convened the second coordination meeting with relevant state agencies and international partners to review the implementation of the National Roadmap on Enhancing Early Warning Systems for 2024–2027.",
       "published": "2026-06-18T09:19:47+00:00",
       "link": "https://www.undrr.org/news/tajikistan-reviews-progress-national-early-warning-systems-roadmap",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Asian Development Bank and UNDRR sign cooperation arrangement to strengthen disaster resilience in Asia and the Pacific",
-      "original_title": null,
-      "description": "ADB and UNDRR signed a Cooperation Arrangement to deepen joint efforts to strengthen disaster risk reduction in Asia-Pacific.",
-      "published": "2026-06-16T12:38:01+00:00",
-      "link": "https://www.undrr.org/news/asian-development-bank-and-undrr-sign-cooperation-arrangement-strengthen-disaster-resilience",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

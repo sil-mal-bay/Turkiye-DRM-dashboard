@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T08:04:10.561537+00:00",
-  "count": 2,
+  "last_updated": "2026-06-29T09:17:06.767241+00:00",
+  "count": 4,
   "alerts": [
     {
       "type": "earthquake",
@@ -23,6 +23,30 @@
       "location": "MIDILLI ADASI (EGE DENIZI) İlksel",
       "latitude": 39.3763,
       "longitude": 26.2215,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — ORMANICI-SINDIRGI (BALIKESIR) İlksel",
+      "magnitude": 4.1,
+      "time": "2026-06-28T15:56:12+00:00",
+      "location": "ORMANICI-SINDIRGI (BALIKESIR) İlksel",
+      "latitude": 39.1792,
+      "longitude": 28.103,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — YUNANISTAN İlksel",
+      "magnitude": 4.1,
+      "time": "2026-06-29T01:08:26+00:00",
+      "location": "YUNANISTAN İlksel",
+      "latitude": 37.1092,
+      "longitude": 22.833,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
