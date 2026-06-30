@@ -1,71 +1,7 @@
 {
-  "last_updated": "2026-06-29T09:17:06.766413+00:00",
-  "count": 18,
+  "last_updated": "2026-06-30T08:07:02.913835+00:00",
+  "count": 10,
   "publications": [
-    {
-      "source": "PreventionWeb",
-      "title": "Counting the cost of heat: the case for urgent solutions for cities",
-      "description": "This report reveals that extreme heat is emerging as one of the most underestimated threats to economic development worldwide, hammering city economies, overwhelming health systems, and falling hardest on women working on the frontlines of a hotter world.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/counting-cost-heat-case-urgent-solutions-cities",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Handbook on macroeconomic modelling for climate resilience",
-      "description": "This handbook provides guidance for designing and implementing technical assistance on macroeconomic modelling to support climate resilient economic development in partner countries.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/handbook-macroeconomic-modelling-climate-resilience-0",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Policy brief: Strengthening local government action on urban heat in Sri Lankan cities: UHI-City resilience scorecard & comprehensive guidance note",
-      "description": "This study seeks to understand how UHI risks are perceived, prioritised, and addressed in Sri Lankan cities, identify barriers and enablers influencing local government action.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/policy-brief-strengthening-local-government-action-urban",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "From urban heat islands to resilient cities: A conceptual framework for resilient and sustainable urban environments",
-      "description": "This study aims to synthesise existing knowledge on urban heat island mechanisms, patterns, and impacts; review strategies for reducing UHI and heat risks; and develop a conceptual framework to support urban heat resilience and sustainable city planning.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/urban-heat-islands-resilient-cities-conceptual-framework",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "How hazards turn into disasters: Perspectives of emergency responders",
-      "description": "This study investigates how disaster and emergency management professionals prioritize the factors that shape disaster risk and resilience across different contexts.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/how-hazards-turn-disasters-perspectives-emergency-responders",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Expanding the Sendai Framework for Disaster Risk Reduction to include animals",
-      "description": "Policy paper proposing an animal-inclusive approach to the Sendai Framework by integrating animal welfare, biodiversity and sentient beings into disaster risk reduction.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/expanding-sendai-framework-disaster-risk-reduction-include",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Making Delhi Heat-Resilient: A roadmap with the focus on vulnerable groups",
-      "description": "The study aims to assess Delhi's increasing heat stress and looks into propose roadmap that combines year-round city-wide heat resilience measures with targeted interventions for vulnerable groups.",
-      "date": "2026-06-26T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/making-delhi-heat-resilient-roadmap-focus-vulnerable-groups",
-      "type": "report"
-    },
-    {
-      "source": "PreventionWeb",
-      "title": "Navigating the Indian power sector in the face of extreme heat: A scoping note",
-      "description": "This scoping note examines how intensifying heat-waves threaten every link of India’s power-sector value chain and outlines a roadmap for climate-ready electricity systems.",
-      "date": "2026-06-25T00:00:00+00:00",
-      "link": "https://www.preventionweb.net/publication/documents-and-publications/navigating-indian-power-sector-face-extreme-heat-scoping",
-      "type": "report"
-    },
     {
       "source": "UNDRR",
       "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",

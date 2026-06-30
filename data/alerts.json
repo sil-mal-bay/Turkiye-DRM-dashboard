@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-06-29T09:17:06.767241+00:00",
-  "count": 4,
+  "last_updated": "2026-06-30T08:07:02.914563+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.4 earthquake — 7 km SSW of Behram, Turkey",
-      "magnitude": 4.4,
-      "time": "2026-06-27T10:27:38.795000+00:00",
-      "location": "7 km SSW of Behram, Turkey",
-      "latitude": 39.4258,
-      "longitude": 26.3051,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8na"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — MIDILLI ADASI (EGE DENIZI) İlksel",
-      "magnitude": 4.3,
-      "time": "2026-06-27T13:27:38+00:00",
-      "location": "MIDILLI ADASI (EGE DENIZI) İlksel",
-      "latitude": 39.3763,
-      "longitude": 26.2215,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
