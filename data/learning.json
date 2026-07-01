@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T08:06:40.528294+00:00",
+  "last_updated": "2026-07-01T08:36:46.024396+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -137,8 +137,8 @@
     },
     {
       "source": "World Bank",
-      "title": "Moldova - Disaster and Climate Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/905271491233095289",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 3 of 3) : Abbreviated Resettlement Action Plan for Port Royal Street Coastal Revetment",
+      "link": "http://documents.worldbank.org/curated/en/940301572849170261",
       "type": "report",
       "description": ""
     },
@@ -270,15 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",
       "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
       "type": "learning",
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
       "link": "https://www.undrr.org/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Jan-Mar 2026)",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-jan-mar",
       "type": "learning",
       "description": ""
     }
