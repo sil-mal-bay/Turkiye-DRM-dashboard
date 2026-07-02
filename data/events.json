@@ -1,5 +1,22 @@
 {
-  "last_updated": "2026-07-01T08:36:44.210291+00:00",
-  "count": 0,
-  "events": []
+  "last_updated": "2026-07-02T07:50:58.372798+00:00",
+  "count": 2,
+  "events": [
+    {
+      "source": "UNDRR",
+      "title": "Launch of the Operational Guidance on Early Warning Systems for Mobile Populations",
+      "date": "2026-07-22T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/launch-operational-guidance-early-warning-systems-mobile-populations",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Launch of the Methodological Guidance on Conducting After Event Reviews of Early Warning Systems",
+      "date": "2026-08-04T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/launch-methodological-guidance-conducting-after-event-reviews-early-warning-systems",
+      "location": null,
+      "type": "event"
+    }
+  ]
 }
