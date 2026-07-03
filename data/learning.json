@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T07:51:00.010036+00:00",
+  "last_updated": "2026-07-03T07:47:02.526340+00:00",
   "count": 62,
   "items": [
     {
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -284,6 +284,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "The Complex Links Between Food Security, Migration, & Fragility in Central America",
+      "link": "https://openknowledge.worldbank.org/entities/publication/da4e8f07-ecd9-42d1-ac03-501ed99533bb",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
       "link": "https://documents1.worldbank.org/curated/en/099925206182636834/pdf/IDU-cb537923-dcea-4ca4-8fc3-82def0940215.pdf",
       "type": "report",
@@ -360,10 +367,10 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Seizing the Urban Opportunity in the Pacific",
-      "link": "https://www.worldbank.org/en/country/pacificislands/publication/seizing-the-urban-opportunity-in-the-pacific",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Analytical Estimate of Damages Caused by the June 24, 2026 Earthquakes in Venezuela",
+      "link": "https://www.undrr.org/publication/documents-and-publications/analytical-estimate-damages-caused-june-24-2026-earthquakes",
+      "type": "learning",
       "description": ""
     },
     {
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "UNDRR Annual Report 2025",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-annual-report-2025",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "When digital systems fail: An expert report on the hidden risks of our digital world",
-      "link": "https://www.undrr.org/publication/documents-and-publications/when-digital-systems-fail-expert-report-hidden-risks-our",
       "type": "learning",
       "description": ""
     }
