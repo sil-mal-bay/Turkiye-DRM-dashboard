@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-03T07:46:38.579528+00:00",
+  "last_updated": "2026-07-04T07:24:11.226452+00:00",
   "count": 13,
   "articles": [
     {
       "source": "dailysabah",
-      "title": "Türkiye shares disaster health expertise at WHO conference",
+      "title": "AFAD helps people with disabilities prepare for disasters in Türkiye",
       "original_title": null,
-      "description": "Türkiye is committed to sharing its disaster management expertise with countries in need as part of its humanitarian responsibility, Health Minister Kemal Memişoğlu said on Thursda...",
-      "published": "2026-07-02T09:40:29+00:00",
-      "link": "https://www.dailysabah.com/turkiye/turkiye-shares-disaster-health-expertise-at-who-conference/news",
+      "description": "People with disabilities in central Türkiye's Kırşehir province took part in a hands-on disaster preparedness training organized by the Disaster and Emergency Management Autho...",
+      "published": "2026-07-03T09:50:33+00:00",
+      "link": "https://www.dailysabah.com/turkiye/afad-helps-people-with-disabilities-prepare-for-disasters-in-turkiye/news",
       "score": 173.0,
       "world_bank_related": false,
       "turkey_related": true,
@@ -35,11 +35,11 @@
       "description": "To support the integration of mobility considerations into MHEWS, UNDRR, WMO, ITU, IFRC and IOM jointly developed the Operational Guidance on Early Warning Systems for Mobile Populations. This webinar marks the official launch of the guidance.",
       "published": "2026-07-02T09:00:00+00:00",
       "link": "https://www.undrr.org/event/launch-operational-guidance-early-warning-systems-mobile-populations",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,19 +48,6 @@
       "description": "The heatwaves of today are the coolest heatwaves we are likely to experience for the rest of our lives. SRSG Kamal Kishore reflects on how cultural institutions can play a central role in extreme heat action – and in disaster risk reduction more broadly.",
       "published": "2026-06-30T13:12:54+00:00",
       "link": "https://www.undrr.org/news/how-cultural-spaces-offer-cool-escape-heat",
-      "score": 67.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 55
-    },
-    {
-      "source": "undrr",
-      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
-      "original_title": null,
-      "description": "In the second quarter of 2026, UNDRR ONEA-GETI has significantly expanded global disaster risk reduction (DRR) and climate resilience capacities through a series of high-impact training of trainers (ToT) workshops, multi-agency certificate programmes, and localized tools. Key achievements include driving inclusive, whole-of-society resilience approaches by delivering disability-inclusive training in Mongolia, supporting gender-responsive programming for UNICEF India, and engaging over 3,000 global participants through the joint UNDRR-UNOSSC-PAHO-UNTB certificate programme.",
-      "published": "2026-06-30T04:56:06+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
       "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -69,16 +56,29 @@
     },
     {
       "source": "undrr",
-      "title": "Morocco advances national early warning systems to protect communities from natural hazards",
+      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
       "original_title": null,
-      "description": "Morocco advances national early warning systems to protect communities from natural hazards",
-      "published": "2026-06-28T08:53:25+00:00",
-      "link": "https://www.undrr.org/news/morocco-advances-national-early-warning-systems-protect-communities-natural-hazards",
+      "description": "In the second quarter of 2026, UNDRR ONEA-GETI has significantly expanded global disaster risk reduction (DRR) and climate resilience capacities through a series of high-impact training of trainers (ToT) workshops, multi-agency certificate programmes, and localized tools. Key achievements include driving inclusive, whole-of-society resilience approaches by delivering disability-inclusive training in Mongolia, supporting gender-responsive programming for UNICEF India, and engaging over 3,000 global participants through the joint UNDRR-UNOSSC-PAHO-UNTB certificate programme.",
+      "published": "2026-06-30T04:56:06+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
       "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 15
+    },
+    {
+      "source": "undrr",
+      "title": "Morocco advances national early warning systems to protect communities from natural hazards",
+      "original_title": null,
+      "description": "Morocco advances national early warning systems to protect communities from natural hazards",
+      "published": "2026-06-28T08:53:25+00:00",
+      "link": "https://www.undrr.org/news/morocco-advances-national-early-warning-systems-protect-communities-natural-hazards",
+      "score": 31.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 0
     },
     {
       "source": "undrr",
