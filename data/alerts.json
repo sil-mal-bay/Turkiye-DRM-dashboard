@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-07-04T07:24:57.731531+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.3 earthquake — AKDENIZ İlksel",
-      "magnitude": 5.3,
-      "time": "2026-07-02T14:06:21+00:00",
-      "location": "AKDENIZ İlksel",
-      "latitude": 35.3662,
-      "longitude": 27.2147,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-07-05T07:44:48.840021+00:00",
+  "count": 0,
+  "alerts": []
 }

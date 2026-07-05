@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T07:24:36.046900+00:00",
-  "count": 61,
+  "last_updated": "2026-07-05T07:44:27.008144+00:00",
+  "count": 62,
   "items": [
     {
       "source": "World Bank",
@@ -62,6 +62,13 @@
       "source": "World Bank",
       "title": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
       "link": "http://documents.worldbank.org/curated/en/984781632914115507",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
       "type": "report",
       "description": ""
     },
