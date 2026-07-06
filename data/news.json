@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-07-05T07:44:02.642317+00:00",
+  "last_updated": "2026-07-06T08:47:07.811817+00:00",
   "count": 13,
   "articles": [
-    {
-      "source": "dailysabah",
-      "title": "AFAD helps people with disabilities prepare for disasters in Türkiye",
-      "original_title": null,
-      "description": "People with disabilities in central Türkiye's Kırşehir province took part in a hands-on disaster preparedness training organized by the Disaster and Emergency Management Autho...",
-      "published": "2026-07-03T09:50:33+00:00",
-      "link": "https://www.dailysabah.com/turkiye/afad-helps-people-with-disabilities-prepare-for-disasters-in-turkiye/news",
-      "score": 153.5,
-      "world_bank_related": false,
-      "turkey_related": true,
-      "credibility_score": 80,
-      "recency_score": 75
-    },
     {
       "source": "undrr",
       "title": "Partnerships & Stakeholders: Science and Technology Community",
@@ -30,24 +17,24 @@
     },
     {
       "source": "undrr",
-      "title": "Geneva Businesses Explore Resilience Through UNDRR’s ReMA Tool in First French-Language Webinar",
+      "title": "Arab stakeholder groups strengthen partnerships to advance disaster risk reduction across the Arab region",
+      "original_title": null,
+      "description": "Representatives of the Arab stakeholder groups for disaster risk reduction (DRR) convened virtually to strengthen regional collaboration and align priorities with the UNDRR Work Programme 2026–2030.",
+      "published": "2026-07-05T08:51:18+00:00",
+      "link": "https://www.undrr.org/news/arab-stakeholder-groups-strengthen-partnerships-advance-disaster-risk-reduction-across-arab",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Geneva businesses explore resilience through UNDRR’s ReMA tool in first French-language webinar",
       "original_title": null,
       "description": "The United Nations Office for Disaster Risk Reduction (UNDRR), in partnership with the Geneva Chamber of Commerce, Industry and Services (CCIG) and the CCRO Network, successfully delivered the first French-language webinar on the ReMA tool.",
       "published": "2026-07-03T14:37:24+00:00",
       "link": "https://www.undrr.org/news/geneva-businesses-explore-resilience-through-undrrs-rema-tool-first-french-language-webinar",
-      "score": 80.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 75
-    },
-    {
-      "source": "undrr",
-      "title": "Launch of the Methodological Guidance on Conducting After Event Reviews of Early Warning Systems",
-      "original_title": null,
-      "description": "UNDRR, WMO, ITU and IFRC jointly developed the Methodological Guidance on Conducting After-Event Reviews of Early Warning Systems. This webinar marks the official launch of the guidance and provides an opportunity to introduce the AER methodology.",
-      "published": "2026-07-02T09:00:00+00:00",
-      "link": "https://www.undrr.org/event/launch-methodological-guidance-conducting-after-event-reviews-early-warning-systems",
       "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -56,16 +43,29 @@
     },
     {
       "source": "undrr",
+      "title": "Launch of the Operational Guidance on Early Warning Systems for Mobile Populations",
+      "original_title": null,
+      "description": "To support the integration of mobility considerations into MHEWS, UNDRR, WMO, ITU, IFRC and IOM jointly developed the Operational Guidance on Early Warning Systems for Mobile Populations. This webinar marks the official launch of the guidance.",
+      "published": "2026-07-02T09:00:00+00:00",
+      "link": "https://www.undrr.org/event/launch-operational-guidance-early-warning-systems-mobile-populations",
+      "score": 54.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 35
+    },
+    {
+      "source": "undrr",
       "title": "How cultural spaces offer a cool escape from the heat",
       "original_title": null,
       "description": "The heatwaves of today are the coolest heatwaves we are likely to experience for the rest of our lives. SRSG Kamal Kishore reflects on how cultural institutions can play a central role in extreme heat action – and in disaster risk reduction more broadly.",
       "published": "2026-06-30T13:12:54+00:00",
       "link": "https://www.undrr.org/news/how-cultural-spaces-offer-cool-escape-heat",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
