@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T08:46:40.896303+00:00",
-  "count": 31,
+  "last_updated": "2026-07-07T07:59:32.972568+00:00",
+  "count": 33,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.3,
@@ -72,6 +72,16 @@
       "latitude": 39.1263,
       "longitude": 22.4153,
       "depth_km": 11.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.8,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-07-06T23:13:48+00:00",
+      "latitude": 40.1772,
+      "longitude": 25.064,
+      "depth_km": 12.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -162,6 +172,26 @@
       "latitude": 39.0163,
       "longitude": 25.968,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "KEMALPASA-GOKSUN (KAHRAMANMARAS) İlksel",
+      "time": "2026-07-07T10:16:08+00:00",
+      "latitude": 38.1102,
+      "longitude": 36.9293,
+      "depth_km": 9.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "HAMIDIYE-BIGADIC (BALIKESIR) İlksel",
+      "time": "2026-07-07T02:26:44+00:00",
+      "latitude": 39.3612,
+      "longitude": 27.979,
+      "depth_km": 9.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -332,16 +362,6 @@
       "latitude": 39.6748,
       "longitude": 25.5605,
       "depth_km": 7.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GUCUKSU-GOKSUN (KAHRAMANMARAS) İlksel",
-      "time": "2026-06-29T14:02:28+00:00",
-      "latitude": 38.0758,
-      "longitude": 36.6382,
-      "depth_km": 6.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

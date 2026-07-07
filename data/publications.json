@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-06T08:47:55.365011+00:00",
+  "last_updated": "2026-07-07T08:00:33.525876+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Building National Systems for DRR Financing",
+      "description": "A booklet describing UNDRR’s approach to Building National Systems for DRR Financing.",
+      "date": "2026-07-06T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/building-national-systems-drr-financing",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Analytical estimate of damages caused by the June 24, 2026 earthquakes in Venezuela",
@@ -72,14 +80,6 @@
       "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
       "date": "2026-05-20T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR Annual Report 2025",
-      "description": "The UNDRR Annual Report 2025 presents several important achievements that UNDRR marked in the year 2025",
-      "date": "2026-05-06T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-annual-report-2025",
       "type": "report"
     }
   ]
