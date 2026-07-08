@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T08:00:10.987156+00:00",
-  "count": 62,
+  "last_updated": "2026-07-08T07:05:48.212149+00:00",
+  "count": 61,
   "items": [
     {
       "source": "World Bank",
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -62,13 +62,6 @@
       "source": "World Bank",
       "title": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
       "link": "http://documents.worldbank.org/curated/en/984781632914115507",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
       "type": "report",
       "description": ""
     },
@@ -109,15 +102,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -368,6 +361,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Leveraging AI to enhance multi-hazard early warning systems",
+      "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Building National Systems for DRR Financing",
       "link": "https://www.undrr.org/publication/documents-and-publications/building-national-systems-drr-financing",
       "type": "learning",
@@ -426,13 +426,6 @@
       "source": "UNDRR",
       "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
       "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Strengthening the disaster resilience of SMEs in Sendai",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
       "type": "learning",
       "description": ""
     }
