@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T07:06:10.924034+00:00",
+  "last_updated": "2026-07-09T08:12:55.388305+00:00",
   "count": 10,
   "publications": [
     {
@@ -8,14 +8,6 @@
       "description": "This report assesses current applications of AI across all four MHEWS pillars, identifies operational gaps where AI can add value, and outlines the conditions required for responsible and effective implementation of AI.",
       "date": "2026-07-07T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Building National Systems for DRR Financing",
-      "description": "A booklet describing UNDRR’s approach to Building National Systems for DRR Financing.",
-      "date": "2026-07-06T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/building-national-systems-drr-financing",
       "type": "report"
     },
     {
@@ -80,6 +72,14 @@
       "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
       "date": "2026-06-05T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Strengthening the disaster resilience of SMEs in Sendai",
+      "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
+      "date": "2026-05-20T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
       "type": "report"
     }
   ]

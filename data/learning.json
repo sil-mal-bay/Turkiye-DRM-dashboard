@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T07:05:48.212149+00:00",
+  "last_updated": "2026-07-09T08:12:32.093147+00:00",
   "count": 61,
   "items": [
     {
@@ -270,9 +270,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
+      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
       "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Malta : Rapid Emergency Response and Readiness Assessment",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
+      "type": "report",
       "description": ""
     },
     {
@@ -353,23 +360,9 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Why Do Some Countries Build Safer?",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099808402232613305",
-      "type": "report",
-      "description": ""
-    },
-    {
       "source": "UNDRR",
       "title": "Leveraging AI to enhance multi-hazard early warning systems",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Building National Systems for DRR Financing",
-      "link": "https://www.undrr.org/publication/documents-and-publications/building-national-systems-drr-financing",
       "type": "learning",
       "description": ""
     },
@@ -426,6 +419,13 @@
       "source": "UNDRR",
       "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
       "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Strengthening the disaster resilience of SMEs in Sendai",
+      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
       "type": "learning",
       "description": ""
     }
