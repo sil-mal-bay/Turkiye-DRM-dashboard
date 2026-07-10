@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T08:12:55.388305+00:00",
+  "last_updated": "2026-07-10T08:00:24.387710+00:00",
   "count": 10,
   "publications": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "source": "UNDRR",
+      "title": "Concept note: International Day for Disaster Risk Reduction 2026: Resilience Starts at Home",
+      "description": "The 2026 IDDRR aims to raise global awareness of the centrality of the home in disaster risk reduction, advocate for stronger governance and investment in resilient housing.",
+      "date": "2026-06-10T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-disaster-risk-reduction-2026",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
       "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
       "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
       "date": "2026-06-08T00:00:00+00:00",
@@ -72,14 +80,6 @@
       "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
       "date": "2026-06-05T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Strengthening the disaster resilience of SMEs in Sendai",
-      "description": "This landscape study assesses how SMEs in Sendai city  perceive climate change and disaster risks and how they assess the resilience of their companies and the cities in which they operate.",
-      "date": "2026-05-20T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-disaster-resilience-smes-sendai",
       "type": "report"
     }
   ]
