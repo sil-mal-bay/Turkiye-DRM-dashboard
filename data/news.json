@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T07:59:37.247736+00:00",
-  "count": 9,
+  "last_updated": "2026-07-11T06:36:59.875974+00:00",
+  "count": 10,
   "articles": [
     {
       "source": "undrr",
@@ -17,16 +17,42 @@
     },
     {
       "source": "undrr",
+      "title": "EW4All Webinar: Accelerating Cell Broadcast for Effective Early Warning Systems in Africa",
+      "original_title": null,
+      "description": "On Wednesday, 24 July 2026, UNDRR's Regional Office for Africa and EW4All partners will host a webinar providing an introductory and practical overview of Cell Broadcast for early warning in Africa.",
+      "published": "2026-07-10T13:34:05+00:00",
+      "link": "https://www.undrr.org/event/ew4all-webinar-accelerating-cell-broadcast-effective-early-warning-systems-africa",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Bridging the last mile of early warning through inclusive disaster preparedness in Beau Bassin–Rose Hill, Mauritius.",
+      "original_title": null,
+      "description": "The Gender and Disability-Inclusive DRR Capacity-Building on Tropical Cyclones and Flash Floods brought together SEN educators, Local Disaster Management Coordinators (LDMCs) from across Mauritius and Organisations of Persons with Disabilities (OPDs).",
+      "published": "2026-07-10T09:44:37+00:00",
+      "link": "https://www.undrr.org/news/bridging-last-mile-early-warning-through-inclusive-disaster-preparedness-beau-bassin-rose-hill",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
       "title": "Leveraging AI to enhance multi-hazard early warning systems",
       "original_title": null,
       "description": "This report assesses current applications of AI across all four MHEWS pillars, identifies operational gaps where AI can add value, and outlines the conditions required for responsible and effective implementation of AI.",
       "published": "2026-07-07T13:03:58+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -35,11 +61,11 @@
       "description": "Representatives of the Arab stakeholder groups for disaster risk reduction (DRR) convened virtually to strengthen regional collaboration and align priorities with the UNDRR Work Programme 2026–2030.",
       "published": "2026-07-05T08:51:18+00:00",
       "link": "https://www.undrr.org/news/arab-stakeholder-groups-strengthen-partnerships-advance-disaster-risk-reduction-across-arab",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -100,19 +126,6 @@
       "description": "Morocco advances national early warning systems to protect communities from natural hazards",
       "published": "2026-06-28T08:53:25+00:00",
       "link": "https://www.undrr.org/news/morocco-advances-national-early-warning-systems-protect-communities-natural-hazards",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Statement on Venezuela earthquakes by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction",
-      "original_title": null,
-      "description": "Statement on Venezuela earthquakes by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction",
-      "published": "2026-06-26T17:53:26+00:00",
-      "link": "https://www.undrr.org/news/statement-venezuela-earthquakes-kamal-kishore-special-representative-un-secretary-general",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
