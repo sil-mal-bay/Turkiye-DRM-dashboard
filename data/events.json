@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T06:37:22.971730+00:00",
-  "count": 6,
+  "last_updated": "2026-07-12T07:08:07.451484+00:00",
+  "count": 7,
   "events": [
     {
       "source": "UNDRR",
@@ -9,6 +9,14 @@
       "link": "https://www.undrr.org/event/launch-operational-guidance-early-warning-systems-mobile-populations",
       "location": null,
       "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "EW4All Webinar: Accelerating Cell Broadcast for Effective Early Warning Systems in Africa",
+      "date": "2026-07-24T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/ew4all-webinar-accelerating-cell-broadcast-effective-early-warning-systems-africa",
+      "location": null,
+      "type": "webinar"
     },
     {
       "source": "UNDRR",

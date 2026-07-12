@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T06:36:59.875974+00:00",
+  "last_updated": "2026-07-12T07:07:43.287350+00:00",
   "count": 10,
   "articles": [
     {
@@ -17,16 +17,16 @@
     },
     {
       "source": "undrr",
-      "title": "EW4All Webinar: Accelerating Cell Broadcast for Effective Early Warning Systems in Africa",
+      "title": "Grenada advances Multi-Hazard Early Warning Systems through First National Consultative Workshop",
       "original_title": null,
-      "description": "On Wednesday, 24 July 2026, UNDRR's Regional Office for Africa and EW4All partners will host a webinar providing an introductory and practical overview of Cell Broadcast for early warning in Africa.",
-      "published": "2026-07-10T13:34:05+00:00",
-      "link": "https://www.undrr.org/event/ew4all-webinar-accelerating-cell-broadcast-effective-early-warning-systems-africa",
-      "score": 90.0,
+      "description": "The outcomes will contribute to the development of Grenada's national MHEWS Gap Analysis and Implementation Roadmap, providing a strategic framework to guide future investments and coordinated action towards Early Warnings for All initiative.",
+      "published": "2026-07-10T16:53:10+00:00",
+      "link": "https://www.undrr.org/news/grenada-advances-multi-hazard-early-warning-systems-through-first-national-consultative",
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +35,11 @@
       "description": "The Gender and Disability-Inclusive DRR Capacity-Building on Tropical Cyclones and Flash Floods brought together SEN educators, Local Disaster Management Coordinators (LDMCs) from across Mauritius and Organisations of Persons with Disabilities (OPDs).",
       "published": "2026-07-10T09:44:37+00:00",
       "link": "https://www.undrr.org/news/bridging-last-mile-early-warning-through-inclusive-disaster-preparedness-beau-bassin-rose-hill",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,11 +48,11 @@
       "description": "This report assesses current applications of AI across all four MHEWS pillars, identifies operational gaps where AI can add value, and outlines the conditions required for responsible and effective implementation of AI.",
       "published": "2026-07-07T13:03:58+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
