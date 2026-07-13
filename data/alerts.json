@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-07-12T07:08:31.368708+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-07-13T07:50:04.814891+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — 14 km WSW of Mandráki, Greece",
+      "magnitude": 4.1,
+      "time": "2026-07-12T23:46:00.181000+00:00",
+      "location": "14 km WSW of Mandráki, Greece",
+      "latitude": 36.5703,
+      "longitude": 26.9756,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
+    }
+  ]
 }

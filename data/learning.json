@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T07:08:09.236919+00:00",
-  "count": 61,
+  "last_updated": "2026-07-13T07:49:42.156751+00:00",
+  "count": 62,
   "items": [
     {
       "source": "World Bank",
@@ -62,6 +62,13 @@
       "source": "World Bank",
       "title": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
       "link": "http://documents.worldbank.org/curated/en/984781632914115507",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Stakeholder Engagement Plan (SEP) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/178341632914088061",
       "type": "report",
       "description": ""
     },
@@ -263,15 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
