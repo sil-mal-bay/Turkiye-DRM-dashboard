@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T06:36:19.705589+00:00",
-  "count": 7,
+  "last_updated": "2026-07-15T06:37:39.101337+00:00",
+  "count": 8,
   "events": [
     {
       "source": "UNDRR",
@@ -36,9 +36,17 @@
     },
     {
       "source": "UNDRR",
-      "title": "Save the Date: Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
+      "title": "International Day of the World's Indigenous Peoples 2026 - Voices for Resilience: Indigenous Knowledge and Early Warning Systems",
+      "date": "2026-08-11T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/international-day-worlds-indigenous-peoples-2026-voices-resilience-indigenous-knowledge-and",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Register Now: Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
       "date": "2026-09-02T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/save-date-africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
+      "link": "https://www.undrr.org/event/register-now-africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
       "location": null,
       "type": "conference"
     },

@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-14T06:36:42.978491+00:00",
+  "last_updated": "2026-07-15T06:38:17.262492+00:00",
   "count": 1,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.1 earthquake — 14 km WSW of Mandráki, Greece",
-      "magnitude": 4.1,
-      "time": "2026-07-12T23:46:00.181000+00:00",
-      "location": "14 km WSW of Mandráki, Greece",
-      "latitude": 36.5703,
-      "longitude": 26.9756,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
+      "title": "M4.0 earthquake — EVRI-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-07-14T21:27:09+00:00",
+      "location": "EVRI-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "latitude": 37.2533,
+      "longitude": 37.0743,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
 }

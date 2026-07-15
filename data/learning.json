@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T06:36:21.115573+00:00",
+  "last_updated": "2026-07-15T06:37:40.454768+00:00",
   "count": 62,
   "items": [
     {
@@ -284,6 +284,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "GFDRR Country Evaluation: Senegal",
+      "link": "https://www.gfdrr.org/sites/default/files/2026-05/Senegal%20Country%20Evaluation_fin.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "Malta : Rapid Emergency Response and Readiness Assessment",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
       "type": "report",
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "Urban Heat : Assessing Risks and Identifying Interventions",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234541428",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Urban Heat : Planning and Implementing Investments for Heat Resilience",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234518921",
       "type": "report",
       "description": ""
     },
