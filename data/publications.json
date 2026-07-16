@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-15T06:38:17.261765+00:00",
+  "last_updated": "2026-07-16T07:03:27.518724+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Early Warning Systems for mobile populations: Operational guidance",
+      "description": "This operational guidance provides direction for designing and implementing people-centred, inclusive multi-hazard early warning systems that effectively reach and protect mobile populations and other groups affected by changing locations or circumstances",
+      "date": "2026-07-15T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "After-Event Review (AER): Methodological guidance on conducting after-event reviews of Early Warning Systems",
+      "description": "The AER methodology guidance provides a practical, structured and learning-oriented framework to guide countries and stakeholders in conducting comprehensive and consistent reviews of EWS performance after hazardous events.",
+      "date": "2026-07-15T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/after-event-review-aer-methodological-guidance-conducting",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Leveraging AI to enhance multi-hazard early warning systems",
@@ -64,22 +80,6 @@
       "description": "The 2026 IDDRR aims to raise global awareness of the centrality of the home in disaster risk reduction, advocate for stronger governance and investment in resilient housing.",
       "date": "2026-06-10T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-disaster-risk-reduction-2026",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
-      "description": "This document provides guidance for Micro, Small and Medium-sized Enterprises (MSMEs) in Barbados to develop a basic Business Continuity Plan, eventually aligning with the highest international standards. It includes 5 sectoral templates.",
-      "date": "2026-06-08T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
-      "description": "This report introduces a framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services.",
-      "date": "2026-06-05T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "report"
     }
   ]

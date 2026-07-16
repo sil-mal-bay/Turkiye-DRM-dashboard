@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T06:37:40.454768+00:00",
-  "count": 62,
+  "last_updated": "2026-07-16T07:03:04.998934+00:00",
+  "count": 61,
   "items": [
     {
       "source": "World Bank",
@@ -67,13 +67,6 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
       "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
       "link": "http://documents.worldbank.org/curated/en/639021468180880212",
       "type": "brief",
@@ -109,15 +102,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -368,6 +361,20 @@
     },
     {
       "source": "UNDRR",
+      "title": "Early Warning Systems for mobile populations: Operational guidance",
+      "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "After-Event Review (AER): Methodological guidance on conducting after-event reviews of Early Warning Systems",
+      "link": "https://www.undrr.org/publication/documents-and-publications/after-event-review-aer-methodological-guidance-conducting",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Leveraging AI to enhance multi-hazard early warning systems",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
       "type": "learning",
@@ -419,20 +426,6 @@
       "source": "UNDRR",
       "title": "Concept note: International Day for Disaster Risk Reduction 2026: Resilience Starts at Home",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-disaster-risk-reduction-2026",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Barbados: Strengthening disaster resilience of MSMEs through business continuity planning: Guidance and sectoral templates",
-      "link": "https://www.undrr.org/publication/documents-and-publications/barbados-strengthening-disaster-resilience-msmes-through",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO)",
-      "link": "https://www.undrr.org/publication/documents-and-publications/framework-towards-assessing-climate-change-and-disaster",
       "type": "learning",
       "description": ""
     }

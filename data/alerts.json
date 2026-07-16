@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T06:38:17.262492+00:00",
-  "count": 1,
+  "last_updated": "2026-07-16T07:03:27.519830+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,18 @@
       "location": "EVRI-PAZARCIK (KAHRAMANMARAS) İlksel",
       "latitude": 37.2533,
       "longitude": 37.0743,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — EGE DENIZI İlksel",
+      "magnitude": 4.1,
+      "time": "2026-07-15T22:15:19+00:00",
+      "location": "EGE DENIZI İlksel",
+      "latitude": 39.356,
+      "longitude": 25.6402,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
