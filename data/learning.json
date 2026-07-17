@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T07:03:04.998934+00:00",
+  "last_updated": "2026-07-17T06:41:03.638454+00:00",
   "count": 61,
   "items": [
     {
@@ -67,6 +67,13 @@
     },
     {
       "source": "World Bank",
+      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
       "link": "http://documents.worldbank.org/curated/en/639021468180880212",
       "type": "brief",
@@ -102,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -263,16 +270,23 @@
     },
     {
       "source": "World Bank",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "Flood risk management and urban resilience workshop",
       "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
     {
-      "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
-      "type": "working paper",
+      "source": "GFDRR",
+      "title": "Working Together for a More Resilient Senegal",
+      "link": "https://www.gfdrr.org",
+      "type": "report",
       "description": ""
     },
     {
@@ -300,13 +314,6 @@
       "source": "GFDRR",
       "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
       "link": "https://documents1.worldbank.org/curated/en/099925206182636834/pdf/IDU-cb537923-dcea-4ca4-8fc3-82def0940215.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "GFDRR Partnership Dialogue 2026 - Flickr",
-      "link": "https://www.gfdrr.org",
       "type": "report",
       "description": ""
     },
@@ -349,13 +356,6 @@
       "source": "GFDRR",
       "title": "Unlocking Nature for Disaster Resilience",
       "link": "https://openknowledge.worldbank.org/entities/publication/69c8fe0d-1147-4574-9c85-1015a79ad7cd",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Urban Heat : Assessing Risks and Identifying Interventions",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099031726234541428",
       "type": "report",
       "description": ""
     },
