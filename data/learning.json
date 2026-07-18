@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T06:41:03.638454+00:00",
-  "count": 61,
+  "last_updated": "2026-07-18T06:29:44.317672+00:00",
+  "count": 62,
   "items": [
     {
       "source": "World Bank",
@@ -284,8 +284,8 @@
     },
     {
       "source": "GFDRR",
-      "title": "Working Together for a More Resilient Senegal",
-      "link": "https://www.gfdrr.org",
+      "title": "Working Together for a More Resilient Senegal: Results and Lessons from GFDRR's Partnership with Senegal",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099532107172619035",
       "type": "report",
       "description": ""
     },
@@ -314,6 +314,13 @@
       "source": "GFDRR",
       "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
       "link": "https://documents1.worldbank.org/curated/en/099925206182636834/pdf/IDU-cb537923-dcea-4ca4-8fc3-82def0940215.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "GFDRR Partnership Dialogue 2026 - Flickr",
+      "link": "https://www.gfdrr.org",
       "type": "report",
       "description": ""
     },

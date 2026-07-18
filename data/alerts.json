@@ -1,16 +1,28 @@
 {
-  "last_updated": "2026-07-17T06:41:26.237969+00:00",
-  "count": 2,
+  "last_updated": "2026-07-18T06:30:06.043194+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — EGE DENIZI İlksel",
-      "magnitude": 4.1,
-      "time": "2026-07-15T22:15:19+00:00",
-      "location": "EGE DENIZI İlksel",
-      "latitude": 39.356,
-      "longitude": 25.6402,
+      "severity": "high",
+      "title": "M5 earthquake — 17 km SE of Malatya, Turkey",
+      "magnitude": 5,
+      "time": "2026-07-18T03:21:00.587000+00:00",
+      "location": "17 km SE of Malatya, Turkey",
+      "latitude": 38.2608,
+      "longitude": 38.4814,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
+    },
+    {
+      "type": "earthquake",
+      "severity": "high",
+      "title": "M5.0 earthquake — GULUMUSAGI-(MALATYA) REVIZE01 (2026.07.18 06:20:58",
+      "magnitude": 5.0,
+      "time": "2026-07-18T06:20:58+00:00",
+      "location": "GULUMUSAGI-(MALATYA) REVIZE01 (2026.07.18 06:20:58",
+      "latitude": 38.238,
+      "longitude": 38.4803,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
