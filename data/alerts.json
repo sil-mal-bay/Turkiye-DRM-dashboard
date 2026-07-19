@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T06:30:06.043194+00:00",
+  "last_updated": "2026-07-19T07:08:09.453308+00:00",
   "count": 3,
   "alerts": [
     {
@@ -17,10 +17,10 @@
     {
       "type": "earthquake",
       "severity": "high",
-      "title": "M5.0 earthquake — GULUMUSAGI-(MALATYA) REVIZE01 (2026.07.18 06:20:58",
+      "title": "M5.0 earthquake — GULUMUSAGI (MALATYA) İlksel",
       "magnitude": 5.0,
       "time": "2026-07-18T06:20:58+00:00",
-      "location": "GULUMUSAGI-(MALATYA) REVIZE01 (2026.07.18 06:20:58",
+      "location": "GULUMUSAGI (MALATYA) İlksel",
       "latitude": 38.238,
       "longitude": 38.4803,
       "source": "Kandilli",
@@ -29,12 +29,12 @@
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.1 earthquake — YENIDAMLAR-KALE (MALATYA) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-07-16T22:52:52+00:00",
-      "location": "YENIDAMLAR-KALE (MALATYA) İlksel",
-      "latitude": 38.3765,
-      "longitude": 38.8813,
+      "title": "M4.3 earthquake — GIRIT ADASI (AKDENIZ) İlksel",
+      "magnitude": 4.3,
+      "time": "2026-07-18T12:04:08+00:00",
+      "location": "GIRIT ADASI (AKDENIZ) İlksel",
+      "latitude": 35.6423,
+      "longitude": 25.071,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
