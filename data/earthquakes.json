@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T07:06:58.567103+00:00",
-  "count": 27,
+  "last_updated": "2026-07-20T07:41:56.659284+00:00",
+  "count": 19,
   "largest": {
     "source": "USGS",
     "magnitude": 5,
@@ -43,16 +43,6 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "USGS",
-      "magnitude": 4.1,
-      "place": "14 km WSW of Mandráki, Greece",
-      "time": "2026-07-12T23:46:00.181000+00:00",
-      "latitude": 36.5703,
-      "longitude": 26.9756,
-      "depth_km": 149.786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
-    },
-    {
       "source": "Kandilli",
       "magnitude": 4.1,
       "place": "YENIDAMLAR-KALE (MALATYA) İlksel",
@@ -70,16 +60,6 @@
       "latitude": 39.356,
       "longitude": 25.6402,
       "depth_km": 6.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "EVRI-PAZARCIK (KAHRAMANMARAS) İlksel",
-      "time": "2026-07-14T21:27:09+00:00",
-      "latitude": 37.2533,
-      "longitude": 37.0743,
-      "depth_km": 8.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
@@ -115,16 +95,6 @@
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "USGS",
-      "magnitude": 4.1,
-      "place": "14 km WSW of Mandráki, Greece",
-      "time": "2026-07-12T23:46:00.181000+00:00",
-      "latitude": 36.5703,
-      "longitude": 26.9756,
-      "depth_km": 149.786,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyg"
-    },
-    {
       "source": "Kandilli",
       "magnitude": 4.1,
       "place": "YENIDAMLAR-KALE (MALATYA) İlksel",
@@ -142,16 +112,6 @@
       "latitude": 39.356,
       "longitude": 25.6402,
       "depth_km": 6.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "EVRI-PAZARCIK (KAHRAMANMARAS) İlksel",
-      "time": "2026-07-14T21:27:09+00:00",
-      "latitude": 37.2533,
-      "longitude": 37.0743,
-      "depth_km": 8.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -196,26 +156,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "ICMESU-SENKAYA (ERZURUM) İlksel",
-      "time": "2026-07-15T00:18:29+00:00",
-      "latitude": 40.426,
-      "longitude": 42.3033,
-      "depth_km": 1.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-07-14T08:23:16+00:00",
-      "latitude": 35.551,
-      "longitude": 27.2017,
-      "depth_km": 11.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-07-18T04:50:06+00:00",
@@ -232,26 +172,6 @@
       "latitude": 40.5237,
       "longitude": 27.1342,
       "depth_km": 14.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "KAS ACIKLARI-ANTALYA (AKDENIZ) İlksel",
-      "time": "2026-07-14T10:44:09+00:00",
-      "latitude": 35.989,
-      "longitude": 29.783,
-      "depth_km": 24.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "ASAGIGOLALAN (VAN) İlksel",
-      "time": "2026-07-14T07:32:06+00:00",
-      "latitude": 38.7497,
-      "longitude": 43.5838,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -306,16 +226,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-07-15T03:00:00+00:00",
-      "latitude": 34.903,
-      "longitude": 26.0855,
-      "depth_km": 8.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.0,
       "place": "HAMIDIYE-CEYHAN (ADANA) İlksel",
       "time": "2026-07-18T23:50:58+00:00",
@@ -342,16 +252,6 @@
       "latitude": 36.1097,
       "longitude": 28.6253,
       "depth_km": 37.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-07-15T05:31:01+00:00",
-      "latitude": 36.5408,
-      "longitude": 28.7407,
-      "depth_km": 16.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

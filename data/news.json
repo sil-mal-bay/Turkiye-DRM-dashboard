@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-07-19T07:07:05.960941+00:00",
-  "count": 9,
+  "last_updated": "2026-07-20T07:42:04.586539+00:00",
+  "count": 7,
   "articles": [
-    {
-      "source": "dailysabah",
-      "title": "Türkiye extends education support for 2023 earthquake survivors",
-      "original_title": null,
-      "description": "The Higher Education Council (YÖK) has extended the 'special student' status for university students affected by the devastating Feb. 6, 2023, earthquakes for another academic year...",
-      "published": "2026-07-17T10:10:16+00:00",
-      "link": "https://www.dailysabah.com/turkiye/education/turkiye-extends-education-support-for-2023-earthquake-survivors",
-      "score": 153.5,
-      "world_bank_related": false,
-      "turkey_related": true,
-      "credibility_score": 80,
-      "recency_score": 75
-    },
     {
       "source": "undrr",
       "title": "Partnerships & Stakeholders: Science and Technology Community",
@@ -35,11 +22,11 @@
       "description": "This operational guidance provides direction for designing and implementing people-centred, inclusive multi-hazard early warning systems that effectively reach and protect mobile populations and other groups affected by changing locations or circumstances",
       "published": "2026-07-15T14:06:57+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -100,19 +87,6 @@
       "description": "This report assesses current applications of AI across all four MHEWS pillars, identifies operational gaps where AI can add value, and outlines the conditions required for responsible and effective implementation of AI.",
       "published": "2026-07-07T13:03:58+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Arab stakeholder groups strengthen partnerships to advance disaster risk reduction across the Arab region",
-      "original_title": null,
-      "description": "Representatives of the Arab stakeholder groups for disaster risk reduction (DRR) convened virtually to strengthen regional collaboration and align priorities with the UNDRR Work Programme 2026–2030.",
-      "published": "2026-07-05T08:51:18+00:00",
-      "link": "https://www.undrr.org/news/arab-stakeholder-groups-strengthen-partnerships-advance-disaster-risk-reduction-across-arab",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

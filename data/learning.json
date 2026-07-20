@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T07:07:32.530006+00:00",
-  "count": 61,
+  "last_updated": "2026-07-20T07:42:30.155968+00:00",
+  "count": 62,
   "items": [
     {
       "source": "World Bank",
@@ -67,6 +67,13 @@
     },
     {
       "source": "World Bank",
+      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
       "link": "http://documents.worldbank.org/curated/en/639021468180880212",
       "type": "brief",
@@ -102,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -278,7 +285,7 @@
     {
       "source": "GFDRR",
       "title": "Working Together for a More Resilient Senegal: Results and Lessons from GFDRR's Partnership with Senegal",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099532107172619035",
+      "link": "https://www.gfdrr.org/sites/default/files/2026-07/Senegal_Report_Jul18.pdf",
       "type": "report",
       "description": ""
     },
