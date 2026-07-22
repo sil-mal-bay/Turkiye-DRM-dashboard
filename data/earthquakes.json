@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T07:11:58.261084+00:00",
-  "count": 15,
+  "last_updated": "2026-07-22T07:14:27.257824+00:00",
+  "count": 17,
   "largest": {
     "source": "USGS",
     "magnitude": 5,
@@ -96,6 +96,16 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
+      "time": "2026-07-21T21:32:58+00:00",
+      "latitude": 39.3187,
+      "longitude": 26.0893,
+      "depth_km": 10.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.6,
       "place": "HALILBEYLI-SAIMBEYLI (ADANA) İlksel",
       "time": "2026-07-18T09:26:14+00:00",
@@ -112,6 +122,16 @@
       "latitude": 35.6172,
       "longitude": 25.7415,
       "depth_km": 26.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
+      "time": "2026-07-21T21:35:58+00:00",
+      "latitude": 39.3272,
+      "longitude": 26.0855,
+      "depth_km": 9.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -146,16 +166,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "MARMARA DENIZI İlksel",
-      "time": "2026-07-16T01:45:54+00:00",
-      "latitude": 40.5237,
-      "longitude": 27.1342,
-      "depth_km": 14.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS) İlksel",
       "time": "2026-07-18T16:07:39+00:00",
@@ -182,6 +192,16 @@
       "latitude": 39.665,
       "longitude": 39.5733,
       "depth_km": 5.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "ALPA-TAVAS (DENIZLI) İlksel",
+      "time": "2026-07-22T04:08:05+00:00",
+      "latitude": 37.2,
+      "longitude": 29.095,
+      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
