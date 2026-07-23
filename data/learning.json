@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T07:15:05.205828+00:00",
+  "last_updated": "2026-07-23T07:08:20.874057+00:00",
   "count": 61,
   "items": [
     {
@@ -102,15 +102,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -270,9 +270,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood Hazard and Risk Mapping : Component 2 of Serbia National Disaster Risk Management Plan (NDRMP)",
-      "link": "http://documents.worldbank.org/curated/en/765821614928681676",
+      "title": "Flood risk in road networks",
+      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Global Rapid Post-Disaster Damage Estimation (GRADE): June 2026 Venezuela Earthquakes",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/GRADE%20Venezuela.pdf",
+      "type": "report",
       "description": ""
     },
     {
@@ -349,13 +356,6 @@
       "source": "GFDRR",
       "title": "Disaster–Fragility, Conflict, and Violence (FCV) Nexus Diagnostic for Myanmar : Summary Report",
       "link": "https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/099033126055023286",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Unlocking Nature for Disaster Resilience",
-      "link": "https://openknowledge.worldbank.org/entities/publication/69c8fe0d-1147-4574-9c85-1015a79ad7cd",
       "type": "report",
       "description": ""
     },

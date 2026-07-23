@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T07:14:27.257824+00:00",
-  "count": 17,
+  "last_updated": "2026-07-23T07:07:48.010712+00:00",
+  "count": 16,
   "largest": {
     "source": "USGS",
     "magnitude": 5,
@@ -41,16 +41,6 @@
       "longitude": 25.071,
       "depth_km": 12.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "YENIDAMLAR-KALE (MALATYA) İlksel",
-      "time": "2026-07-16T22:52:52+00:00",
-      "latitude": 38.3765,
-      "longitude": 38.8813,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -86,16 +76,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 4.1,
-      "place": "YENIDAMLAR-KALE (MALATYA) İlksel",
-      "time": "2026-07-16T22:52:52+00:00",
-      "latitude": 38.3765,
-      "longitude": 38.8813,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.7,
       "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
       "time": "2026-07-21T21:32:58+00:00",
@@ -116,12 +96,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-07-16T15:45:27+00:00",
-      "latitude": 35.6172,
-      "longitude": 25.7415,
-      "depth_km": 26.5,
+      "magnitude": 3.5,
+      "place": "KARAKUYU-KORKUTELI (ANTALYA) İlksel",
+      "time": "2026-07-22T21:40:26+00:00",
+      "latitude": 37.2173,
+      "longitude": 30.4242,
+      "depth_km": 101.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
