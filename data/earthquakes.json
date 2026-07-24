@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T07:07:48.010712+00:00",
+  "last_updated": "2026-07-24T07:09:47.143702+00:00",
   "count": 16,
   "largest": {
     "source": "USGS",
@@ -41,6 +41,16 @@
       "longitude": 25.071,
       "depth_km": 12.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "DUMUKLU-AKCADAG (MALATYA) İlksel",
+      "time": "2026-07-23T10:26:44+00:00",
+      "latitude": 38.3267,
+      "longitude": 37.8358,
+      "depth_km": 5.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -72,6 +82,16 @@
       "latitude": 35.6423,
       "longitude": 25.071,
       "depth_km": 12.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "DUMUKLU-AKCADAG (MALATYA) İlksel",
+      "time": "2026-07-23T10:26:44+00:00",
+      "latitude": 38.3267,
+      "longitude": 37.8358,
+      "depth_km": 5.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -162,16 +182,6 @@
       "latitude": 38.1362,
       "longitude": 38.5363,
       "depth_km": 2.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "MAHMUTLU (ERZINCAN) İlksel",
-      "time": "2026-07-17T10:07:17+00:00",
-      "latitude": 39.665,
-      "longitude": 39.5733,
-      "depth_km": 5.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

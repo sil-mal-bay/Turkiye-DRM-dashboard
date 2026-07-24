@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-07-23T07:08:42.552902+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-07-24T07:10:42.388567+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — DUMUKLU-AKCADAG (MALATYA) İlksel",
+      "magnitude": 4.1,
+      "time": "2026-07-23T10:26:44+00:00",
+      "location": "DUMUKLU-AKCADAG (MALATYA) İlksel",
+      "latitude": 38.3267,
+      "longitude": 37.8358,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
