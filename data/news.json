@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-24T07:09:55.093250+00:00",
-  "count": 6,
+  "last_updated": "2026-07-25T06:39:57.924169+00:00",
+  "count": 7,
   "articles": [
+    {
+      "source": "dailysabah",
+      "title": "Türkiye intensifies probe into Ahbap earthquake donations",
+      "original_title": null,
+      "description": "Türkiye's investigation into alleged misuse of donations collected for earthquake victims continued Friday as several well-known public figures appeared before prosecutors to...",
+      "published": "2026-07-24T12:32:00+00:00",
+      "link": "https://www.dailysabah.com/turkiye/investigations/turkiye-intensifies-probe-into-ahbap-earthquake-donations",
+      "score": 173.0,
+      "world_bank_related": false,
+      "turkey_related": true,
+      "credibility_score": 80,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Partnerships & Stakeholders: Science and Technology Community",
@@ -17,16 +30,42 @@
     },
     {
       "source": "undrr",
+      "title": "Resilient Western Balkans: Strengthening transboundary collaboration and capacities on disaster risk reduction and Early Warning Systems in the Western Balkans",
+      "original_title": null,
+      "description": "The Year 1 narrative report highlights progress in strengthening disaster risk reduction, early warning systems and transboundary cooperation across the Western Balkans.",
+      "published": "2026-07-24T11:21:55+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/resilient-western-balkans-strengthening-transboundary",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "UNDRR and CCRO Network advance business resilience agenda in Harvard Business Review (HBR)",
+      "original_title": null,
+      "description": "The UN Office for Disaster Risk Reduction (UNDRR), in collaboration with the Chief Resilience Officer (CCRO) network, has published a thought leadership article in Harvard Business Review.",
+      "published": "2026-07-24T10:16:34+00:00",
+      "link": "https://www.undrr.org/news/undrr-and-ccro-network-advance-business-resilience-agenda-harvard-business-review-hbr",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
       "title": "United Nations Senior Leaders call for stronger joint action to reduce disaster risk and protect development gains",
       "original_title": null,
       "description": "Thirty-six UN entities convened to reinforce disaster risk reduction as central to sustainable development, adopting new targets and priority actions to guide coordinated country-level support through 2030.",
       "published": "2026-07-20T11:06:19+00:00",
       "link": "https://www.undrr.org/news/united-nations-senior-leaders-call-stronger-joint-action-reduce-disaster-risk-and-protect",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -48,32 +87,6 @@
       "description": "This project position is located at the UN Office for Disaster Risk Reduction (UNDRR) Headquarters in Geneva. The incumbent reports to the Senior Coordination Officer of the Intergovernmental processes, Interagency cooperation and Partnerships Branch..",
       "published": "2026-07-13T14:06:20+00:00",
       "link": "https://www.undrr.org/vacancy/programme-management-officer-p4-0",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Grenada advances Multi-Hazard Early Warning Systems through first national consultative workshop",
-      "original_title": null,
-      "description": "The outcomes will contribute to the development of Grenada's national MHEWS Gap Analysis and Implementation Roadmap, providing a strategic framework to guide future investments and coordinated action towards Early Warnings for All initiative.",
-      "published": "2026-07-10T16:53:10+00:00",
-      "link": "https://www.undrr.org/news/grenada-advances-multi-hazard-early-warning-systems-through-first-national-consultative",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Bridging the last mile of early warning through inclusive disaster preparedness in Beau Bassin–Rose Hill, Mauritius",
-      "original_title": null,
-      "description": "The Gender and Disability-Inclusive DRR Capacity-Building on Tropical Cyclones and Flash Floods brought together SEN educators, Local Disaster Management Coordinators (LDMCs) from across Mauritius and Organisations of Persons with Disabilities (OPDs).",
-      "published": "2026-07-10T09:44:37+00:00",
-      "link": "https://www.undrr.org/news/bridging-last-mile-early-warning-through-inclusive-disaster-preparedness-beau-bassin-rose-hill",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

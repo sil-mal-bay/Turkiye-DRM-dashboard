@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T07:10:19.877049+00:00",
+  "last_updated": "2026-07-25T06:40:24.128067+00:00",
   "count": 62,
   "items": [
     {
@@ -67,8 +67,8 @@
     },
     {
       "source": "World Bank",
-      "title": "Stakeholder Engagement Plan (SEP) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/178341632914088061",
+      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
       "type": "report",
       "description": ""
     },
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -270,15 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
       "type": "working paper",
       "description": ""
     },
@@ -291,15 +291,15 @@
     },
     {
       "source": "GFDRR",
-      "title": "Working Together for a More Resilient Senegal: Results and Lessons from GFDRR's Partnership with Senegal",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099532107172619035",
+      "title": "GFDRR Country Evaluation: Senegal",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099211007242615609",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "GFDRR Country Evaluation: Senegal",
-      "link": "https://www.gfdrr.org/sites/default/files/2026-05/Senegal%20Country%20Evaluation_fin.pdf",
+      "title": "Working Together for a More Resilient Senegal: Results and Lessons from GFDRR's Partnership with Senegal",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099532107172619035",
       "type": "report",
       "description": ""
     },
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Resilient Western Balkans: Strengthening transboundary collaboration and capacities on disaster risk reduction and Early Warning Systems in the Western Balkans",
+      "link": "https://www.undrr.org/publication/documents-and-publications/resilient-western-balkans-strengthening-transboundary",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Early Warning Systems for mobile populations: Operational guidance",
       "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
       "type": "learning",
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "24th Africa Working Group on Disaster Risk Reduction",
       "link": "https://www.undrr.org/publication/documents-and-publications/24th-africa-working-group-disaster-risk-reduction",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Concept note: International Day for Disaster Risk Reduction 2026: Resilience Starts at Home",
-      "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-international-day-disaster-risk-reduction-2026",
       "type": "learning",
       "description": ""
     }

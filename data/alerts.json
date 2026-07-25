@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T07:10:42.388567+00:00",
-  "count": 1,
+  "last_updated": "2026-07-25T06:40:46.640089+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,18 @@
       "location": "DUMUKLU-AKCADAG (MALATYA) İlksel",
       "latitude": 38.3267,
       "longitude": 37.8358,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — EGE DENIZI İlksel",
+      "magnitude": 4.1,
+      "time": "2026-07-24T14:01:59+00:00",
+      "location": "EGE DENIZI İlksel",
+      "latitude": 39.378,
+      "longitude": 25.6932,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

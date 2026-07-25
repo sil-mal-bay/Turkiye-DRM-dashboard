@@ -1,37 +1,17 @@
 {
-  "last_updated": "2026-07-24T07:09:47.143702+00:00",
-  "count": 16,
+  "last_updated": "2026-07-25T06:39:44.762024+00:00",
+  "count": 13,
   "largest": {
-    "source": "USGS",
-    "magnitude": 5,
-    "place": "17 km SE of Malatya, Turkey",
-    "time": "2026-07-18T03:21:00.587000+00:00",
-    "latitude": 38.2608,
-    "longitude": 38.4814,
-    "depth_km": 10,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
+    "source": "Kandilli",
+    "magnitude": 4.3,
+    "place": "GIRIT ADASI (AKDENIZ) İlksel",
+    "time": "2026-07-18T12:04:08+00:00",
+    "latitude": 35.6423,
+    "longitude": 25.071,
+    "depth_km": 12.9,
+    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
-    {
-      "source": "USGS",
-      "magnitude": 5,
-      "place": "17 km SE of Malatya, Turkey",
-      "time": "2026-07-18T03:21:00.587000+00:00",
-      "latitude": 38.2608,
-      "longitude": 38.4814,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 5.0,
-      "place": "GULUMUSAGI (MALATYA) İlksel",
-      "time": "2026-07-18T06:20:58+00:00",
-      "latitude": 38.238,
-      "longitude": 38.4803,
-      "depth_km": 14.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "Kandilli",
       "magnitude": 4.3,
@@ -40,6 +20,16 @@
       "latitude": 35.6423,
       "longitude": 25.071,
       "depth_km": 12.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-07-24T14:01:59+00:00",
+      "latitude": 39.378,
+      "longitude": 25.6932,
+      "depth_km": 3.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -55,26 +45,6 @@
   ],
   "events": [
     {
-      "source": "USGS",
-      "magnitude": 5,
-      "place": "17 km SE of Malatya, Turkey",
-      "time": "2026-07-18T03:21:00.587000+00:00",
-      "latitude": 38.2608,
-      "longitude": 38.4814,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 5.0,
-      "place": "GULUMUSAGI (MALATYA) İlksel",
-      "time": "2026-07-18T06:20:58+00:00",
-      "latitude": 38.238,
-      "longitude": 38.4803,
-      "depth_km": 14.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "Kandilli",
       "magnitude": 4.3,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
@@ -82,6 +52,16 @@
       "latitude": 35.6423,
       "longitude": 25.071,
       "depth_km": 12.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-07-24T14:01:59+00:00",
+      "latitude": 39.378,
+      "longitude": 25.6932,
+      "depth_km": 3.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -117,6 +97,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.5,
+      "place": "KUMLUK-SILVAN (DIYARBAKIR) İlksel",
+      "time": "2026-07-24T14:41:57+00:00",
+      "latitude": 38.0937,
+      "longitude": 40.7102,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
       "place": "KARAKUYU-KORKUTELI (ANTALYA) İlksel",
       "time": "2026-07-22T21:40:26+00:00",
       "latitude": 37.2173,
@@ -136,16 +126,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "TASOLUK-KIRIKHAN (HATAY) İlksel",
-      "time": "2026-07-17T20:54:33+00:00",
-      "latitude": 36.6223,
-      "longitude": 36.3713,
-      "depth_km": 8.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "AKTAS-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-07-21T06:19:59+00:00",
@@ -156,32 +136,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-07-18T04:50:06+00:00",
-      "latitude": 34.9955,
-      "longitude": 26.0507,
-      "depth_km": 6.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS) İlksel",
       "time": "2026-07-18T16:07:39+00:00",
       "latitude": 38.2015,
       "longitude": 37.692,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "GECITLI-SINCIK (ADIYAMAN) İlksel",
-      "time": "2026-07-18T05:01:53+00:00",
-      "latitude": 38.1362,
-      "longitude": 38.5363,
-      "depth_km": 2.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
