@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-07-25T06:39:44.762024+00:00",
-  "count": 13,
+  "last_updated": "2026-07-26T07:12:06.581243+00:00",
+  "count": 9,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 4.3,
-    "place": "GIRIT ADASI (AKDENIZ) İlksel",
-    "time": "2026-07-18T12:04:08+00:00",
-    "latitude": 35.6423,
-    "longitude": 25.071,
-    "depth_km": 12.9,
+    "magnitude": 4.1,
+    "place": "EGE DENIZI İlksel",
+    "time": "2026-07-24T14:01:59+00:00",
+    "latitude": 39.378,
+    "longitude": 25.6932,
+    "depth_km": 3.1,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 4.3,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-07-18T12:04:08+00:00",
-      "latitude": 35.6423,
-      "longitude": 25.071,
-      "depth_km": 12.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -44,16 +34,6 @@
     }
   ],
   "events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 4.3,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-07-18T12:04:08+00:00",
-      "latitude": 35.6423,
-      "longitude": 25.071,
-      "depth_km": 12.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -82,16 +62,6 @@
       "latitude": 39.3187,
       "longitude": 26.0893,
       "depth_km": 10.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "HALILBEYLI-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-07-18T09:26:14+00:00",
-      "latitude": 37.7237,
-      "longitude": 36.153,
-      "depth_km": 1.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -136,16 +106,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS) İlksel",
-      "time": "2026-07-18T16:07:39+00:00",
-      "latitude": 38.2015,
-      "longitude": 37.692,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.0,
       "place": "ALPA-TAVAS (DENIZLI) İlksel",
       "time": "2026-07-22T04:08:05+00:00",
@@ -162,16 +122,6 @@
       "latitude": 39.91,
       "longitude": 43.281,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "HAMIDIYE-CEYHAN (ADANA) İlksel",
-      "time": "2026-07-18T23:50:58+00:00",
-      "latitude": 36.9982,
-      "longitude": 35.9918,
-      "depth_km": 7.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
