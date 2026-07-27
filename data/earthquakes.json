@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T07:12:06.581243+00:00",
-  "count": 9,
+  "last_updated": "2026-07-27T08:03:12.732587+00:00",
+  "count": 10,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -62,6 +62,16 @@
       "latitude": 39.3187,
       "longitude": 26.0893,
       "depth_km": 10.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "YUKARIBAG-(ELAZIG) İlksel",
+      "time": "2026-07-27T10:26:22+00:00",
+      "latitude": 38.6038,
+      "longitude": 39.5775,
+      "depth_km": 1.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
