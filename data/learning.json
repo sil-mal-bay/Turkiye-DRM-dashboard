@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T08:03:51.989538+00:00",
-  "count": 62,
+  "last_updated": "2026-07-28T07:17:31.951670+00:00",
+  "count": 61,
   "items": [
     {
       "source": "World Bank",
@@ -62,13 +62,6 @@
       "source": "World Bank",
       "title": "Appraisal Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
       "link": "http://documents.worldbank.org/curated/en/984781632914115507",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
-      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
       "type": "report",
       "description": ""
     },
@@ -285,7 +278,7 @@
     {
       "source": "GFDRR",
       "title": "Global Rapid Post-Disaster Damage Estimation (GRADE): Venezuela Earthquakes",
-      "link": "https://www.gfdrr.org/sites/default/files/2026-07/GRADE%20Venezuela%202026.pdf",
+      "link": "https://www.gfdrr.org/sites/default/files/2026-07/GRADE%20Venezuela_0.pdf",
       "type": "report",
       "description": ""
     },
@@ -340,6 +333,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "Kyrgyz Republic Crisis Preparedness Gap Analysis : Technical Report",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099062226052031471",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "Making Spatial Planning Work: Lessons from Colombia",
       "link": "https://openknowledge.worldbank.org/entities/publication/fdfe857f-d183-4600-a1ee-2fcdafedb8f6",
       "type": "report",
@@ -356,13 +356,6 @@
       "source": "GFDRR",
       "title": "A Catalogue of Nature‑Based Solutions for Coastal Resilience",
       "link": "https://openknowledge.worldbank.org/entities/publication/888fbe94-8be8-4838-9dbd-4093430f04df",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Disaster–Fragility, Conflict, and Violence (FCV) Nexus Diagnostic for Myanmar : Summary Report",
-      "link": "https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/099033126055023286",
       "type": "report",
       "description": ""
     },
