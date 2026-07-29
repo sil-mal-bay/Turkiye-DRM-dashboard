@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T07:17:31.951670+00:00",
+  "last_updated": "2026-07-29T07:22:43.876662+00:00",
   "count": 61,
   "items": [
     {
@@ -361,6 +361,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Probabilistic Risk Assessments to Improve Impact-Based Forecasts and Strengthen Anticipatory Action in Latin America and the Caribbean",
+      "link": "https://www.undrr.org/publication/documents-and-publications/probabilistic-risk-assessments-improve-impact-based",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Resilience Hubs in Action",
       "link": "https://www.undrr.org/publication/documents-and-publications/resilience-hubs-action",
       "type": "learning",
@@ -419,13 +426,6 @@
       "source": "UNDRR",
       "title": "Financing heat resilience",
       "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Knowing what the weather will do: A guide for practitioners on impact-based early warning",
-      "link": "https://www.undrr.org/publication/documents-and-publications/knowing-what-weather-will-do-guide-practitioners-impact",
       "type": "learning",
       "description": ""
     }

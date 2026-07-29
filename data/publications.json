@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-28T07:17:53.868575+00:00",
+  "last_updated": "2026-07-29T07:23:05.852685+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Probabilistic Risk Assessments to Improve Impact-Based Forecasts and Strengthen Anticipatory Action in Latin America and the Caribbean",
+      "description": "This publication contributes to that objective by providing a comprehensive and practical reference on probabilistic risk assessments (PRA) and their use to strengthen impact based forecasting (IBF) and anticipatory action (AA).",
+      "date": "2026-07-28T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/probabilistic-risk-assessments-improve-impact-based",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Resilience Hubs in Action",
@@ -72,14 +80,6 @@
       "description": "This report explores how governments can finance heat resilience through risk-informed investments, innovative financing mechanisms, and resilient infrastructure to protect lives, livelihoods, and economies from rising extreme heat risks.",
       "date": "2026-06-17T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Knowing what the weather will do: A guide for practitioners on impact-based early warning",
-      "description": "This guidebook provides a novel approach and methodology for designing and implementing Impact-based early warning (IbEW) systems. it guides the co-development and integration of risk knowledge on hazards, exposure, vulnerabilities",
-      "date": "2026-06-12T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/knowing-what-weather-will-do-guide-practitioners-impact",
       "type": "report"
     }
   ]
