@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T07:22:43.876662+00:00",
+  "last_updated": "2026-07-30T07:15:55.625990+00:00",
   "count": 61,
   "items": [
     {
@@ -270,15 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Flood risk in road networks",
-      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
-      "type": "working paper",
+      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
+      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
       "title": "Global Rapid Post-Disaster Damage Estimation (GRADE): Venezuela Earthquakes",
-      "link": "https://www.gfdrr.org/sites/default/files/2026-07/GRADE%20Venezuela_0.pdf",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099072826152566231",
       "type": "report",
       "description": ""
     },

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T07:22:06.273075+00:00",
-  "count": 16,
+  "last_updated": "2026-07-30T07:15:17.024597+00:00",
+  "count": 18,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -77,6 +77,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.9,
+      "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
+      "time": "2026-07-30T02:00:19+00:00",
+      "latitude": 36.7247,
+      "longitude": 28.3635,
+      "depth_km": 11.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.9,
       "place": "YUNANISTAN İlksel",
       "time": "2026-07-28T11:30:47+00:00",
       "latitude": 40.263,
@@ -86,12 +96,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
-      "time": "2026-07-21T21:32:58+00:00",
-      "latitude": 39.3187,
-      "longitude": 26.0893,
-      "depth_km": 10.7,
+      "magnitude": 3.6,
+      "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
+      "time": "2026-07-30T00:00:55+00:00",
+      "latitude": 36.7002,
+      "longitude": 28.3367,
+      "depth_km": 6.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -112,26 +122,6 @@
       "latitude": 38.0937,
       "longitude": 40.7102,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "KARAKUYU-KORKUTELI (ANTALYA) İlksel",
-      "time": "2026-07-22T21:40:26+00:00",
-      "latitude": 37.2173,
-      "longitude": 30.4242,
-      "depth_km": 101.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
-      "time": "2026-07-21T21:35:58+00:00",
-      "latitude": 39.3272,
-      "longitude": 26.0855,
-      "depth_km": 9.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -157,11 +147,51 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-07-29T17:59:55+00:00",
+      "latitude": 33.2405,
+      "longitude": 28.5535,
+      "depth_km": 168.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "CEVIRME-AKCADAG (MALATYA) İlksel",
       "time": "2026-07-28T13:25:17+00:00",
       "latitude": 38.2532,
       "longitude": 37.7303,
       "depth_km": 1.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-07-30T00:04:39+00:00",
+      "latitude": 36.3803,
+      "longitude": 27.0308,
+      "depth_km": 6.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
+      "time": "2026-07-29T23:53:30+00:00",
+      "latitude": 36.6962,
+      "longitude": 28.338,
+      "depth_km": 1.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "KUSADASI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-07-29T13:01:41+00:00",
+      "latitude": 37.8523,
+      "longitude": 26.9873,
+      "depth_km": 2.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -192,16 +222,6 @@
       "latitude": 36.3747,
       "longitude": 30.7118,
       "depth_km": 49.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "ALPA-TAVAS (DENIZLI) İlksel",
-      "time": "2026-07-22T04:08:05+00:00",
-      "latitude": 37.2,
-      "longitude": 29.095,
-      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
