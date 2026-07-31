@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-30T07:16:18.290810+00:00",
+  "last_updated": "2026-07-31T07:25:04.213277+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
+      "description": "This report showcases how cities across Europe and Central Asia are tackling floods and water scarcity through integrated urban resilience. It highlights practical case studies, lessons learned, and recommendations to strengthen water resilience.",
+      "date": "2026-07-30T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Apr-Jun 2026)",
+      "description": "UNDRR's Regional Office for Africa has published its second quarterly newsletter of 2026, detailing the major achievements of the work being done by the organisation.",
+      "date": "2026-07-30T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-apr-jun",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Probabilistic Risk Assessments to Improve Impact-Based Forecasts and Strengthen Anticipatory Action in Latin America and the Caribbean",
@@ -64,22 +80,6 @@
       "description": "In the second quarter of 2026, UNDRR ONEA-GETI has significantly expanded global disaster risk reduction (DRR) and climate resilience capacities through a series of high-impact training of trainers (ToT) workshops, multi-agency certificate programmes, and",
       "date": "2026-06-30T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",
-      "description": "This casebook highlights the implementation of science and technology-based disaster management, featuring 24 Korean practices across four thematic areas, along with Korea's success factors and remaining challenges. It is available in English and Korean.",
-      "date": "2026-06-19T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Financing heat resilience",
-      "description": "This report explores how governments can finance heat resilience through risk-informed investments, innovative financing mechanisms, and resilient infrastructure to protect lives, livelihoods, and economies from rising extreme heat risks.",
-      "date": "2026-06-17T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
       "type": "report"
     }
   ]

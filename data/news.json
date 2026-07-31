@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T07:15:29.746152+00:00",
-  "count": 7,
+  "last_updated": "2026-07-31T07:24:15.284347+00:00",
+  "count": 8,
   "articles": [
     {
       "source": "undrr",
@@ -17,11 +17,11 @@
     },
     {
       "source": "undrr",
-      "title": "Community Disaster Resilience Network Association (CDRNA)",
+      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
       "original_title": null,
-      "description": "The Community Disaster Resilience Network (CDRN) Association is a Hungarian civil society organization dedicated to empowering communities through innovative disaster preparedness, education, and technology-driven resilience solutions.",
-      "published": "2026-07-29T08:04:26+00:00",
-      "link": "https://www.undrr.org/organization/community-disaster-resilience-network-association-cdrna",
+      "description": "This report showcases how cities across Europe and Central Asia are tackling floods and water scarcity through integrated urban resilience. It highlights practical case studies, lessons learned, and recommendations to strengthen water resilience.",
+      "published": "2026-07-30T13:31:21+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
@@ -30,16 +30,29 @@
     },
     {
       "source": "undrr",
+      "title": "Community Disaster Resilience Network Association (CDRNA)",
+      "original_title": null,
+      "description": "The Community Disaster Resilience Network (CDRN) Association is a Hungarian civil society organization dedicated to empowering communities through innovative disaster preparedness, education, and technology-driven resilience solutions.",
+      "published": "2026-07-29T08:04:26+00:00",
+      "link": "https://www.undrr.org/organization/community-disaster-resilience-network-association-cdrna",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
+    },
+    {
+      "source": "undrr",
       "title": "Jordan strengthens local resilience through climate action and wildfire prevention",
       "original_title": null,
       "description": "In Jordan, a local resilience planning process supported by the United Nations Office for Disaster Risk Reduction (UNDRR) has evolved into a growing movement of community-led action, government ownership and climate resilience.",
       "published": "2026-07-27T04:01:52+00:00",
       "link": "https://www.undrr.org/news/jordan-strengthens-local-resilience-through-climate-action-and-wildfire-prevention",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",

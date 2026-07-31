@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T07:15:55.625990+00:00",
+  "last_updated": "2026-07-31T07:24:40.860914+00:00",
   "count": 61,
   "items": [
     {
@@ -102,15 +102,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -270,8 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "title": "Flood risk in road networks",
+      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "A Livable Future: Protecting Jobs from Extreme Heat in South Asia",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099072226125517919",
       "type": "report",
       "description": ""
     },
@@ -353,10 +360,17 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "A Catalogue of Nature‑Based Solutions for Coastal Resilience",
-      "link": "https://openknowledge.worldbank.org/entities/publication/888fbe94-8be8-4838-9dbd-4093430f04df",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
+      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Apr-Jun 2026)",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-apr-jun",
+      "type": "learning",
       "description": ""
     },
     {
@@ -412,20 +426,6 @@
       "source": "UNDRR",
       "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Building a safer society through science and technology: a compendium of Korea’s science and technology-based disaster management",
-      "link": "https://www.undrr.org/publication/documents-and-publications/building-safer-society-through-science-and-technology",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Financing heat resilience",
-      "link": "https://www.undrr.org/publication/documents-and-publications/financing-heat-resilience",
       "type": "learning",
       "description": ""
     }
