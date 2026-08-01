@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T07:24:03.084999+00:00",
-  "count": 17,
+  "last_updated": "2026-08-01T07:03:18.406066+00:00",
+  "count": 19,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -56,6 +56,16 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-08-01T02:56:38+00:00",
+      "latitude": 35.4512,
+      "longitude": 23.0662,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.6,
       "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
       "time": "2026-07-30T00:00:55+00:00",
@@ -72,6 +82,16 @@
       "latitude": 38.6038,
       "longitude": 39.5775,
       "depth_km": 1.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "CAYUSTU-BIGADIC (BALIKESIR) İlksel",
+      "time": "2026-08-01T05:58:39+00:00",
+      "latitude": 39.393,
+      "longitude": 27.9733,
+      "depth_km": 5.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
