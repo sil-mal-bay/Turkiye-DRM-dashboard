@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T07:03:18.406066+00:00",
-  "count": 19,
+  "last_updated": "2026-08-02T07:08:24.375056+00:00",
+  "count": 21,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -52,6 +52,16 @@
       "latitude": 40.263,
       "longitude": 24.1437,
       "depth_km": 9.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "KABAKLI-CICEKDAGI (KIRSEHIR) İlksel",
+      "time": "2026-08-01T20:32:27+00:00",
+      "latitude": 39.6832,
+      "longitude": 34.1765,
+      "depth_km": 4.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -192,6 +202,16 @@
       "latitude": 36.7087,
       "longitude": 26.8568,
       "depth_km": 137.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ) İlksel",
+      "time": "2026-08-01T11:22:09+00:00",
+      "latitude": 36.67,
+      "longitude": 28.2482,
+      "depth_km": 54.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
