@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T07:58:48.005015+00:00",
-  "count": 62,
+  "last_updated": "2026-08-04T07:16:26.100084+00:00",
+  "count": 61,
   "items": [
     {
       "source": "World Bank",
@@ -67,13 +67,6 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
       "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
       "link": "http://documents.worldbank.org/curated/en/639021468180880212",
       "type": "brief",
@@ -109,15 +102,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -382,7 +375,7 @@
     },
     {
       "source": "UNDRR",
-      "title": "Probabilistic Risk Assessments to Improve Impact-Based Forecasts and Strengthen Anticipatory Action in Latin America and the Caribbean",
+      "title": "Probabilistic risk assessments to improve impact-based forecasts and strengthen anticipatory action in Latin America and the Caribbean",
       "link": "https://www.undrr.org/publication/documents-and-publications/probabilistic-risk-assessments-improve-impact-based",
       "type": "learning",
       "description": ""

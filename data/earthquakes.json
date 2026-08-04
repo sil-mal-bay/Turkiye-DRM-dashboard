@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T07:58:14.359290+00:00",
-  "count": 21,
+  "last_updated": "2026-08-04T07:15:50.326677+00:00",
+  "count": 19,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -42,16 +42,6 @@
       "latitude": 36.7247,
       "longitude": 28.3635,
       "depth_km": 11.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-07-28T11:30:47+00:00",
-      "latitude": 40.263,
-      "longitude": 24.1437,
-      "depth_km": 9.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -122,16 +112,6 @@
       "latitude": 33.2405,
       "longitude": 28.5535,
       "depth_km": 168.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "CEVIRME-AKCADAG (MALATYA) İlksel",
-      "time": "2026-07-28T13:25:17+00:00",
-      "latitude": 38.2532,
-      "longitude": 37.7303,
-      "depth_km": 1.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
