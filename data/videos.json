@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T07:17:08.018186+00:00",
-  "count": 33,
+  "last_updated": "2026-08-06T07:18:30.667007+00:00",
+  "count": 34,
   "videos": [
     {
       "video_id": "dt96pDz42Lo",
@@ -28,6 +28,15 @@
       "published": "2026-07-30T08:53:50Z",
       "thumbnail": "https://i.ytimg.com/vi/6E5p3Ca_dDU/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=6E5p3Ca_dDU"
+    },
+    {
+      "video_id": "ComeropGee0",
+      "title": "Building Regulation for Resilience: Tools & Resources",
+      "description": "A primer on tools offered by the Building Regulation for Resilience thematic area.\n\nABOUT THE GLOBAL FACILITY FOR DISASTER REDUCTION AND RECOVERY (GFDRR) is a global partnership that helps low- and lower-middle-income countries better understand and reduce their vulnerabilities to natural hazards an",
+      "channel": "GFDRR",
+      "published": "2026-07-27T19:02:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/ComeropGee0/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ComeropGee0"
     },
     {
       "video_id": "a2_KDWRJww8",
