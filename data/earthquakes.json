@@ -1,28 +1,18 @@
 {
-  "last_updated": "2026-08-06T07:18:18.091246+00:00",
+  "last_updated": "2026-08-07T05:56:15.958949+00:00",
   "count": 11,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 3.9,
-    "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
-    "time": "2026-07-30T02:00:19+00:00",
-    "latitude": 36.7247,
-    "longitude": 28.3635,
-    "depth_km": 11.0,
+    "magnitude": 3.7,
+    "place": "KABAKLI-CICEKDAGI (KIRSEHIR) İlksel",
+    "time": "2026-08-01T20:32:27+00:00",
+    "latitude": 39.6832,
+    "longitude": 34.1765,
+    "depth_km": 4.5,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [],
   "events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
-      "time": "2026-07-30T02:00:19+00:00",
-      "latitude": 36.7247,
-      "longitude": 28.3635,
-      "depth_km": 11.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "Kandilli",
       "magnitude": 3.7,
@@ -51,6 +41,16 @@
       "latitude": 37.9687,
       "longitude": 36.3722,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "KUSTULLU-ERDEMLI (MERSIN) İlksel",
+      "time": "2026-08-06T18:17:50+00:00",
+      "latitude": 36.6725,
+      "longitude": 34.1142,
+      "depth_km": 7.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
