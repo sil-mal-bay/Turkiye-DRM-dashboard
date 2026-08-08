@@ -1,18 +1,39 @@
 {
-  "last_updated": "2026-08-07T05:56:15.958949+00:00",
-  "count": 11,
+  "last_updated": "2026-08-08T05:21:08.619738+00:00",
+  "count": 13,
   "largest": {
-    "source": "Kandilli",
-    "magnitude": 3.7,
-    "place": "KABAKLI-CICEKDAGI (KIRSEHIR) İlksel",
-    "time": "2026-08-01T20:32:27+00:00",
-    "latitude": 39.6832,
-    "longitude": 34.1765,
-    "depth_km": 4.5,
-    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    "source": "USGS",
+    "magnitude": 4.4,
+    "place": "5 km SW of Lárdos, Greece",
+    "time": "2026-08-07T07:10:56.672000+00:00",
+    "latitude": 36.0581,
+    "longitude": 27.9816,
+    "depth_km": 10,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
   },
-  "significant_events": [],
+  "significant_events": [
+    {
+      "source": "USGS",
+      "magnitude": 4.4,
+      "place": "5 km SW of Lárdos, Greece",
+      "time": "2026-08-07T07:10:56.672000+00:00",
+      "latitude": 36.0581,
+      "longitude": 27.9816,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
+    }
+  ],
   "events": [
+    {
+      "source": "USGS",
+      "magnitude": 4.4,
+      "place": "5 km SW of Lárdos, Greece",
+      "time": "2026-08-07T07:10:56.672000+00:00",
+      "latitude": 36.0581,
+      "longitude": 27.9816,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
+    },
     {
       "source": "Kandilli",
       "magnitude": 3.7,
@@ -41,6 +62,26 @@
       "latitude": 37.9687,
       "longitude": 36.3722,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-08-07T12:03:01+00:00",
+      "latitude": 36.0105,
+      "longitude": 34.51,
+      "depth_km": 23.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "RODOS ADASI (AKDENIZ) İlksel",
+      "time": "2026-08-07T10:10:56+00:00",
+      "latitude": 36.0882,
+      "longitude": 28.0712,
+      "depth_km": 1.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -75,12 +116,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-07-30T18:31:54+00:00",
-      "latitude": 35.0258,
-      "longitude": 23.1253,
-      "depth_km": 26.6,
+      "magnitude": 3.0,
+      "place": "RODOS ADASI (AKDENIZ) İlksel",
+      "time": "2026-08-07T22:02:45+00:00",
+      "latitude": 36.0662,
+      "longitude": 28.0573,
+      "depth_km": 9.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -111,16 +152,6 @@
       "latitude": 36.67,
       "longitude": 28.2482,
       "depth_km": 54.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel",
-      "time": "2026-07-30T15:44:26+00:00",
-      "latitude": 36.725,
-      "longitude": 28.3347,
-      "depth_km": 7.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
