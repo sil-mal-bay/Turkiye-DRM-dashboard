@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T05:22:04.272188+00:00",
-  "count": 1,
+  "last_updated": "2026-08-09T05:32:04.228484+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
@@ -13,6 +13,30 @@
       "longitude": 27.9816,
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — 17 km ENE of Nurdağı, Turkey",
+      "magnitude": 4.4,
+      "time": "2026-08-09T00:42:18.950000+00:00",
+      "location": "17 km ENE of Nurdağı, Turkey",
+      "latitude": 37.2046,
+      "longitude": 36.9229,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc0"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.6 earthquake — HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
+      "magnitude": 4.6,
+      "time": "2026-08-09T03:42:16+00:00",
+      "location": "HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
+      "latitude": 37.1063,
+      "longitude": 36.9255,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
 }

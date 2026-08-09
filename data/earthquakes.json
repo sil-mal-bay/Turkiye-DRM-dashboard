@@ -1,17 +1,27 @@
 {
-  "last_updated": "2026-08-08T05:21:08.619738+00:00",
+  "last_updated": "2026-08-09T05:29:37.355700+00:00",
   "count": 13,
   "largest": {
-    "source": "USGS",
-    "magnitude": 4.4,
-    "place": "5 km SW of Lárdos, Greece",
-    "time": "2026-08-07T07:10:56.672000+00:00",
-    "latitude": 36.0581,
-    "longitude": 27.9816,
-    "depth_km": 10,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
+    "source": "Kandilli",
+    "magnitude": 4.6,
+    "place": "HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
+    "time": "2026-08-09T03:42:16+00:00",
+    "latitude": 37.1063,
+    "longitude": 36.9255,
+    "depth_km": 9.2,
+    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.6,
+      "place": "HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
+      "time": "2026-08-09T03:42:16+00:00",
+      "latitude": 37.1063,
+      "longitude": 36.9255,
+      "depth_km": 9.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
     {
       "source": "USGS",
       "magnitude": 4.4,
@@ -21,10 +31,30 @@
       "longitude": 27.9816,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.4,
+      "place": "17 km ENE of Nurdağı, Turkey",
+      "time": "2026-08-09T00:42:18.950000+00:00",
+      "latitude": 37.2046,
+      "longitude": 36.9229,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc0"
     }
   ],
   "events": [
     {
+      "source": "Kandilli",
+      "magnitude": 4.6,
+      "place": "HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
+      "time": "2026-08-09T03:42:16+00:00",
+      "latitude": 37.1063,
+      "longitude": 36.9255,
+      "depth_km": 9.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
       "source": "USGS",
       "magnitude": 4.4,
       "place": "5 km SW of Lárdos, Greece",
@@ -35,24 +65,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
     },
     {
-      "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "KABAKLI-CICEKDAGI (KIRSEHIR) İlksel",
-      "time": "2026-08-01T20:32:27+00:00",
-      "latitude": 39.6832,
-      "longitude": 34.1765,
-      "depth_km": 4.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-08-01T02:56:38+00:00",
-      "latitude": 35.4512,
-      "longitude": 23.0662,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+      "source": "USGS",
+      "magnitude": 4.4,
+      "place": "17 km ENE of Nurdağı, Turkey",
+      "time": "2026-08-09T00:42:18.950000+00:00",
+      "latitude": 37.2046,
+      "longitude": 36.9229,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc0"
     },
     {
       "source": "Kandilli",
@@ -106,12 +126,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "CAYUSTU-BIGADIC (BALIKESIR) İlksel",
-      "time": "2026-08-01T05:58:39+00:00",
-      "latitude": 39.393,
-      "longitude": 27.9733,
-      "depth_km": 5.9,
+      "magnitude": 3.2,
+      "place": "BAYRAKLI-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-08-08T09:48:51+00:00",
+      "latitude": 39.175,
+      "longitude": 28.2252,
+      "depth_km": 14.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-08-08T17:43:43+00:00",
+      "latitude": 40.0868,
+      "longitude": 23.2087,
+      "depth_km": 11.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -142,16 +172,6 @@
       "latitude": 34.9385,
       "longitude": 25.315,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ) İlksel",
-      "time": "2026-08-01T11:22:09+00:00",
-      "latitude": 36.67,
-      "longitude": 28.2482,
-      "depth_km": 54.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
