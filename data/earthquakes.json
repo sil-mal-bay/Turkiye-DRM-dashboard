@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T05:29:37.355700+00:00",
+  "last_updated": "2026-08-10T05:56:49.975223+00:00",
   "count": 13,
   "largest": {
     "source": "Kandilli",
@@ -87,6 +87,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.5,
+      "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel",
+      "time": "2026-08-09T15:06:53+00:00",
+      "latitude": 37.9837,
+      "longitude": 36.3138,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
       "place": "AKDENIZ İlksel",
       "time": "2026-08-07T12:03:01+00:00",
       "latitude": 36.0105,
@@ -162,16 +172,6 @@
       "latitude": 36.696,
       "longitude": 25.7815,
       "depth_km": 16.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-08-02T17:14:00+00:00",
-      "latitude": 34.9385,
-      "longitude": 25.315,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

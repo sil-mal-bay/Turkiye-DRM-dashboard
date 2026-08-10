@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-08-09T05:32:04.228484+00:00",
-  "count": 3,
+  "last_updated": "2026-08-10T05:57:46.702004+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.4 earthquake — 5 km SW of Lárdos, Greece",
-      "magnitude": 4.4,
-      "time": "2026-08-07T07:10:56.672000+00:00",
-      "location": "5 km SW of Lárdos, Greece",
-      "latitude": 36.0581,
-      "longitude": 27.9816,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwc"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
