@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-08-12T05:59:22.072313+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-08-13T06:00:43.304548+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — SURIYE İlksel",
+      "magnitude": 4.7,
+      "time": "2026-08-13T05:33:54+00:00",
+      "location": "SURIYE İlksel",
+      "latitude": 35.2677,
+      "longitude": 39.93,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
