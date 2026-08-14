@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T06:00:43.304548+00:00",
-  "count": 1,
+  "last_updated": "2026-08-14T05:59:22.996306+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,18 @@
       "location": "SURIYE İlksel",
       "latitude": 35.2677,
       "longitude": 39.93,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — GOKDERE-(AMASYA) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-08-13T13:33:37+00:00",
+      "location": "GOKDERE-(AMASYA) İlksel",
+      "latitude": 40.5233,
+      "longitude": 35.5493,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

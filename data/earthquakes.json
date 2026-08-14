@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T05:59:31.706993+00:00",
-  "count": 17,
+  "last_updated": "2026-08-14T05:58:20.627362+00:00",
+  "count": 19,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.7,
@@ -51,6 +51,16 @@
       "longitude": 36.9229,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc0"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.0,
+      "place": "GOKDERE-(AMASYA) İlksel",
+      "time": "2026-08-13T13:33:37+00:00",
+      "latitude": 40.5233,
+      "longitude": 35.5493,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -96,22 +106,32 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 4.0,
+      "place": "GOKDERE-(AMASYA) İlksel",
+      "time": "2026-08-13T13:33:37+00:00",
+      "latitude": 40.5233,
+      "longitude": 35.5493,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.9,
+      "place": "IRAK İlksel",
+      "time": "2026-08-14T01:28:02+00:00",
+      "latitude": 35.5468,
+      "longitude": 44.913,
+      "depth_km": 26.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.8,
       "place": "EGE DENIZI İlksel",
       "time": "2026-08-12T11:30:04+00:00",
       "latitude": 38.7817,
       "longitude": 26.5305,
       "depth_km": 19.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "RODOS ADASI (AKDENIZ) İlksel",
-      "time": "2026-08-07T10:10:56+00:00",
-      "latitude": 36.0795,
-      "longitude": 28.0805,
-      "depth_km": 1.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -146,12 +166,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-08-07T12:03:02+00:00",
-      "latitude": 36.0455,
-      "longitude": 34.4993,
-      "depth_km": 27.9,
+      "magnitude": 3.3,
+      "place": "SEYHLER-GOYNUCEK (AMASYA) İlksel",
+      "time": "2026-08-13T10:33:15+00:00",
+      "latitude": 40.4337,
+      "longitude": 35.5655,
+      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -202,6 +222,16 @@
       "latitude": 39.2005,
       "longitude": 28.0967,
       "depth_km": 14.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "SARKLI-GOYNUCEK (AMASYA) İlksel",
+      "time": "2026-08-13T10:39:19+00:00",
+      "latitude": 40.4498,
+      "longitude": 35.555,
+      "depth_km": 7.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
