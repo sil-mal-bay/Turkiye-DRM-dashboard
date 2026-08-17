@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T05:02:00.705141+00:00",
+  "last_updated": "2026-08-17T05:09:59.014363+00:00",
   "count": 25,
   "largest": {
     "source": "Kandilli",
@@ -24,16 +24,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 4.6,
-      "place": "HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
-      "time": "2026-08-09T03:42:16+00:00",
-      "latitude": 37.1063,
-      "longitude": 36.9255,
-      "depth_km": 9.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 4.0,
       "place": "GOKDERE-(AMASYA) İlksel",
       "time": "2026-08-13T13:33:37+00:00",
@@ -52,16 +42,6 @@
       "latitude": 35.2677,
       "longitude": 39.93,
       "depth_km": 2.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.6,
-      "place": "HAMIDIYE-NURDAGI (GAZIANTEP) İlksel",
-      "time": "2026-08-09T03:42:16+00:00",
-      "latitude": 37.1063,
-      "longitude": 36.9255,
-      "depth_km": 9.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -262,6 +242,16 @@
       "latitude": 39.2005,
       "longitude": 28.0967,
       "depth_km": 14.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "ZINCIRLI-ISLAHIYE (GAZIANTEP) İlksel",
+      "time": "2026-08-16T15:23:13+00:00",
+      "latitude": 37.0932,
+      "longitude": 36.693,
+      "depth_km": 9.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
