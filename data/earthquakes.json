@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T05:03:25.507570+00:00",
+  "last_updated": "2026-08-19T05:03:41.751521+00:00",
   "count": 25,
   "largest": {
     "source": "Kandilli",
@@ -87,6 +87,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.5,
+      "place": "OSMANKOSELI-HALKAPINAR (KONYA) İlksel",
+      "time": "2026-08-18T20:18:50+00:00",
+      "latitude": 37.4033,
+      "longitude": 34.3318,
+      "depth_km": 7.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
       "place": "EGE DENIZI İlksel",
       "time": "2026-08-15T08:14:03+00:00",
       "latitude": 35.8882,
@@ -112,16 +122,6 @@
       "latitude": 38.6137,
       "longitude": 39.546,
       "depth_km": 5.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-08-10T22:35:23+00:00",
-      "latitude": 36.5175,
-      "longitude": 28.7408,
-      "depth_km": 28.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -166,16 +166,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
-      "time": "2026-08-10T14:13:48+00:00",
-      "latitude": 39.3923,
-      "longitude": 26.3042,
-      "depth_km": 13.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
       "time": "2026-08-15T01:00:51+00:00",
@@ -192,6 +182,16 @@
       "latitude": 36.0518,
       "longitude": 28.0903,
       "depth_km": 2.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-08-18T15:18:12+00:00",
+      "latitude": 34.4613,
+      "longitude": 26.0093,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

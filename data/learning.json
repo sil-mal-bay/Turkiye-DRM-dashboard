@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T05:04:01.410551+00:00",
+  "last_updated": "2026-08-19T05:04:27.519659+00:00",
   "count": 62,
   "items": [
     {
@@ -18,13 +18,6 @@
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "World Bank",
       "title": "Serbian - National Disaster Risk Management Program : Concept Note",
       "link": "http://documents.worldbank.org/curated/en/863191614943769186",
       "type": "working paper",
@@ -32,9 +25,9 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
-      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
@@ -42,6 +35,13 @@
       "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
       "link": "http://documents.worldbank.org/curated/en/230761613565752638",
       "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
+      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
+      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -270,15 +270,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "title": "Flood risk in road networks",
+      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
       "description": ""
     },
