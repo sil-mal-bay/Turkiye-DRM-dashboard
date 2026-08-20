@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T05:04:27.519659+00:00",
+  "last_updated": "2026-08-20T05:06:02.429847+00:00",
   "count": 62,
   "items": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
-      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
-      "type": "working paper",
+      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
+      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Social Protection and Labor – Disaster Risk Management Toolkit",
-      "link": "http://documents.worldbank.org/curated/en/758321601534340630",
-      "type": "report",
+      "title": "Serbian - National Disaster Risk Management Program : Concept Note",
+      "link": "http://documents.worldbank.org/curated/en/863191614943769186",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "Early Warnings for All booklet",
+      "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
       "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "learning",
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "Analytical estimate of damages caused by the June 24, 2026 earthquakes in Venezuela",
       "link": "https://www.undrr.org/publication/documents-and-publications/analytical-estimate-damages-caused-june-24-2026-earthquakes",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
       "type": "learning",
       "description": ""
     }
