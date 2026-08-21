@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-08-20T05:06:24.550854+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-08-21T05:06:59.389083+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.3 earthquake — 11 km NNW of Ilgaz, Turkey",
+      "magnitude": 4.3,
+      "time": "2026-08-21T02:06:18.768000+00:00",
+      "location": "11 km NNW of Ilgaz, Turkey",
+      "latitude": 41.0198,
+      "longitude": 33.5713,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — EKSIK-ILGAZ (CANKIRI) İlksel",
+      "magnitude": 4.4,
+      "time": "2026-08-21T05:06:16+00:00",
+      "location": "EKSIK-ILGAZ (CANKIRI) İlksel",
+      "latitude": 41.028,
+      "longitude": 33.6395,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

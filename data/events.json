@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T05:05:57.243045+00:00",
-  "count": 6,
+  "last_updated": "2026-08-21T05:06:35.400782+00:00",
+  "count": 7,
   "events": [
     {
       "source": "UNDRR",
@@ -20,9 +20,9 @@
     },
     {
       "source": "UNDRR",
-      "title": "Register Now: Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
+      "title": "Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
       "date": "2026-09-02T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/register-now-africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
+      "link": "https://www.undrr.org/event/africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
       "location": null,
       "type": "conference"
     },
@@ -49,6 +49,14 @@
       "link": "https://www.undrr.org/event/2nd-arab-forum-early-warning-systems-and-disaster-preparedness",
       "location": null,
       "type": "conference"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Training workshop on the Global Disaster-Related Statistics Framework (G-DRSF)",
+      "date": "2026-10-20T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/training-workshop-gdrsf",
+      "location": null,
+      "type": "workshop"
     }
   ]
 }

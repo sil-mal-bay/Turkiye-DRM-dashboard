@@ -1,78 +1,58 @@
 {
-  "last_updated": "2026-08-20T05:05:24.688911+00:00",
-  "count": 22,
+  "last_updated": "2026-08-21T05:06:00.867393+00:00",
+  "count": 15,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 4.7,
-    "place": "SURIYE İlksel",
-    "time": "2026-08-13T05:33:54+00:00",
-    "latitude": 35.2677,
-    "longitude": 39.93,
-    "depth_km": 2.3,
+    "magnitude": 4.4,
+    "place": "EKSIK-ILGAZ (CANKIRI) İlksel",
+    "time": "2026-08-21T05:06:16+00:00",
+    "latitude": 41.028,
+    "longitude": 33.6395,
+    "depth_km": 5.0,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
     {
       "source": "Kandilli",
-      "magnitude": 4.7,
-      "place": "SURIYE İlksel",
-      "time": "2026-08-13T05:33:54+00:00",
-      "latitude": 35.2677,
-      "longitude": 39.93,
-      "depth_km": 2.3,
+      "magnitude": 4.4,
+      "place": "EKSIK-ILGAZ (CANKIRI) İlksel",
+      "time": "2026-08-21T05:06:16+00:00",
+      "latitude": 41.028,
+      "longitude": 33.6395,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "GOKDERE-(AMASYA) İlksel",
-      "time": "2026-08-13T13:33:37+00:00",
-      "latitude": 40.5233,
-      "longitude": 35.5493,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+      "source": "USGS",
+      "magnitude": 4.3,
+      "place": "11 km NNW of Ilgaz, Turkey",
+      "time": "2026-08-21T02:06:18.768000+00:00",
+      "latitude": 41.0198,
+      "longitude": 33.5713,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
     }
   ],
   "events": [
     {
       "source": "Kandilli",
-      "magnitude": 4.7,
-      "place": "SURIYE İlksel",
-      "time": "2026-08-13T05:33:54+00:00",
-      "latitude": 35.2677,
-      "longitude": 39.93,
-      "depth_km": 2.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "GOKDERE-(AMASYA) İlksel",
-      "time": "2026-08-13T13:33:37+00:00",
-      "latitude": 40.5233,
-      "longitude": 35.5493,
+      "magnitude": 4.4,
+      "place": "EKSIK-ILGAZ (CANKIRI) İlksel",
+      "time": "2026-08-21T05:06:16+00:00",
+      "latitude": 41.028,
+      "longitude": 33.6395,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "IRAK İlksel",
-      "time": "2026-08-14T01:28:02+00:00",
-      "latitude": 35.5468,
-      "longitude": 44.913,
-      "depth_km": 26.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-08-15T00:01:23+00:00",
-      "latitude": 38.801,
-      "longitude": 25.685,
-      "depth_km": 5.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+      "source": "USGS",
+      "magnitude": 4.3,
+      "place": "11 km NNW of Ilgaz, Turkey",
+      "time": "2026-08-21T02:06:18.768000+00:00",
+      "latitude": 41.0198,
+      "longitude": 33.5713,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
     },
     {
       "source": "Kandilli",
@@ -86,22 +66,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-08-15T08:14:03+00:00",
-      "latitude": 35.8882,
-      "longitude": 27.5888,
-      "depth_km": 9.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel",
-      "time": "2026-08-15T06:42:14+00:00",
-      "latitude": 40.0403,
-      "longitude": 28.685,
-      "depth_km": 7.0,
+      "magnitude": 3.3,
+      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-08-21T03:04:16+00:00",
+      "latitude": 39.2673,
+      "longitude": 28.9647,
+      "depth_km": 9.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -126,22 +96,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "SEYHLER-GOYNUCEK (AMASYA) İlksel",
-      "time": "2026-08-13T10:33:15+00:00",
-      "latitude": 40.4337,
-      "longitude": 35.5655,
-      "depth_km": 6.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "CESME ACIKLARI-IZMIR (EGE DENIZI) İlksel",
-      "time": "2026-08-13T08:32:45+00:00",
-      "latitude": 38.1513,
-      "longitude": 26.3207,
-      "depth_km": 5.0,
+      "magnitude": 3.2,
+      "place": "TASKOY-(BALIKESIR) İlksel",
+      "time": "2026-08-20T15:52:52+00:00",
+      "latitude": 39.468,
+      "longitude": 27.9132,
+      "depth_km": 12.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -156,12 +116,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-08-15T01:00:51+00:00",
-      "latitude": 39.2697,
-      "longitude": 28.9462,
-      "depth_km": 6.4,
+      "magnitude": 3.1,
+      "place": "KATRANDAGI-EMET (KUTAHYA) İlksel",
+      "time": "2026-08-21T02:03:17+00:00",
+      "latitude": 39.2493,
+      "longitude": 29.023,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
+      "place": "ADALAR (ISTANBUL) İlksel",
+      "time": "2026-08-20T11:30:59+00:00",
+      "latitude": 40.7813,
+      "longitude": 29.0983,
+      "depth_km": 11.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -182,26 +152,6 @@
       "latitude": 35.873,
       "longitude": 27.6073,
       "depth_km": 8.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-08-15T03:42:06+00:00",
-      "latitude": 40.0357,
-      "longitude": 23.2787,
-      "depth_km": 11.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "KERTIL-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-08-14T16:42:23+00:00",
-      "latitude": 39.2108,
-      "longitude": 28.0707,
-      "depth_km": 12.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -232,26 +182,6 @@
       "latitude": 34.942,
       "longitude": 24.7705,
       "depth_km": 42.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "DUZLEN-(MANISA) İlksel",
-      "time": "2026-08-15T06:33:21+00:00",
-      "latitude": 38.759,
-      "longitude": 27.1403,
-      "depth_km": 14.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "SARKLI-GOYNUCEK (AMASYA) İlksel",
-      "time": "2026-08-13T10:39:19+00:00",
-      "latitude": 40.4498,
-      "longitude": 35.555,
-      "depth_km": 7.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
