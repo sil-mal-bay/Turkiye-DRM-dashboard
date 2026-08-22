@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T05:06:00.867393+00:00",
-  "count": 15,
+  "last_updated": "2026-08-22T05:00:15.975452+00:00",
+  "count": 12,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -76,26 +76,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "GUZGULU-YEDISU (BINGOL) İlksel",
-      "time": "2026-08-16T05:44:46+00:00",
-      "latitude": 39.3818,
-      "longitude": 40.435,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel",
-      "time": "2026-08-15T16:19:25+00:00",
-      "latitude": 40.0428,
-      "longitude": 28.6707,
-      "depth_km": 7.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "TASKOY-(BALIKESIR) İlksel",
       "time": "2026-08-20T15:52:52+00:00",
@@ -146,12 +126,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-08-15T18:45:33+00:00",
-      "latitude": 35.873,
-      "longitude": 27.6073,
-      "depth_km": 8.0,
+      "magnitude": 3.0,
+      "place": "YAGMURLU-GOKSUN (KAHRAMANMARAS) İlksel",
+      "time": "2026-08-22T06:16:37+00:00",
+      "latitude": 38.0918,
+      "longitude": 36.5615,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "SEHITHALIT-SARIKAMIS (KARS) İlksel",
+      "time": "2026-08-21T21:33:43+00:00",
+      "latitude": 40.1732,
+      "longitude": 42.5522,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -162,26 +152,6 @@
       "latitude": 40.0915,
       "longitude": 30.4595,
       "depth_km": 5.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "ZINCIRLI-ISLAHIYE (GAZIANTEP) İlksel",
-      "time": "2026-08-16T15:23:13+00:00",
-      "latitude": 37.0932,
-      "longitude": 36.693,
-      "depth_km": 9.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-08-15T14:23:55+00:00",
-      "latitude": 34.942,
-      "longitude": 24.7705,
-      "depth_km": 42.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
