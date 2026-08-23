@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T05:00:15.975452+00:00",
-  "count": 12,
+  "last_updated": "2026-08-23T05:03:14.053804+00:00",
+  "count": 13,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -53,6 +53,16 @@
       "longitude": 33.5713,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "ONIKI ADALAR (EGE DENIZI) İlksel",
+      "time": "2026-08-23T02:39:28+00:00",
+      "latitude": 36.2307,
+      "longitude": 27.4065,
+      "depth_km": 15.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -127,6 +137,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.0,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-08-23T07:24:22+00:00",
+      "latitude": 34.4528,
+      "longitude": 33.0355,
+      "depth_km": 10.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
       "place": "YAGMURLU-GOKSUN (KAHRAMANMARAS) İlksel",
       "time": "2026-08-22T06:16:37+00:00",
       "latitude": 38.0918,
@@ -142,16 +162,6 @@
       "latitude": 40.1732,
       "longitude": 42.5522,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "AKKOY-INHISAR (BILECIK) REVIZE01 (2026.08.17 14:23:23",
-      "time": "2026-08-17T14:23:23+00:00",
-      "latitude": 40.0915,
-      "longitude": 30.4595,
-      "depth_km": 5.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

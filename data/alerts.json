@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-08-22T05:01:18.554516+00:00",
-  "count": 2,
+  "last_updated": "2026-08-23T05:04:11.504966+00:00",
+  "count": 1,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — 11 km NNW of Ilgaz, Turkey",
-      "magnitude": 4.3,
-      "time": "2026-08-21T02:06:18.768000+00:00",
-      "location": "11 km NNW of Ilgaz, Turkey",
-      "latitude": 41.0198,
-      "longitude": 33.5713,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
