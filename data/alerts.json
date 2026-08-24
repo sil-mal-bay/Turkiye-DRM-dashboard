@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-08-23T05:04:11.504966+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.4 earthquake — EKSIK-ILGAZ (CANKIRI) İlksel",
-      "magnitude": 4.4,
-      "time": "2026-08-21T05:06:16+00:00",
-      "location": "EKSIK-ILGAZ (CANKIRI) İlksel",
-      "latitude": 41.028,
-      "longitude": 33.6395,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-08-24T05:20:48.938203+00:00",
+  "count": 0,
+  "alerts": []
 }

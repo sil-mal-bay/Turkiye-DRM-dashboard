@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T05:03:14.053804+00:00",
-  "count": 13,
+  "last_updated": "2026-08-24T05:19:46.857700+00:00",
+  "count": 12,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -122,16 +122,6 @@
       "latitude": 40.7813,
       "longitude": 29.0983,
       "depth_km": 11.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-08-18T15:18:12+00:00",
-      "latitude": 34.4613,
-      "longitude": 26.0093,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
