@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T05:20:26.245533+00:00",
+  "last_updated": "2026-08-25T05:07:30.368363+00:00",
   "count": 62,
   "items": [
     {
@@ -270,16 +270,23 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
-      "type": "report",
+      "title": "Flood risk management and urban resilience workshop",
+      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Flood risk management and urban resilience workshop",
-      "link": "http://documents.worldbank.org/curated/en/371581468234873338",
+      "title": "Flood risk in road networks",
+      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Exploring Risk Tolerance Under Uncertainty : Workshop on a Participatory Risk-Tolerance Methodology for Recovery Decisions in Grindavík, Iceland",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099080426164098473",
+      "type": "report",
       "description": ""
     },
     {
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "Making Spatial Planning Work: Lessons from Colombia",
       "link": "https://openknowledge.worldbank.org/entities/publication/fdfe857f-d183-4600-a1ee-2fcdafedb8f6",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report on Resilient Recovery Framework: Grindavík",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099041726025022797",
       "type": "report",
       "description": ""
     },
