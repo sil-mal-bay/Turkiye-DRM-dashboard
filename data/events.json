@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T05:07:29.041238+00:00",
-  "count": 7,
+  "last_updated": "2026-08-26T05:07:24.019665+00:00",
+  "count": 8,
   "events": [
     {
       "source": "UNDRR",
@@ -41,6 +41,14 @@
       "link": "https://www.undrr.org/event/idrlf2026",
       "location": null,
       "type": "conference"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Pacific Symposium on Loss and Damage: Understanding Non-economic Losses. Data, Policy and Capacity for Action",
+      "date": "2026-09-28T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/pacific-symposium-loss-and-damage-understanding-non-economic-losses-data-policy-and-capacity",
+      "location": null,
+      "type": "event"
     },
     {
       "source": "UNDRR",

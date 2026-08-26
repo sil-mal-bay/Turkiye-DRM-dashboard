@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-25T05:07:05.265214+00:00",
-  "count": 6,
+  "last_updated": "2026-08-26T05:06:58.825010+00:00",
+  "count": 7,
   "articles": [
+    {
+      "source": "dailysabah",
+      "title": "Türkiye highlights drought, land protection efforts at COP17",
+      "original_title": null,
+      "description": "Türkiye is showcasing its policies and practices to combat desertification and drought at the 17th Conference of the Parties (COP17) to the United Nations Convention to Combat Dese...",
+      "published": "2026-08-25T09:05:34+00:00",
+      "link": "https://www.dailysabah.com/turkiye/turkiye-highlights-drought-land-protection-efforts-at-cop17/news",
+      "score": 173.0,
+      "world_bank_related": false,
+      "turkey_related": true,
+      "credibility_score": 80,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Partnerships & Stakeholders: Science and Technology Community",
@@ -22,11 +35,11 @@
       "description": "Itrend is a Public Technological Institute mandated by the Chilean State and funded by CORFO.",
       "published": "2026-08-20T19:00:08+00:00",
       "link": "https://www.undrr.org/organization/chilean-institute-disaster-resilience-instituto-para-la-resiliencia-ante-desastres",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

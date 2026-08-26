@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T05:06:55.636622+00:00",
-  "count": 12,
+  "last_updated": "2026-08-26T05:06:41.573018+00:00",
+  "count": 18,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -31,6 +31,26 @@
       "longitude": 33.5713,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "16 km ENE of Çelikhan, Turkey",
+      "time": "2026-08-25T18:43:54.134000+00:00",
+      "latitude": 38.1053,
+      "longitude": 38.3938,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbta"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "SALKONAK-YESILYURT (MALATYA) İlksel",
+      "time": "2026-08-25T21:43:51+00:00",
+      "latitude": 38.1277,
+      "longitude": 38.367,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -53,6 +73,46 @@
       "longitude": 33.5713,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.2,
+      "place": "16 km ENE of Çelikhan, Turkey",
+      "time": "2026-08-25T18:43:54.134000+00:00",
+      "latitude": 38.1053,
+      "longitude": 38.3938,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbta"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.1,
+      "place": "SALKONAK-YESILYURT (MALATYA) İlksel",
+      "time": "2026-08-25T21:43:51+00:00",
+      "latitude": 38.1277,
+      "longitude": 38.367,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "SALKONAK-YESILYURT (MALATYA) İlksel",
+      "time": "2026-08-25T21:40:33+00:00",
+      "latitude": 38.1215,
+      "longitude": 38.4017,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "SALKONAK-YESILYURT (MALATYA) İlksel",
+      "time": "2026-08-25T22:27:11+00:00",
+      "latitude": 38.135,
+      "longitude": 38.3853,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -107,6 +167,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "KARAYAKUP-GOLOVA (SIVAS) İlksel",
+      "time": "2026-08-25T13:59:09+00:00",
+      "latitude": 40.0573,
+      "longitude": 38.7042,
+      "depth_km": 3.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "KATRANDAGI-EMET (KUTAHYA) İlksel",
       "time": "2026-08-21T02:03:17+00:00",
       "latitude": 39.2493,
@@ -122,6 +192,16 @@
       "latitude": 40.7813,
       "longitude": 29.0983,
       "depth_km": 11.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-08-25T18:09:24+00:00",
+      "latitude": 33.9758,
+      "longitude": 25.4632,
+      "depth_km": 88.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
