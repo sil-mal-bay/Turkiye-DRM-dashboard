@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T05:07:24.019665+00:00",
-  "count": 8,
+  "last_updated": "2026-08-27T15:25:51.299720+00:00",
+  "count": 9,
   "events": [
     {
       "source": "UNDRR",
@@ -41,6 +41,14 @@
       "link": "https://www.undrr.org/event/idrlf2026",
       "location": null,
       "type": "conference"
+    },
+    {
+      "source": "UNDRR",
+      "title": "[UNDRR Masterclass series] AI for Multi-Hazard Early Warning Systems: A Hands-On Guide to Strengthening Early Warning and Response",
+      "date": "2026-09-16T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/drr-ai-masterclass-mhews",
+      "location": null,
+      "type": "event"
     },
     {
       "source": "UNDRR",

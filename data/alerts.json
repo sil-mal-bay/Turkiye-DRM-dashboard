@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T05:07:49.888075+00:00",
-  "count": 2,
+  "last_updated": "2026-08-27T15:26:15.667624+00:00",
+  "count": 3,
   "alerts": [
     {
       "type": "earthquake",
@@ -23,6 +23,18 @@
       "location": "SALKONAK-YESILYURT (MALATYA) İlksel",
       "latitude": 38.1277,
       "longitude": 38.367,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-08-26T09:53:42+00:00",
+      "location": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
+      "latitude": 38.7438,
+      "longitude": 36.5332,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

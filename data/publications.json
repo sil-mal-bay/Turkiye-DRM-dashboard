@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-08-26T05:07:49.887403+00:00",
+  "last_updated": "2026-08-27T15:26:15.666860+00:00",
   "count": 10,
   "publications": [
-    {
-      "source": "UNDRR",
-      "title": "Early Warnings for All booklet",
-      "description": "The United Nations Office for Disaster Risk Reduction (UNDRR) collaborated with the World Meteorological Organization (WMO) and partnered with COPE Disaster Champions to develop a child-friendly booklet on Early Warning Systems (EWS).",
-      "date": "2026-08-19T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
-      "type": "report"
-    },
     {
       "source": "UNDRR",
       "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
@@ -80,6 +72,14 @@
       "description": "This document constitutes a first estimate of the direct physical damage, obtained through analytical modeling, of the effects caused by the earthquakes of June 24, 2026 in Venezuela.",
       "date": "2026-07-02T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/analytical-estimate-damages-caused-june-24-2026-earthquakes",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
+      "description": "In the second quarter of 2026, UNDRR ONEA-GETI has significantly expanded global disaster risk reduction (DRR) and climate resilience capacities through a series of high-impact training of trainers (ToT) workshops, multi-agency certificate programmes, and",
+      "date": "2026-06-30T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
       "type": "report"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T05:07:26.234496+00:00",
+  "last_updated": "2026-08-27T15:25:52.922966+00:00",
   "count": 62,
   "items": [
     {
@@ -32,16 +32,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
-      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
-      "type": "working paper",
+      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
-      "type": "report",
+      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
+      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -368,13 +368,6 @@
     },
     {
       "source": "UNDRR",
-      "title": "Early Warnings for All booklet",
-      "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
       "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
       "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "learning",
@@ -433,6 +426,13 @@
       "source": "UNDRR",
       "title": "Analytical estimate of damages caused by the June 24, 2026 earthquakes in Venezuela",
       "link": "https://www.undrr.org/publication/documents-and-publications/analytical-estimate-damages-caused-june-24-2026-earthquakes",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
       "type": "learning",
       "description": ""
     }
