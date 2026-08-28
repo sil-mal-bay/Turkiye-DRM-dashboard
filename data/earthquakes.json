@@ -1,37 +1,17 @@
 {
-  "last_updated": "2026-08-27T15:25:12.899267+00:00",
-  "count": 24,
+  "last_updated": "2026-08-28T16:51:50.929795+00:00",
+  "count": 21,
   "largest": {
-    "source": "Kandilli",
-    "magnitude": 4.4,
-    "place": "EKSIK-ILGAZ (CANKIRI) İlksel",
-    "time": "2026-08-21T05:06:16+00:00",
-    "latitude": 41.028,
-    "longitude": 33.6395,
-    "depth_km": 5.0,
-    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    "source": "USGS",
+    "magnitude": 4.2,
+    "place": "16 km ENE of Çelikhan, Turkey",
+    "time": "2026-08-25T18:43:54.134000+00:00",
+    "latitude": 38.1053,
+    "longitude": 38.3938,
+    "depth_km": 10,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbta"
   },
   "significant_events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 4.4,
-      "place": "EKSIK-ILGAZ (CANKIRI) İlksel",
-      "time": "2026-08-21T05:06:16+00:00",
-      "latitude": 41.028,
-      "longitude": 33.6395,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "11 km NNW of Ilgaz, Turkey",
-      "time": "2026-08-21T02:06:18.768000+00:00",
-      "latitude": 41.0198,
-      "longitude": 33.5713,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
-    },
     {
       "source": "USGS",
       "magnitude": 4.2,
@@ -64,26 +44,6 @@
     }
   ],
   "events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 4.4,
-      "place": "EKSIK-ILGAZ (CANKIRI) İlksel",
-      "time": "2026-08-21T05:06:16+00:00",
-      "latitude": 41.028,
-      "longitude": 33.6395,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "11 km NNW of Ilgaz, Turkey",
-      "time": "2026-08-21T02:06:18.768000+00:00",
-      "latitude": 41.0198,
-      "longitude": 33.5713,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmct"
-    },
     {
       "source": "USGS",
       "magnitude": 4.2,
@@ -186,12 +146,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-08-21T03:04:16+00:00",
-      "latitude": 39.2673,
-      "longitude": 28.9647,
-      "depth_km": 9.7,
+      "magnitude": 3.1,
+      "place": "DEDEYOLU-SIVRICE (ELAZIG) İlksel",
+      "time": "2026-08-28T12:48:38+00:00",
+      "latitude": 38.4592,
+      "longitude": 39.2088,
+      "depth_km": 6.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -291,16 +251,6 @@
       "time": "2026-08-22T06:16:37+00:00",
       "latitude": 38.0918,
       "longitude": 36.5615,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "SEHITHALIT-SARIKAMIS (KARS) İlksel",
-      "time": "2026-08-21T21:33:43+00:00",
-      "latitude": 40.1732,
-      "longitude": 42.5522,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

@@ -1,42 +1,5 @@
 {
-  "last_updated": "2026-08-27T15:26:15.667624+00:00",
-  "count": 3,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — 16 km ENE of Çelikhan, Turkey",
-      "magnitude": 4.2,
-      "time": "2026-08-25T18:43:54.134000+00:00",
-      "location": "16 km ENE of Çelikhan, Turkey",
-      "latitude": 38.1053,
-      "longitude": 38.3938,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbta"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — SALKONAK-YESILYURT (MALATYA) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-08-25T21:43:51+00:00",
-      "location": "SALKONAK-YESILYURT (MALATYA) İlksel",
-      "latitude": 38.1277,
-      "longitude": 38.367,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-08-26T09:53:42+00:00",
-      "location": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
-      "latitude": 38.7438,
-      "longitude": 36.5332,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-08-28T16:52:46.547287+00:00",
+  "count": 0,
+  "alerts": []
 }
