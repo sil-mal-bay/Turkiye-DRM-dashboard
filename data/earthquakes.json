@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T16:51:50.929795+00:00",
-  "count": 21,
+  "last_updated": "2026-08-29T11:18:29.344029+00:00",
+  "count": 22,
   "largest": {
     "source": "USGS",
     "magnitude": 4.2,
@@ -117,6 +117,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "KERTIL-SINDIRGI (BALIKESIR) İlksel",
+      "time": "2026-08-29T02:28:34+00:00",
+      "latitude": 39.2097,
+      "longitude": 28.0857,
+      "depth_km": 7.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "AKDENIZ İlksel",
       "time": "2026-08-27T08:33:34+00:00",
       "latitude": 35.0238,
@@ -197,6 +207,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.0,
+      "place": "ELMALI-PULUMUR (TUNCELI) İlksel",
+      "time": "2026-08-29T05:37:23+00:00",
+      "latitude": 39.4953,
+      "longitude": 40.1505,
+      "depth_km": 6.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-08-27T15:52:26+00:00",
       "latitude": 35.0485,
@@ -242,16 +262,6 @@
       "latitude": 34.4528,
       "longitude": 33.0355,
       "depth_km": 10.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "YAGMURLU-GOKSUN (KAHRAMANMARAS) İlksel",
-      "time": "2026-08-22T06:16:37+00:00",
-      "latitude": 38.0918,
-      "longitude": 36.5615,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
