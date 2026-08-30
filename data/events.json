@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T11:19:05.088990+00:00",
-  "count": 9,
+  "last_updated": "2026-08-30T10:04:38.230410+00:00",
+  "count": 10,
   "events": [
     {
       "source": "UNDRR",
@@ -41,6 +41,14 @@
       "link": "https://www.undrr.org/event/idrlf2026",
       "location": null,
       "type": "conference"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Learning from Disasters through Event Analyses (with participation from FOEN and UNDRR)",
+      "date": "2026-09-16T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/learning-disasters-through-event-analyses-participation-foen-and-undrr",
+      "location": null,
+      "type": "training"
     },
     {
       "source": "UNDRR",
