@@ -1,18 +1,10 @@
 {
-  "last_updated": "2026-08-30T10:04:38.230410+00:00",
-  "count": 10,
+  "last_updated": "2026-08-31T11:05:27.949116+00:00",
+  "count": 9,
   "events": [
     {
       "source": "UNDRR",
-      "title": "Enhancing Alexandria’s climate resilience through the Alexandria Consortium and MCR2030",
-      "date": "2026-08-31T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/enhancing-alexandrias-climate-resilience-through-alexandria-consortium-and-mcr2030",
-      "location": null,
-      "type": "event"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Disaster Risk Reduction Elements in the PPED Draft Articles - Side Event on the Margins of the PPED PrepCom",
+      "title": "Disaster risk reduction elements in the PPED draft articles - Side event on the margins of the PPED PrepCom",
       "date": "2026-09-01T00:00:00+00:00",
       "link": "https://www.undrr.org/event/disaster-risk-reduction-elements-pped-draft-articles-side-event-margins-pped-prepcom",
       "location": null,
@@ -44,9 +36,9 @@
     },
     {
       "source": "UNDRR",
-      "title": "Learning from Disasters through Event Analyses (with participation from FOEN and UNDRR)",
+      "title": "Learning from disasters through event analyses",
       "date": "2026-09-16T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/learning-disasters-through-event-analyses-participation-foen-and-undrr",
+      "link": "https://www.undrr.org/event/learning-disasters-through-event-analyses",
       "location": null,
       "type": "training"
     },

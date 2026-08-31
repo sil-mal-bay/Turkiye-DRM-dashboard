@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T10:04:13.529138+00:00",
-  "count": 5,
+  "last_updated": "2026-08-31T11:04:59.985978+00:00",
+  "count": 7,
   "articles": [
     {
       "source": "undrr",
@@ -16,17 +16,43 @@
       "recency_score": 100
     },
     {
+      "source": "aljazeera",
+      "title": "After the flash flood disaster, here is what Nepal really needs",
+      "original_title": null,
+      "description": "The country urgently needs to set up early warning systems, monitoring and safe shelters.",
+      "published": "2026-08-31T10:12:38+00:00",
+      "link": "https://www.aljazeera.com/opinions/2026/8/31/after-the-flash-flood-disaster-here-is-what-nepal-really-needs?traffic_source=rss",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Strengthening Urban Resilience and Disaster Preparedness in Alexandria",
+      "original_title": null,
+      "description": "The workshop will support Alexandria’s journey under the Making Cities Resilient 2030 (MCR2030) initiative and contribute to advancing the proposed Consortium for Alexandria.",
+      "published": "2026-08-30T08:16:04+00:00",
+      "link": "https://www.undrr.org/event/strengthening-urban-resilience-and-disaster-preparedness-alexandria",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
+    },
+    {
       "source": "undrr",
       "title": "Statement on the disaster in Nepal and China by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction and Head of UNDRR",
       "original_title": null,
       "description": "Statement on the disaster in Nepal and China by Kamal Kishore, Special Representative of the UN Secretary-General for Disaster Risk Reduction and Head of UNDRR",
       "published": "2026-08-27T09:25:51+00:00",
       "link": "https://www.undrr.org/news/statement-disaster-nepal-and-china-kamal-kishore-special-representative-un-secretary-general",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
