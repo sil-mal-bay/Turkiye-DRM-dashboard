@@ -1,30 +1,5 @@
 {
-  "last_updated": "2026-08-31T11:05:52.134381+00:00",
-  "count": 2,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.5 earthquake — 25 km W of Émponas, Greece",
-      "magnitude": 4.5,
-      "time": "2026-08-29T12:32:52.747000+00:00",
-      "location": "25 km W of Émponas, Greece",
-      "latitude": 36.2182,
-      "longitude": 27.5734,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tctp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — EGE DENIZI İlksel",
-      "magnitude": 4.2,
-      "time": "2026-08-29T15:32:50+00:00",
-      "location": "EGE DENIZI İlksel",
-      "latitude": 36.1562,
-      "longitude": 27.5443,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-09-01T09:34:07.403407+00:00",
+  "count": 0,
+  "alerts": []
 }

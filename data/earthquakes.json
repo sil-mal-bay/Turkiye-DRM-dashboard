@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T11:04:50.898775+00:00",
+  "last_updated": "2026-09-01T09:33:10.234818+00:00",
   "count": 29,
   "largest": {
     "source": "USGS",
@@ -116,6 +116,16 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.7,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-08-31T21:33:16+00:00",
+      "latitude": 38.7812,
+      "longitude": 25.6208,
+      "depth_km": 10.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.6,
       "place": "SALKONAK-YESILYURT (MALATYA) İlksel",
       "time": "2026-08-25T21:40:33+00:00",
@@ -172,26 +182,6 @@
       "latitude": 35.0238,
       "longitude": 31.4698,
       "depth_km": 9.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel",
-      "time": "2026-08-25T05:52:38+00:00",
-      "latitude": 38.8708,
-      "longitude": 26.6362,
-      "depth_km": 12.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "CAYIRHISAR-(BALIKESIR) İlksel",
-      "time": "2026-08-24T16:06:36+00:00",
-      "latitude": 39.6223,
-      "longitude": 27.8938,
-      "depth_km": 3.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -272,6 +262,16 @@
       "latitude": 40.0573,
       "longitude": 38.7042,
       "depth_km": 3.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUKSEKOLUK-TOROSLAR (MERSIN) İlksel",
+      "time": "2026-09-01T10:33:47+00:00",
+      "latitude": 36.9728,
+      "longitude": 34.4008,
+      "depth_km": 9.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
