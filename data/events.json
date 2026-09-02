@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-09-01T09:33:41.792465+00:00",
+  "last_updated": "2026-09-02T08:58:41.881996+00:00",
   "count": 8,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Africa Early Warnings Forum, Addis Ababa, Ethiopia 2-4 September 2026",
-      "date": "2026-09-02T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/africa-early-warnings-forum-addis-ababa-ethiopia-2-4-september-2026",
-      "location": null,
-      "type": "conference"
-    },
     {
       "source": "UNDRR",
       "title": "Sixth global expert forum for producers and users of disaster related statistics",
@@ -41,6 +33,14 @@
       "link": "https://www.undrr.org/event/drr-ai-masterclass-mhews",
       "location": null,
       "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Webinar: Strengthening West Africa’s Preparedness: The 2026 Super El Niño and the Role of UCPM, Copernicus, ACMAD, AGRHYMET, and NASRDA in Addressing Climate Risks",
+      "date": "2026-09-22T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-strengthening-west-africas-preparedness-2026-super-el-nino-and-role-ucpm-copernicus",
+      "location": null,
+      "type": "webinar"
     },
     {
       "source": "UNDRR",
