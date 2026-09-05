@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T08:59:31.978232+00:00",
+  "last_updated": "2026-09-05T08:31:14.620105+00:00",
   "count": 25,
   "largest": {
     "source": "USGS",
@@ -82,6 +82,16 @@
       "latitude": 38.7812,
       "longitude": 25.6208,
       "depth_km": 10.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-09-04T21:51:08+00:00",
+      "latitude": 35.7498,
+      "longitude": 31.0975,
+      "depth_km": 25.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -222,16 +232,6 @@
       "latitude": 39.2498,
       "longitude": 28.9173,
       "depth_km": 7.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "DEDEYOLU-SIVRICE (ELAZIG) İlksel",
-      "time": "2026-08-28T12:48:38+00:00",
-      "latitude": 38.4592,
-      "longitude": 39.2088,
-      "depth_km": 6.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
