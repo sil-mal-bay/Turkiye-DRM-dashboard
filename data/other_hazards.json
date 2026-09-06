@@ -1,5 +1,14 @@
 {
-  "last_updated": "2026-09-05T08:31:21.660147+00:00",
-  "count": 0,
-  "hazards": []
+  "last_updated": "2026-09-06T08:49:07.175901+00:00",
+  "count": 1,
+  "hazards": [
+    {
+      "type": "Wildfire",
+      "title": "Green forest fire notification in Türkiye",
+      "description": "On 30/08/2026, a forest fire started in Türkiye,  until 05/09/2026.",
+      "published": "Sat, 05 Sep 2026 19:24:57 GMT",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031706",
+      "severity": "Green"
+    }
+  ]
 }
