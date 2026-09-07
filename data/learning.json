@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T08:49:36.571213+00:00",
+  "last_updated": "2026-09-07T09:37:30.003353+00:00",
   "count": 62,
   "items": [
     {
@@ -32,16 +32,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
-      "type": "report",
+      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
+      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
-      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
-      "type": "working paper",
+      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
+      "type": "report",
       "description": ""
     },
     {
@@ -368,6 +368,20 @@
     },
     {
       "source": "UNDRR",
+      "title": "El Niño climate impact outlook - Philippines",
+      "link": "https://www.undrr.org/publication/documents-and-publications/el-nino-climate-impact-outlook-philippines",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "El Niño Climate Impact Outlook -Somalia",
+      "link": "https://www.undrr.org/publication/documents-and-publications/el-nino-climate-impact-outlook-somalia",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
       "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "learning",
@@ -419,20 +433,6 @@
       "source": "UNDRR",
       "title": "Leveraging AI to enhance multi-hazard early warning systems",
       "link": "https://www.undrr.org/publication/documents-and-publications/leveraging-ai-enhance-multi-hazard-early-warning-systems",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Analytical estimate of damages caused by the June 24, 2026 earthquakes in Venezuela",
-      "link": "https://www.undrr.org/publication/documents-and-publications/analytical-estimate-damages-caused-june-24-2026-earthquakes",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "UNDRR ONEA & GETI Newsletter 50: Apr-Jun 2026",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-50-apr-jun-2026",
       "type": "learning",
       "description": ""
     }
