@@ -1,20 +1,7 @@
 {
-  "last_updated": "2026-09-08T09:00:20.363740+00:00",
-  "count": 10,
+  "last_updated": "2026-09-09T09:07:17.630361+00:00",
+  "count": 9,
   "articles": [
-    {
-      "source": "dailysabah",
-      "title": "Türkiye expands earthquake monitoring network to 1,104 stations",
-      "original_title": null,
-      "description": "Türkiye has reached 1,104 earthquake monitoring stations across the country, giving it the highest earthquake monitoring capacity in Europe, Disaster and Emergency Management Autho...",
-      "published": "2026-09-07T12:30:00+00:00",
-      "link": "https://www.dailysabah.com/turkiye/turkiye-expands-earthquake-monitoring-network-to-1104-stations/news",
-      "score": 173.0,
-      "world_bank_related": false,
-      "turkey_related": true,
-      "credibility_score": 80,
-      "recency_score": 90
-    },
     {
       "source": "undrr",
       "title": "UNDRR August 2026 newsletter",
@@ -22,11 +9,11 @@
       "description": "This month from UNDRR: statements from SRSG Kamal Kishore on the Nepal-Tibet disaster, the Colombia earthquake and the impacts of El Niño; the Early Warnings for All Forum in Ethiopia; the IDRLF 2026 in the Republic of Korea; and more inside.",
       "published": "2026-09-07T07:47:35+00:00",
       "link": "https://www.undrr.org/news/undrr-august-2026-newsletter",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -35,11 +22,11 @@
       "description": "As UN Member States prepare for negotiations on a proposed international convention on the Protection of Persons in the Event of Disasters (PPED), the need for disaster prevention is emerging as a significant part of the discussion.",
       "published": "2026-09-04T16:18:32+00:00",
       "link": "https://www.undrr.org/news/disaster-risk-reduction-takes-center-stage-talks-global-disaster-treaty",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -48,11 +35,11 @@
       "description": "The Africa Early Warnings Forum, held in Addis Ababa, highlighted Africa's progress in expanding early warning systems, but with climate and disaster risks accelerating, the task now is to translate that progress into protection for everyone.",
       "published": "2026-09-04T11:43:38+00:00",
       "link": "https://www.undrr.org/news/africas-early-warning-experts-and-officials-call-sustained-momentum-life-saving-disaster",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +48,11 @@
       "description": "The Government of Japan, in partnership with the United Nations Office for Disaster Risk Reduction (UNDRR), will host the 2027 Asia-Pacific Ministerial Conference on Disaster Risk Reduction from 25 to 29 October 2027 in Sendai City, Japan.",
       "published": "2026-09-04T03:16:51+00:00",
       "link": "https://www.undrr.org/news/japan-host-asia-pacific-ministerial-conference-disaster-risk-reduction-sendai-city-2027",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-09-08T09:00:22.953339+00:00",
+  "last_updated": "2026-09-09T09:07:19.895010+00:00",
   "count": 38,
   "videos": [
+    {
+      "video_id": "xJEbDZ8J5RM",
+      "title": "[Event] Urban and Climate Risk Data Lab",
+      "description": "The Urban and Climate Risk Data Lab is a hands-on working session bringing together data scientists and development practitioners from Europe and Africa for a hands-on collaboration to turn urban data into practical solutions for more resilient cities.\n\nOver the course of the Lab, participants will ",
+      "channel": "GFDRR",
+      "published": "2026-09-08T21:34:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/xJEbDZ8J5RM/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xJEbDZ8J5RM"
+    },
     {
       "video_id": "saJmU2-Bd8g",
       "title": "The human cost of marine heatwaves | UNDRR",
@@ -298,15 +307,6 @@
       "published": "2026-05-08T19:34:18Z",
       "thumbnail": "https://i.ytimg.com/vi/ye9wNKoacXo/mqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ye9wNKoacXo"
-    },
-    {
-      "video_id": "chmLzHJr8L8",
-      "title": "[Launch Event] A Catalogue of Nature-based Solutions for Coastal Resilience",
-      "description": "Coastal areas rank among the world’s most vulnerable regions, facing the combined pressures of natural hazards, high population density, and concentrated economic activity in low lying zones. These hazards are compounded by the degradation of coastal ecosystems that provide essential services, inclu",
-      "channel": "GFDRR",
-      "published": "2026-04-29T16:21:56Z",
-      "thumbnail": "https://i.ytimg.com/vi/chmLzHJr8L8/mqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=chmLzHJr8L8"
     },
     {
       "video_id": "iN1AJvlSB9U",
