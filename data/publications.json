@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-09T09:08:20.201925+00:00",
+  "last_updated": "2026-09-10T09:06:07.067962+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
+      "description": "This guidance note outlines practical approaches to strengthening information integrity within risk communication–before, during, and after disasters. Preparing for and managing information risks is an integral part of disaster risk reduction efforts.",
+      "date": "2026-09-09T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "El Niño climate impact outlook -Mozambique",
@@ -72,14 +80,6 @@
       "description": "This operational guidance provides direction for designing and implementing people-centred, inclusive multi-hazard early warning systems that effectively reach and protect mobile populations and other groups affected by changing locations or circumstances",
       "date": "2026-07-15T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "After-Event Review (AER): Methodological guidance on conducting after-event reviews of Early Warning Systems",
-      "description": "The AER methodology guidance provides a practical, structured and learning-oriented framework to guide countries and stakeholders in conducting comprehensive and consistent reviews of EWS performance after hazardous events.",
-      "date": "2026-07-15T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/after-event-review-aer-methodological-guidance-conducting",
       "type": "report"
     }
   ]
