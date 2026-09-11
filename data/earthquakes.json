@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T09:05:07.351653+00:00",
-  "count": 18,
+  "last_updated": "2026-09-11T09:03:35.534569+00:00",
+  "count": 17,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.9,
@@ -75,32 +75,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-09-02T14:49:51+00:00",
-      "latitude": 39.1813,
-      "longitude": 28.1688,
-      "depth_km": 12.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.3,
       "place": "DUZLEN-(MANISA) İlksel",
       "time": "2026-09-03T15:14:51+00:00",
       "latitude": 38.7798,
       "longitude": 27.1347,
       "depth_km": 13.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-09-02T12:39:05+00:00",
-      "latitude": 34.8555,
-      "longitude": 26.118,
-      "depth_km": 5.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -125,12 +105,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "ORMANICI-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-09-02T12:41:14+00:00",
-      "latitude": 39.1863,
-      "longitude": 28.142,
-      "depth_km": 14.2,
+      "magnitude": 3.1,
+      "place": "TASLICA-MARMARIS (MUGLA) İlksel",
+      "time": "2026-09-11T03:14:09+00:00",
+      "latitude": 36.6025,
+      "longitude": 28.1018,
+      "depth_km": 78.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -160,6 +140,16 @@
       "time": "2026-09-03T20:12:14+00:00",
       "latitude": 40.3057,
       "longitude": 33.427,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
+      "time": "2026-09-11T10:48:57+00:00",
+      "latitude": 38.7552,
+      "longitude": 36.5325,
       "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
