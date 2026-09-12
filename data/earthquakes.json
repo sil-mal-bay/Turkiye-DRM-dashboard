@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T09:03:35.534569+00:00",
-  "count": 17,
+  "last_updated": "2026-09-12T08:46:22.657083+00:00",
+  "count": 11,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.9,
@@ -21,26 +21,6 @@
       "latitude": 41.6187,
       "longitude": 43.5782,
       "depth_km": 6.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "ALTINTAS-KALECIK (ANKARA) İlksel",
-      "time": "2026-09-03T20:11:04+00:00",
-      "latitude": 40.2743,
-      "longitude": 33.3983,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "DUZLEN-(MANISA) İlksel",
-      "time": "2026-09-03T13:20:47+00:00",
-      "latitude": 38.7867,
-      "longitude": 27.137,
-      "depth_km": 14.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -75,36 +55,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "DUZLEN-(MANISA) İlksel",
-      "time": "2026-09-03T15:14:51+00:00",
-      "latitude": 38.7798,
-      "longitude": 27.1347,
-      "depth_km": 13.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "CAYKAYA-KALECIK (ANKARA) İlksel",
-      "time": "2026-09-04T02:50:36+00:00",
-      "latitude": 40.278,
-      "longitude": 33.4218,
-      "depth_km": 7.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
-      "time": "2026-09-03T20:34:16+00:00",
-      "latitude": 39.2602,
-      "longitude": 28.924,
-      "depth_km": 7.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "TASLICA-MARMARIS (MUGLA) İlksel",
       "time": "2026-09-11T03:14:09+00:00",
@@ -131,16 +81,6 @@
       "latitude": 40.4267,
       "longitude": 28.4425,
       "depth_km": 18.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "CAYKAYA-KALECIK (ANKARA) İlksel",
-      "time": "2026-09-03T20:12:14+00:00",
-      "latitude": 40.3057,
-      "longitude": 33.427,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T09:03:44.310461+00:00",
+  "last_updated": "2026-09-12T08:46:32.313283+00:00",
   "count": 10,
   "articles": [
     {
@@ -9,19 +9,6 @@
       "description": "This guidance note outlines practical approaches to strengthening information integrity within risk communication–before, during, and after disasters. Preparing for and managing information risks is an integral part of disaster risk reduction efforts.",
       "published": "2026-09-09T11:27:22+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
-      "score": 80.25,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 75
-    },
-    {
-      "source": "undrr",
-      "title": "Earth Sciences New Zealand",
-      "original_title": null,
-      "description": "Earth Sciences New Zealand underpins national economic growth through work that enables increased returns from New Zealand’s natural resources and builds resilience to natural hazards and environmental change.",
-      "published": "2026-09-08T20:43:15+00:00",
-      "link": "https://www.undrr.org/organization/earth-sciences-new-zealand",
       "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -30,16 +17,29 @@
     },
     {
       "source": "undrr",
+      "title": "Earth Sciences New Zealand",
+      "original_title": null,
+      "description": "Earth Sciences New Zealand underpins national economic growth through work that enables increased returns from New Zealand’s natural resources and builds resilience to natural hazards and environmental change.",
+      "published": "2026-09-08T20:43:15+00:00",
+      "link": "https://www.undrr.org/organization/earth-sciences-new-zealand",
+      "score": 54.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 35
+    },
+    {
+      "source": "undrr",
       "title": "UNDRR August 2026 newsletter",
       "original_title": null,
       "description": "This month from UNDRR: statements from SRSG Kamal Kishore on the Nepal-Tibet disaster, the Colombia earthquake and the impacts of El Niño; the Early Warnings for All Forum in Ethiopia; the IDRLF 2026 in the Republic of Korea; and more inside.",
       "published": "2026-09-07T07:47:35+00:00",
       "link": "https://www.undrr.org/news/undrr-august-2026-newsletter",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
