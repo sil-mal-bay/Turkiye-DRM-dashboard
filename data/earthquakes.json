@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T08:46:22.657083+00:00",
-  "count": 11,
+  "last_updated": "2026-09-13T09:41:00.435915+00:00",
+  "count": 10,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.9,
@@ -25,16 +25,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-09-04T21:51:08+00:00",
-      "latitude": 35.7498,
-      "longitude": 31.0975,
-      "depth_km": 25.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.5,
       "place": "SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-09-09T19:39:15+00:00",
@@ -55,6 +45,16 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-09-12T20:43:43+00:00",
+      "latitude": 35.1003,
+      "longitude": 24.2995,
+      "depth_km": 18.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "TASLICA-MARMARIS (MUGLA) İlksel",
       "time": "2026-09-11T03:14:09+00:00",
@@ -71,16 +71,6 @@
       "latitude": 39.5148,
       "longitude": 27.6018,
       "depth_km": 5.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "BAYRAMDERE-KARACABEY (BURSA) İlksel",
-      "time": "2026-09-04T05:15:13+00:00",
-      "latitude": 40.4267,
-      "longitude": 28.4425,
-      "depth_km": 18.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
