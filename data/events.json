@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T09:41:31.288085+00:00",
-  "count": 6,
+  "last_updated": "2026-09-14T10:05:11.731258+00:00",
+  "count": 7,
   "events": [
     {
       "source": "UNDRR",
@@ -33,6 +33,14 @@
       "link": "https://www.undrr.org/event/pacific-symposium-loss-and-damage-understanding-non-economic-losses-data-policy-and-capacity",
       "location": null,
       "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Africa Early Warnings Forum Webinar: From Addis Ababa to Action",
+      "date": "2026-09-29T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/africa-early-warnings-forum-webinar-addis-ababa-action",
+      "location": null,
+      "type": "webinar"
     },
     {
       "source": "UNDRR",

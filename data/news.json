@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-13T09:41:08.415399+00:00",
-  "count": 9,
+  "last_updated": "2026-09-14T10:04:48.805803+00:00",
+  "count": 7,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Yemen Al-Khair Relief & Development Foundation (YARD)",
+      "original_title": null,
+      "description": "Yemen Al-Khair Foundation for Relief and Development is a national humanitarian and development organization committed to supporting vulnerable populations affected by conflict, displacement, natural hazards, and socio-economic challenges across Yemen.",
+      "published": "2026-09-14T08:06:39+00:00",
+      "link": "https://www.undrr.org/organization/yemen-al-khair-relief-development-foundation-yard",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
@@ -9,11 +22,11 @@
       "description": "This guidance note outlines practical approaches to strengthening information integrity within risk communication–before, during, and after disasters. Preparing for and managing information risks is an integral part of disaster risk reduction efforts.",
       "published": "2026-09-09T11:27:22+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -22,11 +35,11 @@
       "description": "Earth Sciences New Zealand underpins national economic growth through work that enables increased returns from New Zealand’s natural resources and builds resilience to natural hazards and environmental change.",
       "published": "2026-09-08T20:43:15+00:00",
       "link": "https://www.undrr.org/organization/earth-sciences-new-zealand",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -74,45 +87,6 @@
       "description": "The Government of Japan, in partnership with the United Nations Office for Disaster Risk Reduction (UNDRR), will host the 2027 Asia-Pacific Ministerial Conference on Disaster Risk Reduction from 25 to 29 October 2027 in Sendai City, Japan.",
       "published": "2026-09-04T03:16:51+00:00",
       "link": "https://www.undrr.org/news/japan-host-asia-pacific-ministerial-conference-disaster-risk-reduction-sendai-city-2027",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "The Africa Multi-Hazard Early Warning System and Early Action (AMHEWAS) Programme",
-      "original_title": null,
-      "description": "Supporting Disaster Risk Reduction in Africa through a network of national and regional situation rooms.",
-      "published": "2026-09-02T06:12:40+00:00",
-      "link": "https://www.undrr.org/about-undrr/where-we-work/regional-office-africa/amhewas",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Partnerships & Stakeholders: Science and Technology Community",
-      "original_title": null,
-      "description": "The role of global science, academia, research and innovation is enshrined in the Sendai Framework for Disaster Risk Reduction where it is recognized for the catalytic, boundary-pushing and transformative potential it holds for addressing the dynamic drivers of disaster risk.&nbsp;&nbsp;",
-      "published": "2026-09-01T14:27:29+00:00",
-      "link": "https://www.undrr.org/implementing-sendai-framework/partners-and-stakeholders/science-and-technology-community",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "El Niño and DRR",
-      "original_title": null,
-      "description": "A shift in the Pacific Ocean that raises the odds of drought, flood, heat and fire across large parts of the world. Few risks come with this much warning, and whether that warning is used is as much a matter of governance as of meteorology.",
-      "published": "2026-08-31T10:35:30+00:00",
-      "link": "https://www.undrr.org/climate-action-and-disaster-risk-reduction/el-nino",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
