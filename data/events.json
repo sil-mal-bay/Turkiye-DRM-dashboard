@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T10:05:11.731258+00:00",
-  "count": 7,
+  "last_updated": "2026-09-15T09:33:50.239181+00:00",
+  "count": 9,
   "events": [
     {
       "source": "UNDRR",
@@ -25,6 +25,14 @@
       "link": "https://www.undrr.org/event/webinar-strengthening-west-africas-preparedness-2026-el-nino-and-role-ucpm-copernicus-acmad",
       "location": null,
       "type": "webinar"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Delivering the Sendai Framework: An ASEAN approach to inclusive disaster and climate resilience",
+      "date": "2026-09-24T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/delivering-sendai-framework-asean-approach-inclusive-disaster-and-climate-resilience",
+      "location": null,
+      "type": "event"
     },
     {
       "source": "UNDRR",
@@ -57,6 +65,14 @@
       "link": "https://www.undrr.org/event/training-workshop-gdrsf",
       "location": null,
       "type": "workshop"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Webinar Series: Artificial Intelligence in Disaster Management – Scope and Limitations",
+      "date": "2026-10-22T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations",
+      "location": null,
+      "type": "webinar"
     }
   ]
 }

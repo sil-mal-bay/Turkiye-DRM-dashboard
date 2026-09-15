@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-14T10:04:48.805803+00:00",
+  "last_updated": "2026-09-15T09:33:27.236458+00:00",
   "count": 7,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Delivering the Sendai Framework: An ASEAN approach to inclusive disaster and climate resilience",
+      "original_title": null,
+      "description": "This side event will explore key elements of an ASEAN approach to accelerate the implementation of the Sendai Framework, drawing on national and regional experiences to identify priorities for a future global disaster risk reduction agenda.",
+      "published": "2026-09-14T12:04:38+00:00",
+      "link": "https://www.undrr.org/event/delivering-sendai-framework-asean-approach-inclusive-disaster-and-climate-resilience",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Webinar Series: Artificial Intelligence in Disaster Management – Scope and Limitations",
+      "original_title": null,
+      "description": "The role of AI in Disaster Risk Reduction (DRR) is transformative, offering advanced tools for risk analysis, event prediction, and emergency response.",
+      "published": "2026-09-14T10:11:52+00:00",
+      "link": "https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Yemen Al-Khair Relief & Development Foundation (YARD)",
@@ -9,11 +35,11 @@
       "description": "Yemen Al-Khair Foundation for Relief and Development is a national humanitarian and development organization committed to supporting vulnerable populations affected by conflict, displacement, natural hazards, and socio-economic challenges across Yemen.",
       "published": "2026-09-14T08:06:39+00:00",
       "link": "https://www.undrr.org/organization/yemen-al-khair-relief-development-foundation-yard",
-      "score": 96.5,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 100
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -22,11 +48,11 @@
       "description": "This guidance note outlines practical approaches to strengthening information integrity within risk communication–before, during, and after disasters. Preparing for and managing information risks is an integral part of disaster risk reduction efforts.",
       "published": "2026-09-09T11:27:22+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -61,32 +87,6 @@
       "description": "As UN Member States prepare for negotiations on a proposed international convention on the Protection of Persons in the Event of Disasters (PPED), the need for disaster prevention is emerging as a significant part of the discussion.",
       "published": "2026-09-04T16:18:32+00:00",
       "link": "https://www.undrr.org/news/disaster-risk-reduction-takes-center-stage-talks-global-disaster-treaty",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Africa’s early warning experts and officials call for sustained momentum on life-saving disaster protection systems",
-      "original_title": null,
-      "description": "The Africa Early Warnings Forum, held in Addis Ababa, highlighted Africa's progress in expanding early warning systems, but with climate and disaster risks accelerating, the task now is to translate that progress into protection for everyone.",
-      "published": "2026-09-04T11:43:38+00:00",
-      "link": "https://www.undrr.org/news/africas-early-warning-experts-and-officials-call-sustained-momentum-life-saving-disaster",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Japan to Host Asia-Pacific Ministerial Conference on Disaster Risk Reduction in Sendai City in 2027",
-      "original_title": null,
-      "description": "The Government of Japan, in partnership with the United Nations Office for Disaster Risk Reduction (UNDRR), will host the 2027 Asia-Pacific Ministerial Conference on Disaster Risk Reduction from 25 to 29 October 2027 in Sendai City, Japan.",
-      "published": "2026-09-04T03:16:51+00:00",
-      "link": "https://www.undrr.org/news/japan-host-asia-pacific-ministerial-conference-disaster-risk-reduction-sendai-city-2027",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
