@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-09-15T09:33:50.239181+00:00",
-  "count": 9,
+  "last_updated": "2026-09-16T09:28:12.612927+00:00",
+  "count": 7,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Learning from disasters through event analyses",
-      "date": "2026-09-16T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/learning-disasters-through-event-analyses",
-      "location": null,
-      "type": "training"
-    },
-    {
-      "source": "UNDRR",
-      "title": "[UNDRR Masterclass series] AI for Multi-Hazard Early Warning Systems: A Hands-On Guide to Strengthening Early Warning and Response",
-      "date": "2026-09-16T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/drr-ai-masterclass-mhews",
-      "location": null,
-      "type": "event"
-    },
     {
       "source": "UNDRR",
       "title": "Webinar: Strengthening West Africa’s Preparedness: The 2026 El Niño and the Role of UCPM, Copernicus, ACMAD, AGRHYMET, and NASRDA in Addressing Climate Risks",

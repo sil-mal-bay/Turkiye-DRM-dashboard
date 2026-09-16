@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T09:33:27.236458+00:00",
+  "last_updated": "2026-09-16T09:27:50.220155+00:00",
   "count": 7,
   "articles": [
     {
@@ -9,11 +9,11 @@
       "description": "This side event will explore key elements of an ASEAN approach to accelerate the implementation of the Sendai Framework, drawing on national and regional experiences to identify priorities for a future global disaster risk reduction agenda.",
       "published": "2026-09-14T12:04:38+00:00",
       "link": "https://www.undrr.org/event/delivering-sendai-framework-asean-approach-inclusive-disaster-and-climate-resilience",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -22,11 +22,11 @@
       "description": "The role of AI in Disaster Risk Reduction (DRR) is transformative, offering advanced tools for risk analysis, event prediction, and emergency response.",
       "published": "2026-09-14T10:11:52+00:00",
       "link": "https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +35,11 @@
       "description": "Yemen Al-Khair Foundation for Relief and Development is a national humanitarian and development organization committed to supporting vulnerable populations affected by conflict, displacement, natural hazards, and socio-economic challenges across Yemen.",
       "published": "2026-09-14T08:06:39+00:00",
       "link": "https://www.undrr.org/organization/yemen-al-khair-relief-development-foundation-yard",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",

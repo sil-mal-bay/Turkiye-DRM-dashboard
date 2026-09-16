@@ -1,28 +1,18 @@
 {
-  "last_updated": "2026-09-15T09:33:12.337427+00:00",
-  "count": 14,
+  "last_updated": "2026-09-16T09:27:40.968726+00:00",
+  "count": 13,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 3.9,
-    "place": "GURCISTAN İlksel",
-    "time": "2026-09-08T07:52:15+00:00",
-    "latitude": 41.6187,
-    "longitude": 43.5782,
-    "depth_km": 6.0,
+    "magnitude": 3.5,
+    "place": "SINDIRGI (BALIKESIR) İlksel",
+    "time": "2026-09-09T19:39:15+00:00",
+    "latitude": 39.2327,
+    "longitude": 28.1762,
+    "depth_km": 9.1,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [],
   "events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "GURCISTAN İlksel",
-      "time": "2026-09-08T07:52:15+00:00",
-      "latitude": 41.6187,
-      "longitude": 43.5782,
-      "depth_km": 6.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "Kandilli",
       "magnitude": 3.5,
@@ -41,16 +31,6 @@
       "latitude": 34.9782,
       "longitude": 23.3728,
       "depth_km": 83.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-09-07T23:58:53+00:00",
-      "latitude": 34.5017,
-      "longitude": 27.1932,
-      "depth_km": 15.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -101,6 +81,16 @@
       "latitude": 36.6025,
       "longitude": 28.1018,
       "depth_km": 78.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KALECIK-(ERZINCAN) İlksel",
+      "time": "2026-09-15T12:42:46+00:00",
+      "latitude": 39.5655,
+      "longitude": 39.7303,
+      "depth_km": 4.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
