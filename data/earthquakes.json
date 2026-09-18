@@ -1,18 +1,39 @@
 {
-  "last_updated": "2026-09-17T09:36:35.018199+00:00",
-  "count": 12,
+  "last_updated": "2026-09-18T09:08:22.015904+00:00",
+  "count": 11,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 3.5,
-    "place": "EGE DENIZI İlksel",
-    "time": "2026-09-16T15:08:54+00:00",
-    "latitude": 36.6653,
-    "longitude": 25.7097,
-    "depth_km": 6.2,
+    "magnitude": 4.3,
+    "place": "YUNANISTAN İlksel",
+    "time": "2026-09-18T09:42:05+00:00",
+    "latitude": 39.087,
+    "longitude": 23.3447,
+    "depth_km": 10.5,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
-  "significant_events": [],
+  "significant_events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.3,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-09-18T09:42:05+00:00",
+      "latitude": 39.087,
+      "longitude": 23.3447,
+      "depth_km": 10.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ],
   "events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.3,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-09-18T09:42:05+00:00",
+      "latitude": 39.087,
+      "longitude": 23.3447,
+      "depth_km": 10.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
     {
       "source": "Kandilli",
       "magnitude": 3.5,
@@ -21,16 +42,6 @@
       "latitude": 36.6653,
       "longitude": 25.7097,
       "depth_km": 6.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.5,
-      "place": "SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-09-09T19:39:15+00:00",
-      "latitude": 39.2327,
-      "longitude": 28.1762,
-      "depth_km": 9.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -121,16 +132,6 @@
       "latitude": 38.7552,
       "longitude": 36.5325,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "SELIMIYE-YENISEHIR (BURSA) İlksel",
-      "time": "2026-09-10T03:20:41+00:00",
-      "latitude": 40.3062,
-      "longitude": 29.5008,
-      "depth_km": 5.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
