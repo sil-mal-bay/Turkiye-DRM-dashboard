@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-18T09:09:35.262222+00:00",
+  "last_updated": "2026-09-19T08:57:00.942807+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030: Report of the Secretary-General (2026)",
+      "description": "A/81/307",
+      "date": "2026-09-18T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/un-resolutions-and-reports/implementation-sendai-framework-disaster-risk-reduction-0",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Cities at the frontline: Highlights from the Resilience Initiative Africa Project",
+      "description": "This publication details notable highlights from the Resilience Initiative Africa Project, which was implemented by UNDRR's Regional Office for Africa between August 2023–March 2026.",
+      "date": "2026-09-18T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/cities-frontline-highlights-resilience-initiative-africa",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
@@ -64,22 +80,6 @@
       "description": "Resilience Hubs in Action, brings together a selection of good practices shared by Resilience Hubs from the Americas and the Caribbean.",
       "date": "2026-07-24T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/resilience-hubs-action",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Resilient Western Balkans: Strengthening transboundary collaboration and capacities on disaster risk reduction and Early Warning Systems in the Western Balkans",
-      "description": "The Year 1 narrative report highlights progress in strengthening disaster risk reduction, early warning systems and transboundary cooperation across the Western Balkans.",
-      "date": "2026-07-24T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/resilient-western-balkans-strengthening-transboundary",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Early Warning Systems for mobile populations: Operational guidance",
-      "description": "This operational guidance provides direction for designing and implementing people-centred, inclusive multi-hazard early warning systems that effectively reach and protect mobile populations and other groups affected by changing locations or circumstances",
-      "date": "2026-07-15T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
       "type": "report"
     }
   ]

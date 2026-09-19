@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T09:08:22.015904+00:00",
-  "count": 11,
+  "last_updated": "2026-09-19T08:56:03.720685+00:00",
+  "count": 15,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.3,
@@ -32,6 +32,36 @@
       "latitude": 39.087,
       "longitude": 23.3447,
       "depth_km": 10.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.9,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-09-19T01:11:56+00:00",
+      "latitude": 38.9793,
+      "longitude": 23.3597,
+      "depth_km": 21.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.8,
+      "place": "KUSADASI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-09-18T21:09:39+00:00",
+      "latitude": 37.9038,
+      "longitude": 27.1295,
+      "depth_km": 8.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-09-18T22:41:40+00:00",
+      "latitude": 38.4633,
+      "longitude": 25.4703,
+      "depth_km": 15.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -77,6 +107,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.1,
+      "place": "CANDARLI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-09-19T07:34:58+00:00",
+      "latitude": 38.7995,
+      "longitude": 26.8383,
+      "depth_km": 7.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.1,
       "place": "GIRIT ADASI (AKDENIZ) İlksel",
       "time": "2026-09-15T03:28:11+00:00",
       "latitude": 35.0317,
@@ -96,12 +136,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "TASLICA-MARMARIS (MUGLA) İlksel",
-      "time": "2026-09-11T03:14:09+00:00",
-      "latitude": 36.6025,
-      "longitude": 28.1018,
-      "depth_km": 78.2,
+      "magnitude": 3.0,
+      "place": "CANDARLI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-09-19T07:35:13+00:00",
+      "latitude": 38.8005,
+      "longitude": 26.7887,
+      "depth_km": 6.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-09-18T16:40:15+00:00",
+      "latitude": 34.9723,
+      "longitude": 23.4078,
+      "depth_km": 18.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -122,16 +172,6 @@
       "latitude": 40.184,
       "longitude": 23.2203,
       "depth_km": 17.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
-      "time": "2026-09-11T10:48:57+00:00",
-      "latitude": 38.7552,
-      "longitude": 36.5325,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

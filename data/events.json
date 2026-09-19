@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T09:08:56.877014+00:00",
-  "count": 7,
+  "last_updated": "2026-09-19T08:56:37.774716+00:00",
+  "count": 11,
   "events": [
     {
       "source": "UNDRR",
@@ -44,6 +44,30 @@
     },
     {
       "source": "UNDRR",
+      "title": "International Day for Disaster Risk Reduction Youth Festival",
+      "date": "2026-10-13T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/international-day-disaster-risk-reduction-youth-festival",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "When home is lost: From prevention to durable solutions for disaster displacement",
+      "date": "2026-10-14T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/when-home-lost-prevention-durable-solutions-disaster-displacement",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Facing extreme heat in Europe: Reviewing summer 2026 - Preparing for summer 2027",
+      "date": "2026-10-15T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/facing-extreme-heat-europe-reviewing-summer-2026-preparing-summer-2027",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
       "title": "Training workshop on the Global Disaster-Related Statistics Framework (G-DRSF)",
       "date": "2026-10-20T00:00:00+00:00",
       "link": "https://www.undrr.org/event/training-workshop-gdrsf",
@@ -57,6 +81,14 @@
       "link": "https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations",
       "location": null,
       "type": "webinar"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Building Risk-Informed and Resilient SMEs in the Arab Region",
+      "date": "2026-11-18T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/building-risk-informed-and-resilient-smes-arab-region",
+      "location": null,
+      "type": "event"
     }
   ]
 }

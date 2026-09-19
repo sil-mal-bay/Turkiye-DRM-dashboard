@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:09:13.284931+00:00",
+  "last_updated": "2026-09-19T08:56:39.055327+00:00",
   "count": 62,
   "items": [
     {
@@ -32,16 +32,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
-      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
-      "type": "working paper",
+      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
-      "type": "report",
+      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
+      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -340,6 +340,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "Managing Disaster-Related Fiscal Risks in a Shock Prone World",
+      "link": "https://ieg.worldbankgroup.org/evaluations/managing-disaster-related-fiscal-risks-shock-prone-world",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "The Complex Links Between Food Security, Migration, & Fragility in Central America",
       "link": "https://openknowledge.worldbank.org/entities/publication/da4e8f07-ecd9-42d1-ac03-501ed99533bb",
       "type": "report",
@@ -360,10 +367,17 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Worldwide Job Losses Due to Natural Hazards",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099555005292625254",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030: Report of the Secretary-General (2026)",
+      "link": "https://www.undrr.org/publication/un-resolutions-and-reports/implementation-sendai-framework-disaster-risk-reduction-0",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Cities at the frontline: Highlights from the Resilience Initiative Africa Project",
+      "link": "https://www.undrr.org/publication/documents-and-publications/cities-frontline-highlights-resilience-initiative-africa",
+      "type": "learning",
       "description": ""
     },
     {
@@ -419,20 +433,6 @@
       "source": "UNDRR",
       "title": "Resilience Hubs in Action",
       "link": "https://www.undrr.org/publication/documents-and-publications/resilience-hubs-action",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Resilient Western Balkans: Strengthening transboundary collaboration and capacities on disaster risk reduction and Early Warning Systems in the Western Balkans",
-      "link": "https://www.undrr.org/publication/documents-and-publications/resilient-western-balkans-strengthening-transboundary",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Early Warning Systems for mobile populations: Operational guidance",
-      "link": "https://www.undrr.org/publication/documents-and-publications/early-warning-systems-mobile-populations-operational",
       "type": "learning",
       "description": ""
     }
