@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-09-20T09:25:53.356830+00:00",
-  "count": 2,
+  "last_updated": "2026-09-21T10:11:06.176816+00:00",
+  "count": 3,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — YUNANISTAN İlksel",
-      "magnitude": 4.3,
-      "time": "2026-09-18T09:42:05+00:00",
-      "location": "YUNANISTAN İlksel",
-      "latitude": 39.087,
-      "longitude": 23.3447,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -23,6 +11,30 @@
       "location": "YUNANISTAN İlksel",
       "latitude": 38.7818,
       "longitude": 23.2698,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.9 earthquake — 26 km SE of Saimbeyli, Turkey",
+      "magnitude": 4.9,
+      "time": "2026-09-21T01:02:04.529000+00:00",
+      "location": "26 km SE of Saimbeyli, Turkey",
+      "latitude": 37.8136,
+      "longitude": 36.2994,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.8 earthquake — TOPALLAR-SAIMBEYLI (ADANA) İlksel",
+      "magnitude": 4.8,
+      "time": "2026-09-21T04:02:00+00:00",
+      "location": "TOPALLAR-SAIMBEYLI (ADANA) İlksel",
+      "latitude": 37.8352,
+      "longitude": 36.2627,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

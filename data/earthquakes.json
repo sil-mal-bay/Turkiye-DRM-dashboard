@@ -1,17 +1,37 @@
 {
-  "last_updated": "2026-09-20T09:24:54.067947+00:00",
-  "count": 18,
+  "last_updated": "2026-09-21T10:09:21.244341+00:00",
+  "count": 20,
   "largest": {
-    "source": "Kandilli",
-    "magnitude": 4.3,
-    "place": "YUNANISTAN İlksel",
-    "time": "2026-09-18T09:42:05+00:00",
-    "latitude": 39.087,
-    "longitude": 23.3447,
-    "depth_km": 10.5,
-    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    "source": "USGS",
+    "magnitude": 4.9,
+    "place": "26 km SE of Saimbeyli, Turkey",
+    "time": "2026-09-21T01:02:04.529000+00:00",
+    "latitude": 37.8136,
+    "longitude": 36.2994,
+    "depth_km": 10,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui"
   },
   "significant_events": [
+    {
+      "source": "USGS",
+      "magnitude": 4.9,
+      "place": "26 km SE of Saimbeyli, Turkey",
+      "time": "2026-09-21T01:02:04.529000+00:00",
+      "latitude": 37.8136,
+      "longitude": 36.2994,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.8,
+      "place": "TOPALLAR-SAIMBEYLI (ADANA) İlksel",
+      "time": "2026-09-21T04:02:00+00:00",
+      "latitude": 37.8352,
+      "longitude": 36.2627,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
     {
       "source": "Kandilli",
       "magnitude": 4.3,
@@ -34,6 +54,26 @@
     }
   ],
   "events": [
+    {
+      "source": "USGS",
+      "magnitude": 4.9,
+      "place": "26 km SE of Saimbeyli, Turkey",
+      "time": "2026-09-21T01:02:04.529000+00:00",
+      "latitude": 37.8136,
+      "longitude": 36.2994,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.8,
+      "place": "TOPALLAR-SAIMBEYLI (ADANA) İlksel",
+      "time": "2026-09-21T04:02:00+00:00",
+      "latitude": 37.8352,
+      "longitude": 36.2627,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
     {
       "source": "Kandilli",
       "magnitude": 4.3,
@@ -117,6 +157,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.2,
+      "place": "KUSADASI KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-09-21T04:58:03+00:00",
+      "latitude": 37.9245,
+      "longitude": 27.1475,
+      "depth_km": 6.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-09-21T01:41:57+00:00",
+      "latitude": 35.2538,
+      "longitude": 26.5397,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
       "place": "RODOS ADASI (AKDENIZ) İlksel",
       "time": "2026-09-20T06:51:51+00:00",
       "latitude": 36.1332,
@@ -132,16 +192,6 @@
       "latitude": 36.6673,
       "longitude": 25.738,
       "depth_km": 7.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-09-12T20:43:43+00:00",
-      "latitude": 35.1003,
-      "longitude": 24.2995,
-      "depth_km": 18.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -162,16 +212,6 @@
       "latitude": 35.0317,
       "longitude": 24.3357,
       "depth_km": 16.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-09-13T17:06:46+00:00",
-      "latitude": 35.3815,
-      "longitude": 27.1858,
-      "depth_km": 9.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
