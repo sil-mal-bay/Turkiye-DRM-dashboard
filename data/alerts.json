@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-09-21T10:11:06.176816+00:00",
-  "count": 3,
+  "last_updated": "2026-09-22T09:27:43.522351+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.2 earthquake — YUNANISTAN İlksel",
-      "magnitude": 4.2,
-      "time": "2026-09-19T12:55:59+00:00",
-      "location": "YUNANISTAN İlksel",
-      "latitude": 38.7818,
-      "longitude": 23.2698,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
