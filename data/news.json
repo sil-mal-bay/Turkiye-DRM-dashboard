@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:26:24.012767+00:00",
+  "last_updated": "2026-09-23T09:28:47.747626+00:00",
   "count": 10,
   "articles": [
     {
@@ -9,11 +9,11 @@
       "description": "The report has been prepared upon request of the General Assembly in its resolution 80/137 on DRR, providing an overview of progress towards the goal, global targets and priorities for action of the Sendai Framework for Disaster Risk Reduction 2015–2030.",
       "published": "2026-09-18T15:34:55+00:00",
       "link": "https://www.undrr.org/publication/un-resolutions-and-reports/implementation-sendai-framework-disaster-risk-reduction-0",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -22,11 +22,11 @@
       "description": "Are you a student passionate about building a safer, more resilient world? Join us for a live introduction to PreventionWeb, UNDRR’s global platform for disaster risk reduction (DRR) knowledge.",
       "published": "2026-09-18T15:27:26+00:00",
       "link": "https://www.undrr.org/event/learn-connect-share-exploring-resources-students-disaster-resilience-0",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -35,11 +35,11 @@
       "description": "6 Ukrainian representatives and urban practitioners completed a 2-day Training of Trainers on the Disaster Resilience Scorecard for Cities, held on 10–11 September at the UNDRR Global Education and Training Institute (GETI) in Incheon, Republic of Korea.",
       "published": "2026-09-18T15:20:53+00:00",
       "link": "https://www.undrr.org/news/ukrainian-practitioners-complete-mcr2030-training-trainers-republic-korea",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -48,11 +48,11 @@
       "description": "SMEs Resilience Workshop organized by the United Nations Office for Disaster Risk Reduction (UNDRR) and International Organization for Migration (IOM)",
       "published": "2026-09-18T09:24:15+00:00",
       "link": "https://www.undrr.org/event/strengthening-sme-resilience-iraq-building-risk-informed-inclusive-and-resilient-enterprises",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -61,11 +61,11 @@
       "description": "UNDRR issues a grant aimed at strengthening inclusive early warning systems in Southeast Asia to ensure women, girls, persons with disabilities, and other vulnerable groups receive and act on disaster warnings.",
       "published": "2026-09-18T08:02:21+00:00",
       "link": "https://www.undrr.org/vacancy/call-proposals-no-one-left-behind-strengthening-early-warnings-women-girls-and-persons",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -74,17 +74,17 @@
       "description": "This roundtable will bring together policymakers, practitioners, researchers and other stakeholders to explore how disaster risk reduction can help prevent displacement and support durable solutions when displacement occurs",
       "published": "2026-09-18T06:17:42+00:00",
       "link": "https://www.undrr.org/event/when-home-lost-prevention-durable-solutions-disaster-displacement",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
       "title": "Syria advances towards a national multi-hazard early warning system",
       "original_title": null,
-      "description": "Damascus, Syrian Arab Republic | 15–16 September 2026, Two-day national workshop",
+      "description": "It provided a platform to take stock of Syria’s existing early warning capacities, identify institutional, technical and operational gaps, strengthen coordination between national and local actors, and align ongoing initiatives.",
       "published": "2026-09-16T09:32:39+00:00",
       "link": "https://www.undrr.org/news/syria-advances-towards-national-multi-hazard-early-warning-system",
       "score": 31.5,

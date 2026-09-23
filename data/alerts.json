@@ -1,30 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:27:43.522351+00:00",
-  "count": 2,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.9 earthquake — 26 km SE of Saimbeyli, Turkey",
-      "magnitude": 4.9,
-      "time": "2026-09-21T01:02:04.529000+00:00",
-      "location": "26 km SE of Saimbeyli, Turkey",
-      "latitude": 37.8136,
-      "longitude": 36.2994,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.8 earthquake — TOPALLAR-SAIMBEYLI (ADANA) İlksel",
-      "magnitude": 4.8,
-      "time": "2026-09-21T04:02:00+00:00",
-      "location": "TOPALLAR-SAIMBEYLI (ADANA) İlksel",
-      "latitude": 37.8352,
-      "longitude": 36.2627,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-09-23T09:30:49.776779+00:00",
+  "count": 0,
+  "alerts": []
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:27:21.707564+00:00",
+  "last_updated": "2026-09-23T09:29:58.146063+00:00",
   "count": 62,
   "items": [
     {
@@ -235,15 +235,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Guyana - Flood Risk Management Project : Additional Financing",
-      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
-      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
       "type": "report",
       "description": ""
     },
@@ -293,6 +293,13 @@
       "source": "GFDRR",
       "title": "Liberia Emergency Preparedness and Response Assessment: Ready 2 Respond",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099745409022695412",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Building Resilience through Institutions, Communities & Knowledge : Proceedings from the 2026 BRICK Knowledge Exchange Event",
+      "link": "https://www.gfdrr.org/sites/default/files/2026-09/BRICK.pdf",
       "type": "report",
       "description": ""
     },
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099925206182636834",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "GFDRR Partnership Dialogue 2026 - Flickr",
-      "link": "https://www.gfdrr.org",
       "type": "report",
       "description": ""
     },
