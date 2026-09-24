@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-09-23T09:30:49.776779+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-09-24T09:28:15.707893+00:00",
+  "count": 2,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "high",
+      "title": "M5.3 earthquake — 15 km SSW of Hilvan, Turkey",
+      "magnitude": 5.3,
+      "time": "2026-09-24T07:40:58.138000+00:00",
+      "location": "15 km SSW of Hilvan, Turkey",
+      "latitude": 37.4736,
+      "longitude": 38.8612,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9u"
+    },
+    {
+      "type": "earthquake",
+      "severity": "high",
+      "title": "M5.5 earthquake — PINARBASI-(SANLIURFA) REVIZE01 (2026.09.24 10:40:55",
+      "magnitude": 5.5,
+      "time": "2026-09-24T10:40:55+00:00",
+      "location": "PINARBASI-(SANLIURFA) REVIZE01 (2026.09.24 10:40:55",
+      "latitude": 37.363,
+      "longitude": 38.8185,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

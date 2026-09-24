@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-09-23T09:29:41.935348+00:00",
-  "count": 12,
+  "last_updated": "2026-09-24T09:27:51.774019+00:00",
+  "count": 11,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Delivering the Sendai Framework: An ASEAN approach to inclusive disaster and climate resilience",
-      "date": "2026-09-24T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/delivering-sendai-framework-asean-approach-inclusive-disaster-and-climate-resilience",
-      "location": null,
-      "type": "event"
-    },
     {
       "source": "UNDRR",
       "title": "Pacific symposium on loss and damage: Understanding non-economic losses. data, policy and capacity for action",
@@ -44,9 +36,9 @@
     },
     {
       "source": "UNDRR",
-      "title": "International Day for Disaster Risk Reduction Youth Festival",
+      "title": "Geneva Youth Festival – International Day for Disaster Risk Reduction",
       "date": "2026-10-13T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/international-day-disaster-risk-reduction-youth-festival",
+      "link": "https://www.undrr.org/event/geneva-youth-festival-international-day-disaster-risk-reduction",
       "location": null,
       "type": "event"
     },
