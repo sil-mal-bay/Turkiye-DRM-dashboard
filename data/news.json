@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-24T09:27:28.718260+00:00",
-  "count": 10,
+  "last_updated": "2026-09-25T09:44:58.365563+00:00",
+  "count": 11,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Sendai Framework data shows progress and persistent gaps in reducing disaster risk",
+      "original_title": null,
+      "description": "Officially reported data by national governments through the Sendai Framework Monitor show significant progress in reducing disaster mortality, strengthening disaster risk reduction strategies and expanding multi-hazard early warning systems.",
+      "published": "2026-09-25T06:36:34+00:00",
+      "link": "https://www.undrr.org/news/sendai-framework-data-shows-progress-and-persistent-gaps-reducing-disaster-risk",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030: Report of the Secretary-General (2026)",
