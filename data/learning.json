@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T09:45:22.709003+00:00",
+  "last_updated": "2026-09-26T09:29:52.881132+00:00",
   "count": 62,
   "items": [
     {
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -340,15 +340,15 @@
     },
     {
       "source": "GFDRR",
-      "title": "Managing Disaster-Related Fiscal Risks in a Shock Prone World",
-      "link": "https://ieg.worldbankgroup.org/evaluations/managing-disaster-related-fiscal-risks-shock-prone-world",
+      "title": "Malta : Rapid Emergency Response and Readiness Assessment",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Malta : Rapid Emergency Response and Readiness Assessment",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
+      "title": "Managing Disaster-Related Fiscal Risks in a Shock Prone World",
+      "link": "https://ieg.worldbankgroup.org/evaluations/managing-disaster-related-fiscal-risks-shock-prone-world",
       "type": "report",
       "description": ""
     },
@@ -389,7 +389,7 @@
     },
     {
       "source": "UNDRR",
-      "title": "El Niño climate impact outlook -Mozambique",
+      "title": "El Niño climate impact outlook - Mozambique",
       "link": "https://www.undrr.org/publication/documents-and-publications/el-nino-climate-impact-outlook-mozambique",
       "type": "learning",
       "description": ""
@@ -403,7 +403,7 @@
     },
     {
       "source": "UNDRR",
-      "title": "El Niño climate impact outlook -Somalia",
+      "title": "El Niño climate impact outlook - Somalia",
       "link": "https://www.undrr.org/publication/documents-and-publications/el-nino-climate-impact-outlook-somalia",
       "type": "learning",
       "description": ""

@@ -1,19 +1,7 @@
 {
-  "last_updated": "2026-09-25T09:45:44.963752+00:00",
-  "count": 2,
+  "last_updated": "2026-09-26T09:30:14.923131+00:00",
+  "count": 1,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "high",
-      "title": "M5.3 earthquake — 15 km SSW of Hilvan, Turkey",
-      "magnitude": 5.3,
-      "time": "2026-09-24T07:40:58.138000+00:00",
-      "location": "15 km SSW of Hilvan, Turkey",
-      "latitude": 37.4736,
-      "longitude": 38.8612,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9u"
-    },
     {
       "type": "earthquake",
       "severity": "high",
