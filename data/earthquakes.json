@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T09:29:18.055813+00:00",
-  "count": 20,
+  "last_updated": "2026-09-27T10:09:17.969973+00:00",
+  "count": 19,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.5,
@@ -162,16 +162,6 @@
       "latitude": 35.2538,
       "longitude": 26.5397,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "RODOS ADASI (AKDENIZ) İlksel",
-      "time": "2026-09-20T06:51:51+00:00",
-      "latitude": 36.1332,
-      "longitude": 27.6817,
-      "depth_km": 29.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
