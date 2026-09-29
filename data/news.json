@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-28T11:10:09.606544+00:00",
-  "count": 9,
+  "last_updated": "2026-09-29T10:51:29.134513+00:00",
+  "count": 10,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Locally‑led resilience takes centre‑stage at the 5th International Disaster Resilience Leaders Forum Incheon 2026",
+      "original_title": null,
+      "description": "Under the theme “Translating Locally led Resilience into Action in the Age of Complex Risk and Digital Transformation”, IDRLF2026 addressed persistent implementation gaps for DRR with more than 350 stakeholders.",
+      "published": "2026-09-29T03:39:04+00:00",
+      "link": "https://www.undrr.org/news/locally-led-resilience-takes-centre-stage-5th-international-disaster-resilience-leaders-forum",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Cuba strengthens links between national and community levels in disaster risk management",
+      "original_title": null,
+      "description": "Civil Defence, meteorological and hydrological services, communications, and urban planning have operated for decades as an integrated system, with clearly defined roles and joint working mechanisms consolidated through practice.",
+      "published": "2026-09-28T20:32:15+00:00",
+      "link": "https://www.undrr.org/news/cuba-strengthens-links-between-national-and-community-levels-disaster-risk-management",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Sendai Framework data shows both progress and persistent gaps in reducing disaster risk",
@@ -9,11 +35,11 @@
       "description": "Officially reported data by national governments through the Sendai Framework Monitor show significant progress in reducing disaster mortality, strengthening disaster risk reduction strategies and expanding multi-hazard early warning systems.",
       "published": "2026-09-25T06:36:34+00:00",
       "link": "https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -100,19 +126,6 @@
       "description": "This roundtable will bring together policymakers, practitioners, researchers and other stakeholders to explore how disaster risk reduction can help prevent displacement and support durable solutions when displacement occurs",
       "published": "2026-09-18T06:17:42+00:00",
       "link": "https://www.undrr.org/event/when-home-lost-prevention-durable-solutions-disaster-displacement",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Syria advances towards a national multi-hazard early warning system",
-      "original_title": null,
-      "description": "It provided a platform to take stock of Syria’s existing early warning capacities, identify institutional, technical and operational gaps, strengthen coordination between national and local actors, and align ongoing initiatives.",
-      "published": "2026-09-16T09:32:39+00:00",
-      "link": "https://www.undrr.org/news/syria-advances-towards-national-multi-hazard-early-warning-system",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,

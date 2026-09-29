@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T11:10:00.115445+00:00",
-  "count": 15,
+  "last_updated": "2026-09-29T10:51:18.134086+00:00",
+  "count": 14,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.5,
@@ -76,6 +76,16 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-09-29T10:10:13+00:00",
+      "latitude": 35.5298,
+      "longitude": 27.414,
+      "depth_km": 26.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.3,
       "place": "ULUKOY-(MALATYA) İlksel",
       "time": "2026-09-22T14:46:55+00:00",
@@ -96,32 +106,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "CANDARLI KORFEZI (EGE DENIZI) İlksel",
-      "time": "2026-09-22T02:36:45+00:00",
-      "latitude": 38.7947,
-      "longitude": 26.8308,
-      "depth_km": 12.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-09-23T13:01:46+00:00",
       "latitude": 34.1292,
       "longitude": 25.251,
       "depth_km": 10.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "SINANDEDE-SINDIRGI (BALIKESIR) İlksel",
-      "time": "2026-09-22T05:13:48+00:00",
-      "latitude": 39.1727,
-      "longitude": 28.1708,
-      "depth_km": 1.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
