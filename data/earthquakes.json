@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T10:51:18.134086+00:00",
-  "count": 14,
+  "last_updated": "2026-09-30T10:40:50.427762+00:00",
+  "count": 11,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.5,
@@ -86,26 +86,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "ULUKOY-(MALATYA) İlksel",
-      "time": "2026-09-22T14:46:55+00:00",
-      "latitude": 38.1962,
-      "longitude": 38.5382,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "BULGARISTAN İlksel",
-      "time": "2026-09-22T20:54:04+00:00",
-      "latitude": 42.5367,
-      "longitude": 27.8857,
-      "depth_km": 7.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.1,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-09-23T13:01:46+00:00",
@@ -162,16 +142,6 @@
       "latitude": 34.5975,
       "longitude": 26.3095,
       "depth_km": 29.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "SERCELER-ILGAZ (CANKIRI) İlksel",
-      "time": "2026-09-22T18:37:23+00:00",
-      "latitude": 40.9988,
-      "longitude": 33.6143,
-      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
