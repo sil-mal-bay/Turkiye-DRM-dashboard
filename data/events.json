@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-09-30T10:41:22.418410+00:00",
-  "count": 11,
+  "last_updated": "2026-10-01T11:08:05.922285+00:00",
+  "count": 13,
   "events": [
     {
       "source": "UNDRR",
       "title": "Resilient foundations: Accountability, finance, and inclusive housing",
       "date": "2026-10-05T00:00:00+00:00",
       "link": "https://www.undrr.org/event/resilient-foundations-accountability-finance-and-inclusive-housing",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Pre-COP31 Side Event / Pacific Loss and Damage: Evidence to Action",
+      "date": "2026-10-07T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/pre-cop31-side-event/pacific-loss-and-damage-evidence-action",
       "location": null,
       "type": "event"
     },
@@ -23,6 +31,14 @@
       "title": "Geneva Youth Festival – International Day for Disaster Risk Reduction",
       "date": "2026-10-13T00:00:00+00:00",
       "link": "https://www.undrr.org/event/geneva-youth-festival-international-day-disaster-risk-reduction",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Women's International Network for Disaster Risk Reduction (WIN DRR) Leadership Awards Ceremony 2026",
+      "date": "2026-10-13T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/womens-international-network-disaster-risk-reduction-win-drr-leadership-awards-ceremony-2026",
       "location": null,
       "type": "event"
     },
