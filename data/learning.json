@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T11:08:07.414054+00:00",
+  "last_updated": "2026-10-02T10:41:45.010519+00:00",
   "count": 62,
   "items": [
     {
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -235,15 +235,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
-      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Guyana - Flood Risk Management Project : Additional Financing",
-      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
       "type": "report",
       "description": ""
     },
@@ -293,6 +293,13 @@
       "source": "GFDRR",
       "title": "Liberia Emergency Preparedness and Response Assessment: Ready 2 Respond",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099745409022695412",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Global Rapid Post-Disaster Damage Estimation (GRADE) Report : Rasuwa Flash Flood, Nepal",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099217209292624461",
       "type": "report",
       "description": ""
     },
@@ -356,13 +363,6 @@
       "source": "GFDRR",
       "title": "The Complex Links Between Food Security, Migration, & Fragility in Central America",
       "link": "https://openknowledge.worldbank.org/entities/publication/da4e8f07-ecd9-42d1-ac03-501ed99533bb",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099925206182636834",
       "type": "report",
       "description": ""
     },

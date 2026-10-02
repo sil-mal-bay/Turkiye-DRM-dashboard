@@ -1,39 +1,18 @@
 {
-  "last_updated": "2026-10-01T11:07:30.741190+00:00",
-  "count": 10,
+  "last_updated": "2026-10-02T10:41:07.680255+00:00",
+  "count": 12,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 5.5,
-    "place": "PINARBASI-(SANLIURFA) REVIZE01 (2026.09.24 10:40:55",
-    "time": "2026-09-24T10:40:55+00:00",
-    "latitude": 37.363,
-    "longitude": 38.8185,
-    "depth_km": 5.1,
+    "magnitude": 3.9,
+    "place": "MIDILLI ADASI (EGE DENIZI) İlksel",
+    "time": "2026-09-30T14:00:15+00:00",
+    "latitude": 39.3217,
+    "longitude": 26.0593,
+    "depth_km": 7.2,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
-  "significant_events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 5.5,
-      "place": "PINARBASI-(SANLIURFA) REVIZE01 (2026.09.24 10:40:55",
-      "time": "2026-09-24T10:40:55+00:00",
-      "latitude": 37.363,
-      "longitude": 38.8185,
-      "depth_km": 5.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ],
+  "significant_events": [],
   "events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 5.5,
-      "place": "PINARBASI-(SANLIURFA) REVIZE01 (2026.09.24 10:40:55",
-      "time": "2026-09-24T10:40:55+00:00",
-      "latitude": 37.363,
-      "longitude": 38.8185,
-      "depth_km": 5.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "Kandilli",
       "magnitude": 3.9,
@@ -56,12 +35,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.7,
-      "place": "CAYBASI-ELMALI (ANTALYA) REVIZE01 (2026.09.24 11:19:07",
-      "time": "2026-09-24T11:19:07+00:00",
-      "latitude": 36.6058,
-      "longitude": 29.7757,
-      "depth_km": 59.1,
+      "magnitude": 3.6,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-10-01T16:02:59+00:00",
+      "latitude": 38.1903,
+      "longitude": 23.0628,
+      "depth_km": 7.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -72,6 +51,26 @@
       "latitude": 35.5298,
       "longitude": 27.414,
       "depth_km": 26.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-10-02T06:01:25+00:00",
+      "latitude": 35.6023,
+      "longitude": 26.1328,
+      "depth_km": 10.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "ELMALI-YEDISU (BINGOL) İlksel",
+      "time": "2026-10-02T00:36:57+00:00",
+      "latitude": 39.3948,
+      "longitude": 40.6325,
+      "depth_km": 6.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -97,6 +96,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.0,
+      "place": "CAYKOY-PUTURGE (MALATYA) İlksel",
+      "time": "2026-10-01T18:02:35+00:00",
+      "latitude": 38.244,
+      "longitude": 38.6825,
+      "depth_km": 1.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
+      "time": "2026-10-01T16:35:42+00:00",
+      "latitude": 37.532,
+      "longitude": 37.2258,
+      "depth_km": 6.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-09-25T22:18:22+00:00",
       "latitude": 33.7918,
@@ -112,16 +131,6 @@
       "latitude": 36.6678,
       "longitude": 25.6753,
       "depth_km": 7.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-09-24T14:49:04+00:00",
-      "latitude": 34.9248,
-      "longitude": 25.6435,
-      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
