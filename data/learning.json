@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T11:47:05.632287+00:00",
+  "last_updated": "2026-10-06T11:27:44.280093+00:00",
   "count": 62,
   "items": [
     {
@@ -291,13 +291,6 @@
     },
     {
       "source": "GFDRR",
-      "title": "Liberia Emergency Preparedness and Response Assessment: Ready 2 Respond",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099745409022695412",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
       "title": "Global Rapid Post-Disaster Damage Estimation (GRADE) Report : Rasuwa Flash Flood, Nepal",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099217209292624461",
       "type": "report",
@@ -347,13 +340,6 @@
     },
     {
       "source": "GFDRR",
-      "title": "Malta : Rapid Emergency Response and Readiness Assessment",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
       "title": "Managing Disaster-Related Fiscal Risks in a Shock Prone World",
       "link": "https://ieg.worldbankgroup.org/evaluations/managing-disaster-related-fiscal-risks-shock-prone-world",
       "type": "report",
@@ -361,8 +347,22 @@
     },
     {
       "source": "GFDRR",
+      "title": "Malta : Rapid Emergency Response and Readiness Assessment",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "The Complex Links Between Food Security, Migration, & Fragility in Central America",
       "link": "https://openknowledge.worldbank.org/entities/publication/da4e8f07-ecd9-42d1-ac03-501ed99533bb",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099925206182636834",
       "type": "report",
       "description": ""
     },
