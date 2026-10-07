@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T11:27:44.280093+00:00",
+  "last_updated": "2026-10-07T11:17:29.066052+00:00",
   "count": 62,
   "items": [
     {
@@ -368,6 +368,13 @@
     },
     {
       "source": "UNDRR",
+      "title": "National roadmap for scaling up Multi-Hazard Early Warning Systems in Bangladesh (2025–2030)",
+      "link": "https://www.undrr.org/publication/policies-and-plans/national-roadmap-scaling-multi-hazard-early-warning-systems",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
       "title": "Implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030: Report of the Secretary-General (2026)",
       "link": "https://www.undrr.org/publication/un-resolutions-and-reports/implementation-sendai-framework-disaster-risk-reduction-0",
       "type": "learning",
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "Probabilistic risk assessments to improve impact-based forecasts and strengthen anticipatory action in Latin America and the Caribbean",
       "link": "https://www.undrr.org/publication/documents-and-publications/probabilistic-risk-assessments-improve-impact-based",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Resilience Hubs in Action",
-      "link": "https://www.undrr.org/publication/documents-and-publications/resilience-hubs-action",
       "type": "learning",
       "description": ""
     }

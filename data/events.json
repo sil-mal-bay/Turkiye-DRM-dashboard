@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-06T11:27:42.919588+00:00",
-  "count": 12,
+  "last_updated": "2026-10-07T11:17:27.351231+00:00",
+  "count": 13,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Pre-COP31 Side Event / Pacific Loss and Damage: Evidence to Action",
-      "date": "2026-10-07T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/pre-cop31-side-event/pacific-loss-and-damage-evidence-action",
-      "location": null,
-      "type": "event"
-    },
     {
       "source": "UNDRR",
       "title": "2nd Arab Forum on Early Warning Systems and Disaster Preparedness",
@@ -81,6 +73,22 @@
       "link": "https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations",
       "location": null,
       "type": "webinar"
+    },
+    {
+      "source": "UNDRR",
+      "title": "From Awareness to Action: Practical actions for disability-inclusive disaster risk reduction",
+      "date": "2026-10-22T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/awareness-action-practical-actions-disability-inclusive-disaster-risk-reduction",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Health and Climate Change Conference 2026",
+      "date": "2026-10-28T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/health-and-climate-change-conference-2026",
+      "location": null,
+      "type": "conference"
     },
     {
       "source": "UNDRR",
