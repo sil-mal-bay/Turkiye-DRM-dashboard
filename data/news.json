@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-07T11:17:04.518774+00:00",
-  "count": 11,
+  "last_updated": "2026-10-08T11:33:49.979516+00:00",
+  "count": 12,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "World Tsunami Awareness Day 2026 Special Event: Interactive Learning for Coastal Resilience",
+      "original_title": null,
+      "description": "This session at the Asia-Pacific Ocean Week will showcase innovative learning approaches to tsunami preparedness developed by UNDRR, UNDP, ESCAP and UNESCO-IOC, on the occasion of World Tsunami Awareness Day 2026.",
+      "published": "2026-10-07T12:14:24+00:00",
+      "link": "https://www.undrr.org/event/world-tsunami-awareness-day-2026-special-event-interactive-learning-coastal-resilience",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
     {
       "source": "undrr",
       "title": "Testing coordination before hazards become disasters",
@@ -9,11 +22,11 @@
       "description": "In July 2026, the United Nations Office for Disaster Risk Reduction (UNDRR) Regional Office for Africa, co-organized three discussion-based exercises (DBXs) in Angola, Côte d'Ivoire and Zambia.",
       "published": "2026-10-06T14:08:53+00:00",
       "link": "https://www.undrr.org/news/testing-coordination-hazards-become-disasters",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -22,11 +35,11 @@
       "description": "This roadmap presents Bangladesh’s national strategy (2025–2030) to scale up its Multi-Hazard Early Warning System, identifying gaps and outlining actions across four EWS pillars to ensure timely, actionable warnings reach all.",
       "published": "2026-10-06T14:01:04+00:00",
       "link": "https://www.undrr.org/publication/policies-and-plans/national-roadmap-scaling-multi-hazard-early-warning-systems",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "More than 20 representatives convened in São Tomé from 7 to 9 September 2026, for an assessment on Risk-Informed Urban Planning and Making Cities Resilient. The assessment was organised by the District of Água Grande in collaboration with UNDRR.",
       "published": "2026-10-06T14:00:09+00:00",
       "link": "https://www.undrr.org/news/sao-tomes-agua-grande-district-advances-local-disaster-resilience",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -48,11 +61,11 @@
       "description": "The webinar offers a practical entry point for organizations and stakeholder constituencies seeking to strengthen disability inclusion in their everyday work.",
       "published": "2026-10-06T12:41:29+00:00",
       "link": "https://www.undrr.org/event/awareness-action-practical-actions-disability-inclusive-disaster-risk-reduction",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -61,11 +74,11 @@
       "description": "Side Event at the 2026 UN Water Conference",
       "published": "2026-10-02T15:46:26+00:00",
       "link": "https://www.undrr.org/event/reducing-drought-risk-through-prevention-early-warning-and-anticipatory-action",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

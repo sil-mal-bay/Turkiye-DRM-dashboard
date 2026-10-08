@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T11:16:56.176506+00:00",
-  "count": 31,
+  "last_updated": "2026-10-08T11:33:39.036617+00:00",
+  "count": 30,
   "largest": {
     "source": "Kandilli",
     "magnitude": 5.1,
@@ -346,12 +346,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-01T16:02:59+00:00",
-      "latitude": 38.1903,
-      "longitude": 23.0628,
-      "depth_km": 7.0,
+      "magnitude": 3.4,
+      "place": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI) İlksel",
+      "time": "2026-10-08T09:10:15+00:00",
+      "latitude": 39.6063,
+      "longitude": 26.0023,
+      "depth_km": 6.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -372,16 +372,6 @@
       "latitude": 35.6023,
       "longitude": 26.1328,
       "depth_km": 10.4,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "ELMALI-YEDISU (BINGOL) İlksel",
-      "time": "2026-10-02T00:36:57+00:00",
-      "latitude": 39.3948,
-      "longitude": 40.6325,
-      "depth_km": 6.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -427,6 +417,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.0,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-10-08T08:37:48+00:00",
+      "latitude": 40.1113,
+      "longitude": 24.7807,
+      "depth_km": 18.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-10-07T22:32:35+00:00",
+      "latitude": 34.9527,
+      "longitude": 22.8417,
+      "depth_km": 15.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
       "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
       "time": "2026-10-07T13:58:23+00:00",
       "latitude": 37.7243,
@@ -452,26 +462,6 @@
       "latitude": 35.4627,
       "longitude": 26.5605,
       "depth_km": 7.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "CAYKOY-PUTURGE (MALATYA) İlksel",
-      "time": "2026-10-01T18:02:35+00:00",
-      "latitude": 38.244,
-      "longitude": 38.6825,
-      "depth_km": 1.7,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "ARMUTLU-PAZARCIK (KAHRAMANMARAS) İlksel",
-      "time": "2026-10-01T16:35:42+00:00",
-      "latitude": 37.532,
-      "longitude": 37.2258,
-      "depth_km": 6.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
