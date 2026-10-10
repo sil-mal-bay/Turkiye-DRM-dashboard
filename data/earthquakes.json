@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-10-09T11:28:10.139461+00:00",
-  "count": 31,
+  "last_updated": "2026-10-10T10:45:37.663434+00:00",
+  "count": 32,
   "largest": {
-    "source": "Kandilli",
-    "magnitude": 5.1,
-    "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-    "time": "2026-10-04T14:43:20+00:00",
-    "latitude": 37.7517,
-    "longitude": 36.1297,
-    "depth_km": 5.0,
-    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    "source": "USGS",
+    "magnitude": 5,
+    "place": "21 km ESE of Feke, Turkey",
+    "time": "2026-10-04T11:43:23.167000+00:00",
+    "latitude": 37.7292,
+    "longitude": 36.1272,
+    "depth_km": 10,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
   },
   "significant_events": [
-    {
-      "source": "Kandilli",
-      "magnitude": 5.1,
-      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-10-04T14:43:20+00:00",
-      "latitude": 37.7517,
-      "longitude": 36.1297,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "source": "USGS",
       "magnitude": 5,
@@ -31,26 +21,6 @@
       "longitude": 36.1272,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.8,
-      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-10-04T14:36:23+00:00",
-      "latitude": 37.7695,
-      "longitude": 36.0968,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.8,
-      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-10-04T14:19:22+00:00",
-      "latitude": 37.753,
-      "longitude": 36.112,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "USGS",
@@ -150,31 +120,11 @@
       "latitude": 35.4022,
       "longitude": 26.5855,
       "depth_km": 2.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-10-04T03:48:40+00:00",
-      "latitude": 35.3333,
-      "longitude": 24.749,
-      "depth_km": 6.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
     {
-      "source": "Kandilli",
-      "magnitude": 5.1,
-      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-10-04T14:43:20+00:00",
-      "latitude": 37.7517,
-      "longitude": 36.1297,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
       "source": "USGS",
       "magnitude": 5,
       "place": "21 km ESE of Feke, Turkey",
@@ -183,26 +133,6 @@
       "longitude": 36.1272,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.8,
-      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-10-04T14:36:23+00:00",
-      "latitude": 37.7695,
-      "longitude": 36.0968,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.8,
-      "place": "AYVACIK-SAIMBEYLI (ADANA) İlksel",
-      "time": "2026-10-04T14:19:22+00:00",
-      "latitude": 37.753,
-      "longitude": 36.112,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "USGS",
@@ -302,16 +232,6 @@
       "latitude": 35.4022,
       "longitude": 26.5855,
       "depth_km": 2.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-10-04T03:48:40+00:00",
-      "latitude": 35.3333,
-      "longitude": 24.749,
-      "depth_km": 6.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -346,6 +266,36 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "AVSAROZU-REFAHIYE (ERZINCAN) İlksel",
+      "time": "2026-10-10T10:04:56+00:00",
+      "latitude": 39.8522,
+      "longitude": 38.8062,
+      "depth_km": 5.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.6,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-10-09T14:58:14+00:00",
+      "latitude": 35.2633,
+      "longitude": 27.0453,
+      "depth_km": 10.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-10-09T22:49:45+00:00",
+      "latitude": 34.7347,
+      "longitude": 34.0492,
+      "depth_km": 18.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.4,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-10-08T18:10:54+00:00",
@@ -372,6 +322,26 @@
       "latitude": 37.762,
       "longitude": 36.0822,
       "depth_km": 1.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-10-09T23:15:11+00:00",
+      "latitude": 34.7688,
+      "longitude": 34.0822,
+      "depth_km": 20.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-10-10T05:28:13+00:00",
+      "latitude": 34.8707,
+      "longitude": 33.9872,
+      "depth_km": 19.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
