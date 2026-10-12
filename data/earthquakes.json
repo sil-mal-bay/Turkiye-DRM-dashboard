@@ -1,77 +1,17 @@
 {
-  "last_updated": "2026-10-11T10:58:31.534700+00:00",
-  "count": 33,
+  "last_updated": "2026-10-12T12:20:47.492343+00:00",
+  "count": 29,
   "largest": {
-    "source": "USGS",
-    "magnitude": 5,
-    "place": "21 km ESE of Feke, Turkey",
-    "time": "2026-10-04T11:43:23.167000+00:00",
-    "latitude": 37.7292,
-    "longitude": 36.1272,
-    "depth_km": 10,
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
+    "source": "Kandilli",
+    "magnitude": 4.1,
+    "place": "GIRIT ADASI (AKDENIZ) İlksel",
+    "time": "2026-10-11T01:33:26+00:00",
+    "latitude": 35.4583,
+    "longitude": 26.5763,
+    "depth_km": 5.2,
+    "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
-    {
-      "source": "USGS",
-      "magnitude": 5,
-      "place": "21 km ESE of Feke, Turkey",
-      "time": "2026-10-04T11:43:23.167000+00:00",
-      "latitude": 37.7292,
-      "longitude": 36.1272,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.7,
-      "place": "21 km SSE of Saimbeyli, Turkey",
-      "time": "2026-10-04T11:19:26.314000+00:00",
-      "latitude": 37.8028,
-      "longitude": 36.1749,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzif"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.7,
-      "place": "22 km E of Feke, Turkey",
-      "time": "2026-10-04T11:36:26.451000+00:00",
-      "latitude": 37.7757,
-      "longitude": 36.1685,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzil"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "20 km ESE of Feke, Turkey",
-      "time": "2026-10-04T16:00:26.211000+00:00",
-      "latitude": 37.7748,
-      "longitude": 36.1388,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjn"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "21 km E of Feke, Turkey",
-      "time": "2026-10-04T17:28:13.722000+00:00",
-      "latitude": 37.7789,
-      "longitude": 36.1523,
-      "depth_km": 11.956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjy"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "14 km ESE of Feke, Turkey",
-      "time": "2026-10-04T22:51:30.983000+00:00",
-      "latitude": 37.7784,
-      "longitude": 36.0714,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl3"
-    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -104,66 +44,6 @@
     }
   ],
   "events": [
-    {
-      "source": "USGS",
-      "magnitude": 5,
-      "place": "21 km ESE of Feke, Turkey",
-      "time": "2026-10-04T11:43:23.167000+00:00",
-      "latitude": 37.7292,
-      "longitude": 36.1272,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.7,
-      "place": "21 km SSE of Saimbeyli, Turkey",
-      "time": "2026-10-04T11:19:26.314000+00:00",
-      "latitude": 37.8028,
-      "longitude": 36.1749,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzif"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.7,
-      "place": "22 km E of Feke, Turkey",
-      "time": "2026-10-04T11:36:26.451000+00:00",
-      "latitude": 37.7757,
-      "longitude": 36.1685,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzil"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.3,
-      "place": "20 km ESE of Feke, Turkey",
-      "time": "2026-10-04T16:00:26.211000+00:00",
-      "latitude": 37.7748,
-      "longitude": 36.1388,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjn"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "21 km E of Feke, Turkey",
-      "time": "2026-10-04T17:28:13.722000+00:00",
-      "latitude": 37.7789,
-      "longitude": 36.1523,
-      "depth_km": 11.956,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzjy"
-    },
-    {
-      "source": "USGS",
-      "magnitude": 4.2,
-      "place": "14 km ESE of Feke, Turkey",
-      "time": "2026-10-04T22:51:30.983000+00:00",
-      "latitude": 37.7784,
-      "longitude": 36.0714,
-      "depth_km": 10,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl3"
-    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -308,10 +188,30 @@
       "source": "Kandilli",
       "magnitude": 3.3,
       "place": "AKDENIZ İlksel",
+      "time": "2026-10-12T10:21:38+00:00",
+      "latitude": 35.923,
+      "longitude": 30.8005,
+      "depth_km": 14.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "AKDENIZ İlksel",
       "time": "2026-10-09T23:15:11+00:00",
       "latitude": 34.7688,
       "longitude": 34.0822,
       "depth_km": 20.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "KARAGOL-CELIKHAN (ADIYAMAN) İlksel",
+      "time": "2026-10-11T20:13:13+00:00",
+      "latitude": 38.1052,
+      "longitude": 38.4395,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -346,12 +246,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) İlksel",
-      "time": "2026-10-05T11:18:25+00:00",
-      "latitude": 40.7323,
-      "longitude": 27.4298,
-      "depth_km": 14.8,
+      "magnitude": 3.0,
+      "place": "YALOVA ACIKLARI (MARMARA DENIZI) İlksel",
+      "time": "2026-10-11T18:14:38+00:00",
+      "latitude": 40.7018,
+      "longitude": 29.2508,
+      "depth_km": 12.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
