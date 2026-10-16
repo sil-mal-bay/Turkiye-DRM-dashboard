@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T09:19:03.937414+00:00",
-  "count": 22,
+  "last_updated": "2026-10-16T09:12:58.472152+00:00",
+  "count": 20,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -62,16 +62,6 @@
       "latitude": 39.8522,
       "longitude": 38.8062,
       "depth_km": 5.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-10-09T14:58:14+00:00",
-      "latitude": 35.2633,
-      "longitude": 27.0453,
-      "depth_km": 10.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -231,16 +221,6 @@
       "time": "2026-10-10T20:58:45+00:00",
       "latitude": 39.4123,
       "longitude": 27.383,
-      "depth_km": 4.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "EGE DENIZI İlksel",
-      "time": "2026-10-09T08:47:48+00:00",
-      "latitude": 39.12,
-      "longitude": 25.387,
       "depth_km": 4.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
