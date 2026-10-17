@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T09:13:33.970205+00:00",
-  "count": 7,
+  "last_updated": "2026-10-17T08:44:55.877702+00:00",
+  "count": 8,
   "events": [
     {
       "source": "UNDRR",
@@ -33,6 +33,14 @@
       "link": "https://www.undrr.org/event/world-tsunami-awareness-day-2026-special-event-interactive-learning-coastal-resilience",
       "location": null,
       "type": "training"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Webinar: Strengthening Disaster Recovery through Law and Institutional Frameworks in Africa",
+      "date": "2026-11-10T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-strengthening-disaster-recovery-through-law-and-institutional-frameworks-africa",
+      "location": null,
+      "type": "webinar"
     },
     {
       "source": "UNDRR",
