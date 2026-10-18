@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T08:44:57.598520+00:00",
-  "count": 61,
+  "last_updated": "2026-10-18T09:00:45.631352+00:00",
+  "count": 62,
   "items": [
     {
       "source": "World Bank",
@@ -67,6 +67,13 @@
     },
     {
       "source": "World Bank",
+      "title": "Vietnam - Innovative Approaches to Community-based Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/101291520240618492",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "World Bank",
       "title": "World Bank technical assistance boosts Djibouti’s disaster risk management",
       "link": "http://documents.worldbank.org/curated/en/639021468180880212",
       "type": "brief",
@@ -102,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -242,15 +249,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Disclosable Version of the ISR - GY Flood Risk Management - P147250 - Sequence No : 14",
-      "link": "http://documents.worldbank.org/curated/en/300621623195995461",
+      "title": "Disclosable Version of the ISR - GY Flood Risk Management - P147250 - Sequence No : 13",
+      "link": "http://documents.worldbank.org/curated/en/399881607384086256",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Disclosable Version of the ISR - GY Flood Risk Management - P147250 - Sequence No : 13",
-      "link": "http://documents.worldbank.org/curated/en/399881607384086256",
+      "title": "Disclosable Version of the ISR - GY Flood Risk Management - P147250 - Sequence No : 14",
+      "link": "http://documents.worldbank.org/curated/en/300621623195995461",
       "type": "report",
       "description": ""
     },
@@ -270,8 +277,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Mozambique - Enhancing Spatial Data for Flood Risk Management Project : P149629 - Implementation Status Results Report : Sequence 03",
-      "link": "http://documents.worldbank.org/curated/en/858871468110664745",
+      "title": "Flood risk in road networks",
+      "link": "http://documents.worldbank.org/curated/en/953881468189843526",
+      "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "GFDRR Results in Resilience : Building Lasting Financial Protection: The Enduring Legacy of the Global Partnership on Disaster Risk Financing Analytics",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099025210072639867",
       "type": "report",
       "description": ""
     },
@@ -349,13 +363,6 @@
       "source": "GFDRR",
       "title": "The Complex Links Between Food Security, Migration, & Fragility in Central America",
       "link": "https://openknowledge.worldbank.org/entities/publication/da4e8f07-ecd9-42d1-ac03-501ed99533bb",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "A Strengthened and Fit-for Purpose State Hydrometorological Service in Moldova : A Road Map",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099925206182636834",
       "type": "report",
       "description": ""
     },

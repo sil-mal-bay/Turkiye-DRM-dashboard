@@ -1,27 +1,14 @@
 {
-  "last_updated": "2026-10-17T08:44:31.630589+00:00",
-  "count": 12,
+  "last_updated": "2026-10-18T09:00:21.425330+00:00",
+  "count": 13,
   "articles": [
     {
       "source": "undrr",
-      "title": "Disasters cost $228 billion in housing losses every year",
+      "title": "Cities and regions call for inclusive, whole-of-society disaster preparedness at European Week of Regions and Cities 2026",
       "original_title": null,
-      "description": "Marking the&nbsp; International Day for Disaster Risk Reduction, the UN chief stressed that “as climate and disaster risks multiply,&nbsp;building safer dwellings is the shared responsibility of governments, developers, engineers and communities”.",
-      "published": "2026-10-16T10:09:39+00:00",
-      "link": "https://www.undrr.org/news/disasters-cost-228-billion-housing-losses-every-year",
-      "score": 90.0,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 90
-    },
-    {
-      "source": "undrr",
-      "title": "12th Arab partnership for disaster risk reduction meeting: From commitments to joint action, an open regional dialogue on risk-informed development and resilience",
-      "original_title": null,
-      "description": "The 12th Arab Partnership for Disaster Risk Reduction Meeting, held in Tunis on 11 October 2026, identified regional priorities for risk understanding, governance, financing, and early warning, emphasizing stakeholder engagement and joint action.",
-      "published": "2026-10-15T12:23:18+00:00",
-      "link": "https://www.undrr.org/news/12th-arab-partnership-disaster-risk-reduction-meeting-commitments-joint-action-open-regional",
+      "description": "At the 24th edition of the European Week of Regions and Cities (EWRC), the European Committee of the Regions (CoR) and the UNDRR co-hosted a political debate on “Building Inclusive Community Preparedness and Resilience in the Age of Disasters.”",
+      "published": "2026-10-16T15:04:07+00:00",
+      "link": "https://www.undrr.org/news/cities-and-regions-call-inclusive-whole-society-disaster-preparedness-european-week-regions",
       "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -30,11 +17,24 @@
     },
     {
       "source": "undrr",
-      "title": "Rio de Janeiro strengthens municipal capacity for urban and climate resilience",
+      "title": "Disasters cost $228 billion in housing losses every year",
       "original_title": null,
-      "description": "The course centred on Making Cities Resilient 2030 (MCR2030) and introduced participants to its Ten Essentials and its approach to local resilience planning.",
-      "published": "2026-10-14T19:36:49+00:00",
-      "link": "https://www.undrr.org/news/rio-de-janeiro-strengthens-municipal-capacity-urban-and-climate-resilience",
+      "description": "Marking the&nbsp; International Day for Disaster Risk Reduction, the UN chief stressed that “as climate and disaster risks multiply,&nbsp;building safer dwellings is the shared responsibility of governments, developers, engineers and communities”.",
+      "published": "2026-10-16T10:09:39+00:00",
+      "link": "https://www.undrr.org/news/disasters-cost-228-billion-housing-losses-every-year",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
+    },
+    {
+      "source": "undrr",
+      "title": "12th Arab partnership for disaster risk reduction meeting: From commitments to joint action, an open regional dialogue on risk-informed development and resilience",
+      "original_title": null,
+      "description": "The 12th Arab Partnership for Disaster Risk Reduction Meeting, held in Tunis on 11 October 2026, identified regional priorities for risk understanding, governance, financing, and early warning, emphasizing stakeholder engagement and joint action.",
+      "published": "2026-10-15T12:23:18+00:00",
+      "link": "https://www.undrr.org/news/12th-arab-partnership-disaster-risk-reduction-meeting-commitments-joint-action-open-regional",
       "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
@@ -43,16 +43,29 @@
     },
     {
       "source": "undrr",
-      "title": "WIN DRR Awards spotlight women leaders turning global commitments into inclusive, locally-led disaster resilience in Samoa and the Philippines",
+      "title": "Rio de Janeiro strengthens municipal capacity for urban and climate resilience",
       "original_title": null,
-      "description": "The WIN DRR Leadership Awards 2026 have been granted to Ms Utumapu of Samoa and Ms Hualde of the Philippines, in recognition of their contributions to strengthening inclusive disaster resilience and women’s leadership.",
-      "published": "2026-10-13T10:53:51+00:00",
-      "link": "https://www.undrr.org/news/win-drr-awards-spotlight-women-leaders-turning-global-commitments-inclusive-locally-led",
+      "description": "The course centred on Making Cities Resilient 2030 (MCR2030) and introduced participants to its Ten Essentials and its approach to local resilience planning.",
+      "published": "2026-10-14T19:36:49+00:00",
+      "link": "https://www.undrr.org/news/rio-de-janeiro-strengthens-municipal-capacity-urban-and-climate-resilience",
       "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
       "recency_score": 35
+    },
+    {
+      "source": "undrr",
+      "title": "WIN DRR Awards spotlight women leaders turning global commitments into inclusive, locally-led disaster resilience in Samoa and the Philippines",
+      "original_title": null,
+      "description": "The WIN DRR Leadership Awards 2026 have been granted to Ms Utumapu of Samoa and Ms Hualde of the Philippines, in recognition of their contributions to strengthening inclusive disaster resilience and women’s leadership.",
+      "published": "2026-10-13T10:53:51+00:00",
+      "link": "https://www.undrr.org/news/win-drr-awards-spotlight-women-leaders-turning-global-commitments-inclusive-locally-led",
+      "score": 41.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +74,11 @@
       "description": "Ghana is investing in better disaster data by migrating to the DELTA Resilience Information System, enabling a more comprehensive and coordinated approach to disaster risk reduction by using richer and more accessible data.&nbsp;",
       "published": "2026-10-13T10:14:53+00:00",
       "link": "https://www.undrr.org/news/ghana-strengthens-its-disaster-resilience-better-data",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -74,11 +87,11 @@
       "description": "On International Day for Disaster Risk Reduction, SRSG Kamal Kishore reflects on how everyday decisions about our homes shape disaster risk, how public policy can expand people’s capacity to act, and why recovery works best when households shape it.",
       "published": "2026-10-13T09:00:00+00:00",
       "link": "https://www.undrr.org/news/resilience-starts-home-and-travels-outwards-transform-societies",
-      "score": 54.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -87,11 +100,11 @@
       "description": "Global modelling estimates US$228 billion in average annual residential building losses from cyclones, floods, tsunami and earthquakes, while new survey findings reveal critical gaps in household disaster preparedness.",
       "published": "2026-10-13T07:04:25+00:00",
       "link": "https://www.undrr.org/news/un-calls-greater-investment-housing-resilience-homes-account-43-reported-disaster-losses",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -100,11 +113,11 @@
       "description": "The Government of Lao PDR, supported by the United Nations, NGOs and CSOs, launch an inclusive risk communication initiative and a video competition on the International Day for Disaster Risk Reduction to improve early warnings.",
       "published": "2026-10-13T02:14:52+00:00",
       "link": "https://www.undrr.org/news/lao-pdr-launches-initiative-and-competition-make-early-warnings-reach-everyone",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -113,11 +126,11 @@
       "description": "It is an Agency established by an Act of Parliament to manage disasters and similar emergencies throughout Sierra Leone.",
       "published": "2026-10-12T15:51:15+00:00",
       "link": "https://www.undrr.org/organization/national-disaster-management-agency-sl",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -126,11 +139,11 @@
       "description": "This roundtable will bring together policymakers, practitioners, researchers and other stakeholders to explore how disaster risk reduction can help prevent displacement and support durable solutions when displacement occurs.",
       "published": "2026-10-12T15:04:43+00:00",
       "link": "https://www.undrr.org/event/when-home-lost-prevention-durable-solutions-disaster-displacement-0",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -139,11 +152,11 @@
       "description": "Governments, tech companies and researchers met in Tokyo to advance practical, responsible use of AI and emerging technologies for DRR and help shape a joint UNDRR–ODET initiative on knowledge, peer exchange, matchmaking and pilots.",
       "published": "2026-10-12T12:52:18+00:00",
       "link": "https://www.undrr.org/news/tokyo-workshop-charts-practical-pathways-emerging-technologies-disaster-risk-reduction",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
