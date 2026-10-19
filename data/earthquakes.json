@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T09:00:13.254411+00:00",
-  "count": 8,
+  "last_updated": "2026-10-19T10:10:48.819869+00:00",
+  "count": 7,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.5,
@@ -55,22 +55,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-10-12T10:21:38+00:00",
-      "latitude": 35.923,
-      "longitude": 30.8005,
-      "depth_km": 14.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
-      "place": "YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel",
-      "time": "2026-10-13T01:12:23+00:00",
-      "latitude": 38.7542,
-      "longitude": 36.5617,
-      "depth_km": 5.0,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-10-19T05:39:59+00:00",
+      "latitude": 38.1833,
+      "longitude": 24.1413,
+      "depth_km": 3.7,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
