@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T10:11:28.827500+00:00",
+  "last_updated": "2026-10-20T09:35:29.915391+00:00",
   "count": 61,
   "items": [
     {
@@ -277,6 +277,20 @@
     },
     {
       "source": "GFDRR",
+      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
+      "link": "https://openknowledge.worldbank.org/entities/publication/a7db37d2-3160-4f5d-800c-dc02687eb8e7",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "[Publication] Disaster Damage and Loss Data Systems",
+      "link": "https://openknowledge.worldbank.org/entities/publication/61fcc90e-6308-4899-acac-eedb5fdd5296",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "GFDRR Results in Resilience : Building Lasting Financial Protection: The Enduring Legacy of the Global Partnership on Disaster Risk Financing Analytics",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099025210072639867",
       "type": "report",
@@ -342,20 +356,6 @@
       "source": "GFDRR",
       "title": "Managing Disaster-Related Fiscal Risks in a Shock Prone World",
       "link": "https://ieg.worldbankgroup.org/evaluations/managing-disaster-related-fiscal-risks-shock-prone-world",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Malta : Rapid Emergency Response and Readiness Assessment",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099070726141521744",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "The Complex Links Between Food Security, Migration, & Fragility in Central America",
-      "link": "https://openknowledge.worldbank.org/entities/publication/da4e8f07-ecd9-42d1-ac03-501ed99533bb",
       "type": "report",
       "description": ""
     },
