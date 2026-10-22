@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:31:42.326913+00:00",
+  "last_updated": "2026-10-22T09:34:23.003464+00:00",
   "count": 62,
   "items": [
     {
@@ -32,16 +32,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
-      "type": "report",
+      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
+      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbia - National Disaster Risk Management : Scaling up resilient infrastructure project : Software Development of Disaster Risk Reduction Investment Planning (DRRIP)",
-      "link": "http://documents.worldbank.org/curated/en/398041614685934556",
-      "type": "working paper",
+      "title": "Project Information Document (PID) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/230761613565752638",
+      "type": "report",
       "description": ""
     },
     {
@@ -305,6 +305,13 @@
     },
     {
       "source": "GFDRR",
+      "title": "Housing Requirements, Hazard Exposure, and Resilience Costs",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455409152614168",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "A Universal Taxonomy for Natural Hazard and Risk and Resilience Assessments",
       "link": "https://www.arup.com/en-us/insights/a-universal-taxonomy-for-natural-hazard-and-climate-risk-and-resilience-assessments-infrastructure/",
       "type": "report",
@@ -360,10 +367,10 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Managing Disaster-Related Fiscal Risks in a Shock Prone World",
-      "link": "https://ieg.worldbankgroup.org/evaluations/managing-disaster-related-fiscal-risks-shock-prone-world",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Statement of the Second Arab Regional Forum for early warning systems and disaster preparedness: Arab call to action to strengthen early warning systems",
+      "link": "https://www.undrr.org/publication/documents-and-publications/statement-second-arab-regional-forum-early-warning-systems",
+      "type": "learning",
       "description": ""
     },
     {
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Apr-Jun 2026)",
       "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-apr-jun",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Probabilistic risk assessments to improve impact-based forecasts and strengthen anticipatory action in Latin America and the Caribbean",
-      "link": "https://www.undrr.org/publication/documents-and-publications/probabilistic-risk-assessments-improve-impact-based",
       "type": "learning",
       "description": ""
     }

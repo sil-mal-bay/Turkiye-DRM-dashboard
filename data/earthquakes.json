@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T09:31:05.570650+00:00",
-  "count": 5,
+  "last_updated": "2026-10-22T09:33:46.151722+00:00",
+  "count": 4,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.8,
@@ -35,32 +35,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "HACIVELIOBA-GONEN (BALIKESIR) İlksel",
-      "time": "2026-10-14T20:38:05+00:00",
-      "latitude": 40.067,
-      "longitude": 27.6465,
-      "depth_km": 14.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "SURIYE İlksel",
-      "time": "2026-10-15T04:38:18+00:00",
-      "latitude": 36.8613,
-      "longitude": 40.6272,
-      "depth_km": 19.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "YUNANISTAN İlksel",
       "time": "2026-10-19T05:39:59+00:00",
       "latitude": 38.1833,
       "longitude": 24.1413,
       "depth_km": 3.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KOMURCULER-DOSEMEALTI (ANTALYA) İlksel",
+      "time": "2026-10-21T17:32:40+00:00",
+      "latitude": 37.0773,
+      "longitude": 30.5897,
+      "depth_km": 2.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

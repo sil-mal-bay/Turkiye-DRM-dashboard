@@ -1,23 +1,7 @@
 {
-  "last_updated": "2026-10-21T09:31:40.832517+00:00",
+  "last_updated": "2026-10-22T09:34:20.795167+00:00",
   "count": 7,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Webinar Series: Artificial Intelligence in Disaster Management – Scope and Limitations",
-      "date": "2026-10-22T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/webinar-series-artificial-intelligence-disaster-management-scope-and-limitations",
-      "location": null,
-      "type": "webinar"
-    },
-    {
-      "source": "UNDRR",
-      "title": "From Awareness to Action: Practical actions for disability-inclusive disaster risk reduction",
-      "date": "2026-10-22T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/awareness-action-practical-actions-disability-inclusive-disaster-risk-reduction",
-      "location": null,
-      "type": "event"
-    },
     {
       "source": "UNDRR",
       "title": "World Tsunami Awareness Day 2026 Special Event: Interactive Learning for Coastal Resilience",
@@ -25,6 +9,14 @@
       "link": "https://www.undrr.org/event/world-tsunami-awareness-day-2026-special-event-interactive-learning-coastal-resilience",
       "location": null,
       "type": "training"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Droughts, floods and food systems risk dialogue – Part I: When El Niño meets global warming: The rise of compound drought extremes",
+      "date": "2026-10-27T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/droughts-floods-and-food-systems-risk-dialogue-part-i-when-el-nino-meets-global-warming-rise",
+      "location": null,
+      "type": "event"
     },
     {
       "source": "UNDRR",
@@ -49,6 +41,14 @@
       "link": "https://www.undrr.org/event/building-risk-informed-and-resilient-smes-arab-region",
       "location": null,
       "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Bonn Technical Forum 2026: Data as the lever for coherent climate action",
+      "date": "2026-12-08T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/bonn-technical-forum-2026-data-lever-coherent-climate-action",
+      "location": null,
+      "type": "conference"
     },
     {
       "source": "UNDRR",
