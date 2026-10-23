@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T09:33:46.151722+00:00",
-  "count": 4,
+  "last_updated": "2026-10-23T09:30:06.080506+00:00",
+  "count": 5,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.8,
@@ -41,6 +41,16 @@
       "latitude": 38.1833,
       "longitude": 24.1413,
       "depth_km": 3.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "IKIZPINAR-KALE (MALATYA) İlksel",
+      "time": "2026-10-23T03:23:39+00:00",
+      "latitude": 38.3645,
+      "longitude": 38.7468,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

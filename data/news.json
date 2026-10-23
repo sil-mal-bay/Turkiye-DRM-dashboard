@@ -1,40 +1,14 @@
 {
-  "last_updated": "2026-10-22T09:33:56.983178+00:00",
-  "count": 12,
+  "last_updated": "2026-10-23T09:30:15.538507+00:00",
+  "count": 11,
   "articles": [
-    {
-      "source": "dailysabah",
-      "title": "Türkiye's mayors push disaster resilience, urban renewal at summit",
-      "original_title": null,
-      "description": "Turkish municipal leaders called for greater investment in disaster preparedness, urban transformation and infrastructure at a summit in Istanbul, with one mayor proposing that 40%...",
-      "published": "2026-10-21T15:59:00+00:00",
-      "link": "https://www.dailysabah.com/turkiye/turkiyes-mayors-push-disaster-resilience-urban-renewal-at-summit/news",
-      "score": 173.0,
-      "world_bank_related": false,
-      "turkey_related": true,
-      "credibility_score": 80,
-      "recency_score": 90
-    },
     {
       "source": "undrr",
       "title": "Geneva students take disaster preparedness home",
       "original_title": null,
-      "description": "Geneva students take disaster preparedness home13 October 2026",
-      "published": "2026-10-22T08:23:46+00:00",
-      "link": "https://www.undrr.org/node/105365",
-      "score": 96.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 100
-    },
-    {
-      "source": "undrr",
-      "title": "Statement of the Second Arab Regional Forum for early warning systems and disaster preparedness: Arab call to action to strengthen early warning systems",
-      "original_title": null,
-      "description": "The Arab Call to Action outlines regional priorities to strengthen inclusive early warning systems, disaster preparedness, anticipatory action and cooperation across the Arab region.",
-      "published": "2026-10-21T10:53:47+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/statement-second-arab-regional-forum-early-warning-systems",
+      "description": "A hands-on experience of disaster risk reduction helps equip the next generation for a resilient future.",
+      "published": "2026-10-22T10:31:49+00:00",
+      "link": "https://www.undrr.org/news/geneva-students-take-disaster-preparedness-home",
       "score": 90.0,
       "world_bank_related": false,
       "turkey_related": false,
@@ -43,16 +17,29 @@
     },
     {
       "source": "undrr",
+      "title": "Statement of the Second Arab Regional Forum for early warning systems and disaster preparedness: Arab call to action to strengthen early warning systems",
+      "original_title": null,
+      "description": "The Arab Call to Action outlines regional priorities to strengthen inclusive early warning systems, disaster preparedness, anticipatory action and cooperation across the Arab region.",
+      "published": "2026-10-21T10:53:47+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/statement-second-arab-regional-forum-early-warning-systems",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
+    },
+    {
+      "source": "undrr",
       "title": "Nepal Center for Disaster Management",
       "original_title": null,
       "description": "Nepal Centre for Disaster Management (NCDM) was established in February 2002 with an aim to help effectively mitigate the impact of disasters in the country.",
       "published": "2026-10-19T07:35:18+00:00",
       "link": "https://www.undrr.org/organization/nepal-center-disaster-management",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +48,11 @@
       "description": "The Second Arab Regional Forum in Tunis (12–14 October 2026) brought together regional and international partners to advance early warning systems, disaster preparedness, and the Early Warnings for All initiative across the Arab region.",
       "published": "2026-10-18T11:49:54+00:00",
       "link": "https://www.undrr.org/news/tunis-hosts-arab-regional-forum-early-warning-systems-disaster-preparedness",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
