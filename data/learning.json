@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T09:30:46.488188+00:00",
+  "last_updated": "2026-10-24T09:03:26.980701+00:00",
   "count": 62,
   "items": [
     {
@@ -46,16 +46,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
-      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
-      "type": "working paper",
+      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
-      "type": "report",
+      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
+      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -284,15 +284,15 @@
     },
     {
       "source": "GFDRR",
-      "title": "[Publication] Disaster Damage and Loss Data Systems",
-      "link": "https://openknowledge.worldbank.org/entities/publication/61fcc90e-6308-4899-acac-eedb5fdd5296",
+      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
+      "link": "https://openknowledge.worldbank.org/entities/publication/a7db37d2-3160-4f5d-800c-dc02687eb8e7",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
-      "link": "https://openknowledge.worldbank.org/entities/publication/a7db37d2-3160-4f5d-800c-dc02687eb8e7",
+      "title": "[Publication] Disaster Damage and Loss Data Systems",
+      "link": "https://openknowledge.worldbank.org/entities/publication/61fcc90e-6308-4899-acac-eedb5fdd5296",
       "type": "report",
       "description": ""
     },
