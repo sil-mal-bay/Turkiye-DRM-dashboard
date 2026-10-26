@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T09:19:06.123451+00:00",
-  "count": 11,
+  "last_updated": "2026-10-26T10:24:48.051956+00:00",
+  "count": 12,
   "largest": {
     "source": "Kandilli",
     "magnitude": 3.8,
@@ -31,6 +31,16 @@
       "latitude": 35.4162,
       "longitude": 27.1017,
       "depth_km": 23.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
+      "place": "OTMANLAR-KOYCEGIZ (MUGLA) İlksel",
+      "time": "2026-10-25T22:59:07+00:00",
+      "latitude": 37.0348,
+      "longitude": 28.9265,
+      "depth_km": 8.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
