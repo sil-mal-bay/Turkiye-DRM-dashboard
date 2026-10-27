@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:25:22.515842+00:00",
+  "last_updated": "2026-10-27T09:59:46.154377+00:00",
   "count": 62,
   "items": [
     {
@@ -46,16 +46,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
-      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
-      "type": "working paper",
+      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
-      "type": "report",
+      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
+      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -424,15 +424,15 @@
     },
     {
       "source": "UNDRR",
-      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
-      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
+      "title": "Early Warnings for All booklet",
+      "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
       "type": "learning",
       "description": ""
     },
     {
       "source": "UNDRR",
-      "title": "UNDRR Regional Office for Africa Quarterly Newsletter (Apr-Jun 2026)",
-      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-regional-office-africa-quarterly-newsletter-apr-jun",
+      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
+      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "learning",
       "description": ""
     }

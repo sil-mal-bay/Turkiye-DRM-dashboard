@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-10-26T10:24:57.381758+00:00",
-  "count": 8,
+  "last_updated": "2026-10-27T09:59:20.689035+00:00",
+  "count": 10,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Capacity Building Workshop on Financing Disaster Risk Reduction (DRR)",
+      "original_title": null,
+      "description": "The Capacity Building Workshop on Financing Disaster Risk Reduction (DRR) equips government officials and experts with practical tools to assess financing needs, identify investment gaps, mobilize resources, and develop national DRR financing strategies.",
+      "published": "2026-10-26T13:08:16+00:00",
+      "link": "https://www.undrr.org/event/capacity-building-workshop-financing-disaster-risk-reduction-drr-1",
+      "score": 90.0,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 90
+    },
+    {
+      "source": "undrr",
+      "title": "Putting risk communication at the heart of disaster preparedness",
+      "original_title": null,
+      "description": "UNDRR, UNESCO and IFRC brought experts together in Geneva to explore how to overcome barriers to effective risk communication and turn disaster warnings into informed, life-saving action.",
+      "published": "2026-10-22T15:38:31+00:00",
+      "link": "https://www.undrr.org/news/putting-risk-communication-heart-disaster-preparedness",
+      "score": 41.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 15
+    },
     {
       "source": "undrr",
       "title": "Geneva students take disaster preparedness home",
@@ -9,11 +35,11 @@
       "description": "A hands-on experience of disaster risk reduction helps equip the next generation for a resilient future.",
       "published": "2026-10-22T10:31:49+00:00",
       "link": "https://www.undrr.org/news/geneva-students-take-disaster-preparedness-home",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -22,11 +48,11 @@
       "description": "The Arab Call to Action outlines regional priorities to strengthen inclusive early warning systems, disaster preparedness, anticipatory action and cooperation across the Arab region.",
       "published": "2026-10-21T10:53:47+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/statement-second-arab-regional-forum-early-warning-systems",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",
