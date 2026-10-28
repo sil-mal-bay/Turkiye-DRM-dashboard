@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-10-27T09:59:23.185347+00:00",
-  "count": 36,
+  "last_updated": "2026-10-28T10:45:48.607071+00:00",
+  "count": 38,
   "videos": [
+    {
+      "video_id": "eHu_DODqX_g",
+      "title": "AgriHeroes: Juan Carlos Cortés García, Putting Satellites to Work for Farmers in Mexico",
+      "description": "A devastating freeze in Mexico changed the course of Juan Carlos Cortés García’s life. He saw coffee plantations wiped out—and how quickly a farmer could lose everything. In 1993, he founded PROAGRO Seguros, Mexico’s first new agricultural insurer in more than three decades. Today, he helps farmers ",
+      "channel": "World Bank Group",
+      "published": "2026-10-27T18:03:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/eHu_DODqX_g/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eHu_DODqX_g"
+    },
+    {
+      "video_id": "7jD2fT4T-Vg",
+      "title": "AgriHeroes: Rose Goslinga and Thomas Njeru, Building a Safety Net for Kenya’s Farmers",
+      "description": "Growing up on a small farm in Kenya, Thomas Njeru saw how a single drought could set a family back for years. Together with Rose Goslinga, he co-founded Pula to help smallholder farmers manage climate risks through agricultural insurance. The company uses satellite imagery, weather data, and farmer ",
+      "channel": "World Bank Group",
+      "published": "2026-10-27T18:02:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/7jD2fT4T-Vg/mqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7jD2fT4T-Vg"
+    },
     {
       "video_id": "qoyjsjBol8o",
       "title": "Can a song help save lives during a tsunami? | UNDRR",
