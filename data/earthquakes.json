@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T10:45:36.919375+00:00",
-  "count": 12,
+  "last_updated": "2026-10-29T11:02:19.043351+00:00",
+  "count": 11,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.1,
@@ -132,16 +132,6 @@
       "latitude": 38.3645,
       "longitude": 38.7468,
       "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "KOMURCULER-DOSEMEALTI (ANTALYA) İlksel",
-      "time": "2026-10-21T17:32:40+00:00",
-      "latitude": 37.0773,
-      "longitude": 30.5897,
-      "depth_km": 2.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]

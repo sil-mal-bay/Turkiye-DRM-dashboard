@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T10:46:12.781575+00:00",
+  "last_updated": "2026-10-29T11:02:59.815672+00:00",
   "count": 62,
   "items": [
     {
@@ -235,15 +235,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
-      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Guyana - Flood Risk Management Project : Additional Financing",
-      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
       "type": "report",
       "description": ""
     },
@@ -280,6 +280,20 @@
       "title": "Flood risk in road networks",
       "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/recommendations%20for%20preparedness.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/annex%20b%20-%20Country%20Case%20Studies.pdf",
+      "type": "report",
       "description": ""
     },
     {
@@ -349,20 +363,6 @@
       "source": "GFDRR",
       "title": "Global Rapid Post-Disaster Damage Estimation (GRADE): Venezuela Earthquakes",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099072826152566231",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "GFDRR Country Evaluation: Senegal",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099211007242615609",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Working Together for a More Resilient Senegal: Results and Lessons from GFDRR's Partnership with Senegal",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099532107172619035",
       "type": "report",
       "description": ""
     },

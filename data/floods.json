@@ -1,5 +1,14 @@
 {
-  "last_updated": "2026-10-28T10:45:39.841508+00:00",
-  "count": 0,
-  "warnings": []
+  "last_updated": "2026-10-29T11:02:22.838733+00:00",
+  "count": 1,
+  "warnings": [
+    {
+      "title": "Green flood alert in Türkiye",
+      "description": "On 26/10/2026, a flood started in Türkiye, lasting until 28/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "published": "Thu, 29 Oct 2026 09:30:00 GMT",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104254",
+      "severity": "Green",
+      "region": "Türkiye"
+    }
+  ]
 }
