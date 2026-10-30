@@ -1,17 +1,27 @@
 {
-  "last_updated": "2026-10-29T11:02:19.043351+00:00",
-  "count": 11,
+  "last_updated": "2026-10-30T10:59:06.274220+00:00",
+  "count": 14,
   "largest": {
     "source": "Kandilli",
-    "magnitude": 4.1,
-    "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-    "time": "2026-10-26T16:19:59+00:00",
-    "latitude": 34.907,
-    "longitude": 25.951,
-    "depth_km": 5.0,
+    "magnitude": 4.9,
+    "place": "YUNANISTAN İlksel",
+    "time": "2026-10-30T13:45:02+00:00",
+    "latitude": 39.6953,
+    "longitude": 24.1655,
+    "depth_km": 22.6,
     "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
   },
   "significant_events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.9,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-10-30T13:45:02+00:00",
+      "latitude": 39.6953,
+      "longitude": 24.1655,
+      "depth_km": 22.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -24,6 +34,16 @@
     }
   ],
   "events": [
+    {
+      "source": "Kandilli",
+      "magnitude": 4.9,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-10-30T13:45:02+00:00",
+      "latitude": 39.6953,
+      "longitude": 24.1655,
+      "depth_km": 22.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
     {
       "source": "Kandilli",
       "magnitude": 4.1,
@@ -67,11 +87,31 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-10-29T19:50:21+00:00",
+      "latitude": 36.0128,
+      "longitude": 31.2057,
+      "depth_km": 9.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "OTMANLAR-KOYCEGIZ (MUGLA) İlksel",
       "time": "2026-10-26T14:35:18+00:00",
       "latitude": 37.0425,
       "longitude": 28.9185,
       "depth_km": 2.7,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI) İlksel",
+      "time": "2026-10-30T09:06:32+00:00",
+      "latitude": 40.629,
+      "longitude": 28.817,
+      "depth_km": 15.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

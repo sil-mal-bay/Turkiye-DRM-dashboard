@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T11:02:59.815672+00:00",
-  "count": 62,
+  "last_updated": "2026-10-30T10:59:39.974990+00:00",
+  "count": 59,
   "items": [
     {
       "source": "World Bank",
@@ -284,8 +284,36 @@
     },
     {
       "source": "GFDRR",
-      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/recommendations%20for%20preparedness.pdf",
+      "title": "Advisory Report: Guidelines for First Responders",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for Persons with Disabilities",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20Persons%20with%20Disabilities.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Toolkit for first responders",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Toolkit for persons with disabilities",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20persons%20with%20disabilities.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Plain language version",
+      "link": "https://www.gfdrr.org",
       "type": "report",
       "description": ""
     },
@@ -293,6 +321,13 @@
       "source": "GFDRR",
       "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
       "link": "https://www.gfdrr.org/sites/default/files/publication/annex%20b%20-%20Country%20Case%20Studies.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/recommendations%20for%20preparedness.pdf",
       "type": "report",
       "description": ""
     },
@@ -311,59 +346,10 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "GFDRR Results in Resilience : Building Lasting Financial Protection: The Enduring Legacy of the Global Partnership on Disaster Risk Financing Analytics",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099025210072639867",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Housing Requirements, Hazard Exposure, and Resilience Costs",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099455409152614168",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "A Universal Taxonomy for Natural Hazard and Risk and Resilience Assessments",
-      "link": "https://www.arup.com/en-us/insights/a-universal-taxonomy-for-natural-hazard-and-climate-risk-and-resilience-assessments-infrastructure/",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Global Rapid Post-Disaster Damage Estimation (GRADE) Report : Rasuwa Flash Flood, Nepal",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099217209292624461",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Building Resilience through Institutions, Communities & Knowledge : Proceedings from the 2026 BRICK Knowledge Exchange Event",
-      "link": "https://www.gfdrr.org/sites/default/files/2026-09/BRICK.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Exploring Risk Tolerance Under Uncertainty : Workshop on a Participatory Risk-Tolerance Methodology for Recovery Decisions in Grindavík, Iceland",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099080426164098473",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "A Livable Future: Protecting Jobs from Extreme Heat in South Asia",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099072226125517919",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Global Rapid Post-Disaster Damage Estimation (GRADE): Venezuela Earthquakes",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099072826152566231",
-      "type": "report",
+      "source": "UNDRR",
+      "title": "Concept note: World Tsunami Awareness Day 2026",
+      "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-world-tsunami-awareness-day-2026",
+      "type": "learning",
       "description": ""
     },
     {
@@ -426,13 +412,6 @@
       "source": "UNDRR",
       "title": "Early Warnings for All booklet",
       "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
-      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "learning",
       "description": ""
     }
