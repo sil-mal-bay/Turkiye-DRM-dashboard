@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T10:59:39.974990+00:00",
-  "count": 59,
+  "last_updated": "2026-10-31T10:32:58.422776+00:00",
+  "count": 61,
   "items": [
     {
       "source": "World Bank",
@@ -46,16 +46,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
-      "type": "report",
+      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
+      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
+      "type": "working paper",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
-      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
-      "type": "working paper",
+      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
+      "type": "report",
       "description": ""
     },
     {
@@ -285,34 +285,48 @@
     {
       "source": "GFDRR",
       "title": "Advisory Report: Guidelines for First Responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders.pdf",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
       "title": "Advisory Report: Guidelines for Persons with Disabilities",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20Persons%20with%20Disabilities.pdf",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20Persons%20with%20Disabilities_0.pdf",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
       "title": "Toolkit for first responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders.pdf",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders_0.pdf",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
       "title": "Toolkit for persons with disabilities",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20persons%20with%20disabilities.pdf",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20persons%20with%20disabilities_0.pdf",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Plain language version",
+      "title": "Advisory Report: Guidelines for First Responders: Easy to Read",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20first%20responders%20-%20Easy%20to%20Read%20version.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20people%20with%20disabilities%20%20-%20Easy%20to%20read.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory report on Guidelines for first responders",
       "link": "https://www.gfdrr.org",
       "type": "report",
       "description": ""
