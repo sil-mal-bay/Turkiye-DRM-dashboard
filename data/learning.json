@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T10:32:58.422776+00:00",
+  "last_updated": "2026-11-01T11:27:31.773539+00:00",
   "count": 61,
   "items": [
     {
@@ -46,16 +46,16 @@
     },
     {
       "source": "World Bank",
-      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
-      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
-      "type": "working paper",
+      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
+      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
+      "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Concept Environmental and Social Review Summary (ESRS) - Strengthening Risk Information for Disaster Resilience in Bhutan - P175081",
-      "link": "http://documents.worldbank.org/curated/en/571261613515395191",
-      "type": "report",
+      "title": "Serbia - Action Plan for the Implementation of the National Disaster Risk Management Programme (2017-2020)",
+      "link": "http://documents.worldbank.org/curated/en/633241614687101508",
+      "type": "working paper",
       "description": ""
     },
     {
@@ -284,20 +284,6 @@
     },
     {
       "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20Persons%20with%20Disabilities_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
       "title": "Toolkit for first responders",
       "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders_0.pdf",
       "type": "report",
@@ -333,6 +319,20 @@
     },
     {
       "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for First Responders",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for Persons with Disabilities",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20Persons%20with%20Disabilities_0.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
       "link": "https://www.gfdrr.org/sites/default/files/publication/annex%20b%20-%20Country%20Case%20Studies.pdf",
       "type": "report",
@@ -347,15 +347,15 @@
     },
     {
       "source": "GFDRR",
-      "title": "[Publication] Disaster Damage and Loss Data Systems",
-      "link": "https://openknowledge.worldbank.org/entities/publication/61fcc90e-6308-4899-acac-eedb5fdd5296",
+      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
+      "link": "https://openknowledge.worldbank.org/entities/publication/a7db37d2-3160-4f5d-800c-dc02687eb8e7",
       "type": "report",
       "description": ""
     },
     {
       "source": "GFDRR",
-      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
-      "link": "https://openknowledge.worldbank.org/entities/publication/a7db37d2-3160-4f5d-800c-dc02687eb8e7",
+      "title": "[Publication] Disaster Damage and Loss Data Systems",
+      "link": "https://openknowledge.worldbank.org/entities/publication/61fcc90e-6308-4899-acac-eedb5fdd5296",
       "type": "report",
       "description": ""
     },
