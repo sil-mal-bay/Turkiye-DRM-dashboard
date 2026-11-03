@@ -1,5 +1,42 @@
 {
-  "last_updated": "2026-11-02T12:48:17.711764+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-11-03T12:15:11.876733+00:00",
+  "count": 3,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.8 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "magnitude": 4.8,
+      "time": "2026-11-02T19:49:15+00:00",
+      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "latitude": 34.505,
+      "longitude": 26.5685,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — AKCALIUSAGI-KOZAN (ADANA) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-11-02T20:58:04+00:00",
+      "location": "AKCALIUSAGI-KOZAN (ADANA) İlksel",
+      "latitude": 37.723,
+      "longitude": 36.1098,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.3 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "magnitude": 4.3,
+      "time": "2026-11-03T14:03:49+00:00",
+      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "latitude": 34.8072,
+      "longitude": 26.4452,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

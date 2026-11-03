@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-11-02T12:47:42.432509+00:00",
-  "count": 10,
+  "last_updated": "2026-11-03T12:14:35.531900+00:00",
+  "count": 12,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Arab States Mark IDDRR 2026 Through Regional Cooperation and Community-Led Preparedness",
+      "original_title": null,
+      "description": "Arab States marked IDDRR 2026 through regional dialogue and community initiatives promoting disaster preparedness and resilience.",
+      "published": "2026-11-03T10:47:01+00:00",
+      "link": "https://www.undrr.org/news/arab-states-mark-iddrr-2026-through-regional-cooperation-and-community-led-preparedness",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
+    {
+      "source": "undrr",
+      "title": "Webinar: Advancing Inclusive and Last-Mile Early Warning Systems in Africa",
+      "original_title": null,
+      "description": "This webinar aims to advance dialogue, knowledge sharing, and collaboration on strengthening inclusive and last-mile early warning systems across Africa as a key enabler of the Early Warnings for All initiative.",
+      "published": "2026-11-03T09:07:24+00:00",
+      "link": "https://www.undrr.org/event/webinar-advancing-inclusive-and-last-mile-early-warning-systems-africa",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Niamey charts a path towards improved urban resilience",
@@ -9,11 +35,11 @@
       "description": "The City of Niamey and UNDRR organized a capacity-building assessment on disaster risk reduction from 8 to 10 August 2026, as part of MCR2030.",
       "published": "2026-10-30T11:36:50+00:00",
       "link": "https://www.undrr.org/news/niamey-charts-path-towards-improved-urban-resilience",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -22,11 +48,11 @@
       "description": "NIDR is a research program within the Faculty of Arts, Monash University. Established in 2022, NIDR is Australia’s only Indigenous-led, nationally focused program investigating how major disasters affect Indigenous people, communities and organizations.",
       "published": "2026-10-30T09:29:52+00:00",
       "link": "https://www.undrr.org/organization/national-indigenous-disaster-resilience-monash-university",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -35,11 +61,11 @@
       "description": "On this World Tsunami Awareness Day, let’s take charge of resilience. By working together we can be tsunami ready – and save lives whenever the waves strike.",
       "published": "2026-10-30T08:08:02+00:00",
       "link": "https://www.undrr.org/news/lets-take-charge-resilience-working-together-we-can-be-tsunami-ready-says-un-secretary-general",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -48,11 +74,11 @@
       "description": "The theme of World Tsunami Awareness Day 2026, on 5 November, is “Be Tsunami Ready: Resilience Starts With You”. It builds on WTAD 2025’s emphasis on investment in preparedness by focusing on individual and community action.",
       "published": "2026-10-29T15:18:20+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-world-tsunami-awareness-day-2026",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -61,11 +87,11 @@
       "description": "RAIN is an FCDO-funded programme supporting Nepal’s climate adaptation, mitigation, disaster risk management, and shock-responsive social protection. RAIN TA SLU is implemented by a consortium led by Mott MacDonald.",
       "published": "2026-10-29T09:56:26+00:00",
       "link": "https://www.undrr.org/organization/resilience-adaptation-and-inclusion-nepal",
-      "score": 41.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 15
+      "recency_score": 0
     },
     {
       "source": "undrr",

@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-02T12:48:05.179202+00:00",
+  "last_updated": "2026-11-03T12:14:59.048903+00:00",
   "count": 7,
   "events": [
-    {
-      "source": "UNDRR",
-      "title": "Droughts, floods and food systems risk dialogue – Part II: What do droughts really cost? Understanding impacts and losses on the economy, global food systems and wellbeing",
-      "date": "2026-11-03T00:00:00+00:00",
-      "link": "https://www.undrr.org/event/droughts-floods-and-food-systems-risk-dialogue-part-ii-what-do-droughts-really-cost",
-      "location": null,
-      "type": "event"
-    },
     {
       "source": "UNDRR",
       "title": "Webinar: Strengthening disaster recovery through law and institutional frameworks in Africa",
@@ -41,6 +33,14 @@
       "link": "https://www.undrr.org/event/capacity-building-workshop-financing-disaster-risk-reduction-drr-1",
       "location": null,
       "type": "workshop"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Webinar: Advancing Inclusive and Last-Mile Early Warning Systems in Africa",
+      "date": "2026-11-25T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/webinar-advancing-inclusive-and-last-mile-early-warning-systems-africa",
+      "location": null,
+      "type": "webinar"
     },
     {
       "source": "UNDRR",

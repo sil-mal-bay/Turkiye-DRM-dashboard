@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:48:06.600564+00:00",
+  "last_updated": "2026-11-03T12:15:00.570922+00:00",
   "count": 61,
   "items": [
     {
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
@@ -284,15 +284,8 @@
     },
     {
       "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20people%20with%20disabilities%20%20-%20Easy%20to%20read.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory report on Guidelines for first responders",
-      "link": "https://www.gfdrr.org",
+      "title": "República Dominicana - Gestión Financiera y Aseguramiento del Riesgo de Desastres en la : Avances y Perspectivas",
+      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099138210302692948",
       "type": "report",
       "description": ""
     },
@@ -333,6 +326,20 @@
     },
     {
       "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20people%20with%20disabilities%20%20-%20Easy%20to%20read.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory report on Guidelines for first responders",
+      "link": "https://www.gfdrr.org",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
       "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
       "link": "https://www.gfdrr.org/sites/default/files/publication/annex%20b%20-%20Country%20Case%20Studies.pdf",
       "type": "report",
@@ -353,13 +360,6 @@
       "description": ""
     },
     {
-      "source": "GFDRR",
-      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
-      "link": "https://openknowledge.worldbank.org/entities/publication/a7db37d2-3160-4f5d-800c-dc02687eb8e7",
-      "type": "report",
-      "description": ""
-    },
-    {
       "source": "UNDRR",
       "title": "Concept note: World Tsunami Awareness Day 2026",
       "link": "https://www.undrr.org/publication/documents-and-publications/concept-note-world-tsunami-awareness-day-2026",
@@ -370,13 +370,6 @@
       "source": "UNDRR",
       "title": "Statement of the Second Arab Regional Forum for early warning systems and disaster preparedness: Arab call to action to strengthen early warning systems",
       "link": "https://www.undrr.org/publication/documents-and-publications/statement-second-arab-regional-forum-early-warning-systems",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "National roadmap for scaling up Multi-Hazard Early Warning Systems in Bangladesh (2025–2030)",
-      "link": "https://www.undrr.org/publication/policies-and-plans/national-roadmap-scaling-multi-hazard-early-warning-systems",
       "type": "learning",
       "description": ""
     },
@@ -426,6 +419,13 @@
       "source": "UNDRR",
       "title": "Early Warnings for All booklet",
       "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
+      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "learning",
       "description": ""
     }
