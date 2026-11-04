@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-03T12:15:11.876733+00:00",
-  "count": 3,
+  "last_updated": "2026-11-04T12:26:36.744359+00:00",
+  "count": 4,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
       "title": "M4.8 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "magnitude": 4.8,
-      "time": "2026-11-02T19:49:15+00:00",
+      "time": "2026-11-02T19:49:14+00:00",
       "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "latitude": 34.505,
-      "longitude": 26.5685,
+      "latitude": 34.4643,
+      "longitude": 26.5765,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.0 earthquake — AKCALIUSAGI-KOZAN (ADANA) İlksel",
+      "title": "M4.0 earthquake — AKOLUK-FEKE (ADANA) İlksel",
       "magnitude": 4.0,
       "time": "2026-11-02T20:58:04+00:00",
-      "location": "AKCALIUSAGI-KOZAN (ADANA) İlksel",
-      "latitude": 37.723,
-      "longitude": 36.1098,
+      "location": "AKOLUK-FEKE (ADANA) İlksel",
+      "latitude": 37.7258,
+      "longitude": 36.1083,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
@@ -37,6 +37,18 @@
       "longitude": 26.4452,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — 23 km SW of Amorgós, Greece",
+      "magnitude": 4.1,
+      "time": "2026-11-03T14:23:59.725000+00:00",
+      "location": "23 km SW of Amorgós, Greece",
+      "latitude": 36.6547,
+      "longitude": 25.7448,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs8"
     }
   ]
 }
