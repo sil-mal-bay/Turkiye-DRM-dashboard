@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T12:25:45.853958+00:00",
-  "count": 32,
+  "last_updated": "2026-11-05T12:40:24.938786+00:00",
+  "count": 36,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.8,
@@ -61,6 +61,26 @@
       "longitude": 25.7448,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs8"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.1,
+      "place": "10 km WSW of Dinar, Turkey",
+      "time": "2026-11-05T00:23:17.796000+00:00",
+      "latitude": 38.0156,
+      "longitude": 30.0682,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw4z"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.0,
+      "place": "GENCALI-DINAR (AFYONKARAHISAR) İlksel",
+      "time": "2026-11-05T03:23:16+00:00",
+      "latitude": 37.998,
+      "longitude": 30.0728,
+      "depth_km": 6.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -125,6 +145,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs8"
     },
     {
+      "source": "USGS",
+      "magnitude": 4.1,
+      "place": "10 km WSW of Dinar, Turkey",
+      "time": "2026-11-05T00:23:17.796000+00:00",
+      "latitude": 38.0156,
+      "longitude": 30.0682,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw4z"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.0,
+      "place": "GENCALI-DINAR (AFYONKARAHISAR) İlksel",
+      "time": "2026-11-05T03:23:16+00:00",
+      "latitude": 37.998,
+      "longitude": 30.0728,
+      "depth_km": 6.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
       "source": "Kandilli",
       "magnitude": 4.0,
       "place": "AKOLUK-FEKE (ADANA) İlksel",
@@ -132,6 +172,16 @@
       "latitude": 37.7258,
       "longitude": 36.1083,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.9,
+      "place": "AKDAM-KOZAN (ADANA) İlksel",
+      "time": "2026-11-05T03:41:51+00:00",
+      "latitude": 37.5367,
+      "longitude": 35.6253,
+      "depth_km": 5.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -227,6 +277,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.4,
+      "place": "KAYNAR-(KAHRAMANMARAS) İlksel",
+      "time": "2026-11-05T09:17:25+00:00",
+      "latitude": 37.771,
+      "longitude": 36.5263,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
       "place": "YUNANISTAN İlksel",
       "time": "2026-10-30T17:30:01+00:00",
       "latitude": 39.6917,
@@ -252,16 +312,6 @@
       "latitude": 39.7475,
       "longitude": 24.2073,
       "depth_km": 23.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-10-29T19:50:21+00:00",
-      "latitude": 36.0128,
-      "longitude": 31.2057,
-      "depth_km": 9.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -307,6 +357,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.2,
+      "place": "AKDAM-KOZAN (ADANA) İlksel",
+      "time": "2026-11-05T04:34:47+00:00",
+      "latitude": 37.5417,
+      "longitude": 35.6135,
+      "depth_km": 7.5,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
       "place": "AKDENIZ İlksel",
       "time": "2026-11-01T09:20:22+00:00",
       "latitude": 35.3098,
@@ -332,16 +392,6 @@
       "latitude": 39.655,
       "longitude": 24.226,
       "depth_km": 8.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI) İlksel",
-      "time": "2026-10-30T09:06:32+00:00",
-      "latitude": 40.6297,
-      "longitude": 28.8177,
-      "depth_km": 15.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -372,6 +422,16 @@
       "latitude": 38.1233,
       "longitude": 38.5618,
       "depth_km": 6.8,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KARACAKAS-SOMA (MANISA) İlksel",
+      "time": "2026-11-05T05:01:57+00:00",
+      "latitude": 39.2163,
+      "longitude": 27.809,
+      "depth_km": 7.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {

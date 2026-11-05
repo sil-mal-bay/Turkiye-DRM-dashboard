@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T12:26:36.743523+00:00",
-  "count": 11,
+  "last_updated": "2026-11-05T12:41:53.445516+00:00",
+  "count": 10,
   "publications": [
     {
       "source": "UNDRR",
@@ -80,14 +80,6 @@
       "description": "This report showcases how cities across Europe and Central Asia are tackling floods and water scarcity through integrated urban resilience. It highlights practical case studies, lessons learned, and recommendations to strengthen water resilience.",
       "date": "2026-07-30T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
-      "type": "report"
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory report on Guidelines for first responders",
-      "description": "",
-      "date": "",
-      "link": "https://www.gfdrr.org",
       "type": "report"
     }
   ]

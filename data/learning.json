@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T12:26:25.358401+00:00",
-  "count": 61,
+  "last_updated": "2026-11-05T12:41:22.057085+00:00",
+  "count": 50,
   "items": [
     {
       "source": "World Bank",
@@ -280,83 +280,6 @@
       "title": "Flood risk in road networks",
       "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "República Dominicana - Gestión Financiera y Aseguramiento del Riesgo de Desastres en la : Avances y Perspectivas",
-      "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099138210302692948",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20Persons%20with%20Disabilities_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Toolkit for first responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Toolkit for persons with disabilities",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20persons%20with%20disabilities_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders: Easy to Read",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20first%20responders%20-%20Easy%20to%20Read%20version.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20people%20with%20disabilities%20%20-%20Easy%20to%20read.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory report on Guidelines for first responders",
-      "link": "https://www.gfdrr.org",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/annex%20b%20-%20Country%20Case%20Studies.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/recommendations%20for%20preparedness.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "[Publication] Disaster Damage and Loss Data Systems",
-      "link": "https://openknowledge.worldbank.org/entities/publication/61fcc90e-6308-4899-acac-eedb5fdd5296",
-      "type": "report",
       "description": ""
     },
     {

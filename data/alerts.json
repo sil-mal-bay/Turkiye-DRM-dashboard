@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-04T12:26:36.744359+00:00",
+  "last_updated": "2026-11-05T12:41:53.445942+00:00",
   "count": 4,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.8 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "magnitude": 4.8,
-      "time": "2026-11-02T19:49:14+00:00",
-      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "latitude": 34.4643,
-      "longitude": 26.5765,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — AKOLUK-FEKE (ADANA) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-11-02T20:58:04+00:00",
-      "location": "AKOLUK-FEKE (ADANA) İlksel",
-      "latitude": 37.7258,
-      "longitude": 36.1083,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -49,6 +25,30 @@
       "longitude": 25.7448,
       "source": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs8"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.1 earthquake — 10 km WSW of Dinar, Turkey",
+      "magnitude": 4.1,
+      "time": "2026-11-05T00:23:17.796000+00:00",
+      "location": "10 km WSW of Dinar, Turkey",
+      "latitude": 38.0156,
+      "longitude": 30.0682,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw4z"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — GENCALI-DINAR (AFYONKARAHISAR) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-11-05T03:23:16+00:00",
+      "location": "GENCALI-DINAR (AFYONKARAHISAR) İlksel",
+      "latitude": 37.998,
+      "longitude": 30.0728,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
 }
