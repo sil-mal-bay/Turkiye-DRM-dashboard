@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-05T12:41:53.445942+00:00",
-  "count": 4,
+  "last_updated": "2026-11-06T12:23:33.893205+00:00",
+  "count": 2,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "magnitude": 4.3,
-      "time": "2026-11-03T14:03:49+00:00",
-      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "latitude": 34.8072,
-      "longitude": 26.4452,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.1 earthquake — 23 km SW of Amorgós, Greece",
-      "magnitude": 4.1,
-      "time": "2026-11-03T14:23:59.725000+00:00",
-      "location": "23 km SW of Amorgós, Greece",
-      "latitude": 36.6547,
-      "longitude": 25.7448,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs8"
-    },
     {
       "type": "earthquake",
       "severity": "medium",

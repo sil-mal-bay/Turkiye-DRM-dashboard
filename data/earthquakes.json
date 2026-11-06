@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T12:40:24.938786+00:00",
-  "count": 36,
+  "last_updated": "2026-11-06T12:22:35.492298+00:00",
+  "count": 24,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.8,
@@ -20,16 +20,6 @@
       "latitude": 34.4643,
       "longitude": 26.5765,
       "depth_km": 16.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.8,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T13:45:02+00:00",
-      "latitude": 39.694,
-      "longitude": 24.1673,
-      "depth_km": 21.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -106,16 +96,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 4.8,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T13:45:02+00:00",
-      "latitude": 39.694,
-      "longitude": 24.1673,
-      "depth_km": 21.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 4.3,
       "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "time": "2026-11-03T14:03:49+00:00",
@@ -177,6 +157,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.9,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-11-06T04:16:31+00:00",
+      "latitude": 39.3297,
+      "longitude": 25.4713,
+      "depth_km": 9.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.9,
       "place": "AKDAM-KOZAN (ADANA) İlksel",
       "time": "2026-11-05T03:41:51+00:00",
       "latitude": 37.5367,
@@ -206,32 +196,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.9,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T15:05:14+00:00",
-      "latitude": 39.7122,
-      "longitude": 24.1743,
-      "depth_km": 21.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.8,
       "place": "YUNANISTAN İlksel",
       "time": "2026-10-31T16:16:00+00:00",
       "latitude": 39.6997,
       "longitude": 24.1328,
       "depth_km": 22.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T14:00:47+00:00",
-      "latitude": 39.692,
-      "longitude": 24.1675,
-      "depth_km": 15.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -256,26 +226,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-31T00:43:10+00:00",
-      "latitude": 39.7588,
-      "longitude": 24.2455,
-      "depth_km": 15.9,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T14:13:16+00:00",
-      "latitude": 39.8162,
-      "longitude": 24.3103,
-      "depth_km": 9.3,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.4,
       "place": "KAYNAR-(KAHRAMANMARAS) İlksel",
       "time": "2026-11-05T09:17:25+00:00",
@@ -286,72 +236,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T17:30:01+00:00",
-      "latitude": 39.6917,
-      "longitude": 24.1678,
-      "depth_km": 22.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T15:56:12+00:00",
-      "latitude": 39.6987,
-      "longitude": 24.141,
-      "depth_km": 21.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.4,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T14:20:22+00:00",
-      "latitude": 39.7475,
-      "longitude": 24.2073,
-      "depth_km": 23.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.3,
       "place": "AKDENIZ İlksel",
       "time": "2026-11-02T15:24:02+00:00",
       "latitude": 36.1192,
       "longitude": 28.5265,
       "depth_km": 25.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "SOGANLI-AHLAT (BITLIS) İlksel",
-      "time": "2026-10-30T22:47:54+00:00",
-      "latitude": 38.706,
-      "longitude": 42.6443,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T15:25:48+00:00",
-      "latitude": 39.6342,
-      "longitude": 24.1237,
-      "depth_km": 19.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-30T14:16:55+00:00",
-      "latitude": 39.7855,
-      "longitude": 24.1993,
-      "depth_km": 18.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -416,16 +306,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "ARIKONAK-SINCIK (ADIYAMAN) İlksel",
-      "time": "2026-10-31T01:06:47+00:00",
-      "latitude": 38.1233,
-      "longitude": 38.5618,
-      "depth_km": 6.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.0,
       "place": "KARACAKAS-SOMA (MANISA) İlksel",
       "time": "2026-11-05T05:01:57+00:00",
@@ -442,16 +322,6 @@
       "latitude": 36.0685,
       "longitude": 24.0578,
       "depth_km": 13.8,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-10-31T01:56:57+00:00",
-      "latitude": 39.8022,
-      "longitude": 24.2845,
-      "depth_km": 11.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
