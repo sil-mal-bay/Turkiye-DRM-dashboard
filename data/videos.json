@@ -1,7 +1,25 @@
 {
-  "last_updated": "2026-11-06T12:22:48.440608+00:00",
-  "count": 40,
+  "last_updated": "2026-11-07T11:16:09.498027+00:00",
+  "count": 42,
   "videos": [
+    {
+      "video_id": "1nIA_Y-XIMU",
+      "title": "Governance for Climate-Smart Development | COP31",
+      "description": "How can stronger institutions and better governance help countries create jobs, build climate resilience, and reduce emissions?\n\nGovernance for Climate-Smart Development, a World Bank Group event at COP31, examines how policy reform and effective implementation can turn climate and development prior",
+      "channel": "World Bank Group",
+      "published": "2026-11-06T20:33:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/1nIA_Y-XIMU/mqdefault.jpg?v=6aee39ab",
+      "url": "https://www.youtube.com/watch?v=1nIA_Y-XIMU"
+    },
+    {
+      "video_id": "HRHFy0L0-YE",
+      "title": "Mobilizing Private Capital for Climate and Development | COP31",
+      "description": "How can countries mobilize private capital for climate and development?\n\nThis World Bank Group event at COP31 explores how governments, development institutions, and investors can turn climate and development priorities into bankable projects—projects that can attract financing.\n\nThe discussion exam",
+      "channel": "World Bank Group",
+      "published": "2026-11-06T20:27:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/HRHFy0L0-YE/mqdefault.jpg?v=6aee3850",
+      "url": "https://www.youtube.com/watch?v=HRHFy0L0-YE"
+    },
     {
       "video_id": "VnevhxhgR88",
       "title": "Climate action in motion: Renewable innovation in Armenia and India",
