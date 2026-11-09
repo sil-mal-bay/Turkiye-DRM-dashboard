@@ -1,16 +1,28 @@
 {
-  "last_updated": "2026-11-08T11:28:47.146287+00:00",
-  "count": 1,
+  "last_updated": "2026-11-09T13:15:46.047308+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.1 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "magnitude": 4.1,
-      "time": "2026-11-06T18:26:53+00:00",
-      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "latitude": 34.3062,
-      "longitude": 26.5848,
+      "title": "M4.7 earthquake — 17 km NW of İmamoğlu, Turkey",
+      "magnitude": 4.7,
+      "time": "2026-11-09T12:28:18.182000+00:00",
+      "location": "17 km NW of İmamoğlu, Turkey",
+      "latitude": 37.39,
+      "longitude": 35.5394,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.6 earthquake — AKDAM-KOZAN (ADANA) REVIZE01 (2026.11.09 15:28:18",
+      "magnitude": 4.6,
+      "time": "2026-11-09T15:28:18+00:00",
+      "location": "AKDAM-KOZAN (ADANA) REVIZE01 (2026.11.09 15:28:18",
+      "latitude": 37.5347,
+      "longitude": 35.6255,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }

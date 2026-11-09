@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T11:27:50.676428+00:00",
-  "count": 22,
+  "last_updated": "2026-11-09T13:14:49.715534+00:00",
+  "count": 25,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.8,
@@ -20,6 +20,26 @@
       "latitude": 34.4643,
       "longitude": 26.5765,
       "depth_km": 16.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.7,
+      "place": "17 km NW of İmamoğlu, Turkey",
+      "time": "2026-11-09T12:28:18.182000+00:00",
+      "latitude": 37.39,
+      "longitude": 35.5394,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.6,
+      "place": "AKDAM-KOZAN (ADANA) REVIZE01 (2026.11.09 15:28:18",
+      "time": "2026-11-09T15:28:18+00:00",
+      "latitude": 37.5347,
+      "longitude": 35.6255,
+      "depth_km": 6.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -92,6 +112,26 @@
       "latitude": 34.4643,
       "longitude": 26.5765,
       "depth_km": 16.1,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "USGS",
+      "magnitude": 4.7,
+      "place": "17 km NW of İmamoğlu, Turkey",
+      "time": "2026-11-09T12:28:18.182000+00:00",
+      "latitude": 37.39,
+      "longitude": 35.5394,
+      "depth_km": 10,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.6,
+      "place": "AKDAM-KOZAN (ADANA) REVIZE01 (2026.11.09 15:28:18",
+      "time": "2026-11-09T15:28:18+00:00",
+      "latitude": 37.5347,
+      "longitude": 35.6255,
+      "depth_km": 6.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -197,6 +237,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.4,
+      "place": "YUNUSLAR-DURSUNBEY (BALIKESIR) İlksel",
+      "time": "2026-11-08T22:23:02+00:00",
+      "latitude": 39.5267,
+      "longitude": 28.9177,
+      "depth_km": 5.4,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.4,
       "place": "YESILYAYLA-GUMUSOVA (DUZCE) İlksel",
       "time": "2026-11-06T15:41:11+00:00",
       "latitude": 40.8045,
@@ -212,6 +262,16 @@
       "latitude": 37.771,
       "longitude": 36.5263,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-11-09T05:15:57+00:00",
+      "latitude": 38.7968,
+      "longitude": 25.6728,
+      "depth_km": 6.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -266,12 +326,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "AKDENIZ İlksel",
-      "time": "2026-11-01T09:20:22+00:00",
-      "latitude": 35.3098,
-      "longitude": 34.5512,
-      "depth_km": 15.2,
+      "magnitude": 3.1,
+      "place": "ULUPINAR-YAHYALI (KAYSERI) İlksel",
+      "time": "2026-11-08T19:49:19+00:00",
+      "latitude": 37.8647,
+      "longitude": 35.253,
+      "depth_km": 5.0,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -292,16 +352,6 @@
       "latitude": 39.2163,
       "longitude": 27.809,
       "depth_km": 7.2,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "GIRIT ADASI (AKDENIZ) İlksel",
-      "time": "2026-11-01T13:41:45+00:00",
-      "latitude": 36.0685,
-      "longitude": 24.0578,
-      "depth_km": 13.8,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
