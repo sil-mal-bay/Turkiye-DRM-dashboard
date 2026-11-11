@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-10T12:54:56.078141+00:00",
+  "last_updated": "2026-11-11T12:04:28.826984+00:00",
   "count": 10,
   "publications": [
+    {
+      "source": "UNDRR",
+      "title": "Global Status of Multi-Hazard Early Warning Systems 2026",
+      "description": "This edition of the multi-hazard early warning systems (MHEWS) report provides a snapshot of the progress made in the global roll-out of MHEWS and the gaps that remain.",
+      "date": "2026-11-06T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/global-status-multi-hazard-early-warning-systems-2026",
+      "type": "report"
+    },
     {
       "source": "UNDRR",
       "title": "Concept note: World Tsunami Awareness Day 2026",
@@ -72,14 +80,6 @@
       "description": "Join the COPE Squad as they travel to Kampung Orang Asli in Perak, Malaysia, to learn with children from an Indigenous community affected by devastating floods in 2023",
       "date": "2026-08-19T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/educational-materials/early-warnings-all-booklet",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Waves of Change: Urban resilience pathways to flood and water scarcity risk",
-      "description": "This report showcases how cities across Europe and Central Asia are tackling floods and water scarcity through integrated urban resilience. It highlights practical case studies, lessons learned, and recommendations to strengthen water resilience.",
-      "date": "2026-07-30T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/waves-change-urban-resilience-pathways-flood-and-water",
       "type": "report"
     }
   ]
