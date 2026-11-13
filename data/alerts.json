@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-11-12T13:08:17.555104+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-11-13T12:32:52.854302+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.7 earthquake — GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "magnitude": 4.7,
+      "time": "2026-11-13T03:05:04+00:00",
+      "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "latitude": 34.7667,
+      "longitude": 24.9488,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }

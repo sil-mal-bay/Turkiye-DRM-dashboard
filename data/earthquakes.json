@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T13:07:23.873953+00:00",
-  "count": 22,
+  "last_updated": "2026-11-13T12:31:39.936113+00:00",
+  "count": 26,
   "largest": {
     "source": "USGS",
     "magnitude": 4.7,
@@ -21,6 +21,16 @@
       "longitude": 35.5394,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.7,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-11-13T03:05:04+00:00",
+      "latitude": 34.7667,
+      "longitude": 24.9488,
+      "depth_km": 27.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -53,6 +63,16 @@
       "longitude": 35.5394,
       "depth_km": 10,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 4.7,
+      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
+      "time": "2026-11-13T03:05:04+00:00",
+      "latitude": 34.7667,
+      "longitude": 24.9488,
+      "depth_km": 27.2,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
@@ -187,6 +207,26 @@
     {
       "source": "Kandilli",
       "magnitude": 3.2,
+      "place": "GIRIT ADASI (AKDENIZ) İlksel",
+      "time": "2026-11-13T13:03:44+00:00",
+      "latitude": 35.7593,
+      "longitude": 23.762,
+      "depth_km": 7.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-11-13T08:05:55+00:00",
+      "latitude": 35.656,
+      "longitude": 27.1167,
+      "depth_km": 7.3,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.2,
       "place": "AYDINCIK ACIKLARI-MERSIN (AKDENIZ) İlksel",
       "time": "2026-11-12T11:39:43+00:00",
       "latitude": 36.0395,
@@ -212,6 +252,16 @@
       "latitude": 37.8647,
       "longitude": 35.253,
       "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "AKDENIZ İlksel",
+      "time": "2026-11-13T02:01:49+00:00",
+      "latitude": 36.0622,
+      "longitude": 28.689,
+      "depth_km": 22.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
