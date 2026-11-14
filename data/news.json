@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-13T12:31:51.593802+00:00",
-  "count": 17,
+  "last_updated": "2026-11-14T11:41:21.892080+00:00",
+  "count": 18,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Timor-Leste charts a path towards its first national disaster risk reduction strategy",
+      "original_title": null,
+      "description": "Convened by the Civil Protection Authority (CPA) with support from UNDRR and funding from the Government of Portugal, a multi-stakeholder consultation marked a milestone toward developing Timor-Leste's first national disaster risk reduction strategy.",
+      "published": "2026-11-13T11:02:26+00:00",
+      "link": "https://www.undrr.org/news/timor-leste-charts-path-towards-its-first-national-disaster-risk-reduction-strategy",
+      "score": 80.25,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 75
+    },
     {
       "source": "undrr",
       "title": "Algeria advances multi-hazard early warning systems through national workshop",
@@ -9,11 +22,11 @@
       "description": "A national workshop held in Algiers on 8–9 November 2026 assessed early warning capacities, identified key gaps, and advanced preparations for Algeria’s Early Warnings for All National Roadmap (2027–2030).",
       "published": "2026-11-12T12:35:37+00:00",
       "link": "https://www.undrr.org/news/algeria-advances-multi-hazard-early-warning-systems-through-national-workshop",
-      "score": 90.0,
+      "score": 80.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 90
+      "recency_score": 75
     },
     {
       "source": "undrr",
@@ -22,11 +35,11 @@
       "description": "This article explores how six countries are strengthening early warning systems, turning risk information into action that helps protect communities from disasters.",
       "published": "2026-11-11T16:03:01+00:00",
       "link": "https://www.undrr.org/news/early-warning-early-action-how-six-countries-are-saving-lives",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -35,11 +48,11 @@
       "description": "World Tsunami Awareness Day 2026 was commemorated at UNHQ in New York, on November 5th, 2026, bringing together governments, UN agencies and partners, under the theme 'Resilience Starts With You'.",
       "published": "2026-11-11T15:34:26+00:00",
       "link": "https://www.undrr.org/news/resilience-starts-you-world-tsunami-awareness-day-marked-un-headquarters",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -48,11 +61,11 @@
       "description": "This edition of the multi-hazard early warning systems (MHEWS) report provides a snapshot of the progress made in the global roll-out of MHEWS&nbsp;and the gaps that remain.",
       "published": "2026-11-11T15:08:16+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/global-status-multi-hazard-early-warning-systems-2026",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -61,11 +74,11 @@
       "description": "This event is open to school-aged youth worldwide and encourages participants to use AGI/AIGC tools to create innovative works on tsunami prevention and mitigation.",
       "published": "2026-11-11T14:50:07+00:00",
       "link": "https://www.undrr.org/news/first-international-youth-agi-artwork-competition-tsunami-responding-disasters-officially",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -74,11 +87,11 @@
       "description": "The Scottish Government will provide £2 million to help countries in the Global South lead their own response to loss and damage, including £500,000 for a new partnership with the UN Office for Disaster Risk Reduction.",
       "published": "2026-11-11T13:27:12+00:00",
       "link": "https://www.preventionweb.net/news/ps2-million-back-global-south-leadership-loss-and-damage",
-      "score": 80.25,
+      "score": 67.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 75
+      "recency_score": 55
     },
     {
       "source": "undrr",
@@ -100,11 +113,11 @@
       "description": "The Government of Japan, in partnership with the United Nations Office for Disaster Risk Reduction (UNDRR), will host the 2027 Asia-Pacific Ministerial Conference on Disaster Risk Reduction from 25 to 29 October 2027 in Sendai City, Japan.",
       "published": "2026-11-11T10:36:14+00:00",
       "link": "https://www.undrr.org/event/asia-pacific-ministerial-conference-disaster-risk-reduction-0",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -113,11 +126,11 @@
       "description": "The Instituto Bem Ambiental is a Brazilian non-governmental, non-profit organization founded in 2015 with a bold mission: to catalyze transformative environmental action that enhances climate resilience, restores ecosystems, and empowers communities.",
       "published": "2026-11-11T09:35:20+00:00",
       "link": "https://www.undrr.org/organization/instituto-bem-ambiental-ibam",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -126,11 +139,11 @@
       "description": "Now in its fifth year, this edition of the Global Status Report (GSR) of multi-hazard early warning systems (MHEWS) provides a snapshot of the progress made in the global roll-out of MHEWS&nbsp;and the gaps that remain.",
       "published": "2026-11-11T00:15:05+00:00",
       "link": "https://www.undrr.org/reports/global-status-mhews-2026",
-      "score": 67.25,
+      "score": 54.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 55
+      "recency_score": 35
     },
     {
       "source": "undrr",
@@ -139,11 +152,11 @@
       "description": "On World Tsunami Awareness Day, more than 328,000 people from over 1,000 kindergartens, schools and higher education institutions in Chile’s Valparaíso region practised an earthquake and tsunami evacuation, joined by UNDRR head Kamal Kishore.",
       "published": "2026-11-09T17:41:28+00:00",
       "link": "https://www.undrr.org/news/chile-puts-tsunami-preparedness-practice-328000-join-region-wide-evacuation-drill",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",

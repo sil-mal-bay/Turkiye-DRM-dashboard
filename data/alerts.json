@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T12:32:52.854302+00:00",
-  "count": 1,
+  "last_updated": "2026-11-14T11:42:07.582957+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
@@ -11,6 +11,18 @@
       "location": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
       "latitude": 34.7667,
       "longitude": 24.9488,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.0 earthquake — KUMYAKA-MUDANYA (BURSA) İlksel",
+      "magnitude": 4.0,
+      "time": "2026-11-14T03:43:58+00:00",
+      "location": "KUMYAKA-MUDANYA (BURSA) İlksel",
+      "latitude": 40.4105,
+      "longitude": 28.8412,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
