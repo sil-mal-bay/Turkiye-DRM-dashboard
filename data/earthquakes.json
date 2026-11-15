@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T11:41:13.223420+00:00",
-  "count": 27,
+  "last_updated": "2026-11-15T12:10:19.176889+00:00",
+  "count": 28,
   "largest": {
     "source": "USGS",
     "magnitude": 4.7,
@@ -96,6 +96,16 @@
     },
     {
       "source": "Kandilli",
+      "magnitude": 3.8,
+      "place": "GOKOVA KORFEZI (EGE DENIZI) İlksel",
+      "time": "2026-11-15T05:46:04+00:00",
+      "latitude": 36.948,
+      "longitude": 27.7923,
+      "depth_km": 10.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
       "magnitude": 3.7,
       "place": "YETIMLI-ALADAG (ADANA) İlksel",
       "time": "2026-11-10T21:12:52+00:00",
@@ -147,6 +157,16 @@
     {
       "source": "Kandilli",
       "magnitude": 3.3,
+      "place": "KOSELER-OVACIK (TUNCELI) İlksel",
+      "time": "2026-11-15T01:22:41+00:00",
+      "latitude": 39.4082,
+      "longitude": 39.1153,
+      "depth_km": 5.0,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.3,
       "place": "EGE DENIZI İlksel",
       "time": "2026-11-09T05:15:57+00:00",
       "latitude": 38.7968,
@@ -166,22 +186,12 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "GUZELSU-OLTU (ERZURUM) İlksel",
-      "time": "2026-11-07T13:42:52+00:00",
-      "latitude": 40.616,
-      "longitude": 42.035,
-      "depth_km": 3.1,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-11-07T01:24:16+00:00",
-      "latitude": 34.7497,
-      "longitude": 24.8657,
-      "depth_km": 22.6,
+      "magnitude": 3.2,
+      "place": "YUNANISTAN İlksel",
+      "time": "2026-11-14T18:20:46+00:00",
+      "latitude": 41.6518,
+      "longitude": 24.7513,
+      "depth_km": 2.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
