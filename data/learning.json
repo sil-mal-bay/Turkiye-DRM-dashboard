@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T12:10:52.551804+00:00",
+  "last_updated": "2026-11-16T13:04:16.384125+00:00",
   "count": 62,
   "items": [
     {
@@ -368,8 +368,22 @@
     },
     {
       "source": "UNDRR",
-      "title": "Strengthening global supply chains against El Niño and extreme weather events",
-      "link": "https://www.undrr.org/publication/documents-and-publications/strengthening-global-supply-chains-against-el-nino-and",
+      "title": "Finance and capacity-building pathways for addressing non-economic losses (NELs)",
+      "link": "https://www.undrr.org/publication/documents-and-publications/finance-and-capacity-building-pathways-addressing-non",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Policy and governance pathways for addressing non-economic losses (NELs)",
+      "link": "https://www.undrr.org/publication/documents-and-publications/policy-and-governance-pathways-addressing-non-economic",
+      "type": "learning",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "Evidence base on non-economic losses (NELs)",
+      "link": "https://www.undrr.org/publication/documents-and-publications/evidence-base-non-economic-losses-nels",
       "type": "learning",
       "description": ""
     },
@@ -419,20 +433,6 @@
       "source": "UNDRR",
       "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
       "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "El Niño climate impact outlook - Mozambique",
-      "link": "https://www.undrr.org/publication/documents-and-publications/el-nino-climate-impact-outlook-mozambique",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "El Niño climate impact outlook - Philippines",
-      "link": "https://www.undrr.org/publication/documents-and-publications/el-nino-climate-impact-outlook-philippines",
       "type": "learning",
       "description": ""
     }

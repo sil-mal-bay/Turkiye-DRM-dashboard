@@ -1,18 +1,5 @@
 {
-  "last_updated": "2026-11-15T12:11:13.992450+00:00",
-  "count": 1,
-  "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.0 earthquake — KUMYAKA-MUDANYA (BURSA) İlksel",
-      "magnitude": 4.0,
-      "time": "2026-11-14T03:43:58+00:00",
-      "location": "KUMYAKA-MUDANYA (BURSA) İlksel",
-      "latitude": 40.4105,
-      "longitude": 28.8412,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    }
-  ]
+  "last_updated": "2026-11-16T13:04:38.472422+00:00",
+  "count": 0,
+  "alerts": []
 }
