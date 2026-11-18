@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T13:45:50.055762+00:00",
+  "last_updated": "2026-11-18T13:21:00.243316+00:00",
   "count": 62,
   "items": [
     {
@@ -109,15 +109,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
-      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
+      "title": "Vietnam - Natural Disaster Risk Management Project",
+      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Vietnam - Natural Disaster Risk Management Project",
-      "link": "http://documents.worldbank.org/curated/en/339511468317342538",
+      "title": "Jamaica - Disaster Vulnerability Reduction Project : Resettlement Plan (Vol. 1 of 3) : Abbreviated Resettlement Action Plan for Church Pen One",
+      "link": "http://documents.worldbank.org/curated/en/195901572848571054",
       "type": "report",
       "description": ""
     },
@@ -235,15 +235,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
-      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Guyana - Flood Risk Management Project : Additional Financing",
-      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
       "type": "report",
       "description": ""
     },
@@ -291,20 +291,6 @@
     },
     {
       "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20people%20with%20disabilities%20%20-%20Easy%20to%20read.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
       "title": "Toolkit for first responders",
       "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders_0.pdf",
       "type": "report",
@@ -328,6 +314,20 @@
       "source": "GFDRR",
       "title": "Toolkit for persons with disabilities",
       "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20persons%20with%20disabilities_0.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20people%20with%20disabilities%20%20-%20Easy%20to%20read.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Advisory Report: Guidelines for First Responders",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
       "type": "report",
       "description": ""
     },
@@ -364,6 +364,13 @@
       "title": "GFDRR Results in Resilience : Building Lasting Financial Protection: The Enduring Legacy of the Global Partnership on Disaster Risk Financing Analytics",
       "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099025210072639867",
       "type": "report",
+      "description": ""
+    },
+    {
+      "source": "UNDRR",
+      "title": "UN Plan of Action on Disaster Risk Reduction for Resilience 2025 Progress Report",
+      "link": "https://www.undrr.org/publication/documents-and-publications/un-plan-action-disaster-risk-reduction-resilience-2025",
+      "type": "learning",
       "description": ""
     },
     {
@@ -426,13 +433,6 @@
       "source": "UNDRR",
       "title": "Cities at the frontline: Highlights from the Resilience Initiative Africa Project",
       "link": "https://www.undrr.org/publication/documents-and-publications/cities-frontline-highlights-resilience-initiative-africa",
-      "type": "learning",
-      "description": ""
-    },
-    {
-      "source": "UNDRR",
-      "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
-      "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
       "type": "learning",
       "description": ""
     }

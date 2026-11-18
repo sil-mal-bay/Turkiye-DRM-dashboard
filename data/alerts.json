@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-11-17T13:46:12.300190+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-11-18T13:21:22.093203+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.4 earthquake — VAN GOLU İlksel",
+      "magnitude": 4.4,
+      "time": "2026-11-17T18:57:45+00:00",
+      "location": "VAN GOLU İlksel",
+      "latitude": 38.4753,
+      "longitude": 42.9925,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
