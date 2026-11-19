@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T13:20:24.854655+00:00",
-  "count": 22,
+  "last_updated": "2026-11-19T13:46:07.760694+00:00",
+  "count": 23,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.7,
@@ -106,12 +106,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.6,
-      "place": "BALIBAGI-(CANKIRI) İlksel",
-      "time": "2026-11-11T18:10:24+00:00",
-      "latitude": 40.564,
-      "longitude": 33.7928,
-      "depth_km": 5.3,
+      "magnitude": 3.5,
+      "place": "KARATERZI-DOGANSEHIR (MALATYA) İlksel",
+      "time": "2026-11-19T11:45:53+00:00",
+      "latitude": 38.1813,
+      "longitude": 37.9168,
+      "depth_km": 7.6,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-11-19T05:52:34+00:00",
+      "latitude": 35.8175,
+      "longitude": 27.3578,
+      "depth_km": 10.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -216,12 +226,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.1,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-11-11T10:16:48+00:00",
-      "latitude": 34.2123,
-      "longitude": 25.8522,
-      "depth_km": 96.4,
+      "magnitude": 3.0,
+      "place": "EGE DENIZI İlksel",
+      "time": "2026-11-19T09:42:55+00:00",
+      "latitude": 39.5997,
+      "longitude": 24.305,
+      "depth_km": 13.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.0,
+      "place": "KAYNAR-(KAHRAMANMARAS) İlksel",
+      "time": "2026-11-18T23:49:20+00:00",
+      "latitude": 37.7755,
+      "longitude": 36.5258,
+      "depth_km": 7.5,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -252,16 +272,6 @@
       "latitude": 36.0622,
       "longitude": 28.689,
       "depth_km": 22.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.0,
-      "place": "NIKSAR (TOKAT) İlksel",
-      "time": "2026-11-12T02:31:55+00:00",
-      "latitude": 40.604,
-      "longitude": 36.9455,
-      "depth_km": 2.1,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
