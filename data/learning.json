@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T13:46:41.334458+00:00",
+  "last_updated": "2026-11-20T13:29:51.040038+00:00",
   "count": 62,
   "items": [
     {
@@ -291,13 +291,6 @@
     },
     {
       "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
       "title": "Toolkit for first responders",
       "link": "https://www.gfdrr.org/sites/default/files/publication/Toolkit%20first%20responders_0.pdf",
       "type": "report",
@@ -333,8 +326,8 @@
     },
     {
       "source": "GFDRR",
-      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union",
-      "link": "https://www.gfdrr.org/sites/default/files/publication/recommendations%20for%20preparedness.pdf",
+      "title": "Advisory Report: Guidelines for First Responders",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/Guidelines%20for%20First%20Responders_0.pdf",
       "type": "report",
       "description": ""
     },
@@ -342,6 +335,13 @@
       "source": "GFDRR",
       "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
       "link": "https://www.gfdrr.org/sites/default/files/publication/annex%20b%20-%20Country%20Case%20Studies.pdf",
+      "type": "report",
+      "description": ""
+    },
+    {
+      "source": "GFDRR",
+      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union",
+      "link": "https://www.gfdrr.org/sites/default/files/publication/recommendations%20for%20preparedness.pdf",
       "type": "report",
       "description": ""
     },
