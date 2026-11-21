@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T13:29:18.588324+00:00",
-  "count": 19,
+  "last_updated": "2026-11-21T12:55:45.961272+00:00",
+  "count": 16,
   "largest": {
     "source": "Kandilli",
     "magnitude": 4.4,
@@ -21,16 +21,6 @@
       "longitude": 42.9925,
       "depth_km": 2.6,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "KUMYAKA-MUDANYA (BURSA) İlksel",
-      "time": "2026-11-14T03:43:58+00:00",
-      "latitude": 40.4105,
-      "longitude": 28.8412,
-      "depth_km": 19.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ],
   "events": [
@@ -42,26 +32,6 @@
       "latitude": 38.4753,
       "longitude": 42.9925,
       "depth_km": 2.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 4.0,
-      "place": "KUMYAKA-MUDANYA (BURSA) İlksel",
-      "time": "2026-11-14T03:43:58+00:00",
-      "latitude": 40.4105,
-      "longitude": 28.8412,
-      "depth_km": 19.6,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.8,
-      "place": "GOKOVA KORFEZI (EGE DENIZI) İlksel",
-      "time": "2026-11-15T05:46:04+00:00",
-      "latitude": 36.948,
-      "longitude": 27.7923,
-      "depth_km": 10.9,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -82,6 +52,16 @@
       "latitude": 40.015,
       "longitude": 41.4245,
       "depth_km": 2.9,
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "source": "Kandilli",
+      "magnitude": 3.5,
+      "place": "MORDOGAN-KARABURUN (IZMIR) İlksel",
+      "time": "2026-11-21T05:17:49+00:00",
+      "latitude": 38.5055,
+      "longitude": 26.694,
+      "depth_km": 7.4,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
@@ -136,16 +116,6 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.3,
-      "place": "KOSELER-OVACIK (TUNCELI) İlksel",
-      "time": "2026-11-15T01:22:41+00:00",
-      "latitude": 39.4082,
-      "longitude": 39.1153,
-      "depth_km": 5.0,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
       "magnitude": 3.2,
       "place": "MANDIRA-SINDIRGI (BALIKESIR) İlksel",
       "time": "2026-11-17T20:46:39+00:00",
@@ -156,32 +126,22 @@
     },
     {
       "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "YUNANISTAN İlksel",
-      "time": "2026-11-14T18:20:46+00:00",
-      "latitude": 41.6518,
-      "longitude": 24.7513,
-      "depth_km": 2.5,
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
-    {
-      "source": "Kandilli",
-      "magnitude": 3.2,
-      "place": "GIRIT ADASI ACIKLARI (AKDENIZ) İlksel",
-      "time": "2026-11-14T07:18:24+00:00",
-      "latitude": 34.6183,
-      "longitude": 26.5237,
-      "depth_km": 85.3,
+      "magnitude": 3.1,
+      "place": "AKOLUK-FEKE (ADANA) İlksel",
+      "time": "2026-11-20T19:47:26+00:00",
+      "latitude": 37.7688,
+      "longitude": 36.062,
+      "depth_km": 2.2,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
       "source": "Kandilli",
       "magnitude": 3.1,
-      "place": "GURCISTAN ACIKLARI (KARADENIZ) İlksel",
-      "time": "2026-11-14T05:18:11+00:00",
-      "latitude": 43.3363,
-      "longitude": 39.4302,
-      "depth_km": 20.2,
+      "place": "KARAKOCA-SIMAV (KUTAHYA) İlksel",
+      "time": "2026-11-20T19:19:57+00:00",
+      "latitude": 39.2653,
+      "longitude": 28.9335,
+      "depth_km": 4.3,
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     },
     {
