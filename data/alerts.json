@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-11-21T12:56:42.416997+00:00",
-  "count": 0,
-  "alerts": []
+  "last_updated": "2026-11-22T12:48:49.436324+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.3 earthquake — TURKIYE-IRAN SINIR BOLGESI İlksel",
+      "magnitude": 4.3,
+      "time": "2026-11-22T00:25:53+00:00",
+      "location": "TURKIYE-IRAN SINIR BOLGESI İlksel",
+      "latitude": 38.7555,
+      "longitude": 44.6753,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    }
+  ]
 }
