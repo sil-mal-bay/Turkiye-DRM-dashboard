@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-22T12:48:49.435521+00:00",
+  "last_updated": "2026-11-23T15:13:19.611892+00:00",
   "count": 10,
   "publications": [
-    {
-      "source": "UNDRR",
-      "title": "UN Plan of Action on Disaster Risk Reduction for Resilience 2025 Progress Report",
-      "description": "This report reviews 2025 progress under the United Nations Plan of Action on Disaster Risk Reduction for Resilience, highlighting that 9 of 11 targets were met or exceeded and that pooled planning, funding and expertise help sustain and scale prevention",
-      "date": "2026-11-18T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/un-plan-action-disaster-risk-reduction-resilience-2025",
-      "type": "report"
-    },
     {
       "source": "UNDRR",
       "title": "Finance and capacity-building pathways for addressing non-economic losses (NELs)",
@@ -80,6 +72,14 @@
       "description": "This publication details notable highlights from the Resilience Initiative Africa Project, which was implemented by UNDRR's Regional Office for Africa between August 2023–March 2026.",
       "date": "2026-09-18T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/cities-frontline-highlights-resilience-initiative-africa",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
+      "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
+      "description": "This guidance note outlines practical approaches to strengthening information integrity within risk communication–before, during, and after disasters. Preparing for and managing information risks is an integral part of disaster risk reduction efforts.",
+      "date": "2026-09-09T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
       "type": "report"
     }
   ]

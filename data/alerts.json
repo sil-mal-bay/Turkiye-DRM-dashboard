@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-22T12:48:49.436324+00:00",
-  "count": 1,
+  "last_updated": "2026-11-23T15:13:19.612769+00:00",
+  "count": 3,
   "alerts": [
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.5 earthquake — 26 km WSW of Qarah Ẕīā’ od Dīn, Iran",
+      "magnitude": 4.5,
+      "time": "2026-11-21T21:25:54.969000+00:00",
+      "location": "26 km WSW of Qarah Ẕīā’ od Dīn, Iran",
+      "latitude": 38.7749,
+      "longitude": 44.7563,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucp5"
+    },
     {
       "type": "earthquake",
       "severity": "medium",
@@ -13,6 +25,18 @@
       "longitude": 44.6753,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.2 earthquake — 33 km WSW of Pánormos, Greece",
+      "magnitude": 4.2,
+      "time": "2026-11-22T23:42:49.074000+00:00",
+      "location": "33 km WSW of Pánormos, Greece",
+      "latitude": 36.86,
+      "longitude": 26.5913,
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv1"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-22T12:48:03.913758+00:00",
+  "last_updated": "2026-11-23T15:12:30.648036+00:00",
   "count": 16,
   "articles": [
+    {
+      "source": "undrr",
+      "title": "Strengthening disaster preparedness and inclusive crisis response across North Africa through regional cooperation and risk knowledge",
+      "original_title": null,
+      "description": "UNDRR contributed expertise on disaster data and tsunami preparedness at a regional workshop in Cairo, bringing together five North African countries to strengthen inclusive crisis response and regional coordination.",
+      "published": "2026-11-23T08:24:35+00:00",
+      "link": "https://www.undrr.org/news/strengthening-disaster-preparedness-and-inclusive-crisis-response-across-north-africa-through",
+      "score": 96.5,
+      "world_bank_related": false,
+      "turkey_related": false,
+      "credibility_score": 90,
+      "recency_score": 100
+    },
     {
       "source": "undrr",
       "title": "Somalia Disaster Management Agency (SoDMA)",
@@ -9,11 +22,11 @@
       "description": "The Somali Disaster Management Agency (SoDMA) is the national disaster response and emergency management agency of the Federal Government of Somalia.",
       "published": "2026-11-18T15:19:04+00:00",
       "link": "https://www.undrr.org/organization/somalia-disaster-management-agency-sodma",
-      "score": 54.25,
+      "score": 41.25,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 15
     },
     {
       "source": "undrr",
@@ -22,11 +35,11 @@
       "description": "A national workshop in Baghdad on 16–17 November 2026 brought together Iraqi institutions, partners, and women-led SMEs to strengthen disaster preparedness, business continuity, and an SME resilience roadmap.",
       "published": "2026-11-18T13:15:14+00:00",
       "link": "https://www.undrr.org/news/risk-awareness-action-iraq-advances-sme-resilience-through-interactive-national-workshop",
-      "score": 54.25,
+      "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
       "credibility_score": 90,
-      "recency_score": 35
+      "recency_score": 0
     },
     {
       "source": "undrr",
@@ -191,19 +204,6 @@
       "description": "Now in its fifth year, this edition of the Global Status Report (GSR) of multi-hazard early warning systems (MHEWS) provides a snapshot of the progress made in the global roll-out of MHEWS&nbsp;and the gaps that remain.",
       "published": "2026-11-11T00:15:05+00:00",
       "link": "https://www.undrr.org/reports/global-status-mhews-2026",
-      "score": 31.5,
-      "world_bank_related": false,
-      "turkey_related": false,
-      "credibility_score": 90,
-      "recency_score": 0
-    },
-    {
-      "source": "undrr",
-      "title": "Chile puts tsunami preparedness into practice as 328,000+ join a region-wide evacuation drill",
-      "original_title": null,
-      "description": "On World Tsunami Awareness Day, more than 328,000 people from over 1,000 kindergartens, schools and higher education institutions in Chile’s Valparaíso region practised an earthquake and tsunami evacuation, joined by UNDRR head Kamal Kishore.",
-      "published": "2026-11-09T17:41:28+00:00",
-      "link": "https://www.undrr.org/news/chile-puts-tsunami-preparedness-practice-328000-join-region-wide-evacuation-drill",
       "score": 31.5,
       "world_bank_related": false,
       "turkey_related": false,
