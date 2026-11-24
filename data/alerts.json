@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-11-23T15:13:19.612769+00:00",
-  "count": 3,
+  "last_updated": "2026-11-24T15:11:00.367469+00:00",
+  "count": 1,
   "alerts": [
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.5 earthquake — 26 km WSW of Qarah Ẕīā’ od Dīn, Iran",
-      "magnitude": 4.5,
-      "time": "2026-11-21T21:25:54.969000+00:00",
-      "location": "26 km WSW of Qarah Ẕīā’ od Dīn, Iran",
-      "latitude": 38.7749,
-      "longitude": 44.7563,
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucp5"
-    },
-    {
-      "type": "earthquake",
-      "severity": "medium",
-      "title": "M4.3 earthquake — TURKIYE-IRAN SINIR BOLGESI İlksel",
-      "magnitude": 4.3,
-      "time": "2026-11-22T00:25:53+00:00",
-      "location": "TURKIYE-IRAN SINIR BOLGESI İlksel",
-      "latitude": 38.7555,
-      "longitude": 44.6753,
-      "source": "Kandilli",
-      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
-    },
     {
       "type": "earthquake",
       "severity": "medium",

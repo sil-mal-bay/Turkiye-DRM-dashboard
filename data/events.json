@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T15:12:54.693361+00:00",
-  "count": 3,
+  "last_updated": "2026-11-24T15:10:35.215635+00:00",
+  "count": 15,
   "events": [
     {
       "source": "UNDRR",
@@ -23,6 +23,102 @@
       "title": "Reducing Drought Risk through Prevention, Early Warning and Anticipatory Action",
       "date": "2026-12-09T00:00:00+00:00",
       "link": "https://www.undrr.org/event/reducing-drought-risk-through-prevention-early-warning-and-anticipatory-action",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "UNDRR",
+      "title": "National Stakeholder Validation Workshop on Coherence and Joint Implementation for disaster risk reduction, climate action, biodiversity and resilience in Nigeria",
+      "date": "2026-12-15T00:00:00+00:00",
+      "link": "https://www.undrr.org/event/national-stakeholder-validation-workshop-coherence-and-joint-implementation-disaster-risk",
+      "location": null,
+      "type": "workshop"
+    },
+    {
+      "source": "GFDRR",
+      "title": "May 10toMay 14, 2027",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/understandingrisk",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Workshop on Emergency Preparedness & Response (EP&R) in Marshall Islands",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/workshop-emergency-preparedness-response-epr-marshall-islands",
+      "location": null,
+      "type": "workshop"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Aug 11toAug 13, 2026",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/technical-workshop-climate-resilient-spatial-planning-indonesia",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Jun 17toJun 19, 2026",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/technical-workshop-risk-informed-urban-planning-liberia",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "May 21toMay 22, 2026",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/urban-and-climate-risk-data-lab",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Apr 20toApr 24, 2026",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/emergency-preparedness-and-response-learning-academy",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Mar 24toMar 27, 2026",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/rubble-recovery-one-brick-time-brick-2026-event",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Feb 2toFeb 6, 2026",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/technical-deep-dive-tdd-urban-flood-management",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Arming policy makers and practitioners with the tools needed to achieve green and resilient buildings",
+      "date": null,
+      "link": "https://www.youtube.com/watch?v=MGyyvsVOaGY",
+      "location": null,
+      "type": "event"
+    },
+    {
+      "source": "GFDRR",
+      "title": "Webinar: Building Climate Resilience in Ports through Nature-Based Solutions",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/event/webinar-building-climate-resilience-ports-through-nature-based-solutions",
+      "location": null,
+      "type": "webinar"
+    },
+    {
+      "source": "GFDRR",
+      "title": "GFDRR Fall 2025 Partnership Council (PC) Meeting",
+      "date": null,
+      "link": "https://www.gfdrr.org/en/fall2025pc",
       "location": null,
       "type": "event"
     }

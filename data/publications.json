@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T15:13:19.611892+00:00",
+  "last_updated": "2026-11-24T15:11:00.366529+00:00",
   "count": 10,
   "publications": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "source": "UNDRR",
+      "title": "UNDRR ONEA & GETI Newsletter 51: Jul-Sep 2026",
+      "description": "In the third quarter of 2026, UNDRR ONEA & GETI achieved key global and regional milestones in disaster risk reduction and climate resilience, headlined by the 5th International Disaster Resilience Leaders Forum (IDRLF 2026) in Incheon.",
+      "date": "2026-09-30T00:00:00+00:00",
+      "link": "https://www.undrr.org/publication/documents-and-publications/undrr-onea-geti-newsletter-51-jul-sep-2026",
+      "type": "report"
+    },
+    {
+      "source": "UNDRR",
       "title": "Implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030: Report of the Secretary-General (2026)",
       "description": "A/81/307",
       "date": "2026-09-18T00:00:00+00:00",
@@ -72,14 +80,6 @@
       "description": "This publication details notable highlights from the Resilience Initiative Africa Project, which was implemented by UNDRR's Regional Office for Africa between August 2023–March 2026.",
       "date": "2026-09-18T00:00:00+00:00",
       "link": "https://www.undrr.org/publication/documents-and-publications/cities-frontline-highlights-resilience-initiative-africa",
-      "type": "report"
-    },
-    {
-      "source": "UNDRR",
-      "title": "Harmful information in disasters: Risk communication for safer decisions (Guidance note)",
-      "description": "This guidance note outlines practical approaches to strengthening information integrity within risk communication–before, during, and after disasters. Preparing for and managing information risks is an integral part of disaster risk reduction efforts.",
-      "date": "2026-09-09T00:00:00+00:00",
-      "link": "https://www.undrr.org/publication/documents-and-publications/harmful-information-disasters-risk-communication-safer",
       "type": "report"
     }
   ]
