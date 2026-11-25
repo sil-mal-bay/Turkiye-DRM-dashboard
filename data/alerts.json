@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-11-24T15:11:00.367469+00:00",
-  "count": 1,
+  "last_updated": "2026-11-25T14:51:32.502261+00:00",
+  "count": 2,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.2 earthquake — 33 km WSW of Pánormos, Greece",
-      "magnitude": 4.2,
-      "time": "2026-11-22T23:42:49.074000+00:00",
-      "location": "33 km WSW of Pánormos, Greece",
-      "latitude": 36.86,
-      "longitude": 26.5913,
+      "title": "M4.7 earthquake — 18 km ESE of Güvercinlik, Turkey",
+      "magnitude": 4.7,
+      "time": "2026-11-24T15:39:43.392000+00:00",
+      "location": "18 km ESE of Güvercinlik, Turkey",
+      "latitude": 37.0918,
+      "longitude": 27.779,
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv1"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7z"
+    },
+    {
+      "type": "earthquake",
+      "severity": "medium",
+      "title": "M4.5 earthquake — BAGDAMLARI-MILAS (MUGLA) İlksel",
+      "magnitude": 4.5,
+      "time": "2026-11-24T18:39:42+00:00",
+      "location": "BAGDAMLARI-MILAS (MUGLA) İlksel",
+      "latitude": 37.1317,
+      "longitude": 27.885,
+      "source": "Kandilli",
+      "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
   ]
 }
