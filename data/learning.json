@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T14:51:10.636673+00:00",
-  "count": 59,
+  "last_updated": "2026-11-26T14:16:52.366791+00:00",
+  "count": 50,
   "items": [
     {
       "source": "World Bank",
@@ -235,15 +235,15 @@
     },
     {
       "source": "World Bank",
-      "title": "Guyana - Flood Risk Management Project : Additional Financing",
-      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
+      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
+      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
       "type": "report",
       "description": ""
     },
     {
       "source": "World Bank",
-      "title": "Knowledge Note 1 : Assessing and Communicating Urban Flood Risk",
-      "link": "http://documents.worldbank.org/curated/en/559101582084849743",
+      "title": "Guyana - Flood Risk Management Project : Additional Financing",
+      "link": "http://documents.worldbank.org/curated/en/742461606100422863",
       "type": "report",
       "description": ""
     },
@@ -280,69 +280,6 @@
       "title": "Flood risk in road networks",
       "link": "http://documents.worldbank.org/curated/en/953881468189843526",
       "type": "working paper",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Dominican Republic: Disaster Risk Finance: Progress and Outlook",
-      "link": "https://www.gfdrr.org/en/publication/dominican-republic-disaster-risk-finance-progress-and-outlook",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities: Easy to Read",
-      "link": "https://www.gfdrr.org/en/publication/advisory-report-guidelines-persons-disabilities-easy-read",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Toolkit for first responders",
-      "link": "https://www.gfdrr.org/en/publication/toolkit-first-responders",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders: Easy to Read",
-      "link": "https://www.gfdrr.org/en/publication/advisory-report-guidelines-first-responders-easy-read",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for Persons with Disabilities",
-      "link": "https://www.gfdrr.org/en/publication/advisory-report-guidelines-persons-disabilities",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Toolkit for persons with disabilities",
-      "link": "https://www.gfdrr.org/en/publication/toolkit-persons-disabilities",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Advisory Report: Guidelines for First Responders",
-      "link": "https://www.gfdrr.org/en/publication/advisory-report-guidelines-first-responders",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Recommendations for Preparedness Education in Early Childhood and Primary Schooling in the European Union: Annex B: Country Case Studies",
-      "link": "https://www.gfdrr.org/en/publication/eu-preparedness-education-annex",
-      "type": "report",
-      "description": ""
-    },
-    {
-      "source": "GFDRR",
-      "title": "Toward a Modern Risk and Resilience Data System in Sweden: Diagnostic and Recommendations",
-      "link": "https://www.gfdrr.org/en/publication/toward-modern-risk-and-resilience-data-system-sweden-diagnostic-and-recommendations",
-      "type": "report",
       "description": ""
     },
     {
