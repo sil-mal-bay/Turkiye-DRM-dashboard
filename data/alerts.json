@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-26T14:17:23.565031+00:00",
+  "last_updated": "2026-11-27T14:12:28.244105+00:00",
   "count": 2,
   "alerts": [
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.7 earthquake — 18 km ESE of Güvercinlik, Turkey",
-      "magnitude": 4.7,
-      "time": "2026-11-24T15:39:43.392000+00:00",
-      "location": "18 km ESE of Güvercinlik, Turkey",
-      "latitude": 37.0918,
-      "longitude": 27.779,
+      "title": "M4.1 earthquake — 64 km SSE of Kaş, Turkey",
+      "magnitude": 4.1,
+      "time": "2026-11-26T23:31:07.918000+00:00",
+      "location": "64 km SSE of Kaş, Turkey",
+      "latitude": 35.6479,
+      "longitude": 29.8422,
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7z"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt4"
     },
     {
       "type": "earthquake",
       "severity": "medium",
-      "title": "M4.5 earthquake — BAGDAMLARI-MILAS (MUGLA) İlksel",
-      "magnitude": 4.5,
-      "time": "2026-11-24T18:39:42+00:00",
-      "location": "BAGDAMLARI-MILAS (MUGLA) İlksel",
-      "latitude": 37.1317,
-      "longitude": 27.885,
+      "title": "M4.1 earthquake — ONIKI ADALAR (EGE DENIZI) İlksel",
+      "magnitude": 4.1,
+      "time": "2026-11-27T05:44:09+00:00",
+      "location": "ONIKI ADALAR (EGE DENIZI) İlksel",
+      "latitude": 37.7935,
+      "longitude": 26.4238,
       "source": "Kandilli",
       "url": "http://www.koeri.boun.edu.tr/scripts/lst0.asp"
     }
